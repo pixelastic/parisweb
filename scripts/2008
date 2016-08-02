@@ -1,0 +1,115 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'slugify'
+require 'bundler/setup'
+require_relative '../lib/helper_download'
+require_relative '../lib/helper_extract'
+require_relative '../lib/helper_selector'
+
+class Selector2008
+  include HelperSelector
+
+  def initialize
+    @sessions_filepath = Dir[File.expand_path('./data/2008/sessions*.html')]
+    @authors_filepath = Dir[File.expand_path('./data/2008/authors/*.html')]
+  end
+
+  def description(event)
+    tags = element(event, '.description p')
+    return nil if tags.length < 2
+    tags = tags[1..-1]
+    tags.text.tr("\n", ' ').delete("\r")
+  end
+
+  def authors(event)
+    tags = element(event, '.description p')
+    return nil if tags.length < 2
+    links = element(tags, 'a')
+    authors = []
+    links.each do |link|
+      authors << {
+        name: link.text
+      }
+    end
+    authors
+  end
+
+  def title(event)
+    h3 = element(event, 'h3')
+    element(h3, 'span,abbr').remove
+    h3.text.delete("\t").tr("\n", ' ').split(':')[1..-1].join(':').strip
+  end
+
+  def sessions
+    sessions = []
+    @sessions_filepath.each do |filepath|
+      doc = Nokogiri::HTML(File.open(filepath).read)
+
+      events = element(doc, '#contenu div[id].vevent')
+      events.each do |event|
+        sessions << {
+          year: 2008,
+          title: title(event),
+          description: description(event),
+          authors: authors(event)
+        }
+      end
+    end
+
+    sessions
+
+    sessions.reject do |session|
+      session[:description].nil?
+    end
+  end
+
+  def author_description(author)
+    paras = element(author, '#orateur p')
+    paras.each do |para|
+      text = para.text.delete("\t").delete("\r").tr("\n", ' ').strip
+      return text unless text.empty?
+    end
+    nil
+  end
+
+  def add_authors(sessions)
+    authors = {}
+    @authors_filepath.each do |filepath|
+      doc = Nokogiri::HTML(File.open(filepath).read)
+
+      name = element(doc, '#orateur h2').text
+      picture = attribute(doc, '#orateur p.photo img', 'src')
+      picture = "http://www.paris-web.fr/2008/#{picture}"
+      description = author_description(doc)
+
+      authors[name.slugify] = {
+        name: name,
+        picture: picture,
+        description: description
+      }
+    end
+
+    sessions = sessions.map do |session|
+      session[:authors] = session[:authors].map do |author|
+        matching_author = authors[author[:name].slugify]
+        next if matching_author.nil?
+        matching_author
+      end
+      session
+    end
+
+    sessions.reject(&:nil?)
+  end
+
+  def run
+    content = add_authors(sessions)
+    ap content
+
+    output = HelperPath.record('2008')
+    FileUtils.mkdir_p(File.dirname(output))
+    content = JSON.pretty_generate(content)
+    File.write(output, content)
+  end
+end
+
+Selector2008.new.run

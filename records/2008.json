@@ -1,0 +1,137 @@
+[
+  {
+    "year": 2008,
+    "title": "Ergonomie des interfaces riches",
+    "description": "Les interfaces riches sont-elles une révolution pour l’ergonomie ?Au travers d’exemples basés sur les patterns les plus utilisés, Amélie abordera la question de l’appropriation et des usages, et fera un état des lieux des bonnes pratiques et défauts les plus fréquemment rencontrés.",
+    "authors": [
+      {
+        "name": "Amélie Boucher",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/c2548baf1ad5a7f33bfdfa2a7c641504.png",
+        "description": "Consultante en ergonomie et architecture de l’information"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "title": "Qualité et accessibilité Web : vers l’amélioration continue",
+    "description": "Jusqu’à présent, la qualité et l’accessibilité web ont surtout été traitées sous l’angle du respect des standards. Malheureusement, lorsque cette approche s’applique à des parcs de plusieurs centaines de sites ou des équipes étendues, elle peut rapidement s’avérer irréaliste, voire contre-productive.Au cours de cette conférence, nous montrerons pourquoi les démarches qualité et accessibilité Web, encore trop souvent statiques, doivent rapidement devenir des démarches dynamiques. Leur objectif ne doit pas seulement être la qualité, mais aussi et surtout l’amélioration continue.Nous présenterons différents niveaux de maturité et d’industrialisation dans le secteur Web et comment les producteurs de services en ligne peuvent les franchir. Nous montrerons enfin pourquoi et comment ces démarches d’amélioration continue peuvent devenir de précieux outils d’optimisation et de communication.",
+    "authors": [
+      {
+        "name": "Élie Sloïm",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/15ea46da82df480a285c98b57495af1c.png",
+        "description": "Directeur de Temesis"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "title": "Travailler dans le présent",
+    "description": "Dans cette présentation, Chris Heilmann nous parlera des problèmes liés à l’adoption de standards du web récents, et décrira des façons de contourner ces difficultés. Un exemple simple est le manque de prise en charge native de l’audio et de la vidéo, et les problèmes des implémentations actuelles.La session illustrera concrètement comment régler des problèmes a priori sans solution en les attaquant sous un autre angle.  Il s’agit essentiellement de trouver une façon pragmatique de vendre, implémenter et utiliser les standards plutôt que d’attendre que le marché adopte des technologies dont l’utilisation devrait être d’une évidence complète.",
+    "authors": [
+      {
+        "name": "Christian Heilmann",
+        "picture": "http://www.paris-web.fr/2008/squelettes/img/avatar-orateurs-defaut.png",
+        "description": "Évangéliste Développeurs"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "title": "Accessibilité : des volontaires ?",
+    "description": "Aurélien Levy et Stéphane Deschamps vous proposent de vous mettre en situation de handicap pour vous permettre de mieux comprendre les blocages liés à l’inaccessibilité des sites Web. Nous verrons par la suite comment éliminer simplement les défauts les plus fréquents et améliorer grandement l’accessibilité de vos services.",
+    "authors": [
+      {
+        "name": "Stéphane Deschamps",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/83a3aea6bf092fbb7a1508ccb62b110b.png",
+        "description": "Sherpa du Web chez France Telecom"
+      },
+      {
+        "name": "Aurélien Levy",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/c2b4d26f3c708250403025fb2fa5e75d.png",
+        "description": "Après une formation initiale de graphiste, Aurélien a complété ses connaissances par une formation de concepteur réalisateur multimédia à l’Institut Supérieur des Arts. En janvier 2004, il devient l’un des premiers \"experts Accessiweb en évaluation\". Il est depuis septembre 2008 expert accessibilité pour le compte de la société Temesis."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "title": "Internautes et robots des moteurs de recherche, mais comment font-ils pour s’y retrouver ?",
+    "description": "La conception d’un site Web, axé qualité et rentabilité, passe par l’identification du message de l’entreprise, de la classification de l’information et de son organisation. Comment faire le « bon effort » ?Montrer l’interaction entre le métier d’architecte de l’information et celui de référenceur dans la conception d’un site web centré utilisateur et les impacts sur la rentabilité d’un site Web est l’objectif visé par cette conférence.",
+    "authors": [
+      {
+        "name": "Alix Lassaigne",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/b3d0ee4e3ce5ba686c1397fbab965383.png",
+        "description": "Consultante éditoriale Référencement naturel chez Webformance"
+      },
+      {
+        "name": "Christophe Cotin-Valois",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/4c634d22895ee20883b13cd97f6556af.png",
+        "description": "Directeur du pôle architecture de l’information chez Digitas"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "title": "Internationalisation",
+    "description": " Comme son nom l'indique, le Web se veut mondial. Mais pour remplir cette promesse, l'internationalisation de toutes ses parties constituantes s'impose.  Pas acquise au début, cette internationalisation s'est réalisée petit à petit et est encore en cours.  Nous passerons en revue les progrès accomplis, les chantiers d'aujourd'hui et les perspectives d'avenir.",
+    "authors": [
+      {
+        "name": "François Yergeau",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/2659f3b4b3fb511decb57fe48f6796bf.png",
+        "description": "Expert-conseil principal, Xcential Group LLC"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "title": "La mode se démode, le style jamais",
+    "description": "Après dix années de « Browser Peace », la nouvelle « Browser War » en cours entre Firefox 3, Internet Explorer 8, Opera 9 et Webkit offre enfin de grandes avancées sur les CSS et une harmonisation des implémentations. Nous allons faire le point sur les nouveautés des CSS 3 ainsi que sur les dernières propositions faites au CSS Working Group.",
+    "authors": [
+      {
+        "name": "Daniel Glazman",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/e444a0aa7b9c5050faceeb364abef6de.png",
+        "description": "CEO @ Disruptive Innovations, W3C CSS WG Co-chair"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "title": "Identité 2.0 et Web sémantique",
+    "description": "Nos activités, nos relations, nos contenus, nos envies et finalement notre identité ont migré d’une sphère locale à une portée mondiale grâce au Web. La complexité croissante des relations que nous souhaitons stocker et exprimer en ligne demande une évolution de notre façon de concevoir et d’assurer la pérennité et l’utilité des applications Web.David Larlet discutera des solutions apportées par le Web Sémantique dans le domaine.",
+    "authors": [
+      {
+        "name": "David Larlet",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/d8211aac7326a454eb28d10b0c62730e.png",
+        "description": "Concepteur d’applications Web en freelance"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "title": "IE 8 et les standards du Web",
+    "description": "Dans cette session, Chris Wilson parlera d’Internet Explorer 8 et de ses avancées en termes de conformité aux standards et de prise en charge d’AJAX. Il illustrera aussi les nouvelles possibilités qui s’offrent aux responsables de sites Web.",
+    "authors": [
+      {
+        "name": "Chris Wilson",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/4d5fecc2b526d3d83dd99ac2312c38f0.png",
+        "description": "Chris Wilson est Platform Architect dans l’équipe Internet Explorer de Microsoft et co-président du HTML Working Group au W3C."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "title": "Performance Web côté client",
+    "description": "80% des problèmes de performance Web se situe au niveau des échanges avec le navigateur et sur le navigateur lui-même : échanges réseau, rendu dans le navigateur, organisation des composants dans une page etc. Nous aborderons les principales problématiques et les solutions à mettre en œuvre. Forts de l'expérience de l'équipe performance de Yahoo!, à la fin de cette session vous saurez aborder la question des performances Web du point de vue du visiteur et mettre en œuvre les actions correctrices sur vos sites Web.",
+    "authors": [
+      {
+        "name": "Éric Daspet",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/1d2acdd5545a23d4177a5391ac0f05a7.png",
+        "description": "Entré sur le web avec les première versions du langage PHP, Éric finit par écrire le livre « PHP 5 avancé » aux éditions Eyrolles, en cinquième édition à l'écriture de ces lignes."
+      },
+      {
+        "name": "Nicole Sullivan",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/4b41bd26427db96449c3b2fb358fdd4b.png",
+        "description": "Nicole Sullivan est un Ingénieur Expert en Performance chez Yahoo!. Elle fait partie de  l'équipe qui s'occupe de rechercher des moyens de mesurer et d'améliorer les performance de tous les sites de Yahoo! dans le monde."
+      }
+    ]
+  }
+]
