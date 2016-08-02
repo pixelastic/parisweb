@@ -1,90 +1,134 @@
 [
   {
     "title": "État des lieux",
-    "author": "Tristan Nitot",
+    "authors": [
+      {
+        "name": "Tristan Nitot",
+        "picture": "http://www.paris-web.fr/2006/photos/tristan_nitot.jpg",
+        "description": "Tristan est Président de Mozilla Europe. Sur le Standblog, Tristan a milité très tôt pour les standards, alors que la majorité des gens du métier continuait à croire que les tables étaient une bonne idée. Il est cofondateur d'OpenWeb et répète sans relâche que dans un site conforme, le plus gros du travail est déjà fait pour le rendre accessible."
+      }
+    ],
     "description": "Tristan Nitot résumera la situation du web d'aujourd'hui. Il y parlera des standards Web et de la relation avec les navigateurs Web modernes.  Cette vue d'ensemble de la situation permettra de cerner les tenants et aboutissants de la situation actuelle.",
-    "year": 2006,
-    "author_picture": "http://www.paris-web.fr/2006/photos/tristan_nitot.jpg",
-    "author_description": "Tristan est Président de Mozilla Europe. Sur le Standblog, Tristan a milité très tôt pour les standards, alors que la majorité des gens du métier continuait à croire que les tables étaient une bonne idée. Il est cofondateur d'OpenWeb et répète sans relâche que dans un site conforme, le plus gros du travail est déjà fait pour le rendre accessible."
+    "year": 2006
   },
   {
     "title": "L'accessibilité selon le W3C",
-    "author": "Laurent Denis",
+    "authors": [
+      {
+        "name": "Laurent Denis",
+        "picture": "http://www.paris-web.fr/2006/photos/laurent_denis.jpg",
+        "description": "Co-fondateur d'OpenWeb et praticien de longue date des Standards, Laurent a publié de nombreux articles consacrés au XHTML, aux CSS et à l'accessibilité. En 2005, soucieux d'une démarche prenant plus largement en compte les divers développements actuels du Web, il a élargi sa perpective à la qualité Web dans son ensemble. Il a alors rejoint le projet Opquast de pratiques Qualité des services en ligne, puis la société Temesis dont il est aujourd'hui consultant associé.\n"
+      }
+    ],
     "description": "Laurent Denis nous expliquera ce qu'est l'accessibilité selon le W3C. Elle ne se limite pas à penser son site pour les handicapés, mais se veut une approche indépendante du périphérique d'accès (écran, lecteur d'écran, loupe, périphérique mobile, etc.).",
-    "year": 2006,
-    "author_picture": "http://www.paris-web.fr/2006/photos/laurent_denis.jpg",
-    "author_description": "Co-fondateur d'OpenWeb et praticien de longue date des Standards, Laurent a publié de nombreux articles consacrés au XHTML, aux CSS et à l'accessibilité. En 2005, soucieux d'une démarche prenant plus largement en compte les divers développements actuels du Web, il a élargi sa perpective à la qualité Web dans son ensemble. Il a alors rejoint le projet Opquast de pratiques Qualité des services en ligne, puis la société Temesis dont il est aujourd'hui consultant associé.\n"
+    "year": 2006
   },
   {
     "title": "Passer aux standards dans une grande entreprise",
-    "author": "Jean-Louis Carvès",
+    "authors": [
+      {
+        "name": "Jean-Louis Carvès",
+        "picture": "http://www.paris-web.fr/2006/photos/jeanlouis_carves.jpg",
+        "description": "Jean-Louis, membre du Centre d'Accessibilité IBM pour l'Europe depuis son ouverture à\nParis en 2000, visite les clients, parcourt les conférences françaises et\neuropéennes, témoigne de l'expérience d'IBM en matière de conception de\nsolutions, d'outils et de démarche d'entreprise pour intégrer\nl'accessibilité au coeur de la stratégie."
+      }
+    ],
     "description": "Jean-Louis Carvès nous parlera de la démarche standards/accessibilité de l'Intranet corporate IBM mais aussi, au travers de témoignages, des gains concrets perçus par des clients ayant engagé une telle démarche sur des sites web publics ou privés.",
-    "year": 2006,
-    "author_picture": "http://www.paris-web.fr/2006/photos/jeanlouis_carves.jpg",
-    "author_description": "Jean-Louis, membre du Centre d'Accessibilité IBM pour l'Europe depuis son ouverture à\nParis en 2000, visite les clients, parcourt les conférences françaises et\neuropéennes, témoigne de l'expérience d'IBM en matière de conception de\nsolutions, d'outils et de démarche d'entreprise pour intégrer\nl'accessibilité au coeur de la stratégie."
+    "year": 2006
   },
   {
     "title": "Vendre les standards",
-    "author": "Laurent Gloaguen",
+    "authors": [
+      {
+        "name": "Laurent Gloaguen",
+        "picture": "http://www.paris-web.fr/2006/photos/laurent_gloaguen.jpg",
+        "description": "Laurent est Directeur du pôle Web de l'agence de marketing Cosmic Communication. Lui et son équipe disposent d'une large expérience de production de sites conformes aux standards pour des grands comptes comme pour des PME."
+      }
+    ],
     "description": "Laurent Gloaguen fera partager sa connaissance de la commercialisation de la qualité Web, des arguments qui convainquent les décideurs, des choix techniques à faire dans un contexte de rentabilité, et illustrera les bénéfices des bonnes pratiques avec des exemples concrets.",
-    "year": 2006,
-    "author_picture": "http://www.paris-web.fr/2006/photos/laurent_gloaguen.jpg",
-    "author_description": "Laurent est Directeur du pôle Web de l'agence de marketing Cosmic Communication. Lui et son équipe disposent d'une large expérience de production de sites conformes aux standards pour des grands comptes comme pour des PME."
+    "year": 2006
   },
   {
     "title": "Gérer la qualité Web",
-    "author": "Élie Sloïm",
+    "authors": [
+      {
+        "name": "Élie Sloïm",
+        "picture": "http://www.paris-web.fr/2006/photos/elie_sloim.jpg",
+        "description": "Élie est qualiticien de formation, et a porté ses compétences sur les technologies du web à travers sa société Temesis dont il est le Directeur. Il est aussi à l'initiative du projet Opquast, qui est autant un référentiel qualité qu'un outil d'évaluation, et considère que la qualité du web ne peut se faire sans la conformité ni l'accessibilité."
+      }
+    ],
     "description": "Qu'est-ce la qualité Web ? Pourquoi s'y intéresser ? Quels bénéfices attendre de cette approche ? Élie Sloïm répondra à ces dfférentes questions, et expliquera comment intégrer un processus qualité dans un développement Web. En guise d'illustration, il présentera le référentiel qualité Opquast, des exemples concrets de bonnes pratiques, et fera le point sur l'utilisation de l'outil par ses utilisateurs professionnels.",
-    "year": 2006,
-    "author_picture": "http://www.paris-web.fr/2006/photos/elie_sloim.jpg",
-    "author_description": "Élie est qualiticien de formation, et a porté ses compétences sur les technologies du web à travers sa société Temesis dont il est le Directeur. Il est aussi à l'initiative du projet Opquast, qui est autant un référentiel qualité qu'un outil d'évaluation, et considère que la qualité du web ne peut se faire sans la conformité ni l'accessibilité."
+    "year": 2006
   },
   {
     "title": "1, 2, 3, CSS !",
-    "author": "Pascale Lambert-Charreteur",
+    "authors": [
+      {
+        "name": "Pascale Lambert-Charreteur",
+        "picture": "http://www.paris-web.fr/2006/photos/pascale_lambertcharreteur.jpg",
+        "description": "Enseignante dans l'Académie de Rouen, Pascale est aussi formatrice TICE et webmestre des sites de son lycée et du pôle disciplinaire Math-Sciences de son académie. Par ailleurs, elle est co-fondatrice de la liste de discussion Pompeurs-CSS et fait partie du collectif OpenWeb pour lequel elle rédige des articles sur les CSS.\n"
+      }
+    ],
     "description": "Pascale Lambert-Charreteur fera un bref rappel historique pour montrer que les CSS ont déjà 10 ans et que la méthode est éprouvée. Puis elle détaillera ce que permettent de faire les CSS2 (pourquoi, comment), et ce qu'apporteront les CSS3.",
-    "year": 2006,
-    "author_picture": "http://www.paris-web.fr/2006/photos/pascale_lambertcharreteur.jpg",
-    "author_description": "Enseignante dans l'Académie de Rouen, Pascale est aussi formatrice TICE et webmestre des sites de son lycée et du pôle disciplinaire Math-Sciences de son académie. Par ailleurs, elle est co-fondatrice de la liste de discussion Pompeurs-CSS et fait partie du collectif OpenWeb pour lequel elle rédige des articles sur les CSS.\n"
+    "year": 2006
   },
   {
     "title": "Conception ergonomique universelle et usage du web",
-    "author": "Denis Chêne",
+    "authors": [
+      {
+        "name": "Denis Chêne",
+        "picture": "http://www.paris-web.fr/2006/photos/denis_chene.jpg",
+        "description": "Denis est chercheur en interaction homme-machine. Il a créé un projet de recherche transverse sur l'accessibilité au sein de France Télécom R&D. Les interactions au cur de ses préoccupations de recherche sont le vocal, le visuel, et l'haptique. Il fait partie du réseau EDeAN France dont un des objectifs est d'étendre la logique de conception \"design for all\" au sein de la société française."
+      }
+    ],
     "description": "Denis Chêne expliquera la notion de Design for All et comment cette notion peut s'appliquer au Web.",
-    "year": 2006,
-    "author_picture": "http://www.paris-web.fr/2006/photos/denis_chene.jpg",
-    "author_description": "Denis est chercheur en interaction homme-machine. Il a créé un projet de recherche transverse sur l'accessibilité au sein de France Télécom R&D. Les interactions au cur de ses préoccupations de recherche sont le vocal, le visuel, et l'haptique. Il fait partie du réseau EDeAN France dont un des objectifs est d'étendre la logique de conception \"design for all\" au sein de la société française."
+    "year": 2006
   },
   {
     "title": "Les standards HTML et CSS, des origines à mercredi dernier",
-    "author": "Daniel Glazman",
+    "authors": [
+      {
+        "name": "Daniel Glazman",
+        "picture": "http://www.paris-web.fr/2006/photos/daniel_glazman.jpg",
+        "description": "Daniel rêvait d'être égyptologue puis astronaute. Il s'est passionné pour toutes les choses ayant trait au web depuis plusieurs années et a été contributeur direct sur la rédaction des normes HTML 4 et CSS 2. Il a fondé en 2003 la société Disruptive Innovations spécialisée dans les technologies de Mozilla et les standards du Web, et est l'auteur ou l'éditeur de plusieurs modules de CSS 3."
+      }
+    ],
     "description": "Daniel Glazman racontera la standardisation de deux des standards principaux du Web, HTML et CSS, du début à mercredi dernier, comment i y est venu et pourquoi. Il expliquera comment se passent les décisions, quels sont les enjeux industriels, comment se négocient les avancées et les compromis pour faire évoluer les standards, etc.",
-    "year": 2006,
-    "author_picture": "http://www.paris-web.fr/2006/photos/daniel_glazman.jpg",
-    "author_description": "Daniel rêvait d'être égyptologue puis astronaute. Il s'est passionné pour toutes les choses ayant trait au web depuis plusieurs années et a été contributeur direct sur la rédaction des normes HTML 4 et CSS 2. Il a fondé en 2003 la société Disruptive Innovations spécialisée dans les technologies de Mozilla et les standards du Web, et est l'auteur ou l'éditeur de plusieurs modules de CSS 3."
+    "year": 2006
   },
   {
     "title": "Cas concret : Capgemini",
-    "author": "François Nonnenmacher",
+    "authors": [
+      {
+        "name": "François Nonnenmacher",
+        "picture": "http://www.paris-web.fr/2006/photos/francois_nonnenmacher.jpg",
+        "description": "François est Corporate Webmaster du groupe Capgemini dont il a piloté une transformation d'envergure : passer de sites faits « à l'ancienne » à des sites modernes conformes aux standards web. Il est éditeur du blog padawan.info et auteur du livre Blogueur d'entreprise."
+      }
+    ],
     "description": "François Nonnenmacher nous parlera de l'évolution du groupe Capgemini à travers une transformation d'envergure : comment passer de sites faits « à l'ancienne » à des sites modernes conformes aux standards web ? C'est ce qu'il nous expliquera.",
-    "year": 2006,
-    "author_picture": "http://www.paris-web.fr/2006/photos/francois_nonnenmacher.jpg",
-    "author_description": "François est Corporate Webmaster du groupe Capgemini dont il a piloté une transformation d'envergure : passer de sites faits « à l'ancienne » à des sites modernes conformes aux standards web. Il est éditeur du blog padawan.info et auteur du livre Blogueur d'entreprise."
+    "year": 2006
   },
   {
     "title": "Une conception à l'épreuve du futur",
-    "author": "Denis Boudreau",
+    "authors": [
+      {
+        "name": "Denis Boudreau",
+        "picture": "http://www.paris-web.fr/2006/photos/denis_boudreau.jpg",
+        "description": "Denis a passé plusieurs années sur cybercodeur.net à éclairer les masses avant de décider de monter sa propre société, WebConforme, dont il est le Premier Associé. Il a par ailleurs collaboré à Openweb et fondé W3Québec, association consacrée aux bonnes pratiques liées à la qualité et à l'accessibilité du web."
+      }
+    ],
     "description": "Denis Boudreau parlera de la différence qu'il y a entre une conception de qualité (durable) et une conception à court terme (jetable). Comment vendre un site qui saura encore tenir ses promesses quand un nouveau navigateur sortira ?",
-    "year": 2006,
-    "author_picture": "http://www.paris-web.fr/2006/photos/denis_boudreau.jpg",
-    "author_description": "Denis a passé plusieurs années sur cybercodeur.net à éclairer les masses avant de décider de monter sa propre société, WebConforme, dont il est le Premier Associé. Il a par ailleurs collaboré à Openweb et fondé W3Québec, association consacrée aux bonnes pratiques liées à la qualité et à l'accessibilité du web."
+    "year": 2006
   },
   {
     "title": "Enrichissons nos relations",
-    "author": "Karl Dubost",
+    "authors": [
+      {
+        "name": "Karl Dubost",
+        "picture": "http://www.paris-web.fr/2006/photos/karl_dubost.jpg",
+        "description": "Karl est « Conformance Manager » et responsable de l'activité assurance qualité du W3C. Il est également l'un des éditeurs du QA weblog sur les sujets de l'interopérabilité et de la vulgarisation des technologies du W3C.  Il a traduit un certain nombre de documents officiels du W3C en français. "
+      }
+    ],
     "description": "Partager les données, les assembler, créer de la valeur en réutilisant ce qui est déjà disponible, nous le pratiquons au quotidien. En normalisant les formats de données et nos pratiques professionnelles nous créons un environnement d'échanges riches. De nombreux formats (microformats, XML, RDF) permettent de construire cet écosystème d'interactions des données afin d'enrichir notre expérience quotidienne du Web. Découvrez avec Karl Dubost l'état de l'art dans le domaine du Web sémantique.",
-    "year": 2006,
-    "author_picture": "http://www.paris-web.fr/2006/photos/karl_dubost.jpg",
-    "author_description": "Karl est « Conformance Manager » et responsable de l'activité assurance qualité du W3C. Il est également l'un des éditeurs du QA weblog sur les sujets de l'interopérabilité et de la vulgarisation des technologies du W3C.  Il a traduit un certain nombre de documents officiels du W3C en français. "
+    "year": 2006
   }
 ]

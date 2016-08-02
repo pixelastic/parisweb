@@ -31,14 +31,14 @@ class Selector2006
 
       sessions << {
         title: text,
-        author: author,
+        authors: author,
         description: description,
         year: 2006
       }
     end
 
     sessions.reject! do |session|
-      session[:author].empty?
+      session[:authors].empty?
     end
   end
 
@@ -59,9 +59,12 @@ class Selector2006
     end
 
     sessions.map do |session|
-      matching_author = authors[session[:author]]
-      session[:author_picture] = matching_author[:picture]
-      session[:author_description] = matching_author[:description]
+      matching_author = authors[session[:authors]]
+      session[:authors] = [{
+        name: session[:authors],
+        picture: matching_author[:picture],
+        description: matching_author[:description]
+      }]
       session
     end
   end

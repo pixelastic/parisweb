@@ -1,0 +1,115 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'slugify'
+require 'bundler/setup'
+require_relative '../lib/helper_download'
+require_relative '../lib/helper_extract'
+require_relative '../lib/helper_selector'
+
+class Selector2007
+  include HelperSelector
+
+  def initialize
+    @sessions_filepath = Dir[File.expand_path('./data/2007/sessions*.html')]
+    @authors_filepath = File.expand_path('./data/2007/authors.html')
+  end
+
+  def description_tags(title)
+    para = title.next_element
+    paras = []
+    loop do
+      break if para.name != 'p'
+      element(para, 'a[href^=Presentation]').remove
+      paras << para
+      para = para.next_element
+    end
+    paras
+  end
+
+  def description(title)
+    tags = description_tags(title)
+    description = tags.map(&:text)
+    description.join(' ').tr("\n", '').strip
+  end
+
+  def authors(title)
+    tags = description_tags(title)
+    authors = []
+    tags.each do |tag|
+      links = element(tag, 'a.spip_in')
+      next if links.empty?
+      links.each do |link|
+        authors << link.text
+      end
+    end
+    authors
+  end
+
+  def title(title)
+    title.text.split(': ')[1..-1].join(': ')
+  end
+
+  def sessions
+    sessions = []
+    @sessions_filepath.each do |filepath|
+      doc = Nokogiri::HTML(File.open(filepath).read)
+
+      titles = element(doc, 'h3.spip')
+      titles.each do |title|
+        sessions << {
+          year: 2007,
+          title: title(title),
+          description: description(title),
+          authors: authors(title)
+        }
+      end
+    end
+
+    sessions.reject do |session|
+      session[:authors].empty?
+    end
+  end
+
+  def add_authors(sessions)
+    doc = Nokogiri::HTML(File.open(@authors_filepath).read)
+    authors = {}
+
+    vcards = element(doc, '.trombinoscope li')
+    vcards.each do |author|
+      name = element(author, 'h2').text.strip
+      picture = attribute(author, 'h2 img', 'src')
+      picture = "http://www.paris-web.fr/2007/#{picture}"
+      description = element(author, 'p').text
+      authors[name.slugify] = {
+        picture: picture,
+        description: description
+      }
+    end
+
+    sessions = sessions.map do |session|
+      session[:authors] = session[:authors].map do |author|
+        matching_author = authors[author.slugify]
+        next if matching_author.nil?
+        {
+          name: author,
+          picture: matching_author[:picture],
+          description: matching_author[:description]
+        }
+      end
+      session
+    end
+
+    sessions.reject(&:nil?)
+  end
+
+  def run
+    content = add_authors(sessions)
+
+    output = HelperPath.record('2007')
+    FileUtils.mkdir_p(File.dirname(output))
+    content = JSON.pretty_generate(content)
+    File.write(output, content)
+  end
+end
+
+Selector2007.new.run

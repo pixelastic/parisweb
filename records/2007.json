@@ -1,0 +1,149 @@
+[
+  {
+    "year": 2007,
+    "title": "Les enjeux de la production web",
+    "description": "Samuel Latchman nous présentera son expérience dans la réalisation de contenus web et l’organisation du travail. Après un bref aperçu des métiers, des délais et des contraintes, nous aborderons la standardisation des méthodes de travail et des compétences. Avec des études de cas concrets et des exemples, nous verrons quelles techniques jouent sur la qualité finale.",
+    "authors": [
+      {
+        "name": "Samuel Latchman",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton29-dca26.jpg",
+        "description": "Directeur de production chez MRM Worldwide"
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "title": "Utilisateurs et décideurs : à hue et à dia !",
+    "description": "Myriam Lorant montrera les différences de points de vue entre les utilisateurs et les décideurs à l’origine de la demande. Joindre les deux est un travail à plein temps. Myriam nous donnera des pistes de réflexions ainsi que des solutions concrètes.",
+    "authors": [
+      {
+        "name": "Myriam Lorant",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton34-20c20.jpg",
+        "description": "Conceptrice multimédia freelance"
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "title": "Et maintenant, qu’est-ce qu’on met dedans ?",
+    "description": "Michèle Pedinielli élargira la problématique pour parler des contenus eux-mêmes. \"Du contenu\". Certes. Mais pour qui ? Pour quoi faire ? A quelles conditions ce contenu devient de l’information utile et utilisée ? Quelques questions et quelques pistes de réponses autour de la place de l’éditorial dans un site web.",
+    "authors": [
+      {
+        "name": "Michèle Pedinielli",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton35-25fa0.jpg",
+        "description": "Conceptrice éditoriale chez SDC Conseil et édition et formatrice à l’EMI-CFD"
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "title": "Le référentiel général d’accessibilité des administrations",
+    "description": "Dans une première partie, Pascal Souhard nous donnera un aperçu global du référentiel et de sa mise en œuvre vu de l’intérieur. Dans une seconde partie, Elie Sloïm (remplaçant Laurent Denis) et Aurélien Levy nous montreront le RGAA d’un point de vue technique : ses implications et comment s’y conformer.",
+    "authors": [
+      {
+        "name": "Pascal Souhard",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton36-461c2.jpg",
+        "description": "Chef de la mission RGI à la Direction Générale de la Modernisation de l’Etat"
+      },
+      {
+        "name": "Elie Sloïm",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton51-4395c.jpg",
+        "description": "Directeur de Temesis"
+      },
+      {
+        "name": "Laurent Denis",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton32-0a3df.jpg",
+        "description": "Consultant associé de Temesis"
+      },
+      {
+        "name": "Aurélien Levy",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton37-2704b.jpg",
+        "description": "Expert conception Web et accessibilité chez Tektonika"
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "title": "Accessibilité des vidéos et des sous-titres",
+    "description": "Jean Louis Carvès intervient pour présenter l’état de l’art sur l’accessibilité vidéo. Nous y aborderons la question des sous-titres, leur inclusion, et les résultats obtenus.",
+    "authors": [
+      {
+        "name": "Jean Louis Carvès",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton38-c37f3.jpg",
+        "description": "Responsable Marketing du Human Centric Solutions Center IBM"
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "title": "Futur du HTML, où en est-on ?",
+    "description": "Pour clôturer la journée, Daniel Glazman finira sur HTML, le langage utilisé pour développer toutes nos pages web. Ce langage est en pleine effervescence et une cinquième version est en cours d’élaboration.",
+    "authors": [
+      {
+        "name": "Daniel Glazman",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton31-0463e.jpg",
+        "description": "Directeur de Disruptive Innovations"
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "title": "Accessibilité des contenus PDF et Flash",
+    "description": "Jugé à tort ou à raison comme le nec plus ultra des formatsdynamiques, Flash impose depuis toujours d’importants problèmesfonctionnels aux personnes handicapées. Les promesses de Macromedia(Adobe) laissent croire que cette sombre époque est enfin révolue. L’un des formats les plus populaires sur le Web après HTML, PDF a très mauvaise réputation  auprès des internautes ayant des limitations fonctionnelles. Ses détracteurs racontent même que les efforts déployés par Adobe depuis des années pour améliorer l’accessibilité du format ne portent pas leurs fruits. Qu’en est-il vraiment ? Denis Boudreau nous présentera l’état de l’art sur ces technologies et un récapitulatif concernant leur accessibilité réelle.",
+    "authors": [
+      {
+        "name": "Denis Boudreau",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton30-02819.jpg",
+        "description": "Directeur de WebConforme"
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "title": "Multilinguisme web et problématiques associées",
+    "description": "Le Web nous débarrasse de l’espace et des frontières géographiques. On se retrouve en contact avec des personnes provenant des quatre coins de la planète, et en pratique, les frontières les plus fortes sontlinguistiques. Stephanie Booth nous montrera où le web nous met des bâtons dans les roues et comment prendre en compte les problèmes qui ne manquent jamais de survenir.",
+    "authors": [
+      {
+        "name": "Stephanie Booth",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton39-a2ad4.jpg",
+        "description": "Consultante sur les blogs et l’internet social"
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "title": "AJAX et accessibilité",
+    "description": "AJAX tend à devenir une des technologies incontournables des applications web. Son utilisation pose pourtant de sérieuses questions d’ergonomie et d’accessibilité. Michel Hoël nous fera un résumé et partagera son expérience sur le sujet.",
+    "authors": [
+      {
+        "name": "Michel Hoël",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton40-e7eb5.jpg",
+        "description": "Responsable technique de la Société Urbilog"
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "title": "Successful teams use web standards !",
+    "description": "Chris Heilmann animera la seule conférence en anglais de ces deux jours. Nous y aborderons la mise en œuvre des standards et normes du Web dans les équipes de développement.",
+    "authors": [
+      {
+        "name": "Chris Heilmann",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton41-2e71e.jpg",
+        "description": "Web developper chez Yahoo ! England"
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "title": "Bonnes pratiques du Web mobile",
+    "description": "La dernière conférence se détachera un peu du reste pour nous parler du Web mobile. C’est Dominique Hazaël-Massieux, du W3C, qui nous en présentera les bonnes pratiques et nous introduira à ce type d’accès un peu particulier.",
+    "authors": [
+      {
+        "name": "Dominique Hazaël-Massieux",
+        "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton42-7d070.jpg",
+        "description": "Responsable de l’activité Web Mobile du World wide web consortium"
+      }
+    ]
+  }
+]
