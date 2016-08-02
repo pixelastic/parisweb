@@ -1,0 +1,79 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'bundler/setup'
+require_relative '../lib/helper_download'
+require_relative '../lib/helper_extract'
+require_relative '../lib/helper_selector'
+
+# Custom selector set to get all the record data from the HTML page
+class Selector2006
+  include HelperSelector
+
+  def initialize
+    @sessions_filepath = File.expand_path('./data/2006/sessions.html')
+    @authors_filepath = File.expand_path('./data/2006/authors.html')
+  end
+
+  def sessions
+    doc = Nokogiri::HTML(File.open(@sessions_filepath).read)
+
+    sessions = []
+
+    # Sessions
+    titles = element(doc, 'dt[id]')
+    titles.each do |title|
+      text = title.text
+      text = text.split(': ')[1..-1].join(': ')
+
+      dd = title.next_element
+      author = element(dd, 'a').text
+      description = dd.text.tr("\n", ' ')
+
+      sessions << {
+        title: text,
+        author: author,
+        description: description,
+        year: 2006
+      }
+    end
+
+    sessions.reject! do |session|
+      session[:author].empty?
+    end
+  end
+
+  def add_authors(sessions)
+    doc = Nokogiri::HTML(File.open(@authors_filepath).read)
+    authors = {}
+
+    vcards = element(doc, 'div.vcard')
+    vcards.each do |author|
+      name = element(author, 'h2').text
+      picture = attribute(author, 'img', 'src')
+      picture = "http://www.paris-web.fr/2006/#{picture}"
+      description = element(author, 'p').text
+      authors[name] = {
+        picture: picture,
+        description: description
+      }
+    end
+
+    sessions.map do |session|
+      matching_author = authors[session[:author]]
+      session[:author_picture] = matching_author[:picture]
+      session[:author_description] = matching_author[:description]
+      session
+    end
+  end
+
+  def run
+    content = add_authors(sessions)
+
+    output = HelperPath.record('2006')
+    FileUtils.mkdir_p(File.dirname(output))
+    content = JSON.pretty_generate(content)
+    File.write(output, content)
+  end
+end
+
+Selector2006.new.run
