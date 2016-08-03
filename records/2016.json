@@ -1,0 +1,511 @@
+[
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Web security by design",
+    "description": "Nous allons parler de sécurité... sans se faire peur ni mal à la tête ! Nous allons voir que la sécurité peut être simple et intégrée dans le cycle de vie d'une application. Et avec le nouveau règlement européen relatif à la protection des données personnelles, chacun va devoir démontrer sa capacité à protéger ces données. Nous pensons que c'est une opportunité pour intégrer la sécurité dans cette démarche de conformité et de protection de la vie privée. Nous partagerons quelques retours d'expérience, menant à des principes simples à appliquer et des solutions à utiliser au quotidien pour le développement aussi bien que pour le test... le tout avec le plus d'outils Open Source possibles !",
+    "tags": [
+      "sécurité",
+      "UX",
+      "vie privée"
+    ],
+    "authors": [
+      {
+        "name": "Jérémie Jourdin",
+        "description": "Jérémie a plus de 15 ans d'expérience dans le domaine de la sécurité. Après 12 ans passés à réaliser des audits et des tests d'intrusion, Jérémie est aujourd'hui Directeur Technique chez aDvens.Il est l'architecte du Centre Opérationnel de Sécurité (SOC) d'aDvens et responsable du développement du Firewall Open Source « Vulture ».",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Je%CC%81re%CC%81mie_Jourdin_143-thumb-143x143-608.jpg"
+      },
+      {
+        "name": "Benjamin Leroux",
+        "description": "Benjamin Leroux est manager au sein d'Advens. Il a plus de 12 ans d'expérience dans le domaine de la sécurité et accompagne au quotidien de nombreux RSSI et DSI dans la définition et la mise en œuvre de leur stratégie de sécurité. Il se spécialise dans la définition d'approches sectorielles de la sécurité. Benjamin représente Advens au CESIN, le Club des Experts de la Sécurité de l'Information et du Numérique, ainsi que dans d'autres groupes d'échange autour de la cyber-sécurité. Retrouvez Benjamin sur @ben_lrx.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Benjamin_Leroux_143-thumb-143x143-597.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "The Invisible Interface: Designing the Screenless Experience",
+    "description": "As product designers we are now challenged to design interactions for physical objects; beyond designing for the touch screen, we are now designing for the experience, and the experience becomes the product. But what are these experiences look like? And how will UX play a key role in the Internet of Things?In this presentation you will learn how to think beyond the traditional screen output and consider that technology is all around us. From a screen-based thinking to designing for a world where technology and the experience is core.By focusing on the era of the Internet of Things, speaker Avi itzkovitch will give examples of how we can interact with technology without using any screens, show how human behavior is becoming the interface, highlight how we can interact with screenless devices, introduce the concept of ambient information display and discuss how to design meaningful interactions for the connected world.",
+    "tags": [
+      "design",
+      "IoT",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Avi Itzkovitch",
+        "description": "Avi is a longtime digital design professional with over 15 years of experience, owner of IoT News Network, an independent resource for the Internet of Things. Avi's passion lies in the intersection of the physical and digital worlds and he is often invited to speak about emerging Design and UX trends. Currently, Avi is working as an Independent UX Consultant and is the Founder of UX Salon, an international UX Design conference in Tel-Aviv.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Avi-Itzkovitch-thumb-143x143-590.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Progressive Web Apps : le futur du web arrive",
+    "description": "Une Progressive Web App, c'est un site web responsive dopé aux Service Workers qui commence sa vie dans un onglet via une simple URL et qui termine sur l'écran d'accueil comme une « vraie app ». Ce nouveau concept nous promet un Web avec des notifications push, de la synchro en arrière-plan et un mode hors-ligne. Le débat Natif vs. Web est clairement relancé et au cours de cette session, je vous propose de découvrir pourquoi. Nous aborderons le fonctionnement de base d'un Service Worker, les dix attributs des PWA et nous verrons différentes expérimentations développées par la communauté.",
+    "tags": [
+      "responsive",
+      "web app"
+    ],
+    "authors": [
+      {
+        "name": "Hubert Sablonnière",
+        "description": "Hubert est développeur Web et passionné d'HTML, CSS et JavaScript.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Hubert_Sablonniere_143-thumb-143x143-607.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Leboncoin, les coulisses d'une refonte graphique",
+    "description": "Depuis 10 ans, leboncoin arborait un look simple et désuet. En 2015 le projet de refondre le design des applications et du site -- en rendant ce dernier responsive au passage ! -- est lancé. Après la mise en production de la nouvelle version il y a quelques mois, nous vous proposons de revenir sur le chemin parcouru : nos erreurs, nos galères, nos réussites, et ce que nous avons appris. Au programme : de l'UX, de la technique, un peu d'histoire, des moments de doute et beaucoup de passion.",
+    "tags": [
+      "retour d'expérience",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Jérémie Pereira",
+        "description": "Après un diplôme universitaire d'informatique, et 4 ans passés en tant que développeur web en agence, Jérémie Pereira rejoint l'aventure Leboncoin en 2012, en tant que développeur PHP. En 2015, Jérémie se voit confier la responsabilité du projet de refonte du site. L'objectif étant de moderniser le site web, notamment en rendant ce dernier responsive. Il est alors chargé de la gestion des aspects techniques du projet. Passionné par les technologies du web, il est aujourd'hui lead développeur dans l'équipe front-end.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Je%CC%81re%CC%81mie_Pereira_143-thumb-143x143-609.jpg"
+      },
+      {
+        "name": "Margaux Chenard",
+        "description": "Diplômée d'école de commerce, Margaux Chenard rejoint l'aventure Leboncoin en 2014, en tant que Chef de produit B2C. En 2015, Margaux s'est vue confier la responsabilité du projet de refonte du site. L'objectif étant de moderniser le site web, notamment en rendant ce dernier responsive. Elle est alors chargé de coordonner les aspects produit et UX de ce projet. Elle est aujourd'hui en charge des aspects produit pour les comptes professionnels et particuliers.",
+        "picture": "/img/nophoto.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Getting Physical with the Beacon-Enabled Web",
+    "description": "Are you a web developer who has heard of beacons but hasn't used them because the thought of building a native app makes you hide in a particularly dark corner? Well, hide no more. Previously, you needed to develop a mobile app to interface with beacons, as they primarily broadcast their UUID, which you need to pair with content within the app. With Eddystone, Google's beacon protocol, however, web developers have a completely new and exciting technique to enhance the ways with which people interact with their surroundings. Pairing beacons with a beautiful website lets us experience the world around us in a great new way, bridging the web, mobile, and physical realms. Jen Looper explains how to use your web skills to build innovative sites that answer a beacon's broadcast. Jen will demo a full-featured use case for enhancing a visit to a cultural site that will pick up a beacon signal, open a URL, and unlock both web content and a treasure box installed on location, containing a token for the visitor.",
+    "tags": [
+      "IoT",
+      "mobile"
+    ],
+    "authors": [
+      {
+        "name": "Jen Looper",
+        "description": "Jen Looper est Developer Advocate chez Telerik (Progress), située à Boston, qui travaille depuis plus de 15 ans en tant que développeur web et mobile, spécialisée dans la création d'applications mobiles iOS et Android. Elle est multiculturaliste multilingue qui essaie chaque jour d'apprendre quelque chose de nouveau. Visitez son site internet: http://www.ladeezfirstmedia.com, ou contactez-la sur Twitter @jenlooper.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/jen_looper_143-thumb-143x143-623.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "HTML5.1 + web platform APIs",
+    "description": "The W3C is responsible for some of the oldest and most important web standards, as well as many of the newest and most innovative. In this talk, Léonie Watson will take a lightening look at what's happening in web standards, from the technologies we use every day to the latest APIs. Find out what's new in HTML5.1, and what the future holds for HTML. Get the latest on web notifications with the Push API, speech input/output with the Web Speech API, game interaction with the Gamepad and Vibration APIs, and event handling with Pointer Events and the Pointer Lock API.",
+    "tags": [
+      "développement",
+      "standards"
+    ],
+    "authors": [
+      {
+        "name": "Léonie Watson",
+        "description": "Léonie Watson began using the internet in 1993, turned it into a web design career in 1997, and (despite losing her eyesight along the way) has been enjoying herself thoroughly ever since. Léonie is a Senior Accessibility Engineer with The Paciello Group (TPG) and owner of LJWatson Consulting. Amongst other things she is co-chair of the W3C Web Platform Working Group, and a member of the ARIA and SVG working groups. In her spare time Léonie blogs on tink.uk, writes for Smashing magazine, SitePoint.com and Net magazine. She also loves cooking, dancing and drinking tequila (although not necessarily in that order)!",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Leonie_watson_143-thumb-143x143-625.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Développement artisanal d'un logiciel en 20 itérations",
+    "description": "Retour d'expérience d'un projet de refonte d'une billetterie en ligne sur dix mois.L'enjeu attendu était les performances du back-end pour tenir la charge lors de l'ouverture des ventes. L'enjeu réel a été de maintenir la base de code aussi bien back-end que front-end au fil des itérations. Une équipe composée d'un Tech Lead et de quatre développeurs a réussi à livrer un produit maintenable en plus d'être bien conçu. Après une brève présentation de l'architecture et des technologies utilisées, nous vous présenterons la méthodologie mise en place de l'itération 0 à l'itération 20. Nous vous expliquerons en quoi Software Craftsmanship est une extension naturelle des méthodologies agiles, et ce que les pratiques ont apporté à l'équipe de développement, au métier et à la DSI.",
+    "tags": [
+      "méthodologie",
+      "retour d'expérience"
+    ],
+    "authors": [
+      {
+        "name": "Damien Beaufils",
+        "description": "Damien est développeur depuis 10 ans et membre de la tribu Software Craftsmanship chez OCTO Technology. Convaincu qu'un logiciel bien conçu est nécessaire en plus d'un logiciel fonctionnel, il intervient en tant que Tech Lead chez ses clients, ou en tant que formateur sur les pratiques telles que Test Driven Development.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Damien_Beaufils_143-thumb-143x143-599.jpg"
+      },
+      {
+        "name": "Abel André",
+        "description": "Passionné de développement et agiliste confirmé, Abel intervient dans des projets de delivery agile et transmet les bonnes pratiques promues par la tribu Software Craftsmanship d'OCTO Technology. Convaincu de par son expérience que les réalisations agiles nécessitent avant tout une excellence technique et un fort esprit d'équipe, Abel privilégie les pratiques d'eXtreme Programming chez ses clients.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Abel-Andre-thumb-143x143-585.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "DIY Mobile Usability Testing",
+    "description": "Usability testing is an interaction designer's bread and butter, but applying it to the study of mobile applications and websites brings considerable challenges. Which device should we use for testing? Can we use an emulator? How do we prototype for mobile? Can we just recycle the tasks we use for desktop software tests? Do we test in the lab or in the wild? How do we record screen, fingers and facial expressions? We don't intend to answer all those questions in just one session: that would be madness! We'll focus instead on the last one. Follow us in our quest to set up a mobile usability testing environment on a tight budget. We'll show you how others do it. We'll roam around electronics and professional video stores searching for brackets and webcams. We'll put our DIY skills to the test and waste a lot of silicon trying to build our mobile recording device. We'll scour the Internet for free software, and we'll finish off building the lab and running a usability test in front of your eyes. If we can do it, so can you! You'll come out of this session knowing exactly what you need to do to run and record usability tests with mobile devices.",
+    "tags": [
+      "mobile",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Bernard Tyers",
+        "description": "Bernard Tyers started life as a real \"nerd\": sysadmin first, then telecommunications engineer building 3G networks with Nokia. One day, he realised that the most important part of technology is the people who use it. He quit his job, went back to school, and came out converted into a user researcher.He is now part of the digital team at the UK Home Office.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/06/Bernard-Tyers-thumb-143x143-636.jpeg"
+      },
+      {
+        "name": "Belen Barros Pena",
+        "description": "I have been an interaction designer and user researcher since 2007. In that time, I have done pretty much everything: from websites and web applications to mobile operating systems. But all along I've had a soft spot for the \"democratisation\" of user-centered design techniques. The \"DIY mobile usability testing\" project follows that spirit, and aims to prove that running studies with mobile devices doesn't need to be difficult or expensive, can be done by anybody, and it is a lot of fun.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/06/Belen-Barros-Pena-thumb-143x143-635.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Éco-conception : mon site web au régime",
+    "description": "En 20 ans, le poids des pages web a été multiplié par 115 ! Cette obésité se paye au prix fort, temps en terme d'expérience utilisateur et de budget qu'au niveau des impacts environnementaux. À l'échelle mondiale, on parle désormais d'un 6ème continent numérique pour l'empreinte environnementale de l'Internet. Il faut dire qu'elle est déjà deux fois plus importante que celle de la France ! Heureusement, la démarche d'écoconception permet de dégraisser les sites web et autres services en ligne. Après une courte introduction sur ce qu'est l'éco-conception et pourquoi cette démarche est désormais essentielle, nous étudierons ensemble plusieurs cas d'école et passerons en revue les principales bonnes pratiques à mettre en œuvre, à chaque étape du projet : conception fonctionnelle, conception graphique et ergonomie, architecture technique, développement, hébergement, etc.... Nous ferons également le lien avec les bonnes pratiques de performances web et d'accessibilité. Nous partagerons également avec vous des résultats concrets et quantifiés de missions récentes. Par exemple : comment nous avons divisé par 11 le poids d'une page d'accueil en 5 secondes et sans toucher une seule ligne de code. Cette conférence s'adresse autant aux chefs de projets qu'aux développeurs, concepteurs UX, intégrateurs et autres graphistes.",
+    "tags": [
+      "design",
+      "webperf"
+    ],
+    "authors": [
+      {
+        "name": "Frédéric Bordage",
+        "description": "Frédéric aide de grandes entreprises privées et publiques à éco-concevoir leurs logiciels et notamment leurs sites web et services en ligne. Considéré comme le précurseur du domaine en France, il est l'auteur du livre « éco-conception web : les 115 bonnes pratiques » publié chez Eyrolles et du service en ligne www.ecoindex.fr.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/frederic_bordage_143-thumb-143x143-605.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "CSS et édition WYSIWYG, l'amour vache",
+    "description": "Pour une fois, il ne s'agit pas de canard mais de bovins. En effet, la première remarque qui atteint en général le cerveau quand on tente d'éditer des CSS dans un outil de production Web WYSIWYG est en général « meuuuh ? ». Nous allons vous expliquer en quoi les CSS sont historiquement et techniquement un langage très compliqué à manipuler dans un tel environnement. Nous en profiterons pour jeter un œil sur les nouveautés en cours ou à venir dans les CSS et nous les confronterons à l'UI et l'UX. BlueGriffon sera utilisé pour illustrer le propos mais il ne s'agit aucunement d'une retape sur le produit.",
+    "tags": [
+      "CSS",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Daniel Glazman",
+        "description": "Daniel Glazman (@glazou) a co-présidé le CSS Working Group du World Wide Web Consortium (W3C) de 2008 à fin 2015 et dirige Disruptive Innovations, l'entreprise qui a publié les éditeurs web Nvu et BlueGriffon. Connu tant pour son affection des canards sous toutes leurs formes que pour sa capacité à dormir une heure l'après-midi du second jour de Paris Web, il tente désespérément de faire oublier qu'il écrit des logiciels depuis maintenant 35 ans et des standards du Web depuis 20 ans, ce qui indique tout de même une sérieuse attaque neuronale.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Daniel_Glazman_143-thumb-143x143-601.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "L'audio n'a pas dit son dernier mot",
+    "description": "Souvent délaissé, l'audio pourrait bientôt se relever aux oreilles de tous pour montrer ses véritables atouts. Grâce à la maturité des outils de speech to text, du développement de la reconnaissance vocale, l'audio est proche de se débarrasser de ses handicaps, pour devenir SEO-friendly, concourir à l'accessibilité du web et s'inscrire dans les interactions hommes/machines qui se développent autour de l'Internet des objets. D'autre part, les webradios, les offres de podcast, et les plateformes de streaming se sont installées dans des usages circonscrits depuis une décennie, sans repenser totalement l'expérience qu'elles proposent à leurs publics. Rencontrer le code, les algos et l'UX est un enjeu. Que signifierait « designer l'audio » ? A la fois les contenus, leurs formats, les interfaces, les interactions, les images, les couleurs et les émotions du son ? De l'écoute à la prise de parole, quelle place pour l'utilisateur à l'heure du smart(micro)phone roi, et des outils de production de diffusion audio en mode saas ? La conférence mettra en lumière les pratiques et les innovations émergentes qui tentent de dessiner les contours de la radio et l'audio « orienté web ».",
+    "tags": [
+      "accessibilité",
+      "IoT",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Carine Fillot",
+        "description": "Ado, Carine Fillot découvre la radio des années 90, avec ses libres antennes aux coups de téléphones encore filaires, et rejoint Radio France en 1997 pour la création du Mouv', la radio jeune du groupe. En parallèle, elle se forme aux métiers de l'Internet et du multimédia, et monte la webradio associative Kill the Fm, qui développe webzine, stream musical et offre de podcast. Le projet rassemble des audiophiles et bloggeurs. Elle y forme les participants aux pratiques de la radio (animation, interview, montage, émissions). Après une carrière d'animatrice et de productrice, Carine rejoint en 2012 la direction des Nouveaux Médias de Radio France comme chargée éditoriale de programmes web (longformats, webdocss, vidéos interactives, son 3d) et s'initie à l'agilité web autour du projet de plateforme musicale RF8. En Septembre 2015, Radio France lui confie une mission sur l'innovation ouverte au sein de la direction du Numérique, pour initier des collaborations externes autour de ses enjeux (voiture connectée, iot, innovation sonore, etc). Carine lance sa micro-entreprise TacTacTac.fr, avec une première offre de formation à la radio « orientée web » avec une approche participative et numérique, et quitte Radio France l'été 2016 pour se consacrer à un projet de création d'entreprise autour du son et du web.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Carine-Fillot-thumb-143x143-584.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "L'accessibilité décomplexée - ce qu'elle peut faire pour vous",
+    "description": "Plusieurs années de développement de composants accessibles, ça vous change une personne. Mais plus important, cela change le regard qu'on peut avoir sur l'accessibilité, la façon dont on se sert de l'accessibilité, la manière dont on l'apprend, dont on la transmet et la façon... dont on la vend. Et si on pouvait mieux faire en accessibilité en se posant des questions que l'on n'a pas osé se poser franchement ? Et si on renversait complètement certains points de vue ? Bienvenue de l'autre côté du miroir où, qui sait... chacun devra peut-être s'éloigner du jardin de l'accessibilité pour mieux s'en approcher.",
+    "tags": [
+      "accessibilité",
+      "méthodologie"
+    ],
+    "authors": [
+      {
+        "name": "Nicolas Hoffmann",
+        "description": "Nicolas est développeur front-end et auteur de composants accessibles depuis plusieurs années. Directeur du collectif OpenWeb, conférencier à divers événements comme Paris Web, Accessiday ou Web In Alps, il est également l'auteur du micro-framework CSS Röcssti et de plus d'une cinquantaine d'articles sur divers sujets comme la conception de CSS, Google Analytics, la qualité Web, etc. Son quotidien est de dompter les CSS ainsi que toutes les joyeusetés du front-end par les sabres lasers de l'amélioration progressive et de l'accessibilité, le tout avec un niveau d'exigence qualitatif proche de la très haute horlogerie suisse. Une sorte de Jedi numérique en devenir, mais allez savoir pourquoi, il est surnommé le « suisse-allemand de la qualité web ».",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/nicolas_hoffmann_143-thumb-143x143-624.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Anatomie d'une désintoxication au Web sous surveillance",
+    "description": "La monétisation d'informations personnelles est aujourd'hui le modèle économique dominant sur le Web. À mon grand dam, dans la mesure où je n'aime pas trop que des multinationales non-imposables viennent mettre leur gros nez numérique dans mes petites affaires. Saviez-vous qu'on peut obtenir une bonne approximation de votre QI en analysant la liste de vos derniers « like » et prédir la durée de votre relation de couple à partir de la structure du graphe de vos amis sur Facebook ? Google et ses amis disposent de plus d'informations sur vous que vous ne le croyez. Lesquelles, et comment sont elles utilisées ? Nous valorisons notre intimité. Pourtant, en tant que professionnel·le·s du Web, nous nous rendons complices des GAFAs en leur communiquant -- par incompétence, paresse ou inconscience -- des masses de données sensibles sur « nos » internautes. Comment désintoxiquer nos pages Web des mouchards qui les infestent, et apporter à la vie privée de nos utilisateurs, l'attention qu'elle mérite ?",
+    "tags": [
+      "vie privée"
+    ],
+    "authors": [
+      {
+        "name": "Thibault Jouannic",
+        "description": "A choisi de devenir développeur pour changer le monde sans quitter son fauteuil.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Thibault%20Jouannic-thumb-240x240-492-thumb-143x143-618.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "WCAG.next - where do we go from here?",
+    "description": "The W3C's Web Content Accessibility Guidelines (WCAG) 2.0 were first published on December 11th, 2008, and have become the defacto standard for web accessibility around the planet. The Specification has become an ISO standard, is referenced directly by laws and legislation in numerous countries (while serving as a template for other regional laws), and has become a well known (if sometimes less understood) Specification in the web developer's toolbox today. But December 2008 was a long time ago on the web: the hottest mobile device was the iPhone 3G, HTML5 was still mostly a WHAT WG specification, ARIA was in it's early days of being drafted (with no support anywhere), and the hot browsers of the day were Internet Explorer 6/7 (58.4%) and Firefox 2 (31.1%). Boy, have things changed! And yet, WCAG 2.0 remains WCAG 2.0, and accessibility experts at the W3C recognized that without keeping up with the times, WCAG 2.0 would soon be a dated specification, with gaps and holes, and serious issues left unaddressed. BUT, because WCAG 2.0 has been referenced by laws and legislation around the planet, updating WCAG 2.0 is problematic - the W3C could not change the WCAG specification without stepping on those laws. But there is a plan to move forward! Join Deque System's Principal Accessibility Strategist John Foliot, as he takes us through the history, the hiccups, the dilemmas and decisions as the W3C moves forward in keeping web accessibility requirements, techniques and best practices current, to best service the millions of Persons with Disabilities on the web today. Learn how far we've come in the areas of accessibility on the mobile platform, accessibility for users with low vision, and the amazing progress being made for users with various forms of cognitive disability. John will also provide some insights and future milestones we can all anticipate towards an enhanced web accessibility standard, and the future of WCAG.next.",
+    "tags": [
+      "accessibilité",
+      "standards"
+    ],
+    "authors": [
+      {
+        "name": "John Foliot",
+        "description": "John Foliot is an internationally recognized Web Accessibility Specialist and champion for the cause of web standards and universal accessibility. He has provided consultation services to government agencies, educational institutions and private sector companies since 1998. He has previously provided accessibility consulting to the Government of Canada, and has held accessibility related positions at JPMorgan Chase and Stanford University. His wealth of Digital Accessibility experience and insight enables him to provide stakeholders with applicable, simple and accessible strategies and solutions to everyday challenges in website design. John is currently at Deque Systems Inc., where he is a Principal Accessibility Strategist and official corporate representative for Deque at the W3C. He is an active Contributor to W3C Working Groups for HTML5, the Accessible Platform Architecture, and WCAG and related topics; W3C Community Groups for WAI-Engage, Media/Timed-Text and related topics, and was an invited speaker at the W3C Television on the Web Interest Group. Working within the W3C HTML5 Accessibility Task Force, John was co-facilitator of the Media Sub Group, and has contributed directly to the HTML5 Standard at the W3C.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/john_foliot_143-thumb-143x143-622.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "L'activation de fonctionnalités en production chez BlaBlaCar",
+    "description": "Grâce aux feature flags, vous pouvez tester en prod ! \\o/Grâce aux feature flags, l'effet Capital ne sera plus un problème pour vous (ou presque) ! \\o/ Grâce aux feature flags, finis les bugs en prod ! \\o/ Nous aimons les feature flags et nous saurons vous les faire aimer également ! Que ce soit sur le web ou sur le mobile, comptez sur nous pour décrire comment et pourquoi mettre en place des feature flags partout et tout le temps. Gérer l'activation ou l'impact d'une fonctionnalité en production est un casse tête pour tout le monde. Est-ce qu'une mise en production est nécessaire pour changer une configuration ? Comment gérer le pourcentages des utilisateurs éligibles à une fonctionnalité ? Activer une fonctionnalité en test uniquement pour un lot d'utilisateurs ? Ou alors comment couper une fonctionnalité instable ou trop gourmande en ressources serveur lors d'un pic de trafic ? Nous allons vous montrer comment à BlaBlaCar nous gérons l'activation en direct de nos fonctionnalités ainsi que nos différentes mises en production.",
+    "tags": [
+      "programmation",
+      "retour d'expérience"
+    ],
+    "authors": [
+      {
+        "name": "Benjamin De Bernardi",
+        "description": "Lead Engineer @BlaBlaCar, fan de bermudas & tongs. Chez BlaBlaCar depuis 2014, Benjamin De Bernardi travaille majoritairement sur les problématiques lié à la croissance de BlaBlaCar et plus en détail sur des sujets en lien avec la recherche, le prix et le matching. Amoureux de bière, il passe la plupart de son temps à discuter code/architecture dans des bars après ses heures de travail avec plus ou moins de sérieux en fonction de la qualité du breuvage. Touche à tout technologique, il connecte son appartement à l'internet pendant ses heures perdues, de sa machine à laver qui envoie des push jusqu'au système d'éclairage fait maison.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Benjamin_De_Bernardi143-thumb-143x143-596.jpg"
+      },
+      {
+        "name": "Olivier Dolbeau",
+        "description": "Quand il ne traîne pas dans des salles de concert ou dans un bar à siroter quelques pintes, Olivier prend parfois le temps de se rendre dans les locaux de BlaBlaCar où il bosse comme Architecte web après avoir passé quelques années côté développement. Fan d'ElasticSearch, amoureux de RabbitMQ, il contribue également autant que possible au monde de l'open source. Etant feignant (parmi de nombreuses autres qualités), Olivier aime également automatiser tout ce qui peut l'être, de l'intégration continue à l'installation de serveurs.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Olivier_Dolbeau_143-thumb-143x143-619.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "UX et éthique",
+    "description": "Quand on commence à travailler comme UX designer, on se dit que notre travail qui n'est pas toujours très valorisé, va avoir un impact faible voir nul sur le monde. Avec le temps et l'expérience, notre vision de notre responsabilité change radicalement. Si ne pas prendre en compte les utilisateurs dans les processus de conception peut avoir des effets dévastateurs, qu'en est-il de la responsabilité du concepteur ? Que doit faire l'UX designer fasse à la loi ? Ne vous a-t-on jamais demandé de cacher ces conditions générales de vente que l'utilisateur ne saurait voir ? Que faire quand les contraintes de conception, les injonctions vont visiblement à l'encontre du bien-être de l'utilisateur ? Notre travail a un impact direct sur le comportement de l'utilisateur, sur santé mentale, physique ou financière. Observer les utilisateurs est à la base de l'UX, il faut le faire sans les tromper et ni leur nuire. À partir de cas concrets, nous verrons quelles possibilités s'offrent aux UX Designers et à l'ensemble de la chaîne de conception pour garder un comportement le plus éthique possible !",
+    "tags": [
+      "métier",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Raphaël Yharrassarry",
+        "description": "En tant que freelance, Raphaël Yharrassarry conçoit, depuis le dernier millénaire, des expériences utilisateurs mémorables. Issue d'un cursus en psychologie et en ergonomie, il a complété sa formation par un Master spécialisé en marketing, afin de mieux comprendre les enjeux business. Il réalise des missions de conseils, de conceptions et d'évaluations sur des sujets variés allant des applications professionnelles aux services grand public sur la télévision en passant par le Web ou le design de services. Depuis 2009, il essaye de partager son expérience et ses connaissances sur son bloc-notes. Ce qui l'a amené par la suite à enseigner dans diverses écoles et notamment à superviser une formation en UX Design. Il est aussi président de l'association FLUPA, qui coordonne de nombreux événements autour de l'UX en France et au Luxembourg.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Raphael-Yharrassarry-thumb-143x143-583.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "La blockchain, quand l'individu sert au collectif... malgré lui",
+    "description": "La blockchain est à la mode -- on n'entend parler que de ça --. Et si le nom de blockchain ne vous dit rien, vous avez surement déjà entendu parler de Bitcoin. Les experts prétendent que la blockchain va probablement révolutionner notre société autant que l'internet en son temps. Mais qu'est-ce que c'est vraiment, comment ça marche, et comment peut-on l'utiliser concrètement pour développer, aujourd'hui, des applications ? Est-ce que derrière tout le bruit marketing il y a de vraies applications pratiques, une vraie promesse de changement de société ? Sans langue de bois, avec des exemples concrets et plein de dessins, cette conférence vous aidera à vous décider si vous avez intérêt à investir sur cette technologie dans les années à venir.",
+    "tags": [
+      "développement",
+      "méthodologie",
+      "sécurité"
+    ],
+    "authors": [
+      {
+        "name": "François Zaninotto",
+        "description": "Touche-à-tout du web depuis 18 ans, ancien directeur technique d'eTF1, François Zaninotto dirige actuellement marmelab, un petit atelier d'innovation digitale. Il a collaboré à la création du framework Symfony, maintient plusieurs librairies open-source populaires (dont gremlins.js et Faker), donne de nombreuses conférences, et se passionne pour le Lean Startup, react.js, la datavisualisation, la sécurité et la performance des sits web.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Franc%CC%A7ois%20Zaninotto_143-thumb-143x143-603.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Questionnements sur l'Internet prêt-à-porter",
+    "description": "« On ne va pas ré-inventer la roue ». Combien de projets commencent ainsi, pour se terminer par la production d'un clone du concurrent, ou du dernier site à la mode ? Comment en vouloir à ceux qui prennent ce type de raccourcis ? Comment ne pas être séduits par ces innombrables UI Kits, disponibles gratuitement ou presque, qui semblent être une réponse rêvée à un besoin de design. C'est vrai qu'ils sont rutilants, pétillants, bref irrésistibles. Mais choisirait-on une paire de chaussures en se trompant volontairement de pointure ? Bien que fascinante, l'industrialisation de nos métiers à ce travers : une uniformisation des interfaces et un lissage des expériences. On sait de mieux en mieux produire des dispositifs interactifs propres et bien rangés, efficaces et bien peignés, mais qui sont autant de coquilles vides et interchangeables. Quel rôle le designer a à jouer dans cette bataille ? Nous verrons dans cette conférence comment il peut tenter d'apporter du sens, non seulement aux expériences proposées aux utilisateurs mais aussi à son travail. Pour que ce projet ne soit pas juste le énième.",
+    "tags": [
+      "design",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Amélie Boucher",
+        "description": "Amélie Boucher est experte en UX Design. Elle pratique depuis 12 ans l'expérience utilisateur web et mobile pour des missions variées : e-commerce, éditorial, réseaux sociaux, logiciels et applications métier... Engagée dans la promotion de la discipline en France, elle est l'auteur de trois livres sur le sujet : Ergonomie web, Ergonomie web illustrée et Expérience utilisateur mobile, le tout aux éditions Eyrolles. Elle monte en 2013 un studio de design : L'UX sur le gâteau.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Amelie-Boucher-thumb-143x143-578.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "[Conf Sponsor] Node.js partout",
+    "description": "Depuis sa sortie en 2009, Node.js a émergé doucement... jusqu'à conquérir franchement le monde des gros sites « enterprise » à partir de 2014, au point qu'il est aujourd'hui devenu incontournable. Node.js, c'est pratiquement tout le Fortune 500, nombre des plus gros services en ligne, mais pas seulement : c'est aussi au cœur de la pratique web front, au cœur de la révolution des applications multi-plateformes : desktop, mobile, consoles, robotique, aérospatiale, IoT... Node.js est aussi l'écosystème et la communauté qui connaissent les plus fortes croissances annuelles, et ce depuis plusieurs années continues, avec des chiffres hallucinants. Cette présentation vise à réveiller celles et ceux qui n'ont pas encore Node.js fermement au centre de leur radar technique, et à élargir la perception qu'en ont les autres, laquelle se limite souvent à « serveurs web + npm ». Always bet on JS.",
+    "tags": [
+      "développement"
+    ],
+    "authors": [
+      {
+        "name": "Christophe Porteneuve",
+        "description": "Christophe conçoit des pages web depuis septembre 1995. Après avoir travaillé sur le premier portail JSP en Europe, il dirige la filière INSIA où il y enseigne les nouvelles technologies puis est directeur technique d'une agence web pendant 5 ans. Auteur du best-seller « Bien développer pour le Web 2.0 » chez Eyrolles, il a également écrit la référence « Prototype and script.aculo.us » chez Pragmatic Programmers. Il est aujourd'hui fondateur et directeur technique de Delicious Insights, qui tout en travaillant sur des SaaS B2B à venir conçoit et propose les cycles de formation Git Attitude et JS Attitude.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Christophe%20Porteneuve-thumb-143x143-593.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Le déploiement manuel : non merci, j'essaie d'arrêter !",
+    "description": "Quand on apprend à créer des sites web, on apprend souvent comment déployer son site en FTP.  En agence, on doit travailler avec d'autres personnes et il devient nécessaire de versionner tout le projet et d'automatiser le processus de \"build\". Déployer manuellement en FTP est toujours possible, mais il est facile de faire des erreurs ou de dépendre d'une unique personne : la tâche étant rendue plus complexe par l'industrialisation du projet. Heureusement les outils ont beaucoup évolué et il n'est pas très difficile de nos jours d'automatiser la mise en (pré)production de nos sites ! Nous partirons d'un cas d'exemple : un site statique généré grâce à Jekyll et Grunt, dont le code source est hébergé sur GitLab. On s'intéressera tout d'abord au système de \"continuous integration\" (CI) de GitLab. On verra qu'il est possible de vérifier automatiquement et systématiquement que le processus de \"build\" est fonctionnel. C'est quand même beaucoup mieux qu'une documentation pas mise à jour depuis 6 mois ! Avec GitLab CI, il est très facile d'utiliser Docker pour maîtriser son environnement de \"build\", vous pensez bien qu'on ne se privera pas de le faire ! L'étape suivante est le déploiement en lui-même : Quand le déclencher ? Comment éviter un downtime de notre site ? Que se passe-t-il si la procédure de déploiement échoue ? Nous répondrons à ces questions en présentant deux solutions pour deux usages : \"Deployer\" et \"lftp\". À l'issue de cette conférence, vous saurez comment augmenter la qualité de vos projets web à grands renforts d'automatisation ! Et vous pourrez vous concentrer sur ce qui compte vraiment : faire de belles applications et réagir rapidemment aux retours des clients.",
+    "tags": [
+      "industrialisation",
+      "méthodologie"
+    ],
+    "authors": [
+      {
+        "name": "David Sferruzza",
+        "description": "David Sferruzza est responsable R&D chez Escale, une agence web nantaise innovante, et prépare une thèse doctorale à l'Université de Nantes. Sa formation d'ingénieur généraliste (Icam) et sa passion pour le développement (et notamment la programmation fonctionnelle) lui offrent une double vision qui est bien utile quand il s'agit d'industrialiser des projets web. En ce moment, il aime bien développer en Scala, Haskell et Nix des outils liés de près ou de loin au web.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/David_Sferruzza_143-thumb-143x143-602.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "WebAssembly, la cible de compilation pour le web",
+    "description": "Les navigateurs principaux se sont réunis pour la spécification d'un nouveau standard W3C d'une nouvelle cible de compilation pour le web, WebAssembly. Évolution naturelle d'asm.js, WebAssembly, ou wasm pour les intimes, permet d'exécuter des programmes écrits dans des langages natifs directement au sein d'un navigateur avec des performances élevées et garanties. Qu'est-ce qu'est WebAssembly, concrètement ? À quels besoins son usage répond-il ? Comment interagit-il avec le reste de la Web Platform, en particulier avec JavaScript ? Peut-on l'utiliser dès aujourd'hui et si oui, comment ? S'agit-il de la mort annoncée de JavaScript ? C'est ce à quoi nous essayerons de répondre lors de cette conférence.",
+    "tags": [
+      "développement",
+      "webperf"
+    ],
+    "authors": [
+      {
+        "name": "Benjamin Bouvier",
+        "description": "Benjamin est ingénieur logiciel à Mozilla Corporation, dans l'équipe travaillant sur l'implémentation de JavaScript dans la machine virtuelle de Firefox, Spidermonkey. Récemment, Benjamin a participé à l'implémentation de SIMD.js pour donner la possibilité d'effectuer du calcul parallèle dans le navigateur, a amélioré la vitesse de compilation et d'exécution d'asm.js (le sous-ensemble hautement optimisable de JavaScript) et a participé aux discussions et à l'implémentation de WebAssembly dans Firefox. Sur son temps libre, il apprend le ukulélé et essaie de redonner le contrôle de leurs données aux utilisateurs en implémentant des services libres auto-hébergeables, comme Kresus, une application web de finances personnelles.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Benjamin_Bouvier_143-thumb-143x143-595.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Quand les militaires se prennent au jeu du design sprint",
+    "description": "Retour d'expérience sur la mise en place d'un Design Sprint avec des militaires : comment faciliter la collaboration d'une cinquantaine de participants (utilisateurs, clients et designers) et créer un prototype en 5 jours. La problématique : les militaires appelés à partir en OPération EXtérieure doivent accomplir une série de tâches administratives précédant leur départ. Ces parcours et leur relation avec les différents services s'avèrent très complexes et irritants dans un contexte déjà stressant. Les personnes touchées par cette problématique étant nombreuses, il a été décidé d'organiser un Design Sprint d'une semaine afin de réunir toutes les parties prenantes, et en particulier les militaires issus des 3 armées afin de les faire participer à la conception de leur futur outil, un portail web. Notre rôle en tant que designers (4 UX designers + 1 Directeur Artistique) a été d'animer les différents ateliers de conception, de revoir les parcours utilisateurs avec les militaires et de construire progressivement un prototype sous la forme de wireframes et de maquettes graphiques. Les semaines qui ont suivi ce Design Sprint ont permis d'aboutir à un prototype plus détaillé, la réalisation de l'ensemble des wireframes et d'une planche de composants graphiques qui ont servi de base aux premiers développements. Ce que nous souhaitons illustrer à travers ce retour d'expérience :  Le processus d'un Design Sprint L'approche collaborative avec les utilisateurs et plus largement l'ensemble des parties prenantes (commanditaire, utilisateurs, consultants, designers) L'expérience humaine : la rencontre des militaires et des designers, coupés du monde sur une base de défense pendant 5 jours.",
+    "tags": [
+      "design",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Marie-Amélie Cotillon",
+        "description": "Après 12 ans passés en agence web en tant que Directrice artistique, Marie-Amélie Cotillon est Responsable du Studio de Création chez Backelite depuis 2012.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/06/Marie-Amelie-Cotillon-thumb-143x143-631.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "WWW: World Wide Web, not Wealthy Westerners' Web",
+    "description": "As the population and economies of the West stay static, the developing economies are seeing huge expansion, and a rising youthful population that have grown up with the Web. But there are challenges to web access in Asia and Africa that we need to understand if we want to reach the next 4 billion people with fast, performant sites. Bruce will bring facts and figures from his years living in Asia and from working for Opera (often the only browser that people can use) to show you how to bring your brands to new markets.",
+    "tags": [
+      "webperf"
+    ],
+    "authors": [
+      {
+        "name": "Bruce Lawson",
+        "description": "Bruce is an open web standards advocate for Opera, the European browser. He's previously been tech lead for a large UK legal website, a tarot card reader, guitarist, tutor to a princess and Bollywood movie extra. Follow him at @brucel, read him at brucelawson.co.uk, get him drunk at the bar. Bruce est évangéliste des standards du web ouvert pour Opera, le navigateur européen. Auparavant, il a été chef technique pour un site web juridique Britannique à fort trafic, lecteur de cartes à tarot, guitariste, tuteur d'une princesse et figurant pour des films à Bollywood. Suivez-le sur @brucel, lisez-le sur brucelawson.co.uk, faites-le boire au bar.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Bruce_Lawson_143-thumb-143x143-598.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  }
+]

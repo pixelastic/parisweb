@@ -7,11 +7,11 @@ require_relative '../lib/helper_download'
 require_relative '../lib/helper_extract'
 require_relative '../lib/helper_selector'
 
-class Selector2014
+class Selector2015
   include HelperSelector
 
   def initialize
-    @sessions_filepath = Dir[File.expand_path('./data/2014/sessions/*.php')]
+    @sessions_filepath = Dir[File.expand_path('./data/2015/sessions/*.php')]
   end
 
   def clean_text(text)
@@ -85,7 +85,7 @@ class Selector2014
     @sessions_filepath.each do |filepath|
       doc = Nokogiri::HTML(File.open(filepath).read)
       sessions << {
-        year: 2014,
+        year: 2015,
         type: type(doc),
         title: title(doc),
         description: description(doc),
@@ -109,11 +109,11 @@ class Selector2014
     content = sessions
     ap content
 
-    output = HelperPath.record('2014')
+    output = HelperPath.record('2015')
     FileUtils.mkdir_p(File.dirname(output))
     content = JSON.pretty_generate(content)
     File.write(output, content)
   end
 end
 
-Selector2014.new.run
+Selector2015.new.run

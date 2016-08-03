@@ -59,6 +59,7 @@ class Selector2010
 
   def slides(doc)
     link = element(doc, '.s-talk-talk a[href$=pdf]')
+    link = element(doc, '.s-talk-talk a[title="Le diaporama."]') if link.empty?
     return nil if link.empty?
     link[0].attr('href')
   end
