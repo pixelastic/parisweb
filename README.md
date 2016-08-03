@@ -1,18 +1,14 @@
 # parisweb
 
-Slides
-2007 https://www.paris-web.fr/2007/Presentations-des-intervenants.html#nov_15-enjeux
-2008 https://www.paris-web.fr/2008/telechargements/index.html
-2009 https://www.paris-web.fr/2009/telechargements.html
-2010+, voir le détai de chaque page
+TODO:
+Add slides and videos to 2007
+Slides https://www.paris-web.fr/2007/Presentations-des-intervenants.html#nov_15-enjeux
+Videos http://videos.paris-web.fr/2007/
 
+Add slides and videos to 2008
+https://www.paris-web.fr/2008/telechargements/index.html
+Add workshops to 2008
 
-Videos
-2007 http://videos.paris-web.fr/2007/
-2008 https://www.paris-web.fr/2008/telechargements/index.html
-2009 https://www.paris-web.fr/2009/telechargements.html
-2013 https://vimeo.com/album/2599049
-2014 https://vimeo.com/album/3163197
-2015 https://vimeo.com/album/3598660
-
-
+Add slides and videos to 2009
+https://www.paris-web.fr/2009/telechargements.html
+Add workshops to 2009
