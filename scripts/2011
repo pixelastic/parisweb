@@ -1,0 +1,118 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'slugify'
+require 'uri'
+require 'bundler/setup'
+require_relative '../lib/helper_download'
+require_relative '../lib/helper_extract'
+require_relative '../lib/helper_selector'
+
+class Selector2011
+  include HelperSelector
+
+  def initialize
+    @sessions_filepath = Dir[File.expand_path('./data/2011/sessions/*.php')]
+  end
+
+  def clean_text(text)
+    text.delete("\t").tr("\r", ' ').tr("\n", ' ').strip
+  end
+
+  def title(doc)
+    clean_text(element(doc, 'h1').text)
+  end
+
+  def description(doc)
+    clean_text(element(doc, '.talk-description').text)
+  end
+
+  def type(doc)
+    dds = element(doc, '.s-talk-specs dd a')
+    values = dds.map(&:text)
+    return 'workshop' if values.include?('Atelier')
+    return 'conference' if values.include?('Conférence')
+    nil
+  end
+
+  def tags(doc)
+    list = element(doc, '.s-talk-specs a[rel=tag]')
+    list.map(&:text)
+  end
+
+  def ressources(doc)
+    {
+      video: video(doc),
+      slides: slides(doc)
+    }
+  end
+
+  def video(doc)
+    video_title = element(doc, '#video')
+    return nil if video_title.empty?
+    iframe = video_title[0].next_element
+    return nil if iframe.name != 'iframe'
+    url = iframe.attr('src')
+
+    code = File.basename(URI::parse("https://#{url}").path)
+    "https://www.dailymotion.com/video/#{code}"
+  end
+
+  def slides(doc)
+    link = element(doc, '.s-talk-talk a[href$=pdf]')
+    return nil if link.empty?
+    link[0].attr('href')
+  end
+
+  def authors(doc)
+    authors = []
+    names = element(doc, '.s-talk-speaker h2 a')
+
+    speakers = element(doc, '.s-talk-speaker .s-listContent-item')
+    speakers.each_with_index do |speaker, index|
+      authors << {
+        name: clean_text(names[index].text),
+        description: clean_text(element(speaker, '.speaker-bio').text),
+        picture: attribute(speaker, 'img.speaker-pic', 'src')
+      }
+    end
+
+    authors
+  end
+
+  def sessions
+    sessions = []
+    @sessions_filepath.each do |filepath|
+      doc = Nokogiri::HTML(File.open(filepath).read)
+      sessions << {
+        year: 2011,
+        type: type(doc),
+        title: title(doc),
+        description: description(doc),
+        tags: tags(doc),
+        authors: authors(doc),
+        ressource: ressources(doc)
+      }
+    end
+
+    sessions = sessions.reject do |session|
+      next true if session[:description].nil?
+      next true if session[:authors].empty?
+      next true if session[:type].nil?
+      false
+    end
+
+    sessions
+  end
+
+  def run
+    content = sessions
+    ap content
+
+    output = HelperPath.record('2011')
+    FileUtils.mkdir_p(File.dirname(output))
+    content = JSON.pretty_generate(content)
+    File.write(output, content)
+  end
+end
+
+Selector2011.new.run
