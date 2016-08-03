@@ -4,6 +4,7 @@ Slides
 2007 https://www.paris-web.fr/2007/Presentations-des-intervenants.html#nov_15-enjeux
 2008 https://www.paris-web.fr/2008/telechargements/index.html
 2009 https://www.paris-web.fr/2009/telechargements.html
+2010+, voir le détai de chaque page
 
 
 Videos
