@@ -1,0 +1,811 @@
+[
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Mes projets web se passent toujours bien !",
+    "description": "Trop souvent les projets web virent au chaos. Mal maitrisés, ils deviennent un enfer pour tout le monde : développeurs, clients, chef de projet, etc. Pourtant, il y a plein de petits trucs simples pour éviter ça. Il ne s'agit pas de disserter sur les grandes théories de la gestion de projet mais bien de passer une heure à voir comment, au travers de bonnes pratiques simple à mettre en œuvre, il est possible de vivre au paradis des projets web.",
+    "tags": [
+      "méthodologie",
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Jeremie Patonnier",
+        "description": "15 ans dans la jungle du développement web, présent sur tous les front: design, développement front et back, gestion de projet… Avec son barda de survivant, Jérémie vient discuter des techniques de survie en milieux web hostile. Consultant chez Clever Age et contributeur chez Mozilla, il prend sa casquette de sergent instructeur pour vous sortir de l'enfer des projets web apocalyptiques.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-JeremiePatonnier-thumb-143x143-417.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113939763",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Internet et les TIC, pas très écologiques ?",
+    "description": "Qui n'a jamais reçu un courrier ou un e-mail l'invitant à souscrire à la facturation électronique, en remplacement de la facturation papier ? Fournisseurs d'énergie, opérateurs de téléphonie, banques, assurances… toutes les entreprises vendent ce changement comme une bonne action en faveur de l'environnement. On réduit notre consommation de papier, on réduit les émissions de CO2 pour livrer notre facture jusqu'à notre boîte à lettre… bref, la facture électronique est un miracle écologique !  La facture est l'exemple le plus flagrant, mais c'est l'ensemble de la société qui bascule progressivement vers une dématérialisation massive des contenus. Ce mouvement a donné naissance au cloud - le nuage - une image d'immatérialité absolue presque magique, qui occulte totalement la réalité physique qui se cache derrière : des milliers de serveurs connectés 24 heures sur 24, 7 jours sur 7, consommateurs permanents d'énergie. Mais internet et les TIC, ce ne sont pas que des serveurs. Ce sont aussi nos ordinateurs et tous les périphériques associés ainsi que nos téléphones. Autant d'appareils qu'il faut produire, consommateurs d'énergie pendant leur utilisation et qui terminent très souvent leur vie dans une décharge… bref, un cycle de vie très loin d'être neutre pour l'environnement.",
+    "tags": [
+      "société"
+    ],
+    "authors": [
+      {
+        "name": "Luc Poupard",
+        "description": "Web designer, intégrateur, chef de projet et aspirant qualiticien web, Luc est un touche-à-tout passionné. Quand il découvre Internet dans son adolescence, il s'émerveille instantanément - et continue de s'émerveiller - des possibilités sans commune mesure du web pour découvrir, informer, partager… Soucieux de bien faire les choses, il s'intéresse vite aux problématiques d'accessibilité et de qualité web : il devient Expert Accessiweb en Évaluation en 2010 et rejoint le collectif w3qualité en 2012. Aujourd'hui, il prépare avec un ami un périple de 12 000 km à vélo jusqu'au Cap Nord, avec la volonté de monter un projet le plus respectueux de l'environnement possible. Partageant en ligne leurs expériences, ils souhaitent naturellement que leur site web soit le plus « vert » possible. Pour y parvenir, Luc accumule des données sur l'impact écologique des TIC et ce n'est pas joli à voir… Vous pouvez le suivre sur @klohFR.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Luc%20Poupard-thumb-143x143-418.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113839409",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Applications cartographiques modernes et mobiles",
+    "description": "On utilisera le projet Leaflet pour montrer comme il peut être simple de construire une application web cartographique typique, bâtie autour d'une carte dynamique. On fera en sorte que ce site soit particulièrement adapté au contexte mobile.  On exploitera des données issues d'API open data pour expérimenter sur un cas réel, on utilisera la géolocalisation, et on évoquera des utilisations plus avancées de ces outils.",
+    "tags": [
+      "cartographie",
+      "mobile"
+    ],
+    "authors": [
+      {
+        "name": "Benjamin Becquet",
+        "description": "J'ai attrapé le goût du mariage informatique+géographie à l'occasion d'un projet à la fin de mes études d'ingénieur, en l'an 3 avant Google Maps. Depuis, ça ne m'a pas lâché. Je travaille depuis 2006 chez Mediamobile, diffuseur de services d'information trafic et d'aide à la mobilité routière. J'y suis entre autres responsable des développements web, pour une variété de projets qui partagent un point commun : l'utilisation de cartographies dynamiques de l'information. Également attaché aux projets libres, je contribue à OpenStreetMap et à l'écosystème de Leaflet.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Benjamin%20Becquet-thumb-143x143-412.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Interactions : Animations et interfaces",
+    "description": "La conception d'une interface repose sur un grand nombre de disciplines. Être UX designer demande des compétences en architecture de l'information, ergonomie, ou même en design d'interface. Devoir penser à toutes ces disciplines pour obtenir une bonne expérience utilisateur, peut parfois nous amener à oublier certains détails qui peuvent la rendre meilleure. Je parle ici d'animation.  Ces animations sont la narration de nos interfaces, celles qui vont créer un produit plus riche, plus engageant qui induira un bénéfice émotionnel chez l'utilisateur.   Cependant, d'où vient le concept d'animation ? Pourquoi est-il si important dans nos interfaces ?  Cette présentation a pour but de démontrer comment les animations sont devenues indispensables au quotidien et faire un état des lieux de l'existant.",
+    "tags": [
+      "animation",
+      "design",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Olivia Lor",
+        "description": "Après des études d'arts appliqués et des débuts dans le webdesign, Olivia s'est orientée vers l'UX lors de son master (MICNI) à l'école Gobelins. Aujourd’hui en poste chez Ekino (filiale technique du groupe Fullsix), elle a l’occasion de côtoyer au quotidien les problématiques techniques liées au développement d’interfaces digitales, en complément des problématiques d’expérience utilisateur. Elle travaille beaucoup sur des projets en responsive design pour des grands comptes et utilise à outrance le #Bisou. Vous pouvez la suivre sur @Melle_Tweek.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Olivia-Lor-thumb-143x143-434.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113838905",
+      "slides": "http://www.paris-web.fr/2014/slides/Conf_Paris-Web_Anim-et-interface.pdf"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "UX Blur - L'utilisateur décide dans le brouillard !",
+    "description": "Entre notre magnifique page web et le cerveau de l'utilisateur il y a les yeux !  Deux yeux qui transmettent très rapidement au cerveau une grande image grise et floue, puis, beaucoup plus lentement, des éléments partiels mais nets, précis et en couleur.  Pendant ce temps le cerveau s'impatiente et, pour hâter sa décision, va chercher d'autres informations !  En décortiquant compréhension, émotion et décision de l'utilisateur au cours de ces trois premières secondes nous redécouvrons et expliquons les « bonnes pratiques » des concepteurs d'interfaces à la lumière de l'eXpérience Utilisateur.  Nous abordons cinq aspects du design d'interface au travers d'exemples concrets de psychologie cognitive :   Vision fovéale (comment fonctionne le regard) Importance du contexte et de l'émotion Le \"banner blindness\" (80% des bannières ne sont pas regardées) Les surfaces utiles Les actionnables et la mémoire prédictive",
+    "tags": [
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Yves Koekkoek",
+        "description": "Yves est chercheur et consultant en eXpérience Utilisateur. Il enseigne notamment au Master Communications et Technologie Numérique du CELSA. Fondateur du Labo Internet, il aide les créateurs d'interactions en testant chaque année plusieurs dizaines d'interfaces auprès de centaines d'utilisateurs.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Yves-Koekkoek-thumb-143x143-439.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Les Web Components, oui, mais tout de suite !",
+    "description": "HTML Templates, Shadow DOM, HTML imports, Custom Elements, decorators : derrière ces termes obscurs se cachent les principes fondateurs de la nouvelle génération de composants d'interface. Les Web Components offrent la possibilité d'étendre les possibilités du navigateur en créant vos propres balises HTML. Après une explication et un point sur l'avancée de ces nouvelles spécifications, nous examinerons les librairies permettant dès aujourd'hui de développer des composants, à savoir Polymer, x-tags et Bosonic.",
+    "tags": [
+      "développement"
+    ],
+    "authors": [
+      {
+        "name": "Raphaël Rougeron",
+        "description": "Raphaël Rougeron est responsable R&D au sein du groupe Viareport. Expert des technologies web, ses principaux centres d'intérêts sont aujourd'hui Scala et Javascript. Il est également l'auteur de Bosonic, un toolkit permettant la création de Web Components.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Raphael%20Rougeron-thumb-143x143-421.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Sortons l'intégration d'e-mails de la préhistoire",
+    "description": "L'intégration d'e-mails est un sujet souvent méprisé. Et pour cause, le mauvais support de CSS, les problèmes d'interopérabilité et de respect des standards ont de quoi rendre fou le plus avisé des intégrateurs. Pourtant, les e-mails sont un élément de communication essentiel autour du web, des e-mails publicitaires aux e-mails transactionnels.  Afin de rendre plus tolérable l'intégration d'e-mails, la première étape est de comprendre ce qui marche et ce qui ne marche pas. Des moteurs de rendus d'applications archaïques aux transformations de code opérées par les webmails, en passant par des standards parfois un peu flous, je tenterais d'expliquer et d'illustrer les contraintes de l'intégration d'e-mail.  Ces contraintes imposent de faire du code sale. Et cela contribue à faire stagner le milieu. Nous sommes dans un cercle vicieux, où tant que les intégrateurs continueront à faire du code sale qui fonctionne, les implémentateurs ne changeront rien. Alors comment essayer de faire évoluer les choses et de sortir de cet enfer ?",
+    "tags": [
+      "e-mail",
+      "intégration",
+      "mobile"
+    ],
+    "authors": [
+      {
+        "name": "Rémi Parmentier",
+        "description": "Rémi est intégrateur et co-gérant de sa petite agence web à Tourcoing, dans le Nord. En plus de faire des sites web, il intègre aussi des e-mails parfois. Il aime partager ses humeurs et ses découvertes sur son blog et son compte Twitter. Cette année, il a même lancé un blog dédié à l’intégration d’e-mails.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Remi-Parmentier-thumb-143x143-436.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113839948",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Web Components, the right way",
+    "description": "Web Components, the right way Web Component are to developers what catnip is to cats, or roast beef is to English and Americans. Yes, that exciting, because they're so powerful. But with the power to write your own shiny HTML elements, you lose all the built-in goodies that browsers give you with existing elements. Bruce, un rosbif, and Karl, un bifburger, will show you how to write web components that extend the web platform without losing what's great about it.    Les Web Components, la marche à suivre Les Web Components sont aux développeurs ce que l’herbe à chats est aux chats, ou le roastbeef aux Britanniques.  Oui, ça fait à ce point saliver, parce qu'ils sont énormément puissants.  Mais pouvoir écrire vos propres éléments HTML tout chatoyants a un prix : vous perdez tous les avantages automatiques des éléments natifs fournis par les navigateurs.  Bruce, qui est un rosbif, et Karl, plutôt un burger, vous montreront comment écrire des Web Components qui étendent la plate-forme web sans perdre tout ce qu'elle a déjà de bien.",
+    "tags": [
+      "développement",
+      "intégration"
+    ],
+    "authors": [
+      {
+        "name": "Bruce Lawson",
+        "description": "Bruce is an open web standards advocate for Opera, the European browser. He's previously been tech lead for a large UK legal website, a tarot card reader, guitarist, tutor to a princess and Bollywood movie extra. Follow him at @brucel, read him at brucelawson.co.uk, get him drunk at the bar.  Bruce est évangéliste des standards du web ouvert pour Opera, le navigateur européen. Auparavant, il a été chef technique pour un site web juridique Britannique à fort trafic, lecteur de cartes à tarot, guitariste, tuteur d'une princesse et figurant pour des films à Bollywood. Suivez-le @brucel, lisez-le sur brucelawson.co.uk, faites-le boire au bar.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Bruce-Lawson-thumb-143x143-426.jpg"
+      },
+      {
+        "name": "Karl Groves",
+        "description": "For over 12 years, Karl has dedicated his professional life to helping businesses create structurally sound web experiences that are also a delight to use. He has taught web standards and accessibility best practices to design, development, QA, and product teams from some of the largest E-Commerce and software companies in the world. In his accessibility workshops, Karl leverages the power of universal design and transforms the online experience into a truly interactive engagement, empowering users of all abilities. He is Senior Technical Lead Accessibility Software Consultant & Director of Training at The Paciello Group, a consulting firm which offers professional consulting, technology solutions, and monthly monitoring services to ensure that clients reach all audiences effectively and efficiently while meeting governmental and international standards.     Depuis plus de 12 ans, Karl a dédié sa vie professionnelle à accompagner les entreprises dans la création d'expériences web structurellement bien pensées tout en restant agréables à l'utilisation. Il a donné des cours sur les standards du web et les meilleures pratiques de l'accessibilité aux équipes d'intégration, de développement, de suivi de qualité ou de gestion de produit des sociétés logicielles et e-commerce parmi les plus connues au monde. Au cours de ses ateliers sur l'accessibilité, Karl s'appuie sur la puissance de la conception universelle et transforme une expérience en ligne en une accroche réellement interactive, laisse l'utilisateur prendre le déroulement en charge. Il est consultant senior, responsable technique de l'accessibilité logicielle et directeur de la formation au sein de Paciello Group, une société de conseil qui propose du conseil, des solutions techniques et des services de reportings mensuels pour garantir que ses clients atteignent de manière efficace et efficient les objectifs des standards internationaux et gouvernementaux.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Karl%20Groves-thumb-143x143-446.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113939760",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Petite histoire d’une méthodologie agilement établie",
+    "description": "Plus besoin aujourd'hui de présenter les méthodes agiles qui axent la réussite d'un projet sur des contraintes de communication, d'intégration du client au process de création du projet, de privilégier le développement à la documentation, etc. Cependant, il existe d'innombrables méthodes dites « agiles », d'Extreme Programming à Scrum en passant par Crystal Clear. Ces méthodes ont chacune leurs contraintes, leurs points positifs et négatifs, et les appliquer “from scratch” est un vrai défi pour quiconque veut se lancer.  Pourquoi donc ne pas s'affranchir des contraintes imposées par ces méthodes en n'utilisant que ce qui nous est vraiment utile et surtout de l'adapter aux vrais besoins du client. Il n'existerait donc plus une méthode Agile mais une infinité de méthodes se reposant sur quelques concepts de base qu'il est possible d'adapter à son activité et à l'évolution constante de notre métier : nos client ne sont jamais les mêmes, nos projets ne sont jamais les mêmes.",
+    "tags": [
+      "Agile",
+      "méthodologie"
+    ],
+    "authors": [
+      {
+        "name": "Alexandre Jakubiak",
+        "description": "Chef de projet au sein de l'équipe de développement de GLOBALIS media systems depuis 2013, Alexandre a plus d'une dizaine d'années d'expérience dans le développement PHP et en gestion de projets. Il gère aujourd'hui des projets tant au forfait qu'en TMA, pour différents types de clients du petit au grand compte.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Alexandre-Jakubiak-thumb-143x143-424.jpg"
+      },
+      {
+        "name": "Julien Oger",
+        "description": "Chef de Projet chez GLOBALIS media systems depuis 7 ans, Julien travaille dans le web depuis une dizaine d'années pour de petits et grands comptes (BNP, Saint-Gobain, Fédération Française de couture, SNCF, etc.) sur des sujets aussi divers que de l'assistance MOA, audit organisationnel, gestion de projet au forfait, organisation de TMA.  Julien est également responsable de l'organisation des méthodes de travail dans la société et a participé à l'élaboration d'une méthode de travail adaptée aux besoins de GLOBALIS en empruntant à Scrum, Xtrem programming et Crystal Clear. Vous pouvez le suivre sur @JulienOG",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Julien-Oger-thumb-143x143-431.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113839944",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Responsive Web Design: Clever Tips and Techniques",
+    "description": "Responsive Web Design: Clever Tips and Techniques Responsive Web design challenges Web designers to adapt a new mindset to their design processes as well as techniques they are using in design and code. This talk provides an overview of various practical techniques, tips and tricks that you might want to be aware of when working on a new responsive design project.   Responsive Web Design : bonnes astuces et techniques Le Responsive Web design pousse les web designers à adopter une nouvelle manière d'aborder les processus et techniques de conception qu'ils exploitent dans leurs créations et leur code. Cette conférence offre une vue d'ensemble de nombreuses techniques, astuces et bonnes pratiques que vous souhaiterez certainement connaître lors de votre prochain projet RWD.",
+    "tags": [
+      "RWD"
+    ],
+    "authors": [
+      {
+        "name": "Vitaly Friedman",
+        "description": "Vitaly Friedman aime les beaux contenus et n’abandonne pas facilement. Originaire de Minsk en Biélorussie, il a étudié l’informatique et les maths en Allemagne, se découvrant au passage une passion pour la typographie, l’écriture et le design. Après avoir travaillé comme designer et développeur freelance pendant 6 ans, il a co-fondé Smashing Magazine, l’un des principaux magazines en ligne dédié au design et développement web. Vitaly est auteur, co-auteur et éditeur de tous les Smashing Books. Il travaille actuellement comme rédacteur-en-chef de Smashing Magazine dans la charmante ville de Freiburg, en Allemagne.   Vitaly Friedman loves beautiful content and doesn’t like to give in easily. Originally from Minsk, Belarus, he studied computer science and mathematics in Germany where he has discovered his passion for typography, writing and design. After working as a freelancing designer and developer for 6 years, he co-founded Smashing Magazine, one of the largest online magazines dedicated to Web design and development. Vitaly is writer, co-author and editor of both Smashing Books. He is now working as the editor-in-chief of Smashing Magazine in the lovely city of Germany, Freiburg.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/10/2014-photo-Vitaly-thumb-143x143-450.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113941029",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Votre site web est-il lisible, compréhensible et utilisable par tous ?",
+    "description": "Savez-vous que  les animations et clignotements peuvent rendre un site inutilisable si l'on ne fournit pas de moyen de les arrêter, que votre solution anti-spam, si elle est mal choisie, empêche de nombreuses personnes de s'inscrire à votre infolettre, qu’une personne aveugle peut très bien naviguer sur internet quand les sites sont bien conçus ?  En partant de 10 personas, 10 profils différents, nous observerons à travers des exemples concrets les différentes manières d'utiliser un ordinateur, les difficultés rencontrées par chaque personne, les astuces à mettre en œuvre pour que tout le monde ait accès à la même information.  Ensuite, pour mettre cela en pratique et apprendre à utiliser différents outils de test, vous évaluerez l'accessibilité d'un site web sur base de 15 critères.",
+    "tags": [
+      "accessibilité",
+      "design",
+      "ergonomie"
+    ],
+    "authors": [
+      {
+        "name": "Sophie Schuermans",
+        "description": "Sophie est consultante en accessibilité numérique chez AnySurfer, en Belgique, depuis 2010. Ses activités principales consistent à accompagner les agences web et leurs clients dans la création de sites web accessibles, ainsi que d'auditer des sites existants. Les activités de formation et de sensibilisation occupent également une bonne partie de son emploi du temps, que ce soit pour l'accessibilité des sites web, des documents PDF ou des vidéos.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Sophie-Schuermans-thumb-143x143-437.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Créer un clone de WhatsApp en HTML5",
+    "description": "Peut-on considérer le HTML5 comme une technologie mature pour la réalisation d'applications mobile ?   Qu'en est-il de l'interface graphique ? A-t-on accès aux mêmes APIs internes que les applications natives ? Quels sont les différents outils de développement ? Quid du debugging ? Le code multiplateforme est-il une réalité ou un mythe ?   Pendant ce workshop, j'utiliserai AngularJS, Ionic Framework, Gulp, Cordova et sûrement d'autres outils annexes tel une API de gestion de notifications comme Urban Airship, Parse ou autre.",
+    "tags": [
+      "développement",
+      "mobile"
+    ],
+    "authors": [
+      {
+        "name": "Yacine Rezgui",
+        "description": "Je suis développeur web depuis plusieurs années. Je me suis spécialisé dans le fullstack JavaScript et j'expérimente toutes les nouveautés relatives au HTML5, bases de données orientées document/graph, le cloud hosting dans ses différentes natures. J'ai donné plusieurs talks à des meetups différents à Nice, Paris et Londres. Je suis organisateur du London Phonegap Meetup.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Yacine-Rezgui-thumb-143x143-449.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Lightning talks",
+    "description": "Le thème de cette année : Les 25 ans du web.  Les heureux postulants suivants auront 240 secondes pour développer leur sujet :   Victor Brito : En 25 ans de Web, qu'avez-vous fait des promesses du Web accessible ? Sophie Drouvoy : Le web sort de l’écran ! Coralie Mercier : C'est là qu'est l'os. Tristan Nitot : La décentralisation du Web, un sujet essentiel pour l'avenir de la société. François Nonnenmacher : Bienvenue sur CloudAir. Olivier Nourry : Web design et ébriété. David Rousset : Un casse-brique bling bling mais accessible ? C’est possible ! Raphaël Yharrassarry : Les moines copistes utilisaient ils l'oculométrie ?",
+    "tags": [
+
+    ],
+    "authors": [
+      {
+        "name": "Daniel Glazman",
+        "description": "Daniel Glazman grenouille dans les Standards depuis parait-il le temps des calèches et est à l'origine de l'unité dite de \"trouble-making\" du W3C, le \"glazou\". Il suffit pourtant pour l'amadouer de lui proposer un bon confit de canard... Il a profité d'une journée portes ouvertes du CSS Working Group en 1996 pour y entrer et en est devenu le co-chairman en 2008. Il garde cependant espoir.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Daniel%20Glazman-thumb-143x143-445.png"
+      },
+      {
+        "name": "Robin Berjon",
+        "description": "Robin Berjon est responsable de la norme HTML au W3C et développeur Web, essentiellement en JS. Son projet actuel consiste à rendre les spécifications qui définissent la plateforme Web définissables directement par les développeurs.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Robin-Berjon-thumb-143x143-448.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113939762",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "[Conf Sponsor] La « logiciellisation » du web",
+    "description": "Plus le web et ses technologies évoluent, plus elles commencent à marcher sur les platebandes des logicielles traditionnels:   Les applications web brouille les cartes; Les performances de JavaScript qui rivalisent avec les langages compilés autorisent le portage d'application C/C++ directement dans les navigateurs; Les systèmes d'exploitations aussi sont tout tourneboulé avec d'un coté Windows8 et Linux qui utilisent les langages web et d'un autre coté Firefox OS et Tizen qui sont carrément battis sur les technologies web.   On fera donc un peu le point pour voir comment tout ça fonctionne et change le marché du développement web.",
+    "tags": [
+
+    ],
+    "authors": [
+      {
+        "name": "Jeremie Patonnier",
+        "description": "15 ans dans la jungle du développement web, présent sur tous les front: design, développement front et back, gestion de projet… Avec son barda de survivant, Jérémie vient discuter des techniques de survie en milieux web hostile. Consultant chez Clever Age et contributeur chez Mozilla, il prend sa casquette de sergent instructeur pour vous sortir de l'enfer des projets web apocalyptiques.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-JeremiePatonnier-thumb-143x143-417.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113839415",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Qualité web : l’heure de passer à la caisse",
+    "description": "Dans un projet web lambda, il y a des choses qui ne se passent pas toujours très bien.  Dans beaucoup de projets ces petits défauts, ces coûts de non qualité finissent par coûter très cher. Quels sont-ils ? Combien coûtent-ils ? Comment est-il possible et combien coûte-t'il de les prévenir ?  Et si cette problématique n'était pas uniquement du ressort du gestionnaire ?",
+    "tags": [
+      "méthodologie",
+      "qualité"
+    ],
+    "authors": [
+      {
+        "name": "Élie Sloïm",
+        "description": "Élie Sloïm est Président de la société Temesis, spécialisée sur la qualité et l’accessibilité des sites Internet. Il dirige depuis 2004 le projet Opquast (Open Quality Standards). Le projet Opquast inclut des référentiels (Opquast bonnes pratiques) et des outils de gestion de projet orientés qualité (Opquast Reporting).  Élie Sloïm est consultant, formateur et conférencier. À ce titre, il intervient dans de nombreuses manifestations, entreprises et cursus de formation en France et à l’étranger. Il s’est spécialisé sur la création de référentiels. Il a notamment travaillé sur la production du RGAA, des bonnes pratiques Opquast, et de nombreux autres référentiels publics ou privés.  Auteur de plus d’une centaine d’articles sur la qualité web, il assure la direction actuelle du projet OpenWeb. Il est également l’auteur avec les contributeurs du projet Opquast du memento « Site Web : les bonnes pratiques », publié chez Eyrolles et préfacier des ouvrages « CSS2 » par Raphaël Goetter, « Ergonomie Web » par Amélie Boucher et « Card Sorting » de Gautier Barrère et Eric Mazzone. Vous pouvez le suivre sur @Eliesl.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Elie%20Sloim-thumb-143x143-415.jpg"
+      },
+      {
+        "name": "Nicolas Hoffmann",
+        "description": "Nicolas est développeur front-end depuis une dizaine d'années en web agency en Suisse. Son quotidien est de dompter la créativité de ses graphistes par le truchement des CSS, le tout avec un niveau d'exigence qualitatif proche de l'horlogerie suisse, mais sans faire coucou.   Co-directeur du collectif OpenWeb, il lui arrive de commettre quelques infidélités à ce dernier pour Alsacréations, le Train de 13H37, w3qualité, Opquast, etc. mais il ne s'éloigne jamais longtemps de ce dernier… sauf à la rigueur pour quelques conférences. Vous pouvez le suivre sur @Nico3333fr.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Nicolas-Hoffmann-thumb-143x143-432.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113839946",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Un peu de musique programmation d'ascenseur",
+    "description": "1 minute, 2 minutes, 5 minutes…  Le temps d'attente d'un ascenseur est particulièrement pénible… surtout quand on se rend compte que rien n'est fait pour optimiser leur trajet.  Oh, mais si on s'amusait à comprendre le problème et à expérimenter sa résolution par le biais d'un navigateur web ?  Bienvenue dans http://elevato.rs !",
+    "tags": [
+
+    ],
+    "authors": [
+      {
+        "name": "Thomas Parisot",
+        "description": "Thomas est ingénieur Web à BBC R&D à Londres, Royaume-Uni.  Il passe le plus clair de son temps à écrire du JavaScript, à mettre à disposition son code ou à organiser des évènements mettant en valeur les compétences des individus.  Sinon à part ça, il prend plaisir à marcher pendant des heures, à fragmenter les perceptions à l'aide d'un appareil photo et prend le temps d'apprécier les couleurs et les lumières se frayant un chemin à travers les nuages londoniens.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Thomas%20Parisot-thumb-143x143-422.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Editer du code… avec plaisir !",
+    "description": "Au cours de cet atelier, nous commencerons par identifier les principaux points de blocage de l’édition de code. Les problèmes posés par la souris, les limitations des claviers — qui n’ont pas été prévus pour les développeurs web ! — et comment les contourner au mieux. Nous verrons aussi comment nos habitudes nous empêchent de progresser.  Nous ferons des exercices pour illustrer tout ces problèmes.  Une fois les points de blocage rapidement levés, nous nous concentrerons sur  des exercices d’entraînement quotidien pertinents, avec des fichiers textes, CSS, HTML et JS. Avec des trucs et astuces en bonus.  Nous finirons par des petits concours de vitesse…",
+    "tags": [
+      "développement",
+      "méthodologie"
+    ],
+    "authors": [
+      {
+        "name": "David Boureau",
+        "description": "David Boureau est développeur front dans la société Sfeir. Après plusieurs années dans l’écosystème Java, il ne s’occupe plus que du CSS, HTML et JS depuis 2 ans où il développe des Single Page App, avec parfois des fonctions d’encadrement et de conseil sur la partie test / industrialisation.  Au travail comme au dehors, il apprécie tout qui permet de rendre la vie agréable : l’humain, la vie d’équipe, le partage de connaissance.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-David%20Boureau-thumb-143x143-400.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Les clés pour s'orienter dans un projet libre",
+    "description": "Dans votre métier, vous utilisez énormément de projets libres: jQuery, Symfony, node, grunt, Firefox, MySQL, et j'en passe. Il est sans doute arrivé que vous trouviez un problème, voire que vous le corrigiez dans votre projet, sans envoyer la correction au projet initial faute de savoir comment s'y prendre.  On va voir ça ensemble !  Cet atelier sera divisé en deux parties.  Dans la première partie, nous évoquerons les différentes composantes d'un projet libre, afin que vous puissiez vous orienter dans tout ce jargon. Puis j'aimerais que nous échangions autour de vos expériences de contribution : avez-vous déjà essayé de contribuer, qu'est-ce qui vous a arrêté, etc.",
+    "tags": [
+      "développement"
+    ],
+    "authors": [
+      {
+        "name": "Julien Wajsberg",
+        "description": "Après avoir passé un certain temps à faire des applications Web en Java, Julien Wajsberg travaille à présent chez Mozilla dans l'équipe de Firefox OS. Il est plus particulièrement en charge de l'application de messagerie, entièrement réalisée avec des technologies Web.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Julien%20Wasjberg-thumb-143x143-443.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Code de qualité : ce qu'il faut savoir",
+    "description": "Dans cette session, nous regardons un éventail d'outils et de processus qui vous permettront d'augmenter la qualité du code de votre projet. Et cela sans ralentir le rythme de travail. Ces méthodes de travail sont largement utilisées par de nombreux projets à succès. Nous partagerons aussi nos expériences lors de la mise en place progressive de ces méthodes. Vous pourrez mettre en place l'une de ses pratiques la semaine suivante.  Nous parlerons, entre autres, de revue de code, tests, gestionnaire de versions, gestionnaire de tickets, linter, guide de style, intégration continue, gérer votre dette technique, documentation à la demande, automatisation des tâches récurrentes.",
+    "tags": [
+      "développement",
+      "méthodologie"
+    ],
+    "authors": [
+      {
+        "name": "Julien Wajsberg",
+        "description": "Après avoir passé un certain temps à faire des applications Web en Java, Julien Wajsberg travaille à présent chez Mozilla dans l'équipe de Firefox OS. Il est plus particulièrement en charge de l'application de messagerie, entièrement réalisée avec des technologies Web.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Julien%20Wasjberg-thumb-143x143-443.jpg"
+      },
+      {
+        "name": "Anthony Ricaud",
+        "description": "Développeur, Anthony anime nos discussions sur ##openweb, Twitter (@rik24d) et autres avec passion et humour. Une langue acérée et un cœur tendre en toutes circonstances, il est toujours prompt à aider. Il a participé au code source de WebKit. Il travaille aujourd'hui pour Mozilla sur FirefoxOS, notamment l'application de téléphonie. De temps en temps, il blogue sur http://ricaud.me.  Cette biographie collective a été rédigée en partie via IRC irc://irc.freenode.net/openweb",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Anthony%20Ricaud-thumb-143x143-398.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/114950685",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Frontend Performance Beginner to Expert to Crazy Person",
+    "description": "Frontend Performance Beginner to Expert to Crazy Person The very first requirement of a great user experience is actually getting the bytes of that experience to the user before they they get tired and leave.  In this talk we'll start with the basics and get progressively insane. We'll go over several frontend performance best practices, a few anti-patterns, the reasoning behind the rules, and how they've changed over the years. We'll also look at some great tools to help you.    La performance front-end de débutant, à expert, à fou furieux ! La toute première condition nécessaire à une bonne expérience utilisateur est de pouvoir obtenir les octets de cette expérience avant que l'utilisateur ne se lasse et parte.  Nous débuterons cette conférence avec les bases pour progressivement devenir démentiel. Nous aborderons plusieurs des meilleurs pratiques de la performance front-end, quelques anti-patterns à éviter, le raisonnement derrière les règles, et comment ces dernières ont changé au fil des ans. Nous regarderons d'un peu plus près quelques très bon outils qui peuvent vous aider.",
+    "tags": [
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Philip Tellis",
+        "description": "Philip Tellis is a geek who likes to make the computer do his work for him. As Chief Architect at SOASTA, he analyses the impact of various design decisions on web application performance, scalability and security. He is the lead developer of \"boomerang\" -- a JavaScript based web performance testing tool.  In his spare time, Philip enjoys cycling, reading, cooking and learning spoken languages.  Philip has spoken at several conferences in the past, including FOSS.IN, FREED.IN, Ubuntulive, Linux Symposium, PHP Quebec, ConFoo, FOSDEM, IPC, WebDU, Velocity and JSConf. He also writes for Smashing Magazine, blogs at http://tech.bluesmoon.info/ and is @bluesmoon on twitter.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Philip%20Tellis-thumb-143x143-420.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113939047",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Les outils des designers web : l’ère post-Adobe",
+    "description": "Photoshop et Illustrator sont peut-être des logiciels très puissants mais ils ne sont pas spécifiquement dédiés à la conception graphique de sites web. Quant à Fireworks, bien que spécifique cette fois au web, il n’a jamais réussi à conquérir sa place de marché.  Les métiers du web, eux, ont évolué plus vite que les outils de conception mis à disposition par la Creative Suite. Il était donc normal de voir apparaître une quantité de nouveaux outils sur le marché développés de façon plus artisanale mais toujours par des passionnés. Et la bonne nouvelle, c'est que de nombreux outils atteignent désormais un très bon niveau!",
+    "tags": [
+      "design"
+    ],
+    "authors": [
+      {
+        "name": "Benoit Vrins",
+        "description": "Benoît Vrins conçoit des sites web depuis plus de 10 ans. Ayant suivi de près les tendances et évolutions du web durant toute cette décennie, il aide les personnes, les sociétés et les associations dans le processus de création d’un site web. Il tient le rôle de \"Creative Director\" au sein de l'agence de communication Spade à Bruxelles.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Benoit%20Vrins-thumb-143x143-399.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": "http://www.paris-web.fr/2014/slides/Benoit_Vrins-Outils_ere_post-adobe.pdf"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Node.js démystifié",
+    "description": "Node.js est en train de s'imposer comme un acteur majeur des développements petits et gros, de Grunt à PayPal, de Brunch à Walmart… Pourtant, la France accuse comme toujours un retard significatif sans son adoption de cette technologie pourtant si utile.  Cet atelier vise à vous faire découvrir en douceur Node et son écosystème, en réalisant ensemble les diverses briques « classiques » d'un service web, sans frime ni trauma : serveur web, templating, persistence, authentification, etc.  Avec en bonus du temps réel et quelques tests automatisés.",
+    "tags": [
+      "développement",
+      "JavaScript"
+    ],
+    "authors": [
+      {
+        "name": "Christophe Porteneuve",
+        "description": "Christophe conçoit des pages web depuis septembre 1995. Après avoir travaillé sur le premier portail JSP en Europe, il dirige la filière INSIA où il y enseigne les nouvelles technologies puis est directeur technique d'une agence web pendant 5 ans. Auteur du best-seller « Bien développer pour le Web 2.0 » chez Eyrolles, il a également écrit la référence « Prototype and script.aculo.us » chez Pragmatic Programmers.  Il est aujourd’hui fondateur et directeur technique de Delicious Insights, qui tout en travaillant sur des SaaS B2B à venir conçoit et propose les cycles de formation Git Attitude et JS Attitude. Vous pouvez le suivre sur @porteneuve.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Christophe-Porteneuve-thumb-143x143-427.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Finissons-en ensemble avec le mythe du Responsive web Design lent",
+    "description": "Ils sont deux, ils sont beaux, et ils mettent à genoux les problématiques liées aux webperfs et Responsive web Design.  Faire du RWD, on commence à connaître. Faire de la performance, les bases sont connues et (plutôt) bien documentées. Faire du RWD Performant, on fait ça comment ?  On retrousse ses manches, et on recommence de zéro : montons ensemble un site web à la fois responsif et performant. Techniques, bonnes pratiques, astuces et compromis, vous saurez tout.",
+    "tags": [
+      "RWD"
+    ],
+    "authors": [
+      {
+        "name": "Matthias Dugué",
+        "description": "Matthias Dugué est Dev UI chez Clever Age et éleveur de licornes de combat depuis 1996. Quand il ne s'amuse pas à démonter et à remonter les interfaces de ses clients, il se livre à un culte étrange visant à réinventer le web autour de bières en compagnie de ses compagnons de fortune.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Matthias%20Dugue-thumb-143x143-419.jpg"
+      },
+      {
+        "name": "Nicolas Hoizey",
+        "description": "Nicolas Hoizey est tombé dans le Web aux alentours de 1996, et n’en est jamais ressorti.  Co-fondateur et directeur de l'innovation de Clever Age, qui se positionne en conseil et réalisation sur tous types de projets Web et mobiles, Nicolas intervient en clientèle pour des missions de conseil, direction de projet et expertise, anime de multiples formations destinées aux maitrises d’ouvrage et maitrises d’œuvre, et intervient régulièrement dans des conférences.  S’appuyant sur plus de 15 ans d’expérience du Web, Nicolas prône un usage pragmatique des technologies du Web, appliquant pour cela les bonnes pratiques, techniques et méthodologiques, sur les standards, l'ergonomie et l'accessibilité, la performance, la capitalisation, etc.  Côté front end, la performance Web et le Responsive Web Design font parti de ses sujets de prédilection depuis quelques années.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Nicolas-Hoizey-thumb-143x143-433.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "[Conf Sponsor] JS + toi =",
+    "description": "Si quand on comprend vraiment ses ennemis on ne peut faire autrement que les aimer, alors après ça tu vais aimer JS.  JavaScript, l’un des langages les plus incompris de la planète, en est pourtant devenu le langage n°1… Derrière les trucs surprenants, les quelques verrues, les syntaxes inattendues, doit donc bien se cacher une grosse valeur intrinsèque. Car oui, JS n’est pas Voldemort, mais un vrai Good Guy, c’est juste qu’il a eu une enfance pas facile.  En 30 minutes, Christophe va tenter d’éclaircir trois gros points traditionnels d’incompréhension de JS : le binding (« pourquoi this vaut ça, là ? »), les closures, et les prototypes (héritage compris). Parce qu’en comprenant les choses, on les apprivoise…",
+    "tags": [
+      "développement",
+      "JavaScript"
+    ],
+    "authors": [
+      {
+        "name": "Christophe Porteneuve",
+        "description": "Christophe conçoit des pages web depuis septembre 1995. Après avoir travaillé sur le premier portail JSP en Europe, il dirige la filière INSIA où il y enseigne les nouvelles technologies puis est directeur technique d'une agence web pendant 5 ans. Auteur du best-seller « Bien développer pour le Web 2.0 » chez Eyrolles, il a également écrit la référence « Prototype and script.aculo.us » chez Pragmatic Programmers.  Il est aujourd’hui fondateur et directeur technique de Delicious Insights, qui tout en travaillant sur des SaaS B2B à venir conçoit et propose les cycles de formation Git Attitude et JS Attitude. Vous pouvez le suivre sur @porteneuve.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Christophe-Porteneuve-thumb-143x143-427.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113839414",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Exploring PayPal’s Bootstrap Accessibility Plugin",
+    "description": "Learn what accessibility issues exist in the popular front-end framework Bootstrap, and how to fix them with the PayPal Bootstrap Accessibility Plugin. Several components will be demonstrated including tooltip, modal, and dropdown. Code will be examined thoroughly, including how WAI-ARIA can greatly improve screen reader accessibility. Conventions for keyboard interactions will also covered.  Apprenez quels problèmes d'accessibilité existent dans le framework Bootstrap, et comment les corriger grâce au plugin PayPal Bootstrap Accessibility. De nombreux composants seront passés à la loupe, incluant les info-bulles, les fenêtres modales et les menus déroulants. Le code sera passé en revu, notamment comment WAI-ARIA peut grandement améliorer l'accessibilité pour lecteur d'écran. Des conventions pour l’interaction au clavier seront aussi abordés.",
+    "tags": [
+      "accessibilité"
+    ],
+    "authors": [
+      {
+        "name": "Dennis Lembree",
+        "description": "Mr. Lembree is an experienced web developer who is passionate about the user experience. He works on the accessibility team at PayPal and has previously worked for several start-up companies and also contracted at Google, Ford, and Disney. Mr. Lembree has presented at numerous conferences and webinars including the Annual International Technology and Persons with Disabilities Conference (CSUN) and the HTML5 Developer Conference. His personal projects include EasyChirp.org, an award-winning web-accessible Twitter app, and WebAxe.org, a blog and podcast on web accessibility. He resides in Cupertino, California USA with his wife and two boys.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Dennis-Lembree-thumb-143x143-429.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/114950687",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Things I wish I knew when I started in Digital Accessibility",
+    "description": "Things I wish I knew when I started in Digital Accessibility Knowing first hand how difficult accessibility can be for someone who is new, Billy aims to nurture their passion and boost their confidence by sharing some important lessons he wished he knew when he was starting out.  In the first section a three-part talk, Billy will demonstrate how he managed to introduce accessibility to multiple teams of Project Managers, Developers, Designers, and Clients who were resistant at first by debunking popular misconceptions that accessibility was “too costly”, “too difficult”, or “took too long”. This was not an overnight success story and resulted in many years of “debugging” his strategy.  Section two will focus on how Billy managed to win developers over by making them less “afraid” of accessibility. In this section Billy will share practical coding tips, time saving methodologies, and will demystify the guidelines that often confuse developers. He will also explain design patterns and how to test widgets and plugins to ensure the delivered product is never compromised.  Section three discusses how powerful a resource the accessibility community is and offers advice on how to participate. Billy will talk about how to meet other people in the community, the important role that social media plays, and the importance of attending and/or participating in camps and meet-ups.    Les choses que j'aurais souhaité connaître quand j'ai débuté dans l'accessibilité numérique  Connaissant personnellement au combien difficile l'accessibilité peut être pour les néophytes, Billy a pour but d'encourager leurs passions et booster leurs confiances en partageant d'importantes leçons qu'il aurait souhaité connaître quand il a lui-même débuté.  Dans la première partie de cette présentation qui en contiendra trois, Billy démontrera comment il a réussi à introduire l'accessibilité à de multiples équipes de chefs de projets, développeurs, graphistes et clients qui étaient au début réfractaires, en débusquant les idées fausses selon lesquelles l'accessibilité serait \"trop coûteuse\", \"trop difficile\" ou \"prendrait trop de temps\". Cette success story ne s'est pas construite du jour au lendemain, ce qui a permis Billy de perfectionner sa stratégie d'approche au fil des ans. La deuxième partie sera centrée sur les méthodes qui ont permis à Billy de gagner la confiance des développeurs pour qu'ils aient moins \"peur\" de l'accessibilité. Dans cette partie, Billy partagera des astuces de code, des méthodologies pour gagner du temps et démystifiera les recommandations qui rendent souvent les développeurs perplexes. La troisième et dernière partie abordera la puissante ressource qu'est la communauté de l'accessibilité numérique, et donnera des conseils pour y participer. Billy vous racontera comment rencontrer d'autres personnes de la communauté, le rôle important que les médias sociaux jouent et l'importance d'assister ou de participer à des conférences ou à des meet-ups.",
+    "tags": [
+      "accessibilité",
+      "méthodologie",
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Billy Gregory",
+        "description": "Billy Gregory is an accessibility professional and Sr. Accessibility Engineer with The Paciello Group, a recognized leader in the Digital Accessibility field. As a former front-end developer, Billy can relate to many of the challenges and the apprehension faced by developers who are new to accessibility. He enjoys working with developers of all levels of experience to strengthen their skills and understanding of accessibility. Billy is active in the Accessibility Community as an advocate, practitioner, and public speaker. He co-runs the Toronto Accessibility Camp as well as the monthly Toronto Accessibility and Inclusive Design meet up group.     Billy Gregory est un professionnel de l'accessibilité et Ingénieur Accessibilité Senior au Piacello Group, un des leaders établis de l'accessibilité numérique.  En tant qu'ex-développeur front-end, Billy connaît bien les challenges et l'appréhension que rencontrent les développeurs qui découvrent l'accessibilité.  Il adore travailler avec des développeurs de tous niveaux d'expérience pour renforcer leurs compétences et leur compréhension de l'accessibilité.  Billy est un membre actif de la communauté de l'accessibilité en tant que défenseur, praticien et orateur.  Il co-anime le Toronto Accessibility Camp ainsi que la rencontre mensuelle Toronto Accessibility and Inclusive Design.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-BillyGregory-thumb-143x143-440.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113939759",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Un jeu web accessible avec HTML 5, JavaScript et ARIA",
+    "description": "ARIA permet de rendre accessible une interface riche. Or, quoi de plus riche que l'interface d'un jeu web ? Cet atelier démontrera qu'avec HTML5, JavaScript et ARIA, il est tout à fait possible de développer un jeu web accessible à tous.",
+    "tags": [
+      "accessibilité"
+    ],
+    "authors": [
+      {
+        "name": "Sylvie Duchateau",
+        "description": "Après des études en langues étrangères appliquées anglais-allemand et en science politique, Sylvie Duchateau a travaillé pendant 15 ans au sein de l'Association BrailleNet. Elle a contribué à la rédaction des différentes versions du Référentiel AccessiWeb. Elle a coordonné la traduction française des WCAG, recommandations internationales, norme ISO, du W3C sur les contenus Web, et de l'un de leur documents d'accompagnement. Elle a effectué des sensibilisations, des formations à l'accessibilité numérique et rédigé des guides pour la création de documents accessibles. Depuis 1999, elle participe activement au groupe de travail Education and Outreach de W3C/WAI (www.w3.org/WAI/EO/).Elle est aujourd'hui associée de Access42 (www.access42.net).",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Sylvie%20Duchateau-thumb-143x143-408.jpg"
+      },
+      {
+        "name": "Victor Brito",
+        "description": "Victor Brito est intégrateur HTML / CSS freelance. Expert Accessiweb en évaluation de l'accessibilité des sites Web, il s'implique activement dans l'accessibilité du Web, notamment en faisant partie du groupe d'experts référents intervenant dans la relecture des référentiels Accessiweb et en ayant participé à la relecture des notices AcceDe PDF et AcceDe Web.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Victor%20Brito-thumb-143x143-410.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "[Conf Sponsor] Microsoft — Introduction à TypeScript et retour d'expérience sur le portage de BabylonJS",
+    "description": "TypeScript ou comment goûter à une partie d’ECMAScript 6 le tout de manière typée. Inventé par le créateur de C# et Delphi !  JavaScript est passé d’un jouet utilisé dans une simple page web à de grosses applications en production tournant à la fois sur un serveur et dans le navigateur. Cette croissance exponentielle a rapidement amené son lot de problèmes de par la nature même du langage qui n’avait pas été forcément conçu pour cela au départ. Plusieurs approches différentes ont été étudiées ces dernières années pour palier à ces défauts en passant par de l’outillage à la génération du JS depuis un autre langage totalement différent. TypeScript apporte un angle différent. Il peut travailler de concert avec du JS et ensuite le modifier au fur et à mesure pour le typer. Nous verrons ainsi ensemble une introduction au langage et nous vous présenterons comment nous l’avons utilisé dans notre projet open-source Babylon.JS. Ce sera l’occasion de partager avec vous les bénéfices et éventuels écueils que nous avons rencontrés.  Objectif de l’intervention : Sensibiliser les développeurs web JS à un nouveau langage qui semble avoir d’excellents retours de la communauté en général et qui a le vent en pompe chez les projets web gérés par Microsoft. Cela sera l’occasion de voir que TypeScript permet de générer du JS très propre suivant les guidelines de D. Crockford « The Good Parts » ainsi que de voir que l’on peut plus facilement générer et maintenir de grosses applications web avec.",
+    "tags": [
+      "JavaScript"
+    ],
+    "authors": [
+      {
+        "name": "David Rousset",
+        "description": "David est évangéliste technique chez Microsoft France. Il s’occupe principalement d’HTML5 mais travaille aussi beaucoup sur le portage de jeux pour les stores Windows (via Unity3D ou DirectX). Il adore les standards du Web et les teste sous IE, ce grand malade ! Il est co-auteur du framework open-source babylon.js pour créer des jeux WebGL.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-David%20Rousset-thumb-143x143-444.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113839412",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Les recettes du web multi-écran",
+    "description": "Au fil des années, la taille de nos écrans a beaucoup évolué. Le concept de responsive design nous a poussé à adapter nos applications web à différents facteurs comme la résolution ou la densité de pixels.  Un facteur nous résiste encore : le multi-écran. Répandu d’abord dans le milieu informatique, travailler sur deux écrans est devenu de plus en plus courant dans d'autres domaines. Au bureau ou à la maison, c'est souvent un écran fixe qui vient accompagner un ordinateur portable. Il est temps que nos applications web s’adaptent à ce cas de figure et profitent de cet espace pour mieux nous informer et nous servir.  Au menu de cette session : un peu d’ergonomie, dégustation de plusieurs démos fonctionnelles concrètes et analyse des recettes techniques pour les construire.",
+    "tags": [
+      "développement",
+      "ergonomie",
+      "JavaScript"
+    ],
+    "authors": [
+      {
+        "name": "Hubert Sablonnière",
+        "description": "Hubert Sablonnière est un développeur Web passionné d’HTML, CSS et JavaScript. Depuis 5 ans il intervient chez INEAT Conseil en conseil et développement sur des projets Web (desktop et mobile). Habitué des plateformes Java et PHP, sa spécialité reste le JavaScript. Il donne même des cours dessus à l'ISEN Lille. Quand il lui reste un peu de temps, il bidouille et contribue modestement à quelques projets : Firefox, DZslides… Vous pouvez le suivre sur @hsablonniere.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Hubert%20Sablonniere-thumb-143x143-402.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113839942",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Let's sketch together",
+    "description": "On entend bien souvent parler de collaboration ou de coopération au sein d'organisations ou d'équipes agiles. C'est d'ailleurs l'un des principes du manifeste agile : « les utilisateurs ou leurs représentants et les développeurs doivent travailler ensemble quotidiennement tout au long du projet ».  Si ce principe semble du bon sens, on s'aperçoit qu'il est trop souvent laissé de côté dès qu’il s’agit de questions portant sur l’interface, le design d’information ou la structuration de l’écran.  Cet atelier propose de palier ce manque en facilitant la collaboration des différentes parties prenantes d'un projet autour d'une simple feuille de papier. Si de cet exercice en découle nécessairement un livrable : un croquis ; il possède également de nombreuses vertus cachées qui vont bien au delà de l'aspect visuel.",
+    "tags": [
+      "design"
+    ],
+    "authors": [
+      {
+        "name": "Alvin Berthelot",
+        "description": "Collaborateur d'Ippon Technologies et membre au sein de l’association Agile Nantes, je suis à la recherche d'une \"autre façon de travailler\". Façon, qui saura faire preuve de pragmatisme ayant pour objectif l’efficience collective, mais aussi l’accomplissement personnel.  Pour trouver cela, je ne refuse rien à ma curiosité, j'adore expérimenter, partager et échanger. Qui sait peut être avec vous ?",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Alvin-Berthelot-thumb-143x143-441.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": "http://www.paris-web.fr/2014/slides/Alvin_Berthelot-Let_s_sketch_together.pdf"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Réutiliser son JavaScript côté serveur et côté client",
+    "description": "Avec l’avènement des applications web et l'arrivée de Node.js il est très tentant de vouloir maximiser la réutilisation de son code JavaScript côté serveur et coté client afin d'éviter de dupliquer la logique de son application et de faciliter sa maintenance.  Cet atelier vous présentera la philosophie du JavaScript isomorphique avec ses avantages et inconvénients ainsi que sa mise en œuvre via des solutions existantes comme Browserify, Rendr ou encore React.",
+    "tags": [
+      "JavaScript"
+    ],
+    "authors": [
+      {
+        "name": "Yannick Croissant",
+        "description": "Passionné de développement web et ayant œuvré de nombreuses années en tant qu'intégrateur, il s'intéresse aujourd'hui au développement back-end avec node.js ainsi qu'aux nouvelles architectures des applications web modernes et leurs impacts sur les performances et l'accessibilité.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Yannick%20Croissant-thumb-143x143-423.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Science-fiction & interaction !",
+    "description": "La science-fiction est souvent citée quand l'on veut parler d'innovation en termes d'interaction humain machine. D'un côté, nous avons des films (ou des séries) qui nous prédisent le futur et d'un autre côté les technologies qui évoluent souvent plus rapidement que les prédictions. L'un influençant l'autre.  Ces interfaces, qu'elles soient utilisables ou non, nous enseignent bien des leçons en termes de conception. Il est amusant de regarder comment elles abordent les différents problèmes courants même aujourd'hui, par exemple, pour distinguer les humains, des robots ou identifier une personne.  Au-delà de l'interface, il faut aussi s'intéresser aux usages qui découlent de ces scénarios et voir comment la communication, l'apprentissage ou la médecine évoluent en fonction de ces technologies futuristes ou extraterrestres.  Malgré les limites de l'exercice, peut-on imaginer que ce qui marche pour une certaine audience, fonctionne aussi pour certains utilisateurs ?",
+    "tags": [
+      "culture",
+      "design"
+    ],
+    "authors": [
+      {
+        "name": "Raphaël Yharrassarry",
+        "description": "Issu d’une formation en psychologie et en ergonomie à Paris 5 en 1999, Raphaël Yharrassarry travaille depuis comme ergonome IHM en Freelance. Il a complété cette formation par un Mastère spécialisé en marketing au CNAM, afin de mieux comprendre les enjeux commerciaux.  Il réalise de nombreuses missions de conseils, de conceptions et d'évaluations sur des sujets variés allant des applications professionnelles aux services grand public sur la télévision en passant par le web et les tablettes. Il intervient aussi bien auprès de grands groupes, de PME que d'administrations.  Dans une volonté de formaliser, de partager et d'approfondir ces connaissances, il crée en 2009 un bloc-notes sur l'ergonomie des IHM et l'expérience utilisateur. Vous pouvez le suivre sur @iErgo.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Raphael%20Yharrassarry-thumb-143x143-406.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/114950686",
+      "slides": "http://www.paris-web.fr/2014/slides/Science_fiction_et_interactions.pdf"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "workshop",
+    "title": "Construire ensemble un enseignement du front-end pertinent, pédagogique et pérenne",
+    "description": "Un atelier-débat improvisé à Sud web en mai 2014 a permis de lister quelques pistes sur l’enseignement du développement front-end. Parmi ces pistes, la difficulté de la pédagogie et le manque d’outils sont ressortis. Il s’agit en effet de bien transmettre les principes et les spécificités du média (plus que la technique, peu complexe en définitive) sans lasser, sans assomer, sans braquer ou encore donner l’impression de couper les cheveux en quatre.    Nous vous proposons de concevoir ensemble des fiches pédagogiques qui permettraient :   aux étudiants d’avoir un projet ou un cas concret avec un problème clair à résoudre. à l’enseignant de distiller les grands principes du web petit à petit à travers ces cas concrets, et pas présentés de manière théorique.   Le tout sera mis à la disposition de tous sur GitHub.",
+    "tags": [
+      "développement",
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Delphine Malassingne",
+        "description": "Delphine Malassingne est Responsable qualité chez Ekino. Elle y accompagne les équipes dans la production de livrables de qualité mais aussi dans la façon de produire. Son enthousiasme pour le partage de connaissance l’ont amené en parallèle à participer à des projets communautaires (w3qualité, Opquast Checklists, Paris Web, notamment). Elle essaye en parallèle “d’avoir une vie” en dessinant un peu, en calligraphiant et a même réussi à aligner trois points de couture !",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Delphine%20Malassingne-thumb-143x143-414.jpg"
+      },
+      {
+        "name": "Rémi Parmentier",
+        "description": "Rémi est intégrateur et co-gérant de sa petite agence web à Tourcoing, dans le Nord. En plus de faire des sites web, il intègre aussi des e-mails parfois. Il aime partager ses humeurs et ses découvertes sur son blog et son compte Twitter. Cette année, il a même lancé un blog dédié à l’intégration d’e-mails.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Remi-Parmentier-thumb-143x143-436.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Mutation d’un géant du web vers le Mobile",
+    "description": "Les usages d’aujourd'hui sont en passe de devenir majoritairement mobiles. Leader européen des sites de rencontres, Meetic est un pionner du web français. Historiquement orienté vers le Desktop, l’entreprise se transforme en profondeur pour s’adapter aux nouveaux usages. Je vous propose une immersion au cœur de cette mutation.  On parlera de technologies mobiles, web et natives, et d’architecture orientée services. On verra également comment s'organisent les équipes et ce que les méthodologies Agile et le Lean permettent d’apporter.",
+    "tags": [
+      "développement",
+      "méthodologie",
+      "métier",
+      "mobile"
+    ],
+    "authors": [
+      {
+        "name": "Jean-Loup Yu",
+        "description": "Jean-Loup est un geek, passionné par les technologies et spécialisé dans le Mobile depuis quelques années. Chef de projet chez Meetic, il est responsable des développements des applications mobiles. Après plusieurs années de conseil pour des acteurs majeurs des médias et de l'Internet, il rejoint Meetic pour mettre en oeuvre la stratégie mobile de l'entreprise. Vous pouvez le suivre sur @djelmen.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Jean-Loup%20Yu-thumb-143x143-416.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113839943",
+      "slides": "http://www.paris-web.fr/2014/slides/Meetic-Mobile-final.pdf"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Dark patterns, la contre-attaque du pire",
+    "description": "Dans une galaxie lointaine, d’obscures forces sont à l’œuvre pour créer des stratégies perverses piégeant les internautes.  Nous explorerons en détail et à travers de nombreux exemples ces techniques qui ont pris le nom de « Dark patterns ».  Que ce soit dans l’e-commerce, dans les sites web, dans la publicité, une multitude de méthodes -toutes moins recommandables les unes que les autres- sont élaborées afin d’induire l’utilisateur final en erreur afin de maximiser les profits ou de biaiser les statistiques.  Quelles sont les motivations qui poussent les entreprises à duper leurs utilisateurs ? Quelles sont les conséquences que cela induit ? Que peut faire l’utilisateur pour éviter les pièges et se rebeller contre ces pratiques ?",
+    "tags": [
+      "design",
+      "éthique"
+    ],
+    "authors": [
+      {
+        "name": "Clément Hardoüin",
+        "description": "Tombé dans la marmite de l'informatique puis du web dès ses jeunes années, Clément Hardoüin poursuit naturellement des études en communication à l'ISCOM puis en multimédia aux Gobelins jusqu'en 2002. Depuis, il a évolué à différents postes, de chef de projet touche-à-tout dans une petite agence web à responsable Internet au sein de Juste pour Rire à Montréal. Depuis huit ans, il travaille chez MRM//McCANN Paris, d'abord en gestion de projet pour le compte d'un grand groupe automobile américain puis, de retour dans la technique, au poste de lead développeur front-end. Sa mission : renforcer et animer les équipes pour promouvoir un travail front-end de qualité. Vous pouvez le suivre sur @fastclemmy",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Clement-Hardouin-thumb-143x143-428.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113838903",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Convivialité des interfaces des réseaux sociaux et spécificités culturelles",
+    "description": "Les interfaces des réseaux sociaux et des blogs, appelés aussi dispositifs médiatiques numériques, visent à instaurer une convivialité des interactions entre les internautes. La convivialité intervient à deux niveaux :    dans l’expérience interactionnelle et les usages qu’elle suscite (ex : prise de parole politique, expression par la vidéo, la photo, etc.) ;  dans l’apprentissage itératif des fonctionnalités et de l’interface utilisée.    La notion de convivialité s’envisage ainsi selon deux points de vue dans lesquels les spécificités culturelles jouent un rôle important :     ces dispositifs médiatiques numériques peuvent faciliter la prise de parole pour l’internaute, et offrir la possibilité d’une plus grande liberté d’expression ;  par ailleurs, les normes des interfaces impliquent une standardisation culturelle des usages qui accompagnent les changements des pratiques de communication des internautes.   Des exemples concrets de différentes parties du monde (Océanie, Maghreb, Afrique de l’Ouest et Europe) seront dévoilés grâce à une analyse et des interactions sur le web s'inscrivant dans un champ récent des sciences sociales : l’anthropologie numérique (Digital Anthropology) qui étudie la relation entre l’homme et la technologie numérique.",
+    "tags": [
+      "culture",
+      "ergonomie",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Léonie Marin",
+        "description": "Léonie Marin est docteure en Sciences de l’information et de la communication et sa thèse porte sur les changements des pratiques de communication des kanaks (Nouvelle-Calédonie), des médias écrits aux médias numériques. Plus largement, elle étudie les nouveaux médias et l’appropriation des TIC. Ses séjours en Afrique de l’Ouest, Amérique latine, Europe, Maghreb et Océanie l’ont amenée à préconiser les dimensions culturelles pour analyser les usages des TIC, et à s’intéresser à l’anthropologie numérique (Digital Anthropology). En dehors de la recherche, Léonie exerce la photographie depuis une dizaine d’années et a travaillé à titre de journaliste et dans des agences de communication.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Leonie-Marin-thumb-143x143-447.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113838748",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Responsive Web Typography",
+    "description": "Responsive Web Typography Responsive Web Design done correctly is based upon content rather than actual device resolutions, and so typography should adapt to both layout and sizing across content breakpoints. However, mere font sizing along the typographic scale based upon two-dimensional viewport @media queries is not enough. Apart from setting the correct balance of the black and the white in letterforms and texts, there are other important factors such as reading distance, information density, screen sharpness and device orientation that also influence the reading process. Learn to look at typography multidimensionally and enhance the overall responsive experience.   La typographie dans le Web Responsive L’application correcte du Responsive Web Design (RWD) part du contenu plutôt que des résolutions de périphériques, aussi la typographie devrait s'adapter tant à la disposition qu'aux redimensionnements au travers des points de bascule du contenu. Toutefois, se limiter à modifier la taille de fonte en fonction des dimensions du viewport à l'aide des Media Queries n'est pas suffisant. Il importe non seulement de trouver le bon équilibre entre noir et blanc dans les formes lettrées et contenus textuels, mais aussi d'examiner d'autres facteurs importants tels que la distance de lecture, la densité d'information, la finesse de l'écran et l'orientation du périphérique, tous ces éléments ayant une influence sur le processus de lecture. Apprenez à considérer la typographie d'un point de vue multidimensionnel et à améliorer l'expérience responsive générale que vous fournissez.",
+    "tags": [
+      "RWD",
+      "typographie"
+    ],
+    "authors": [
+      {
+        "name": "Marko Dugonjić",
+        "description": "Marko Dugonjić is a designer, speaker and author based in Velika Gorica, Croatia. As the creative and user experience director at Creative Nights, he improves customers’ digital experiences for both local and international clients. He is an editor at Smashing Magazine and is the co-author of the Smashing Book 4. His favorite pet project is Typetester, an online tool for testing screen fonts.   Marko Dugonjić est un designer, orateur et auteur basé à Velika Gorica, en Croatie. En tant que directeur créatif et responsable de l'expérience utilisateur chez Creative Nights, il améliore l'expérience numérique des utilisateurs pour ses clients locaux comme internationaux. Il est un des éditeurs de Smashing Magazine et le co-auteur du Smashing Book n°4.  Son projet personnel préféré est Typetester, un outil en ligne pour tester les fontes sur écran.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Marko%20Dugonjic-thumb-143x143-403.jpg"
+      }
+    ],
+    "ressource": {
+      "video": "https://vimeo.com/113939048",
+      "slides": null
+    }
+  }
+]
