@@ -11,6 +11,7 @@ class Selector2007
 
   def initialize
     @sessions_filepath = Dir[File.expand_path('./data/2007/sessions*.html')]
+    @workshop_filepath = File.expand_path('./data/2007/ateliers.html')
     @authors_filepath = File.expand_path('./data/2007/authors.html')
   end
 
@@ -58,6 +59,7 @@ class Selector2007
       titles.each do |title|
         sessions << {
           year: 2007,
+          type: "conference",
           title: title(title),
           description: description(title),
           authors: authors(title)
@@ -65,9 +67,30 @@ class Selector2007
       end
     end
 
+    sessions += workshops
+
     sessions.reject do |session|
       session[:authors].empty?
     end
+  end
+
+  def workshops
+    doc = Nokogiri::HTML(File.open(@workshop_filepath).read)
+    workshops = []
+
+    titles = element(doc, 'h3.spip a[name]')
+    titles.each do |title|
+      parent = title.ancestors('h3')[0]
+      workshops << {
+        year: 2007,
+        type: "workshop",
+        title: parent.text,
+        description: description(parent),
+        authors: authors(parent)
+      }
+    end
+
+    workshops
   end
 
   def add_authors(sessions)
@@ -96,6 +119,8 @@ class Selector2007
           description: matching_author[:description]
         }
       end
+      session[:authors] = session[:authors].reject(&:nil?)
+
       session
     end
 
@@ -104,6 +129,7 @@ class Selector2007
 
   def run
     content = add_authors(sessions)
+    ap content
 
     output = HelperPath.record('2007')
     FileUtils.mkdir_p(File.dirname(output))
