@@ -1,0 +1,121 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'slugify'
+require 'bundler/setup'
+require_relative '../lib/helper_download'
+require_relative '../lib/helper_extract'
+require_relative '../lib/helper_selector'
+
+class Selector2009
+  include HelperSelector
+
+  def initialize
+    @sessions_filepath = Dir[File.expand_path('./data/2009/sessions*.html')]
+    @authors_filepath = Dir[File.expand_path('./data/2009/authors/*.html')]
+  end
+
+  def clean_text(text)
+    text.delete("\t").tr("\r", ' ').tr("\n", ' ').strip
+  end
+
+  def title(event)
+    h3 = element(event, 'h3')
+    element(h3, 'span,abbr,small').remove
+    text = clean_text(h3.text)
+    text = text.delete('()').strip
+    text
+  end
+
+  def description(event)
+    tags = element(event, '.description p')
+    return nil if tags.length < 2
+    tags = tags[1..-1]
+    clean_text(tags.text)
+  end
+
+  def authors(event)
+    tags = element(event, '.description p')
+    return nil if tags.length < 2
+    links = element(tags, 'a')
+    authors = []
+    links.each do |link|
+      authors << {
+        name: clean_text(link.text)
+      }
+    end
+    authors
+  end
+
+  def sessions
+    sessions = []
+    @sessions_filepath.each do |filepath|
+      doc = Nokogiri::HTML(File.open(filepath).read)
+
+      events = element(doc, '#contenu div[id].vevent')
+      events.each do |event|
+        sessions << {
+          year: 2009,
+          title: title(event),
+          description: description(event),
+          authors: authors(event)
+        }
+      end
+    end
+
+    sessions = sessions.reject do |session|
+      session[:description].nil?
+    end
+
+    sessions
+  end
+
+  def add_authors(sessions)
+    authors = {}
+    @authors_filepath.each do |filepath|
+      doc = Nokogiri::HTML(File.open(filepath).read)
+
+      name = clean_text(element(doc, '#orateur h2').text)
+      picture = attribute(doc, '#orateur p.photo img', 'src')
+      picture = "http://www.paris-web.fr/2009/#{picture}"
+      description = author_description(doc)
+
+      authors[name.slugify] = {
+        name: name,
+        picture: picture,
+        description: description
+      }
+    end
+
+    sessions = sessions.map do |session|
+      session[:authors] = session[:authors].map do |author|
+        matching_author = authors[author[:name].slugify]
+        next if matching_author.nil?
+        matching_author
+      end
+      session
+    end
+
+    sessions.reject(&:nil?)
+  end
+
+  def author_description(author)
+    paras = element(author, '#orateur p')
+    paras.each do |para|
+      text = clean_text(para.text)
+      return text unless text.empty?
+    end
+    nil
+  end
+
+  def run
+    content = add_authors(sessions)
+    ap content
+
+    output = HelperPath.record('2009')
+    FileUtils.mkdir_p(File.dirname(output))
+    content = JSON.pretty_generate(content)
+    File.write(output, content)
+  end
+end
+
+Selector2009.new.run

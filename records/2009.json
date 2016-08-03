@@ -1,0 +1,262 @@
+[
+  {
+    "year": 2009,
+    "title": "Intégrateurs, montez au front !",
+    "description": "L’intégrateur HTML est devenu développeur web front. Au-delà de la terminologie, ce métier s’est complexifié, industrialisé, segmenté en sous-spécialités. Alors qu’on pourrait penser que la richesse des profils permettrait à chacun d’y faire sa place, bon nombre de développeurs expriment leur frustration.Nous tenterons de comprendre cette frustration et ébaucherons quelques pistes pour leur rendre le sourire.",
+    "authors": [
+      {
+        "name": "Stéphane Deschamps",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/1d1319b65bbc845d779f3e5177e55c12.png",
+        "description": "Sherpa du Web chez France Télécom"
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Utilisabilité : quand le webdesign rencontre le marketing.",
+    "description": "Le web marketing s’est toujours inspiré des techniques de communication de l’industrie papier. Or, les études d’utilisabilité ont prouvés que le web, perçu par les utilisateurs comme un nouveau média, déclenchait de nouveaux comportements, remettant ainsi en cause des stratégies établies et séculaires.Au milieu, le webdesign, doit se frayer un chemin et réfléchir à la fois à l’esthétisme et à la fonction principale d’un site.Comprendre la démarche de l’utilisabilité, au travers des conclusions de ses expertises, l’allier avec les besoins du marketing et les attentes du webdesign, afin de vous permettre de créer des sites web efficaces et efficients, tels seront les buts de cette intervention.",
+    "authors": [
+      {
+        "name": "Christophe Zlobinski-Furmaniak",
+        "picture": "http://www.paris-web.fr/2009/squelettes/img/avatar-orateurs-defaut.png",
+        "description": "Diplômé en Communication et Marketing international, Christophe Zlobinski-Furmaniak, aka Furmi, est un webdesigner passionné et engagé, expert en marketing visuel et expérience utilisateur. De formation anglo-saxonne, il apporte aux entreprises qu’il audite, lors de missions de webdesign, de conseil en stratégie marketing, mais également d’encadrement, de management, et de direction artistique, une vision nouvelle où expertise et audace se conjuguent."
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Un seul Web",
+    "description": "Avec les nouveautés de CSS 3 et HTML 5, il est désormais aisé de n’avoir qu’un seul site Web, qu’il soit accédé par des navigateurs de bureau ou des clients mobiles. Nous allons voir comment faire un design Web qui soit multi-clients, réduisant ainsi le coût du projet et simplifiant sa maintenance.  Attention, présence de canards en plastique sur scène fortement probable.",
+    "authors": [
+      {
+        "name": "Daniel Glazman",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/ab1748143c308fe04b7720f0dafbe6d8.png",
+        "description": "CEO @ Disruptive Innovations, W3C CSS WG Co-chair"
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Webdesigner, l’homme qui parlait à l’oreille des intégrateurs",
+    "description": "Le webdesigner doit-il être un illustrateur, une infographiste, un concepteur, un intégrateur ... ? La réponse n’est pas aisée et fait toujours débat aujourd’hui tant ce métier est jeune et dépendant d’un secteur en constante évolution.Ce que nous pouvons constater, c’est qu’il existe encore bien souvent, un gouffre d’incompréhension entre les designer qui se concentrent sur la créativité graphique, la communication, le marketing et les intégrateurs soumis aux contraintes du média web, aux problèmes de compatibilité et soucieux de standards et d’accessibilité.Comment réconcilier designer et intégrateur ? Comment envisager le métier de designer dans un contexte web sans en faire un développeur ou un ergonome ? Et si le webdesigner n’était tout simplement qu’un créatif capable de communiquer avec un intégrateur, de comprendre ses contraintes et d’adapter son travail en conséquence ?Quels pré-requis un designer doit-il acquérir pour atteindre cet objectif ? Quelles méthodes de travail imaginer entre ces deux acteurs du web pour laisser à l’un une certaine liberté créative et garantir à l’autre une faisabilité technique satisfaisante ?",
+    "authors": [
+      {
+        "name": "Gilles Vauvarin",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/a14cd79e4693566aaf3d07f00c075b15.png",
+        "description": "Biologiste de formation, Gilles s’est réorienté dans les technologies web en 1995. Après avoir occupé différents postes techniques (webmaster, intégrateur, analyste/développeur, chef de projet puis responsable informatique et multimédia) au sein d’entreprises privées et publics, il a consacré deux années à se perfectionner au design web en auto-formation."
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "HTTP pour les naïfs et les brutes",
+    "description": "Vous connaissez HTTP, un peu, beaucoup, à la folie ? Mais êtes vous sûrs d’avoir tout saisi ? Cette présentation vous donnera quelques pistes pour comprendre la métaphore HTTP et son utilisation réelle (et limitée) sur le Web aujourd’hui.",
+    "authors": [
+      {
+        "name": "Karl Dubost",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/f4710cd3f229ccf74f9bed4d26708fe5.png",
+        "description": "Directeur du Développement chez Pheromone (Montréal, Canada)"
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Le Webdesign orienté business",
+    "description": "Les webdesigners chargés de réaliser le(s) site(s) Web d’une entreprise sont soumis à de très fortes contraintes liées aux objectifs business et marketing du client. Mais au fait, c’est quoi le Webdesign ? Et un webdesigner ? Et qu’est-ce que le business vient faire là dedans ? Est-il possible de produire un webdesign pragmatique qui ne s’autocensure pas tout en étant à l’écoute à la fois des commanditaires et des utilisateurs ? Tentative de réponse pendant cette conférence.",
+    "authors": [
+      {
+        "name": "Jeremie Patonnier",
+        "picture": "http://www.paris-web.fr/2009/squelettes/img/avatar-orateurs-defaut.png",
+        "description": "Responsable de l’équipe de développement Web de la Direction Internet France de BNP Paribas Personal Finance"
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "CSS peut-il être orienté objet ?",
+    "description": "Appliquer les principes de la programmation orientée objet à CSS (OOCSS) aide à obtenir un code plus léger et qui est à la fois plus simple à écrire et maintenir. Peu importe votre bibliothèque Javascript préférée (jQuery, YUI etc.), apprendre les rouages de OOCSS simplifiera votre processus de développement. Faites usage du projet open source OOCSS, y compris les \"singletons\", l’héritage, le \"scope\" et calculez la complexité du code.CSS est un point de frustration pour les développeurs et ingénieurs sur lequel les startups se cassent les dents. Dans cette présentation pratique, Nicole explore les stratégies permettant de prendre le contrôle de votre interface utilisateur. Cette présentation couvre les rouages de OOCSS et inclue des démonstrations, y compris de débuggage.Apprenez à :Un changement fondamental dans l’architecture du code permet au projet open source OOCSS de fournir des tonnes de fonctionnalité en seulement 27 lignes de code, évitant ainsi le gonflage des fichiers et l’inefficacité. Essayez cette évolution du langage et apprenez à l’appliquer à des projets existants.",
+    "authors": [
+      {
+        "name": "Nicole Sullivan",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/766cfdbf5558dec82dbc35ab9abbb41d.png",
+        "description": "Nicole Sullivan est un auteur, consultant freelance en performances web et Ninja CSS. Elle à écrit sur l’optimisation d’images dans Even Faster Websites paru chez O’Reilly, redesigné le site du W3C et créé le projet open source OOCSS. Elle parle à travers le monde de CSS et de performances web, plus récemment à Bangalore en Inde, et Boulder au Colorado."
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Mobile, nouvelles fonctionnalités",
+    "description": "Charles parlera des fonctionnalités qui seront prochainement (ou actuellement) dans vos téléphones via des applications Web, telles que la géolocalisation, l’accès aux fichiers, CSS3, scope, etc. Il y abordera ce qui est actuellement faisable, niveau implémentation et niveau standardisation, ce qu’il reste a faire, et un peu côté technique. Quels sont les avantages, motivations et questions qui viennent avec ces avancées et comment fonctionnent-elles ?",
+    "authors": [
+      {
+        "name": "Charles McCathieNeville",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/66d13d1fedc46120e678e1ed1722cb02.png",
+        "description": "Charles McCathieNevile (chaals) est responsable des standards chez Opera Software, les fabricants norvegiens d’un navigateur pour tous les appareils. Il gère les environs 30 personnes d’Opera qui travaillent dans les groupes de W3C, IETF, ECMA, etc. En plus de cette gestion il fait du vrai travail, comme co-chair du groupe Web Applications chez W3C, et responsable d’accesibilité dans le \"core\" (noyau) d’Opera."
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Basic housekeeping - keeping the web a safe and clean environment",
+    "description": "Internet est constamment la cible d’attaques de spammers, crackers et autres personnes qui abusent du réseau, ils nous empêchent ainsi de concevoir le Web que nous imaginons. C’est très frustrant et ça l’est d’autant plus qu’au lieu de chercher de vrais solutions, nous punissons nos utilisateurs en leurs imposants des mesures de sécurités inaccessibles et peu utiles.Dans le cadre de cette conférence, Chris Heilmann essayera d’apporter des réponses en expliquant des techniques de base pour combattre ce mal. Bien qu’il n’y ai pas de solution miracle à la sécurité du Web, pensez au moins à fermer vos portes virtuelles aux agresseurs.",
+    "authors": [
+      {
+        "name": "Christian Heilmann",
+        "picture": "http://www.paris-web.fr/2009/squelettes/img/avatar-orateurs-defaut.png",
+        "description": "Évangéliste Développeurs"
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Webdesign et qualité",
+    "description": "Jamais la toile n’a vu fleurir autant de services web en tout genre qu’aujourd’hui et pourtant, la qualité de ces services est rarement au rendez-vous. Mais qu’entend-on au juste par « qualité » ?Nous tenterons d’apporter une réponse par l’exemple et des critères de jugement sur ce qui fait la qualité d’une application web moderne. Nous essayerons également d’observer et comprendre l’importance des facteurs discrets mais fondamentaux à l’élaboration d’une application de qualité supérieure. Nous allons enfin apprendre à être intransigeants sur la richesse de l’expérience utilisateur et à refuser les compromis.",
+    "authors": [
+      {
+        "name": "Florent Verschelde",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/2da0e3c339e6f06b5b27902ae409050f.png",
+        "description": "Florent Verschelde est chef de projet chez O2Sources, où il intervient également sur l’intégration web, l’ergonomie et l’accessibilité. Littéraire de formation, il est venu au Web par passion douteuse pour les langages HTML et CSS."
+      },
+      {
+        "name": "Benjamin De Cock",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/539c8c131f7c23b72e6ec5c1308e4c8a.png",
+        "description": "Benjamin De Cock est designer web freelance et fondateur de Deaxon. Il se spécialise dans le design d’applications en mettant l’expérience utilisateur au centre de ses préoccupations."
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Being Agile, Being Good",
+    "description": "Les méthodes agiles ont révolutionné le monde du développement web et est de facto l’approche favorite des startups. Bien utilisées, les méthodes agiles peuvent résoudre les problèmes qui empoisonnent les méthodes traditionnelles. Néanmoins, nous commençons seulement à voir comment faire fonctionner cette philosophie dans le développement pour le web. En particulier, comment peut-on s’assurer d’une qualité constante quand les cycles de publication sont courts et que le processus requiert de la souplesse.Dans cette conférence, Stephanie discutera des avantages, des contraintes, des challenges et des techniques pour appliquer les méthodes agiles à la construction de sites de haute qualité.",
+    "authors": [
+      {
+        "name": "Stephanie Troeth",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/1f3649f8cd637afcb5ab87bde31d9865.png",
+        "description": "Directrice de production de Book Oven"
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Référencement & Standards Web : La même destination",
+    "description": "Cette conférence montrera l’action du web sémantique sur les moteurs de recherche actuels et ce qu’il nous est possible d’extrapoler concernant les futures applications. Nous prendrons un peu de recul pour voir la grande image de ce qui est en train de se dessiner. Nos pages web deviennent plus que des documents consultables par les internautes, mais aussi une source d’informations pour les ordinateurs. Ceci est rendu possible grâce aux standards web.Nous verrons comment les Microformats et RDFa enrichissent les pages. Ils font partie des premiers formats sémantiques pris en charge par les moteurs de recherche. Ces moteurs, omniprésent dans notre utilisation du web, qui sont en train de se positionner comme les premiers grands acteurs de la révolution sémantique.",
+    "authors": [
+      {
+        "name": "Thierry Régagnon",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/e4d426ca0496f49a411e9da1c9e18ab2.png",
+        "description": "Thierry Régagnon est Consultant SEO chez RESONEO, cabinet de conseil en stratégie et marketing e-business."
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Un Web ouvert",
+    "description": "Comment faire un site ouvert sur le web ?De nombreux services fournissent maintenant des API vers leurs données et des flux d’export RSS. Nous allons dépasser ce degré zéro d’ouverture pour tenter de voir ce qui est envisageable.Certaines briques déjà existantes vous permettent d’ors et déjà de faire reposer votre site sur l’existant. Identification OpenId, communication entre applications par OAuth, exploration par YQL, SPARQL ou BOSS, les possibilités ne manquent pas et permettent de développer rapidement le service qui manque sans tout recréer déconnecté du reste du web.Ensuite nous parlerons de vie privée, de contrôle de ses données par l’utilisateur, et de toutes ces problématiques \"gênantes\" mais qui sont des réflexions indispensable dans le web d’aujourd’hui.",
+    "authors": [
+      {
+        "name": "Eric Daspet",
+        "picture": "http://www.paris-web.fr/2009/squelettes/img/avatar-orateurs-defaut.png",
+        "description": "Ingénieur consultant dans les NTIC, Éric a développé une expertise autour de PHP et des technologies Open Source. Il est en particulier co-auteur avec Cyril Pierre de Geyer du livre « PHP 5 avancé » publié chez Eyrolles."
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "De l’ergonomie pour mon e-commerce",
+    "description": "Qu’est-ce qu’un site e-commerce qui marche, comment l’ergonomie peut l’aider à effectivement marcher, ou marcher mieux. Qu’est-ce que l’internaute demande, exige, attend d’un site e-commerce. Comment répondre mais aussi précéder ces attentes ?Problématiques spécifiques avec illustrations positives, négatives et avant / après de sites web :",
+    "authors": [
+      {
+        "name": "Amélie Boucher",
+        "picture": "http://www.paris-web.fr/2009/squelettes/img/avatar-orateurs-defaut.png",
+        "description": "Consultante en ergonomie et architecture de l’information"
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "CSS3 : Future Style Now",
+    "description": "Dans cette présentation, Molly E. Holzschlag passera en revue les concepts de base de CSS 3 et montrera comment les designers web et les développeurs peuvent étendre leur palette de possibilité avec de nombreuses fonctionnalités comme la gestion améliorée des couleurs, les images multiples en background, les images de bordure, les fontes embarquées et le design pour de multiples media. Molly montrera aussi comment utiliser l’amélioration progressive (« progressive enhancement ») tout en s’assurant que chaque fonctionnalité non encore supportée par un navigateur donné est correctement dégradée (« degrade gracefully »).",
+    "authors": [
+      {
+        "name": "Molly Holzschlag",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/9001a65226cdf2dd76c85c6c0c169f09.png",
+        "description": "Ayant retrouvé un peu d’équilibre après sa crise de la quarantaine, Molly a décidé de trouver enfin un travail. Elle est maintenant Web evangelist spécialisée dans les relations avec les développeurs, pour Opera Software, entreprise norvégienne à la croissance agressive qui conçoit le navigateur éponyme."
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "ROI et performance web : intégrer la culture de l’optimisation à la stratégie Internet",
+    "description": "Avec Internet, les directions marketing vivent une révolution liée au déploiement de stratégies nouvelles qui ne sont pas dénuées de risques. L’étude 2009 \"Analysis & action\" du cabinet Loudhouse Research révèle les axes d’investissement privilégiés : emailing, publicité en ligne, outils web analytics, référencement. Beaucoup d’initiatives pour être visible, mais une démarche d’analyse et d’optimisation des investissements encore peu fréquente. Le potentiel d’optimisation inexploité semble donc gigantesque ; le virage à prendre pour nombre de directions e-marketing sera d’intégrer la culture de l’optimisation à leur stratégie Internet pour optimiser les coût et minimiser les risques.Dans le cadre de cette conférence, c’est donc la culture de l’optimisation continue sera au premier plan ; le management de la qualité comme facteur clé de succès dans la démarche de pilotage de la performance sera à ce titre largement commenté.",
+    "authors": [
+      {
+        "name": "Arnaud Brin",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/55f0c2629a650c2fc1a582b2c2564886.png",
+        "description": "Arnaud BRIN dispose aujourd’hui de sa propre structure, \"Performance Agile\", cabinet de conseil en performance web et satisfaction client."
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Concevoir un produit web c’est bien, faire en sorte qu’il soit accepté c’est mieux !",
+    "description": "Pourquoi un produit web est-il plus accepté qu’un autre ? Comment pourrais-je améliorer l’acceptabilité de mon produit ? Si cette conférence m’ennuie, pourrais-je surfer sur mon Iphone ou mon Blackberry ?Si vous vous posez ces questions, alors vous êtes le bienvenu. Si vous ne vous les posez pas, vous êtes quand même le bienvenuAprès un rapide passage en revue des théories en psychologie sociale, nous identifierons les critères-clés d’acceptation avec de nombreux exemples parlants et métaphores à l’appui. Nous décortiquerons ensemble des cas réels afin de vous apporter toutes les connaissances nécessaires à l’élaboration d’un produit web accepté.La présentation permettra d’aboutir à une prise de conscience unanime : faire un produit accepté nécessite une approche commune incontournable, requérant une collaboration poussée entre les divers corps de métier et qui condamne le système de caste (’’chasse gardée\") encore trop présent dans les projets web.",
+    "authors": [
+      {
+        "name": "Gautier Barrère",
+        "picture": "http://www.paris-web.fr/2009/squelettes/img/avatar-orateurs-defaut.png",
+        "description": "Ergonome, spécialiste « Human factor / User experience » logiciels interactifs et Web."
+      },
+      {
+        "name": "Alain Vagner",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/8815e0bfc2a0c0b303d0f963c213455c.png",
+        "description": "Ingénieur R&D"
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "WCAG 2.0, Flash, PDF, Javascript et les autres sont dans un bateau...",
+    "description": "Avec la diversification des technologies et des médias utilisés sur le web, l’accessibilité peut de plus en plus apparaitre comme une contrainte insurmontable. Face aux demandes incessantes pour avoir toujours plus d’interactivité et d’innovation, la réponse ne peut pas être « désolé, ça n’est pas possible ».  Nous essayerons au travers de cette conférence de voir en quoi les WCAG 2.0 peuvent apporter une solution vis-à-vis de la conformité aux standards mais également les solutions techniques existantes tel qu’ARIA, le balisage PDF ou les API d’accessibilité.",
+    "authors": [
+      {
+        "name": "Aurélien Levy",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/ddb1b0e79d1d115d7593abb9ce7049b1.png",
+        "description": "Après une formation initiale de graphiste, Aurélien a complété ses connaissances par une formation de concepteur réalisateur multimédia à l’Institut Supérieur des Arts. En janvier 2004, il devient l’un des premiers \"experts Accessiweb en évaluation\". Il est depuis septembre 2008 expert accessibilité pour le compte de la société Temesis."
+      },
+      {
+        "name": "Sébastien Delorme",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/6c182e5709d5b53380e1536d5fa6d3ae.png",
+        "description": "Sébastien est chargé de mission accessibilité numérique au sein de la société Atalan. Il intervient sur des missions de conseil et d’assistance technique et dans la réalisation d’audits d’accessibilité auprès de clients comme Areva, Capgemini, Carrefour, GDF Suez ou Lafarge. Sébastien est également en charge de l’animation des formations sur le thème de l’accessibilité du Web."
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Les nouveaux standards du web et leur implémentation dans les navigateurs modernes",
+    "description": "Firefox 3.5 est la nouvelle version du navigateur web du projet Mozilla. Cette version apporte plusieurs améliorations très significatives pour les développeurs Web. Cela se traduit en particulier  par de meilleurs performances, un meilleur support d’HTML5, de CSS3 et de Javascript 1.8.La nouvelle  version du moteur Gecko rajoute plusieurs fonctionnalités multimédia telle que l’élément vidéo. Cette session sera l’occasion de redécouvrir la  puissance des  standards et  de l’importance  de l’Open Web, à  l’heure où l’enjeu  du Web  se déplace vers  les applications riches, où  les environnements de développement  tels que Silverlight, Flash cherchent  à positionner le  Web en  tant que citoyen  de seconde zone.",
+    "authors": [
+      {
+        "name": "Tristan Nitot",
+        "picture": "http://www.paris-web.fr/2009/squelettes/img/avatar-orateurs-defaut.png",
+        "description": "Tristan Nitot est  le fondateur et actuel président  de Mozilla Europe, connu pour son navigateur Web Firefox,  qui est utilisé par plus de 100 millions de personne  en Europe. Il contribue à ce  projet depuis 2001. Sous l’impulsion de Mozilla Europe, le navigateur Firefox, traduit par des bénévoles, est maintenant disponible en 70 langues. Tristan Nitot utilise les différents réseaux  télématiques depuis 1984, publie sur le Web depuis 1996, participe au  développement  de navigateurs Web depuis 1997 et tient un blog depuis 2002 sur Standblog.org."
+      },
+      {
+        "name": "Paul Rouget",
+        "picture": "http://www.paris-web.fr/2009/local/cache-gd2/8b614cfbbabfdfe40d87ddf2cd7f811f.png",
+        "description": "Contributeur au projet Mozilla depuis 2004 et employé en tant que Technology Evangelist, Paul Rouget travaille à la promotion de l’Open Web et de Mozilla en tant que plateforme de développement."
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "Design itératif pour un site web de grande échelle",
+    "description": "Nous aborderons les principes du design en itération au travers d’exemples concrets. Wireframes, prototypages, développements et tests utilisateurs sont autant de processus à renouveler afin de délivrer la meilleure expérience utilisateur tout en ayant des contraintes techniques extrêmes.Avec 38 millions de vues par jours, la page du lecteur de Dailymotion nous montre à quel point le processus d’itération est nécessaire dans le cadre d’un redesign complet et qu’à cette échelle un changement radical de design n’est pas envisageable. Nous aborderons les différentes étapes  de ce projet et les conclusions que nous pouvons en tirer.",
+    "authors": [
+      {
+        "name": "Hervé Mischler",
+        "picture": "http://www.paris-web.fr/2009/squelettes/img/avatar-orateurs-defaut.png",
+        "description": "Après une formation de designer industriel, Hervé Mischler débute son expérience professionnelle dans le web en 1999."
+      }
+    ]
+  }
+]
