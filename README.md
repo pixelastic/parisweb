@@ -1,8 +1,7 @@
 # parisweb
 
 TODO:
-Add slides and videos to 2007
-Slides https://www.paris-web.fr/2007/Presentations-des-intervenants.html#nov_15-enjeux
+Add videos to 2007
 Videos http://videos.paris-web.fr/2007/
 
 Add slides and videos to 2008

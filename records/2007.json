@@ -12,7 +12,8 @@
       }
     ],
     "ressources": {
-      "slides": "http://www.paris-web.fr/2007/archives/20071115/01-Samuel_Latchman/Les_enjeux_de_la_production_web.pdf"
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/01-Samuel_Latchman/Les_enjeux_de_la_production_web.pdf",
+      "video": "http://www.dailymotion.com/parisweb/video/x4jyuo_les-enjeux-de-la-production-web_tech"
     }
   },
   {
@@ -28,7 +29,8 @@
       }
     ],
     "ressources": {
-      "slides": "http://www.paris-web.fr/2007/archives/20071115/03-Myriam_Lorant/Utilisateurs_et_decideurs___a_hue_et_a_dia__.pdf"
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/03-Myriam_Lorant/Utilisateurs_et_decideurs___a_hue_et_a_dia__.pdf",
+      "video": "http://www.dailymotion.com/parisweb/video/x4k91f_utilisateurs-et-decideurs-a-hue-et_tech"
     }
   },
   {
@@ -44,7 +46,8 @@
       }
     ],
     "ressources": {
-      "slides": "http://www.paris-web.fr/2007/archives/20071115/02-Michele_Pedinielli/Et_maintenant__qu_est-ce_qu_on_met_dedans__.pdf"
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/02-Michele_Pedinielli/Et_maintenant__qu_est-ce_qu_on_met_dedans__.pdf",
+      "video": "http://www.dailymotion.com/parisweb/video/x4kaa9_et-maintenant-questce-quon-met-deda_tech"
     }
   },
   {
@@ -75,7 +78,8 @@
       }
     ],
     "ressources": {
-      "slides": "http://www.paris-web.fr/2007/archives/20071115/04-Aurelien_Levy+Elie-Sloim+Pascal_Souhard/042_-_Aurelien_Levy,_Elie_Sloim_-_Le_RGAA.pdf"
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/04-Aurelien_Levy+Elie-Sloim+Pascal_Souhard/042_-_Aurelien_Levy,_Elie_Sloim_-_Le_RGAA.pdf",
+      "video": "http://www.dailymotion.com/parisweb/video/x4l76s_le-referentiel-general-daccessibili_tech"
     }
   },
   {
@@ -91,7 +95,8 @@
       }
     ],
     "ressources": {
-      "slides": "http://www.paris-web.fr/2007/archives/20071115/05-Jean-Louis_Carves/Accessibilite_des_videos_et_des_sous-titres.pdf"
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/05-Jean-Louis_Carves/Accessibilite_des_videos_et_des_sous-titres.pdf",
+      "video": "http://www.dailymotion.com/parisweb/video/x4l9l7_accessibilite-des-videos-et-des-sou_tech"
     }
   },
   {
@@ -107,7 +112,8 @@
       }
     ],
     "ressources": {
-      "slides": "http://www.paris-web.fr/2007/archives/20071115/06-Daniel_Glazman/06_-_Daniel_Glazman_-_Futur_du_HTML__ou_en_est-on__.7z"
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/06-Daniel_Glazman/06_-_Daniel_Glazman_-_Futur_du_HTML__ou_en_est-on__.7z",
+      "video": "http://www.dailymotion.com/parisweb/video/x4ljgo_futur-du-html-ou-en-eston_tech"
     }
   },
   {
@@ -123,7 +129,8 @@
       }
     ],
     "ressources": {
-      "slides": "http://www.paris-web.fr/2007/archives/20071116/01-Denis_Boudreau/Accessibilite_des_contenus_PDF_et_Flash.pdf"
+      "slides": "http://www.paris-web.fr/2007/archives/20071116/01-Denis_Boudreau/Accessibilite_des_contenus_PDF_et_Flash.pdf",
+      "video": "http://www.dailymotion.com/parisweb/video/x4llc0_accessibilite-des-contenus-pdf-et-f_tech"
     }
   },
   {
@@ -139,7 +146,8 @@
       }
     ],
     "ressources": {
-      "slides": "http://www.paris-web.fr/2007/archives/20071116/02-Stephanie_Booth/Multilinguisme_web_et_problematiques_associees.pdf"
+      "slides": "http://www.paris-web.fr/2007/archives/20071116/02-Stephanie_Booth/Multilinguisme_web_et_problematiques_associees.pdf",
+      "video": "http://www.dailymotion.com/parisweb/video/x4lntr_multilinguisme-web-et-problematique_tech"
     }
   },
   {
@@ -155,7 +163,8 @@
       }
     ],
     "ressources": {
-      "slides": "http://www.paris-web.fr/2007/archives/20071116/03-Michel_Hoel/AJAX_et_accessibilite.pdf"
+      "slides": "http://www.paris-web.fr/2007/archives/20071116/03-Michel_Hoel/AJAX_et_accessibilite.pdf",
+      "video": "http://www.dailymotion.com/parisweb/video/x4lwy2_ajax-et-accessibilite_tech"
     }
   },
   {
@@ -171,7 +180,8 @@
       }
     ],
     "ressources": {
-      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Chris_Heilmann/Unobstrusive_Javascript_and_the_Object_Literal_notation.pdf"
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Chris_Heilmann/Unobstrusive_Javascript_and_the_Object_Literal_notation.pdf",
+      "video": "http://www.dailymotion.com/parisweb/video/x4lxki_successful-teams-use-web-standards_tech"
     }
   },
   {
@@ -187,7 +197,8 @@
       }
     ],
     "ressources": {
-      "slides": "http://www.paris-web.fr/2007/archives/20071116/05-Dominique_Hazael-Massieux/Les_bonnes_pratiques_du_Web_mobile.pdf"
+      "slides": "http://www.paris-web.fr/2007/archives/20071116/05-Dominique_Hazael-Massieux/Les_bonnes_pratiques_du_Web_mobile.pdf",
+      "video": "http://www.dailymotion.com/parisweb/video/x4lzho_bonnes-pratiques-du-web-mobile_tech"
     }
   },
   {

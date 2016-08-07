@@ -14,6 +14,7 @@ class Selector2007
     @workshop_filepath = File.expand_path('./data/2007/ateliers.html')
     @authors_filepath = File.expand_path('./data/2007/authors.html')
     @ressources_filepath = File.expand_path('./data/2007/ressources.html')
+    @videos_filepath = File.expand_path('./data/2007/videos.html')
   end
 
   def description_tags(title)
@@ -166,9 +167,37 @@ class Selector2007
     sessions
   end
 
+  def add_videos(sessions)
+    doc = Nokogiri::HTML(File.open(@videos_filepath).read)
+    videos = {}
+
+    lines = element(doc, 'tbody tr')
+    lines.each do |line|
+      speaker = element(line, '.speaker').text
+      url = element(line, '.downloadLink a')[0].attr('href')
+      slug = speaker.slugify
+      videos[slug] = url
+    end
+
+    sessions.each do |session|
+      next if session[:type] == 'workshop'
+      slug = session[:authors].map do |author|
+        author[:name]
+      end.join('-').slugify
+
+      slug = 'pascal-souhard--elie-sloim-et-aurelien-levy' if slug == 'pascal-souhard-elie-sloim-laurent-denis-aurelien-levy'
+      slug = 'christian-heilmann' if slug == 'chris-heilmann'
+
+      session[:ressources][:video] = videos[slug]
+    end
+
+    sessions
+  end
+
   def run
     content = add_authors(sessions)
     content = add_slides(content)
+    content = add_videos(content)
     ap content
 
     output = HelperPath.record('2007')
