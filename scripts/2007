@@ -13,6 +13,7 @@ class Selector2007
     @sessions_filepath = Dir[File.expand_path('./data/2007/sessions*.html')]
     @workshop_filepath = File.expand_path('./data/2007/ateliers.html')
     @authors_filepath = File.expand_path('./data/2007/authors.html')
+    @ressources_filepath = File.expand_path('./data/2007/ressources.html')
   end
 
   def description_tags(title)
@@ -127,8 +128,47 @@ class Selector2007
     sessions.reject(&:nil?)
   end
 
+  def add_slides(sessions)
+    doc = Nokogiri::HTML(File.open(@ressources_filepath).read)
+    slides = {}
+
+    links = element(doc, 'a[href$=pdf],a[href$="7z"]')
+    links.each do |link|
+      url = link.attr('href')
+      split = url.split('/')
+      slug = split[3].slugify
+      slug = split[2].slugify if slug =~ /(pdf|7z)$/
+      slug = slug[3..-1] if slug =~ /^0.-/
+      slides[slug] = {
+        url: "http://www.paris-web.fr/2007/#{url}"
+      }
+    end
+
+    sessions.each do |session|
+      slug = session[:authors].map do |author|
+        author[:name]
+      end.join('-').slugify
+
+      slug = 'aurelien-levy-elie-sloim-pascal-souhard' if slug == 'pascal-souhard-elie-sloim-laurent-denis-aurelien-levy'
+      slug = 'raphael-goetter-pascale-lambert-charreteur' if slug == 'pascale-lambert-charreteur-raphael-goetter'
+      slug = 'marie-destandau-aurelien-levy' if slug == 'laurent-denis-aurelien-levy-marie-destandau'
+      slug = 'mathieu-pillard-anthony-ricaud' if slug == 'anthony-ricaud-mathieu-pillard'
+      slug = 'fabrice-bonny-denis-boudreau-elie-sloim' if slug == 'elie-sloim-fabrice-bonny'
+      slug = 'laurence-borne-marie-destandau-julie-landry-emilie-sidoli' if slug == 'emilie-sidoli-julie-landry-laurence-borne-marie-destandau'
+      slug = 'christophe-porteneuve-julien-wajsberg' if slug == 'julien-wajsberg-christophe-porteneuve'
+      slug = 'louis-montagne-ori-pekelman' if slug == 'ori-pekelman-louis-montagne'
+
+      session[:ressources] = {
+        slides: slides[slug][:url]
+      }
+    end
+
+    sessions
+  end
+
   def run
     content = add_authors(sessions)
+    content = add_slides(content)
     ap content
 
     output = HelperPath.record('2007')

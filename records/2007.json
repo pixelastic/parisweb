@@ -10,7 +10,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton29-dca26.jpg",
         "description": "Directeur de production chez MRM Worldwide"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/01-Samuel_Latchman/Les_enjeux_de_la_production_web.pdf"
+    }
   },
   {
     "year": 2007,
@@ -23,7 +26,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton34-20c20.jpg",
         "description": "Conceptrice multimédia freelance"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/03-Myriam_Lorant/Utilisateurs_et_decideurs___a_hue_et_a_dia__.pdf"
+    }
   },
   {
     "year": 2007,
@@ -36,7 +42,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton35-25fa0.jpg",
         "description": "Conceptrice éditoriale chez SDC Conseil et édition et formatrice à l’EMI-CFD"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/02-Michele_Pedinielli/Et_maintenant__qu_est-ce_qu_on_met_dedans__.pdf"
+    }
   },
   {
     "year": 2007,
@@ -64,7 +73,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton37-2704b.jpg",
         "description": "Expert conception Web et accessibilité chez Tektonika"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/04-Aurelien_Levy+Elie-Sloim+Pascal_Souhard/042_-_Aurelien_Levy,_Elie_Sloim_-_Le_RGAA.pdf"
+    }
   },
   {
     "year": 2007,
@@ -77,7 +89,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton38-c37f3.jpg",
         "description": "Responsable Marketing du Human Centric Solutions Center IBM"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/05-Jean-Louis_Carves/Accessibilite_des_videos_et_des_sous-titres.pdf"
+    }
   },
   {
     "year": 2007,
@@ -90,7 +105,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton31-0463e.jpg",
         "description": "Directeur de Disruptive Innovations"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071115/06-Daniel_Glazman/06_-_Daniel_Glazman_-_Futur_du_HTML__ou_en_est-on__.7z"
+    }
   },
   {
     "year": 2007,
@@ -103,7 +121,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton30-02819.jpg",
         "description": "Directeur de WebConforme"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071116/01-Denis_Boudreau/Accessibilite_des_contenus_PDF_et_Flash.pdf"
+    }
   },
   {
     "year": 2007,
@@ -116,7 +137,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton39-a2ad4.jpg",
         "description": "Consultante sur les blogs et l’internet social"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071116/02-Stephanie_Booth/Multilinguisme_web_et_problematiques_associees.pdf"
+    }
   },
   {
     "year": 2007,
@@ -129,7 +153,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton40-e7eb5.jpg",
         "description": "Responsable technique de la Société Urbilog"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071116/03-Michel_Hoel/AJAX_et_accessibilite.pdf"
+    }
   },
   {
     "year": 2007,
@@ -142,7 +169,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton41-2e71e.jpg",
         "description": "Web developper chez Yahoo ! England"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Chris_Heilmann/Unobstrusive_Javascript_and_the_Object_Literal_notation.pdf"
+    }
   },
   {
     "year": 2007,
@@ -155,7 +185,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton42-7d070.jpg",
         "description": "Responsable de l’activité Web Mobile du World wide web consortium"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071116/05-Dominique_Hazael-Massieux/Les_bonnes_pratiques_du_Web_mobile.pdf"
+    }
   },
   {
     "year": 2007,
@@ -168,7 +201,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton73-90602.jpg",
         "description": "Consultante ergonomie et productrice du site www.ergolab.net"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-01/Amelie_Boucher/Analysons_ensemble_l_ergonomie_de_votre_site_Internet__.pdf"
+    }
   },
   {
     "year": 2007,
@@ -186,7 +222,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton49-c1fb5.jpg",
         "description": "Fondateur et directeur d’Alsacréations"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-01/Raphael_Goetter+Pascale_Lambert_Charreteur/Atelier_pratique_CSS.pdf"
+    }
   },
   {
     "year": 2007,
@@ -209,7 +248,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton53-abb96.jpg",
         "description": "Webdesigner, fondatrice de Ototoï"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-01/Marie_Destandau+Aurelien_Levy/Q-R_techniques_sur_les_questions_d_accessibilite.pdf"
+    }
   },
   {
     "year": 2007,
@@ -222,7 +264,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton46-1acf8.jpg",
         "description": "Ingénieur chez Disruptive Innovations"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-01/Laurent_Jouanneau/Des_widgets_dans_vos_pages_web_avec_XBL.pdf"
+    }
   },
   {
     "year": 2007,
@@ -240,7 +285,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton63-a98ba.png",
         "description": "Développeur web chez Téléfun"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-02/Mathieu_Pillard+Anthony_Ricaud/Un_site_web_rapide___C_est_pas_sorcier__.pdf"
+    }
   },
   {
     "year": 2007,
@@ -258,7 +306,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton68-62a24.jpg",
         "description": "consultant associé chez Temesis"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-02/Fabrice_Bonny+Denis_Boudreau+Elie_Sloim/Q-R_sur_les_bonnes_pratiques.pdf"
+    }
   },
   {
     "year": 2007,
@@ -271,7 +322,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton67-fce07.jpg",
         "description": "Responsable du réseau de développeurs chez Netvibes"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-02/Xavier_Borderie/UWA___apprenez_a_concevoir_des_widgets_multiplateformes.pdf"
+    }
   },
   {
     "year": 2007,
@@ -284,7 +338,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton45-04716.jpg",
         "description": "Expert interface homme-machine chez France Telecom"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-02/Stephane_Deschamps/Flex__Flash_et_accessibilite.pdf"
+    }
   },
   {
     "year": 2007,
@@ -302,7 +359,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton37-2704b.jpg",
         "description": "Expert conception Web et accessibilité chez Tektonika"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Laurent_Denis+Aurelien_Levy/Le_RGAA_par_la_pratique.pdf"
+    }
   },
   {
     "year": 2007,
@@ -315,7 +375,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton50-e7c08.jpg",
         "description": "Consultant junior, technologies Web et systèmes d’information"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Sebastien_Delorme/Et_si_je_me_mettais_a_sa_place__.pdf"
+    }
   },
   {
     "year": 2007,
@@ -328,7 +391,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton41-2e71e.jpg",
         "description": "Web developper chez Yahoo ! England"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Chris_Heilmann/Unobstrusive_Javascript_and_the_Object_Literal_notation.pdf"
+    }
   },
   {
     "year": 2007,
@@ -341,7 +407,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton76-8307a.jpg",
         "description": "Responsable des Standards chez Opera Software"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Charles_McCathieNeville/L_accessibilite_vue_d_un_navigateur.pdf"
+    }
   },
   {
     "year": 2007,
@@ -369,7 +438,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton53-abb96.jpg",
         "description": "Webdesigner, fondatrice de Ototoï"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-04/Laurence_Borne+Marie_Destandau+Julie_Landry+Emilie_Sidoli/production_light.pdf"
+    }
   },
   {
     "year": 2007,
@@ -382,7 +454,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton47-5d1ca.jpg",
         "description": "Coprésidente du Groupe International de Liaison du WASP"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-04/Stephanie_Troeth/Making_ends_meet___building_beautiful__robust_sites_on_best_web_practices.pdf"
+    }
   },
   {
     "year": 2007,
@@ -400,7 +475,10 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton70-c8e83.jpg",
         "description": "Directeur technique à Ciblo"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-04/Christophe_Porteneuve+Julien_Wajsberg/Christophe/Bibliotheques_JavaScript_-_Scripty-Demos.7z"
+    }
   },
   {
     "year": 2007,
@@ -418,6 +496,9 @@
         "picture": "http://www.paris-web.fr/2007/local/cache-vignettes/L48xH50/arton44-8d38e.jpg",
         "description": "Directeur Général et co-fondateur de AF83 & Bearstech"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-04/Louis_Montagne+Ori_Pekelman/Usages_et_communication_sur_le_Web.pdf"
+    }
   }
 ]
