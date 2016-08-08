@@ -12,13 +12,19 @@ class Selector2008
   def initialize
     @sessions_filepath = Dir[File.expand_path('./data/2008/sessions*.html')]
     @authors_filepath = Dir[File.expand_path('./data/2008/authors/*.html')]
+    @workshop_filepath = File.expand_path('./data/2008/workshop.html')
+    @ressources_filepath = File.expand_path('./data/2008/ressources.html')
+  end
+
+  def clean_text(text)
+    text.delete("\t").tr("\r", ' ').tr("\n", ' ').strip
   end
 
   def description(event)
     tags = element(event, '.description p')
     return nil if tags.length < 2
-    tags = tags[1..-1]
-    tags.text.tr("\n", ' ').delete("\r")
+    desc = tags[1..-1].map(&:text).join(' ')
+    clean_text(desc)
   end
 
   def authors(event)
@@ -27,6 +33,7 @@ class Selector2008
     links = element(tags, 'a')
     authors = []
     links.each do |link|
+      next if link.attr('href') =~ /^mailto/
       authors << {
         name: link.text
       }
@@ -56,11 +63,34 @@ class Selector2008
       end
     end
 
-    sessions
+    sessions += workshops
 
     sessions.reject do |session|
       session[:description].nil?
     end
+  end
+
+  def workshops
+    doc = Nokogiri::HTML(File.open(@workshop_filepath).read)
+    workshops = []
+
+    events = element(doc, '.vevent')
+    events.each do |event|
+      title = clean_text(element(event, 'h3').text)
+      next unless title =~ /^Paris/
+      title = title.split(':')[1..-1].join(':').strip
+      tags = element(event, '.sous-titre .summary').map(&:text)
+      workshops << {
+        year: 2008,
+        type: 'workshop',
+        title: title,
+        tags: tags,
+        description: description(event),
+        authors: authors(event)
+      }
+    end
+
+    workshops
   end
 
   def author_description(author)
@@ -101,8 +131,46 @@ class Selector2008
     sessions.reject(&:nil?)
   end
 
+  def add_ressources(sessions)
+    doc = Nokogiri::HTML(File.open(@ressources_filepath).read)
+    ressources = {}
+
+    lines = element(doc, 'tbody tr')
+    lines.each do |line|
+      element(line, 'td[rowspan="7"],td[rowspan="8"]').remove
+      author_cell = element(line, 'td')[1]
+      element(author_cell, 'small').remove
+      slug = clean_text(author_cell.text).slugify
+
+      slides = attribute(line, 'a[href$="pdf"]', 'href')
+      next if slides.nil?
+
+      video = attribute(line, 'a[href^="http://www.dailymotion"]', 'href')
+
+      ressources[slug] = {
+        slides: slides,
+        video: video
+      }
+    end
+
+    sessions.each do |session|
+      next if session[:type] == 'workshop'
+      slug = session[:authors].map do |author|
+        author[:name]
+      end.join('-').slugify
+
+      slug = 'alix-lassaigne--christophe-cotin-valois' if slug == 'alix-lassaigne-christophe-cotin-valois'
+      slug = 'stephane-deschamps--aurelien-levy' if slug == 'stephane-deschamps-aurelien-levy'
+
+      session[:ressources] = ressources[slug]
+    end
+
+    sessions
+  end
+
   def run
     content = add_authors(sessions)
+    content = add_ressources(content)
     ap content
 
     output = HelperPath.record('2008')

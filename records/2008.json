@@ -2,38 +2,50 @@
   {
     "year": 2008,
     "title": "Ergonomie des interfaces riches",
-    "description": "Les interfaces riches sont-elles une révolution pour l’ergonomie ?Au travers d’exemples basés sur les patterns les plus utilisés, Amélie abordera la question de l’appropriation et des usages, et fera un état des lieux des bonnes pratiques et défauts les plus fréquemment rencontrés.",
+    "description": "Les interfaces riches sont-elles une révolution pour l’ergonomie ? Au travers d’exemples basés sur les patterns les plus utilisés, Amélie abordera la question de l’appropriation et des usages, et fera un état des lieux des bonnes pratiques et défauts les plus fréquemment rencontrés.",
     "authors": [
       {
         "name": "Amélie Boucher",
         "picture": "http://www.paris-web.fr/2008/local/cache-gd2/c2548baf1ad5a7f33bfdfa2a7c641504.png",
         "description": "Consultante en ergonomie et architecture de l’information"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2008/presentations/jeudi-tech/PW2008-01-jeudi-AmelieBoucher.pdf",
+      "video": "http://www.dailymotion.com/video/k5VO5Yu6eMN9wDS45i"
+    }
   },
   {
     "year": 2008,
     "title": "Qualité et accessibilité Web : vers l’amélioration continue",
-    "description": "Jusqu’à présent, la qualité et l’accessibilité web ont surtout été traitées sous l’angle du respect des standards. Malheureusement, lorsque cette approche s’applique à des parcs de plusieurs centaines de sites ou des équipes étendues, elle peut rapidement s’avérer irréaliste, voire contre-productive.Au cours de cette conférence, nous montrerons pourquoi les démarches qualité et accessibilité Web, encore trop souvent statiques, doivent rapidement devenir des démarches dynamiques. Leur objectif ne doit pas seulement être la qualité, mais aussi et surtout l’amélioration continue.Nous présenterons différents niveaux de maturité et d’industrialisation dans le secteur Web et comment les producteurs de services en ligne peuvent les franchir. Nous montrerons enfin pourquoi et comment ces démarches d’amélioration continue peuvent devenir de précieux outils d’optimisation et de communication.",
+    "description": "Jusqu’à présent, la qualité et l’accessibilité web ont surtout été traitées sous l’angle du respect des standards. Malheureusement, lorsque cette approche s’applique à des parcs de plusieurs centaines de sites ou des équipes étendues, elle peut rapidement s’avérer irréaliste, voire contre-productive. Au cours de cette conférence, nous montrerons pourquoi les démarches qualité et accessibilité Web, encore trop souvent statiques, doivent rapidement devenir des démarches dynamiques. Leur objectif ne doit pas seulement être la qualité, mais aussi et surtout l’amélioration continue. Nous présenterons différents niveaux de maturité et d’industrialisation dans le secteur Web et comment les producteurs de services en ligne peuvent les franchir. Nous montrerons enfin pourquoi et comment ces démarches d’amélioration continue peuvent devenir de précieux outils d’optimisation et de communication.",
     "authors": [
       {
         "name": "Élie Sloïm",
         "picture": "http://www.paris-web.fr/2008/local/cache-gd2/15ea46da82df480a285c98b57495af1c.png",
         "description": "Directeur de Temesis"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2008/presentations/jeudi-tech/PW2008-02-jeudi-ElieSloim.pdf",
+      "video": "http://www.dailymotion.com/video/x7qlry_elie-sloym-qualit-et-accessibilit-w_tech"
+    }
   },
   {
     "year": 2008,
     "title": "Travailler dans le présent",
-    "description": "Dans cette présentation, Chris Heilmann nous parlera des problèmes liés à l’adoption de standards du web récents, et décrira des façons de contourner ces difficultés. Un exemple simple est le manque de prise en charge native de l’audio et de la vidéo, et les problèmes des implémentations actuelles.La session illustrera concrètement comment régler des problèmes a priori sans solution en les attaquant sous un autre angle.  Il s’agit essentiellement de trouver une façon pragmatique de vendre, implémenter et utiliser les standards plutôt que d’attendre que le marché adopte des technologies dont l’utilisation devrait être d’une évidence complète.",
+    "description": "Dans cette présentation, Chris Heilmann nous parlera des problèmes liés à l’adoption de standards du web récents, et décrira des façons de contourner ces difficultés. Un exemple simple est le manque de prise en charge native de l’audio et de la vidéo, et les problèmes des implémentations actuelles. La session illustrera concrètement comment régler des problèmes a priori sans solution en les attaquant sous un autre angle.  Il s’agit essentiellement de trouver une façon pragmatique de vendre, implémenter et utiliser les standards plutôt que d’attendre que le marché adopte des technologies dont l’utilisation devrait être d’une évidence complète.",
     "authors": [
       {
         "name": "Christian Heilmann",
         "picture": "http://www.paris-web.fr/2008/squelettes/img/avatar-orateurs-defaut.png",
         "description": "Évangéliste Développeurs"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2008/presentations/jeudi-tech/PW2008-03-jeudi-ChrisHeilmann.pdf",
+      "video": "http://www.dailymotion.com/video/k6rAWAg4vVWCUlS58J"
+    }
   },
   {
     "year": 2008,
@@ -50,12 +62,16 @@
         "picture": "http://www.paris-web.fr/2008/local/cache-gd2/c2b4d26f3c708250403025fb2fa5e75d.png",
         "description": "Après une formation initiale de graphiste, Aurélien a complété ses connaissances par une formation de concepteur réalisateur multimédia à l’Institut Supérieur des Arts. En janvier 2004, il devient l’un des premiers \"experts Accessiweb en évaluation\". Il est depuis septembre 2008 expert accessibilité pour le compte de la société Temesis."
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2008/presentations/jeudi-tech/PW2008-04-jeudi-DeschampsLevy.pdf",
+      "video": "http://www.dailymotion.com/video/k7cPj3NsswoonKS5I7"
+    }
   },
   {
     "year": 2008,
     "title": "Internautes et robots des moteurs de recherche, mais comment font-ils pour s’y retrouver ?",
-    "description": "La conception d’un site Web, axé qualité et rentabilité, passe par l’identification du message de l’entreprise, de la classification de l’information et de son organisation. Comment faire le « bon effort » ?Montrer l’interaction entre le métier d’architecte de l’information et celui de référenceur dans la conception d’un site web centré utilisateur et les impacts sur la rentabilité d’un site Web est l’objectif visé par cette conférence.",
+    "description": "La conception d’un site Web, axé qualité et rentabilité, passe par l’identification du message de l’entreprise, de la classification de l’information et de son organisation. Comment faire le « bon effort » ? Montrer l’interaction entre le métier d’architecte de l’information et celui de référenceur dans la conception d’un site web centré utilisateur et les impacts sur la rentabilité d’un site Web est l’objectif visé par cette conférence.",
     "authors": [
       {
         "name": "Alix Lassaigne",
@@ -67,19 +83,27 @@
         "picture": "http://www.paris-web.fr/2008/local/cache-gd2/4c634d22895ee20883b13cd97f6556af.png",
         "description": "Directeur du pôle architecture de l’information chez Digitas"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2008/presentations/jeudi-tech/PW2008-05-jeudi-CotinValoisLassaigne.pdf",
+      "video": "http://www.dailymotion.com/video/k5C8OA8KbsiZXVS629"
+    }
   },
   {
     "year": 2008,
     "title": "Internationalisation",
-    "description": " Comme son nom l'indique, le Web se veut mondial. Mais pour remplir cette promesse, l'internationalisation de toutes ses parties constituantes s'impose.  Pas acquise au début, cette internationalisation s'est réalisée petit à petit et est encore en cours.  Nous passerons en revue les progrès accomplis, les chantiers d'aujourd'hui et les perspectives d'avenir.",
+    "description": "Comme son nom l'indique, le Web se veut mondial. Mais pour remplir cette promesse, l'internationalisation de toutes ses parties constituantes s'impose.  Pas acquise au début, cette internationalisation s'est réalisée petit à petit et est encore en cours.  Nous passerons en revue les progrès accomplis, les chantiers d'aujourd'hui et les perspectives d'avenir.",
     "authors": [
       {
         "name": "François Yergeau",
         "picture": "http://www.paris-web.fr/2008/local/cache-gd2/2659f3b4b3fb511decb57fe48f6796bf.png",
         "description": "Expert-conseil principal, Xcential Group LLC"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2008/presentations/vendredi-tech/PW2008-13-vendrediTech-FrancoisYergeau.pdf",
+      "video": "http://www.dailymotion.com/video/k7aMHvn9kOzrIuS8kz"
+    }
   },
   {
     "year": 2008,
@@ -91,19 +115,27 @@
         "picture": "http://www.paris-web.fr/2008/local/cache-gd2/e444a0aa7b9c5050faceeb364abef6de.png",
         "description": "CEO @ Disruptive Innovations, W3C CSS WG Co-chair"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2008/presentations/vendredi-tech/PW2008-14-vendrediTech-DanielGlazman.pdf",
+      "video": "http://www.dailymotion.com/video/k4PfnOVMhq2YaiSbJu"
+    }
   },
   {
     "year": 2008,
     "title": "Identité 2.0 et Web sémantique",
-    "description": "Nos activités, nos relations, nos contenus, nos envies et finalement notre identité ont migré d’une sphère locale à une portée mondiale grâce au Web. La complexité croissante des relations que nous souhaitons stocker et exprimer en ligne demande une évolution de notre façon de concevoir et d’assurer la pérennité et l’utilité des applications Web.David Larlet discutera des solutions apportées par le Web Sémantique dans le domaine.",
+    "description": "Nos activités, nos relations, nos contenus, nos envies et finalement notre identité ont migré d’une sphère locale à une portée mondiale grâce au Web. La complexité croissante des relations que nous souhaitons stocker et exprimer en ligne demande une évolution de notre façon de concevoir et d’assurer la pérennité et l’utilité des applications Web. David Larlet discutera des solutions apportées par le Web Sémantique dans le domaine.",
     "authors": [
       {
         "name": "David Larlet",
         "picture": "http://www.paris-web.fr/2008/local/cache-gd2/d8211aac7326a454eb28d10b0c62730e.png",
         "description": "Concepteur d’applications Web en freelance"
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2008/presentations/vendredi-tech/PW2008-15-vendrediTech-DavidLarlet.pdf",
+      "video": "http://www.dailymotion.com/video/x7rppw_david-larlet-identit-20-et-web-sman_tech"
+    }
   },
   {
     "year": 2008,
@@ -115,12 +147,16 @@
         "picture": "http://www.paris-web.fr/2008/local/cache-gd2/4d5fecc2b526d3d83dd99ac2312c38f0.png",
         "description": "Chris Wilson est Platform Architect dans l’équipe Internet Explorer de Microsoft et co-président du HTML Working Group au W3C."
       }
-    ]
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2008/presentations/vendredi-tech/PW2008-16-vendrediTech-ChrisWilson.pdf",
+      "video": "http://www.dailymotion.com/video/k556WiOG492DCES9BE"
+    }
   },
   {
     "year": 2008,
     "title": "Performance Web côté client",
-    "description": "80% des problèmes de performance Web se situe au niveau des échanges avec le navigateur et sur le navigateur lui-même : échanges réseau, rendu dans le navigateur, organisation des composants dans une page etc. Nous aborderons les principales problématiques et les solutions à mettre en œuvre. Forts de l'expérience de l'équipe performance de Yahoo!, à la fin de cette session vous saurez aborder la question des performances Web du point de vue du visiteur et mettre en œuvre les actions correctrices sur vos sites Web.",
+    "description": "80% des problèmes de performance Web se situe au niveau des échanges avec le navigateur et sur le navigateur lui-même : échanges réseau, rendu dans le navigateur, organisation des composants dans une page etc.   Nous aborderons les principales problématiques et les solutions à mettre en œuvre. Forts de l'expérience de l'équipe performance de Yahoo!, à la fin de cette session vous saurez aborder la question des performances Web du point de vue du visiteur et mettre en œuvre les actions correctrices sur vos sites Web.",
     "authors": [
       {
         "name": "Éric Daspet",
@@ -131,6 +167,361 @@
         "name": "Nicole Sullivan",
         "picture": "http://www.paris-web.fr/2008/local/cache-gd2/4b41bd26427db96449c3b2fb358fdd4b.png",
         "description": "Nicole Sullivan est un Ingénieur Expert en Performance chez Yahoo!. Elle fait partie de  l'équipe qui s'occupe de rechercher des moyens de mesurer et d'améliorer les performance de tous les sites de Yahoo! dans le monde."
+      }
+    ],
+    "ressources": {
+      "slides": "http://www.paris-web.fr/2008/presentations/vendredi-tech/PW2008-17-vendrediTech-DaspetSullivan.pdf",
+      "video": "http://www.dailymotion.com/video/k7G8LcbXbMN0YASaqh"
+    }
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "ARIA : Accessible Rich Internet Application",
+    "tags": [
+      "accessibilité",
+      "javascript"
+    ],
+    "description": "Vous vous demandez comment rendre vos applications riches  accessibles ? Nous vous ferons découvrir la spécification ARIA version 1.0, ses origines, comment cette spécification peut vous aider, l’état de son implémentation dans les navigateurs, aides techniques et librairies JavaScript ainsi que des exemples concrets de mise en œuvre.",
+    "authors": [
+      {
+        "name": "Aurélien Levy",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/c2b4d26f3c708250403025fb2fa5e75d.png",
+        "description": "Après une formation initiale de graphiste, Aurélien a complété ses connaissances par une formation de concepteur réalisateur multimédia à l’Institut Supérieur des Arts. En janvier 2004, il devient l’un des premiers \"experts Accessiweb en évaluation\". Il est depuis septembre 2008 expert accessibilité pour le compte de la société Temesis."
+      },
+      {
+        "name": "Cédric Trévisan",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/06a94870b19922a8bfc49403ec8a6b3d.png",
+        "description": "Cédric Trévisan travaille pour le Paciello Group en tant que manager spécialisé en accessibilité et développement."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Cascade et héritage : concevoir, organiser, optimiser et maintenir ses feuilles de styles",
+    "tags": [
+      "CSS",
+      "optimisation"
+    ],
+    "description": "Cet atelier propose des éléments de méthode pour l’intégration de sites Web complexes, en s’interrogeant sur les points suivants :",
+    "authors": [
+      {
+        "name": "Marie Destandau",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/118759d8337219c987bfc2b4cac93dfe.png",
+        "description": "Fondatrice de la société Ototoï, Marie privilégie une clientèle sensibles aux standards, à la notion d'accessibilité, et à la qualité des contenus."
+      },
+      {
+        "name": "Romy Duhem-Verdière",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/3f055a55a6421da5889fddc48849e10e.png",
+        "description": "Déjà toute petite elle était préoccupée par la métaphysique des formes et des rectangles, de leurs bords et leurs coins, de leurs contenus et emboîtements. Comment alors aurait-elle pu échapper au monde merveilleux des CSS ?"
+      },
+      {
+        "name": "Hugues Moreno",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/2aab0580ed4c26e5eb8e9f7af830873d.png",
+        "description": "Intégrateur HTML/CSS depuis cinq ans pour l'agence Gaya, sensibilisé très vite à l'accessibilité et confronté aux contraintes de production, Hugues Moreno assure, défend et maintient la conformité aux standards du Web."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Javascript De(ux) zéro",
+    "tags": [
+      "javascript"
+    ],
+    "description": "De nos jours, presque tous les sites modernes utilisent plus ou moins JavaScript. Pourtant, ce langage et son compagnon de toujours dans les pages web, le DOM, restent relativement méconnus. Une pensée très largement répandue est que les deux sont très compliqués et pas toujours agréables à utiliser de base, mais est-ce vraiment le cas ? Cette ré-introduction à JavaScript, DOM et consorts tente de prouver le contraire, en montrant ce qui existe, quels sont les pièges à éviter, et ce qu’on peut faire pour rester performant et compatible dans les navigateurs actuels.",
+    "authors": [
+      {
+        "name": "Mathieu Pillard",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/421bced5de455c5487d168390b59a8b0.png",
+        "description": "Touche à tout de l’informatique, Mathieu Pillard découvre le web dans les années 2000, avec l’explosion simultanée du DHTML et des starts-ups. Il devient rapidement un défenseur (parfois un peu trop) acharné des standards, notamment sur les forums et newsgroups."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Les nouvelles technologies du Web",
+    "tags": [
+      "histoire et prospective"
+    ],
+    "description": "Présentations et démonstration des avancées technologiques dans les dernières versions de vos navigateurs, ainsi qu’un avant goût des futures technologies des standards du web. En vrac :",
+    "authors": [
+      {
+        "name": "Laurent Jouanneau",
+        "picture": "http://www.paris-web.fr/2008/squelettes/img/avatar-orateurs-defaut.png",
+        "description": "Laurent Jouanneau a découvert l’informatique, lorsque le père Noël lui a apporté un Thomson TO9 flambant neuf un certain 25 décembre 1985. Depuis son treizième hiver donc, il connaît une passion immodérée pour le développement. Il a grandi à l’ombre d’un écran d’ordinateur (ou presque, rassurez-vous), apprenant une multitudes de langages qui vont du Basic, au C/C++ en passant par l’Assembleur."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Rédaction Web et référencement naturel",
+    "tags": [
+      "référencement"
+    ],
+    "description": "Sur le web, l'écriture doit être adaptée au média pour capter et retenir l'attention de l'internaute, mais également pour favoriser le positionnement des contenus sur les moteurs de recherche.  La rédaction web s'appuie sur des principes de priorisation, de  concision. Comment présenter des textes utilisables et lisibles, mais  aussi trouvables par les moteurs de recherche?",
+    "authors": [
+      {
+        "name": "Isabelle Canivet",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/f92d03a346d578fe40651a0d562657f9.png",
+        "description": "Forte de dix années d’expérience dans la communication web au Grand-Duché de Luxembourg – où elle fut notamment responsable du département Web dans une agence de communication web – Isabelle Canivet a fondé la société action-redaction.com, spécialisée dans la rédaction web, la formation à l’écriture web et l’architecture d’information."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "2UNL",
+    "tags": [
+      "ressources humaines",
+      "optimisation"
+    ],
+    "description": "Soumettre aux professionnels le principe de standardisation des méthodes de conception, la nécessité d’un jargon métier et ouvrir une discussion sur la question.",
+    "authors": [
+      {
+        "name": "Christophe Cotin-Valois",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/4c634d22895ee20883b13cd97f6556af.png",
+        "description": "Directeur du pôle architecture de l’information chez Digitas"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Playing with Opera stuff",
+    "tags": [
+
+    ],
+    "description": "Description plus complète à venir.",
+    "authors": [
+      {
+        "name": "Charles MacCathieNeville",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/15c099b80ee820b2098cfb6378e89c7b.png",
+        "description": "Charles MacCathieNeville est responsable des standards chez Opera Software, poste qu’il occupe depuis un peu plus de deux ans. Auparavant employé par le W3C pendant six ans, il traitait de sujets concernant le Web sémantique et l’accessibilité."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "L’accessibilité du Web, ça sert à tous",
+    "tags": [
+      "accessibilité"
+    ],
+    "description": "Cet atelier montrera les diverses approches de l'accessibilté du Web, des exemples de difficultés souvent peu ou mal connues (dyslexie, hyperkinésie, photosensibilité, surdité…). Un débat donnera largement la parole au public et pourrait dégager des pistes pour diffuser l'importance de l'accessibilité hors du cercle des convaincus (cibles : internautes, décideurs, responsables de formation… ; supports : Web, presse écrite et audio-visuelle, associations…)",
+    "authors": [
+      {
+        "name": "Monique Brunel",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/1be8b2e9176bdb79b4ecec61b101cf14.png",
+        "description": "Avec des diplômes d'institutrice primaire et de gestion d'une bibliothèque, elle a exercé la profession de secrétaire-bibliothécaire dans divers établissements scolaires. Perte d'emploi et découverte d'Internet ont coïncidé en 1999, c'était une belle occasion de découvrir de nouveaux horizons et de mettre en ligne un site pour un club d'athlétisme. Le doigt était mis dans l'engrenage. Son goût pour le partage des connaissances a trouvé à s'exprimer via Usenet d'abord (où elle reçoit ses premières vraies leçons sur les CSS par Fabrice Bonny à l'époque où OpenWeb était en gestation), au travers d'une participation à des projets communautaires ensuite (les forums Webmaster-Hub et Alsacréations, le projet Opquast, le collectif OpenWeb, l'encyclopédie Wikipédia, l'annuaire Dmoz...)."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Performance Web côté client",
+    "tags": [
+      "optimisation"
+    ],
+    "description": "80% des problèmes de performance Web se situent au niveau des échanges avec le navigateur et sur le navigateur lui-même : échanges réseau, rendu dans le navigateur, organisation des composants dans une page etc.     Nous aborderons les principales problématiques et les solutions à mettre en œuvre. Forts de l'expérience de l’équipe performance de Yahoo!, à la fin de cette session, vous saurez aborder la question des performances Web du point de vue du visiteur et mettre en œuvre les actions correctrices sur vos sites Web.",
+    "authors": [
+      {
+        "name": "Éric Daspet",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/1d2acdd5545a23d4177a5391ac0f05a7.png",
+        "description": "Entré sur le web avec les première versions du langage PHP, Éric finit par écrire le livre « PHP 5 avancé » aux éditions Eyrolles, en cinquième édition à l'écriture de ces lignes."
+      },
+      {
+        "name": "Nicole Sullivan",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/4b41bd26427db96449c3b2fb358fdd4b.png",
+        "description": "Nicole Sullivan est un Ingénieur Expert en Performance chez Yahoo!. Elle fait partie de  l'équipe qui s'occupe de rechercher des moyens de mesurer et d'améliorer les performance de tous les sites de Yahoo! dans le monde."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Validation avancée des formulaires",
+    "tags": [
+      "accessibilité",
+      "javascript",
+      "interaction"
+    ],
+    "description": "Les formulaires sont des éléments absolument fondamentaux pour les services en ligne. Ils permettent l'interaction, la collecte de données, le feedback auprès des administrateurs, et bien sûr, ils sont un pré-requis essentiel pour les applications avancées sur le Web. Parmi les exigences qui les concernent, citons notamment leur utilisabilité, leur capacité à prévenir et à corriger les erreurs des utilisateurs, et bien sûr leur accessibilité. Finalement, la conception d'un formulaire accessible et utilisable n'est pas une mince affaire. Dans cette présentation orientée technique (Javascript, DOM) nous allons aborder la validation des données coté client. Á travers la conception étape par étape d'un exemple, nous délivrerons quelques idées permettant de répondre à ces exigences (performance, accessibilité, utilisabilité, etc.) dans un contexte d'industrialisation des services et des développements.",
+    "authors": [
+      {
+        "name": "Harmen Christophe",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/690d9baa7c76e7dfc28ea8aaa4198d08.png",
+        "description": "Issu d’une formation universitaire en sciences cognitives, Harmen tombe à la fin du siècle dernier – et un peu par hasard (accompagné d’un modem 14 k) – sur un truc appelé le Web. Intrigué, il élabore non sans sueurs sa première page HTML (tendre souvenir). Aïe ! Confronté à deux géants de la navigation, il manque d’abandonner tant la tâche semblait impossible."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "jQuery et accessibilité",
+    "tags": [
+      "accessibilité",
+      "javascript"
+    ],
+    "description": "Sur une série de cas-types de recours à jQuery (cacher/montrer un contenu, menus dynamiques, popups, diaporamas, validation de formulaire, calendrier de saisie), cet atelier montre : L’atelier vise à donner des solutions dans certains cas fréquents, mais surtout à montrer quelle démarche peut être adoptée par un développeur sans expertise spécifique en accessibilité.",
+    "authors": [
+      {
+        "name": "Laurent Denis",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/f371e40e9a5b859297c6acb26db199a4.png",
+        "description": "Utilisateur du Web passé de l’autre côté de la barrière, puis co-fondateur d’OpenWeb, Laurent a publié divers articles consacrés au XHTML, aux CSS et à l’accessibilité."
+      },
+      {
+        "name": "Fabrice Bonny",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/31c3c436a60cfc4eb28c0d4a4f5422b4.png",
+        "description": "Consultant associé"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Using and remixing the web and systems",
+    "tags": [
+      "javascript",
+      "widget",
+      "syndication"
+    ],
+    "description": "Dans cet atelier, nous verrons comme il est devenu facile de remixer du contenu depuis un site web ou obtenir des informations depuis une resource externe pour pimenter vos propres sites. Nous découvrirons comment transformer n'importe quel contenu RSS sur le Web en widget pour votre usage personnel, récupérer et partager des vidéos puis comment construire votre propre interface de recherche web en n'utilisant rien d'autre qu'un formulaire et quelques lignes de JavaScript.",
+    "authors": [
+      {
+        "name": "Christian Heilmann",
+        "picture": "http://www.paris-web.fr/2008/squelettes/img/avatar-orateurs-defaut.png",
+        "description": "Évangéliste Développeurs"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Comment rendre mes vidéos accessibles ?",
+    "tags": [
+      "accessibilité",
+      "vidéo"
+    ],
+    "description": "La question effraie bien souvent. Rendre ses vidéos accessibles à tous peut paraître complexe et coûteux à mettre en œuvre. Qu’en est-il réellement ? Cet atelier a pour objectif de vous faire comprendre les recommandations existantes en matière d’accessibilité des vidéos. Nous travaillerons ensemble sur des exemples de vidéos concrets comme des interviews, des conférences ou des courts-métrages. Nous verrons comment écrire les retranscriptions et les sous-titres, enregistrer les audio-descriptions et synchroniser ces différents contenus. Cet atelier vous fera découvrir les méthodes et outils (comme la spécification SMIL du W3C) qui permettront de rendre vos vidéos accessibles au plus grand nombre. Vous serez alors prêt à apporter votre aide à l’équipe de Paris-Web pour travailler sur les vidéos des conférences de l’édition 2008 !",
+    "authors": [
+      {
+        "name": "Sébastien Delorme",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/1c16bc35aa673139776344df55013635.png",
+        "description": "Sébastien est chargé de mission accessibilité numérique au sein de la société Atalan. Il intervient sur des missions de conseil et d’assistance technique et dans la réalisation d’audits d’accessibilité auprès de clients comme Areva, Capgemini, Carrefour, GDF Suez ou Lafarge. Sébastien est également en charge de l’animation des formations sur le thème de l’accessibilité du Web."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Développement efficace avec les frameworks CSS",
+    "tags": [
+      "CSS"
+    ],
+    "description": "Méconnus ou dénigrés, les frameworks ou briques de développement CSS ont pourtant atteint un certain seuil de maturité. Elles permettent entre autre de gommer les différences entre les navigateurs, d’apporter des facilités de mise en forme, d’adapter la typographie utilisateur et surtout, de gagner du temps en harmonisant vos habitudes de développement d’un projet à un autre. Vous en saurez davantage sur les attentes vis-à-vis d’un frameworks, les raisons de les adopter... ou de les écarter dans des projets, personnels et professionnels.",
+    "authors": [
+      {
+        "name": "Thomas Parisot",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/85fa151e0fd8dbb2b364924af20e512b.png",
+        "description": "Consultant Web, accessibilité et respect des standards chez Clever Age"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Enrichissement progressif de sites Web",
+    "tags": [
+      "accessibilité",
+      "design"
+    ],
+    "description": "Les standards internationaux de développement Web encouragent une approche graduée afin de garantir aux utilisateurs de ce medium un accès aussi universel que possible à l’information. Malheureusement ces processus de développement sont trop souvent négligés au profit d’interfaces utilisateur dynamiques et très attrayantes mais peu ou pas appropriées à l’audience hétérogène du Web. Les conséquences techniques voire même légales de ces pratiques sont souvent ignorées. La présentation portera sur les concepts de l’enrichissement d’un site et  l’application pratique de ces concepts, partant du document et sa valeur  sémantique pour arriver aux mêmes interfaces riches. Des études de cas seront utilisées pour illustrer l’importance de l’accessibilité, l’enrichissement progressif, la dégradation gracieuse et les raisons d’être de ces techniques.",
+    "authors": [
+      {
+        "name": "Cyril Doussin",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/cccdda9fc39616cc218e8f0be1cb1c2c.png",
+        "description": "Web developer"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "RDFa vs Microformats",
+    "tags": [
+      "sémantique"
+    ],
+    "description": "Au-delà de la simple sémantique issue des balises HTML employées, il est possible de donner davantage de sens à vos contenus web afin de les rendre plus facilement réutilisables. Issus de deux philosophies distinctes, RDFa et les Microformats sont deux approches différentes mais non concurrentes dont le but est de révolutionner les possibilités offertes par le data mining et les outils de recherche. Nous tenterons de vous transmettre outils, techniques, trucs et astuces, mais surtout l’utilité de tels standards à travers des exemples concrets d’utilisation.",
+    "authors": [
+      {
+        "name": "David Larlet",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/d8211aac7326a454eb28d10b0c62730e.png",
+        "description": "Concepteur d’applications Web en freelance"
+      },
+      {
+        "name": "Frédéric de Villamil",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/b6db8f0ad03f65d346fc188e4efc202a.png",
+        "description": "Responsable QA"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Firebug, Web Inspector : des outils indispensables",
+    "tags": [
+      "design",
+      "outils"
+    ],
+    "description": "Les documents que nous développons sont de moins en moins statiques. Une fois le code écrit, il faut comprendre l’interprétation qu’en font les navigateurs. Nous découvrirons et utiliserons ces deux outils pour répondre à ce genre de questions et plus. Nous parlerons aussi de la Console API et des outils en ligne de commande. Note : Anthony vous propose d’arriver avec vos ordinateurs portables, Firefox 3.0 et Safari 3.1 préinstallés.",
+    "authors": [
+      {
+        "name": "Anthony Ricaud",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/9d799967320aacbd8c53227c659b7c87.png",
+        "description": "Jeune diplômé de l’ENSEIRB, Anthony a décidé de s’orienter vers le Web, de préférence de qualité. Il a donc rejoint Téléfun, société éditrice de Skyrock.com, pour travailler sur des projets à fortes contraintes."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Accessibilité par les utilisateurs",
+    "tags": [
+      "accessibilité"
+    ],
+    "description": "Quelle utilisation du Web aujourd’hui pour un utilisateur aveugle ? Barrières et ouvertures À travers des exemples très concrets, Tanguy Lohéac montrera ce qu’il est aujourd’hui possible de faire ou non pour une personne aveugle qui souhaite participer pleinement à la vie du net.",
+    "authors": [
+      {
+        "name": "Tanguy Loheac",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/8c3499e73e6ccc2ce08613695fdb3e30.png",
+        "description": "Responsable accessibilité chez Sanofi-aventis"
+      },
+      {
+        "name": "Fernando Pinto da Silva",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/ec6a0000558aad302394f66ceb218dbc.png",
+        "description": "Chef de projet informatique à l’AVH, Fernando est aussi Président de la Commission NTIC du CNPSAA."
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "type": "workshop",
+    "title": "Optimiser ses CSS",
+    "tags": [
+      "CSS",
+      "optimisation"
+    ],
+    "description": "On commence une feuille de style, on la complète, on l’étoffe... Le poids augmente, les propriétés contradictoires et mal optimisées s’accumulent. On ne s’y retrouve plus. Vous désirez clarifier et optimiser vos feuilles de style ? Apprendre des trucs et astuces ? Les animateurs de cet atelier se proposent de vous y aider. Nous débattrons tous ensemble des options afin de les rendre légères et efficaces. Afin de mieux préparer les solutions possibles, envoyez-nous par mail l’url de votre site et une description éventuelle de vos attentes. Nous y répondrons lors du déroulement de l’atelier dans la mesure du possible. Date limite d’envoi : Vendredi 7 novembre.",
+    "authors": [
+      {
+        "name": "Pascale Lambert Charreteur",
+        "picture": "http://www.paris-web.fr/2008/local/cache-gd2/0be3841e30db705528e4d8963fc8ad4e.png",
+        "description": "Enseignante dans l’Académie de Rouen, Pascale est aussi formatrice TICE et webmestre des sites de son lycée et du pôle disciplinaire Math-Sciences de son académie."
       }
     ]
   }
