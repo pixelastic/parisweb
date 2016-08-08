@@ -12,6 +12,8 @@ class Selector2009
   def initialize
     @sessions_filepath = Dir[File.expand_path('./data/2009/sessions*.html')]
     @authors_filepath = Dir[File.expand_path('./data/2009/authors/*.html')]
+    @workshop_filepath = File.expand_path('./data/2009/workshops.html')
+    @ressources_filepath = File.expand_path('./data/2009/ressources.html')
   end
 
   def clean_text(text)
@@ -39,6 +41,7 @@ class Selector2009
     links = element(tags, 'a')
     authors = []
     links.each do |link|
+      next if link.attr('href') =~ /^http/
       authors << {
         name: clean_text(link.text)
       }
@@ -55,6 +58,7 @@ class Selector2009
       events.each do |event|
         sessions << {
           year: 2009,
+          type: 'conference',
           title: title(event),
           description: description(event),
           authors: authors(event)
@@ -62,11 +66,35 @@ class Selector2009
       end
     end
 
+    sessions += workshops
+
     sessions = sessions.reject do |session|
       session[:description].nil?
     end
 
     sessions
+  end
+
+  def workshops
+    doc = Nokogiri::HTML(File.open(@workshop_filepath).read)
+    workshops = []
+
+    events = element(doc, '.vevent[id^="hcalendar"]')
+    events.each do |event|
+      element(event, 'h3 span,h3 small,h3 abbr').remove
+      title = clean_text(element(event, 'h3').text)
+      next unless title['()']
+      title = title.delete('()').strip
+      workshops << {
+        year: 2009,
+        type: 'workshop',
+        title: title,
+        description: description(event),
+        authors: authors(event)
+      }
+    end
+
+    workshops
   end
 
   def add_authors(sessions)
@@ -98,6 +126,47 @@ class Selector2009
     sessions.reject(&:nil?)
   end
 
+  def add_ressources(sessions)
+    doc = Nokogiri::HTML(File.open(@ressources_filepath).read)
+    ressources = {}
+
+    lines = element(doc, 'tbody tr')
+    lines.each do |line|
+      element(line, 'td[rowspan="14"]').remove
+      author_cell = element(line, 'td')[1]
+      element(author_cell, 'small').remove
+      slug = clean_text(author_cell.text).slugify
+
+      ressources[slug] = {}
+
+      slides = attribute(line, 'a[href$="pdf"],a[href$="zip"]', 'href')
+      ressources[slug][:slides] = slides
+
+      video = attribute(line, 'a[href^="http://www.dailymotion"]', 'href')
+      ressources[slug][:video] = video
+    end
+
+    sessions.each do |session|
+      next if session[:type] == 'workshop'
+      slug = session[:authors].map do |author|
+        author[:name]
+      end.join('-').slugify
+
+      slug = 'tristan-nitot--paul-rouget' if slug == 'tristan-nitot-paul-rouget'
+      slug = 'aurelien-levy--sebastien-delorme' if slug == 'aurelien-levy-sebastien-delorme'
+      slug = 'florent-verschelde--benjamin-de-cock' if slug == 'florent-verschelde-benjamin-de-cock'
+
+      if ressources[slug].nil?
+        ap ressources.keys
+        ap slug
+      end
+
+      session[:ressources] = ressources[slug]
+    end
+
+    sessions
+  end
+
   def author_description(author)
     paras = element(author, '#orateur p')
     paras.each do |para|
@@ -109,6 +178,7 @@ class Selector2009
 
   def run
     content = add_authors(sessions)
+    content = add_ressources(content)
     ap content
 
     output = HelperPath.record('2009')
