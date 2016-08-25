@@ -12,12 +12,17 @@ let Search = {
       }
     });
 
+    this.showMoreTemplates = {
+      inactive:'<a class="ais-show-more ais-show-more__inactive">Voir plus</a>',
+      active:'<a class="ais-show-more ais-show-more__active">Voir moins</a>'
+    }
+
     this.search.on('render', this.onRender);
 
     this.addSearchBoxWidget();
     // this.addStatsWidget();
-    // this.addTeamsWidget();
-    // this.addAuthorsWidget();
+    this.addTagsWidget();
+    this.addAuthorsWidget();
     // this.addPowersWidget();
     // this.addSpeciesWidget();
     this.addHitsWidget();
@@ -27,9 +32,10 @@ let Search = {
     this.search.start();
   },
   cloudinary(url, options) {
-    let baseUrl = 'http://res.cloudinary.com/pixelastic-marvel/image/fetch/';
+    let baseUrl = 'http://res.cloudinary.com/pixelastic-parisweb/image/fetch/';
     let stringOptions = [];
 
+    // http://res.cloudinary.com/pixelastic-parisweb/image/fetch/h_50,q_90,c_scale,r_max,f_auto/https://www.paris-web.fr/2015/assets_c/2015/05/Martin%20Naumann-thumb-143x143-487.jpg
     // Handle common Cloudinary options
     if (options.width) {
       stringOptions.push(`w_${options.width}`);
@@ -43,11 +49,17 @@ let Search = {
     if (options.crop) {
       stringOptions.push(`c_${options.crop}`);
     }
+    if (options.radius) {
+      stringOptions.push(`r_${options.radius}`);
+    }
     if (options.format) {
       stringOptions.push(`f_${options.format}`);
     }
     if (options.colorize) {
       stringOptions.push(`e_colorize:${options.colorize}`);
+    }
+    if (options.grayscale) {
+      stringOptions.push(`e_grayscale`);
     }
     if (options.color) {
       stringOptions.push(`co_rgb:${options.color}`);
@@ -59,23 +71,9 @@ let Search = {
     // Fix remote urls
     url = url.replace(/^\/\//, 'http://');
 
-
     return `${baseUrl}${stringOptions.join(',')}/${url}`;
   },
   transformItem(data) {
-    // Thumbnail
-    let thumbnail = _.get(data, 'images.thumbnail');
-    if (thumbnail) {
-      thumbnail = Search.cloudinary(thumbnail, {
-        width: 200,
-        quality: 90,
-        crop: 'scale',
-        format: 'auto'
-      });
-    } else {
-      thumbnail = './img/hit-default.jpg';
-    }
-
     // All items are defered loading their images until in viewport, except
     // the 4 first
     let inViewport = false;
@@ -84,15 +82,45 @@ let Search = {
     }
     Search.lazyloadCounter++;
 
+    let isConference = data.type == 'conference';
+    let isWorkshop = data.type == 'workshop';
+
+    let description = data._snippetResult.description.value;
+    description = description.replace(' …', '…');
+
+    // Get only authors name and pictures
+    // TODO: It should be possible to further select/unselect on clicking on
+    // authors
+    let authors = _.map(data.authors, (author, index) => {
+      let picture = Search.cloudinary(author.picture, {
+        height: 50,
+        width: 50,
+        quality: 90,
+        grayscale: true,
+        crop: 'scale',
+        radius: 'max',
+        format: 'auto'
+      });
+      return {
+        name: data._highlightResult.authors[index].name.value,
+        picture
+      }
+    });
+
+    // TODO: Tags
+    // - We should be able to click on tags to further select/unselect them
+    // - If a selection is currently made on a tag, it should be visible
+
     let displayData = {
       uuid: data.objectID,
-      title: data.title,
-      description: data.description,
-      highlightedTitle: Search.getHighlightedValue(data, 'title'),
-      highlightedDescription: Search.getHighlightedValue(data, 'description'),
+      inViewport,
+      isConference,
+      isWorkshop,
+      title: Search.getHighlightedValue(data, 'title'),
+      description,
       year: data.year,
-      type: data.type,
-      inViewport
+      tags: data.tags,
+      authors
     };
 
     return displayData;
@@ -128,30 +156,16 @@ let Search = {
       })
     );
   },
-  addTeamsWidget() {
+  addTagsWidget() {
     this.search.addWidget(
       instantsearch.widgets.refinementList({
-        container: '#teams',
-        attributeName: 'teams',
+        container: '#tags',
+        attributeName: 'tags',
         operator: 'and',
         limit: 10,
-        sortBy: ['isRefined', 'count:desc', 'name:asc'],
         showMore: {
-          limit: 20
-        }
-      })
-    );
-  },
-  addPowersWidget() {
-    this.search.addWidget(
-      instantsearch.widgets.refinementList({
-        container: '#powers',
-        attributeName: 'powers',
-        operator: 'and',
-        limit: 10,
-        sortBy: ['isRefined', 'count:desc', 'name:asc'],
-        showMore: {
-          limit: 20
+          limit: 20,
+          templates: Search.showMoreTemplates
         }
       })
     );
@@ -160,12 +174,13 @@ let Search = {
     this.search.addWidget(
       instantsearch.widgets.refinementList({
         container: '#authors',
-        attributeName: 'authors',
-        operator: 'and',
-        limit: 10,
+        attributeName: 'authors.name',
+        operator: 'or',
         sortBy: ['isRefined', 'count:desc', 'name:asc'],
+        limit: 10,
         showMore: {
-          limit: 20
+          limit: 20,
+          templates: Search.showMoreTemplates
         }
       })
     );
@@ -181,18 +196,17 @@ let Search = {
       })
     );
   },
-  hitTemplate(data) {
-    let hitTemplate = $('#hitTemplate').html();
-    console.info(data);
-    return "nope"
-  },
   addHitsWidget() {
+    let hitTemplate = $('#hitTemplate').html();
     this.search.addWidget(
       instantsearch.widgets.hits({
         container: '#hits',
         hitsPerPage: 10,
         templates: {
-          item: Search.hitTemplate
+          item: hitTemplate
+        },
+        transformData: {
+          item: Search.transformItem
         }
       })
     );
@@ -220,4 +234,3 @@ let Search = {
 };
 
 export default Search;
-

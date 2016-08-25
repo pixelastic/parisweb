@@ -33,6 +33,7 @@ class Selector2006
         title: text,
         authors: author,
         description: description,
+        type: 'conference',
         year: 2006
       }
     end

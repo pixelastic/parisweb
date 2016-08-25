@@ -7,57 +7,17 @@
 
 // Each hit
 .ais-hits--item {
-  flex: 1 1 400px;
+  flex: 1 1 800px;
 }
 
 // Hit template
 .hit {
   margin: 5px;
   height: 200px;
+  padding: 1rem;
   overflow: hidden;
-  border: 1px solid darken(#eff0f1, 10%);
-  box-shadow: 0 1px 0 #c5cad8, 0 2px 3px #d4d8e3;
-  display: flex;
-  flex-flow: row nowrap;
-  cursor: pointer;
-}
-
-.hit--thumbnail {
-  flex: 0 1 33%;
+  background: white;
   position: relative;
-  background: {
-    image: url(./img/hit-default.jpg);
-    repeat: no-repeat;
-    position: top center;
-    size: cover;
-  }
-  // Image placehold after loading
-  &:before {
-    box-shadow: inset -16px 0 3em rgba(0,0,0,0.5);
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: {
-      repeat: no-repeat;
-      position: top center;
-      size: cover;
-    }
-  }
-}
-.hit--content {
-  flex: 1 1;
-  padding: .5rem 1rem;
-  position: relative;
-  overflow: hidden;
-  background: {
-    repeat: no-repeat;
-    position: top center;
-    size: cover;
-  }
-  // Fade out
   &:after {
     content: "";
     position: absolute;
@@ -65,37 +25,79 @@
     right: 0;
     left: 0;
     height: 2rem;
-    background: linear-gradient(to bottom, rgba(black, 0), rgba(black, 1) 90%);
+    background: linear-gradient(to bottom, transparent, #FFF 90%);
     display: block;
   }
+  &.hit__isConference {
+    border: 2px solid $pink;
+  }
+  &.hit__isWorkshop {
+    border: 2px solid $blue;
+  }
 }
+ 
+.search-hit--highlight {
+  color: $pink;
+  font-weight: bold;
+}
+
+.hit--year {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  text-align: right;
+  background: $light-blue;
+  padding: .5rem;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
 .hit--title {
   margin: 0;
   font-family: 'Title';
-  color: #FFF;
+  color: $pink;
+  margin-right: 4rem;
   font-size: 1.9rem;
-  text-shadow: 1px 1px 1px lighten(#000, 50);
-  // Highlight
-  em {
-    color: $red;
-  }
-}
-.hit--description {
-  color: darken(#FFF, 50);
-  font-size: .9rem;
-  line-height: 1.1rem;
-  em {
-    font-style: normal;
-    font-weight: bold;
-    color: $red;
+  .search-hit--highlight {
+    background: $light-blue;
+    padding: 0 .1rem;
   }
 }
 
-// Help when matching in a specific attribute not usually displayed
-.hit--matching {
-  margin-top: 1rem;
-  font-style: italic;
-  em {
-    font-style: italic;
+.hit--authors {
+  margin-top: .5rem;
+}
+
+.hit--author {
+  $author-size: 40px;
+  font-size: .9rem;
+  height: $author-size;
+  line-height: $author-size;
+  padding-left: $author-size + 10px;
+  padding-right: 10px;
+  display: inline-block;
+  background: {
+    repeat: no-repeat;
+    position: 0px 0px;
+    size: $author-size;
   }
 }
+
+.hit--tags {
+  margin-top: .5rem;
+}
+.hit--tag {
+  font-size: .9rem;
+  display: inline-block;
+  &:before {
+    content: '#';
+  }
+}
+
+.hit--description {
+  padding-top: .5rem;
+  font-size: .9rem;
+  line-height: 1.1rem;
+  position: relative;
+}
+

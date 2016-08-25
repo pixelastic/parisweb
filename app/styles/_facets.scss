@@ -4,7 +4,7 @@ $checkbox-mark-height: 13px;
 $checkbox-mark-width: $checkbox-mark-height;
 $checkbox-background-color: #BDC3C7;
 $checkbox-mark-color: #FFF;
-$checkbox-active-background-color: #F11E22;
+$checkbox-active-background-color: $pink;
 
 .ais-refinement-list {
   margin-bottom: 1.3rem;
@@ -26,9 +26,6 @@ $checkbox-active-background-color: #F11E22;
   white-space: nowrap;
   padding-left: $checkbox-width + 5px;
   position: relative;
-  &:hover {
-    color: $brand-primary;
-  }
 
   // Fake checkbox made with before/after
   &:before, &:after {
@@ -91,12 +88,12 @@ $checkbox-active-background-color: #F11E22;
   color: #000;
   cursor: pointer;
   &:before {
-    content: "+ "
+    content: "[+] "
   }
 }
 .ais-show-more__active {
   &:before {
-    content: "- "
+    content: "[-] "
   }
 }
  

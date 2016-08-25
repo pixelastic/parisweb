@@ -4,8 +4,13 @@ require 'bundler/setup'
 require_relative '../lib/helper_extract'
 require_relative '../lib/helper_push'
 
-records = HelperExtract.all_records
-records = records.flatten
+records = HelperExtract.all_records.flatten
+
+# Remove all record from 2016
+records = records.reject do |record|
+  true if record['year'] == 2016
+end
+
 app_id = 'O3F8QXYK6R'
 index = 'parisweb'
 index_tmp = 'parisweb_tmp'
@@ -25,6 +30,10 @@ settings = {
     'tags',
     'authors.name'
   ],
+  attributesToSnippet: %w(
+    description:50
+  ),
+  snippetEllipsisText: '…',
   highlightPreTag: '<span class="search-hit--highlight">',
   highlightPostTag: '</span>'
 }
