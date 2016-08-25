@@ -131,7 +131,7 @@ var Search = {
     this.search.start();
   },
   cloudinary: function cloudinary(url, options) {
-    var baseUrl = 'http://res.cloudinary.com/pixelastic-parisweb/image/fetch/';
+    var baseUrl = 'https://res.cloudinary.com/pixelastic-parisweb/image/fetch/';
     var stringOptions = [];
 
     // http://res.cloudinary.com/pixelastic-parisweb/image/fetch/h_50,q_90,c_scale,r_max,f_auto/https://www.paris-web.fr/2015/assets_c/2015/05/Martin%20Naumann-thumb-143x143-487.jpg
