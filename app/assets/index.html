@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>ParisWeb</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css" />
+  <link rel="stylesheet" type="text/css" href="main.css" />
+  <link rel="shortcut icon" href="./favicon.ico">
+  <!--[if lte IE 9]>
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+  <![endif]-->
+  </head>
+
+  <body>
+
+    <header class="l-header">
+      <a href="./" class="header--home">
+        <img src="img/logo.png" class="header--logo" alt="Home logo" />
+      </a>
+      <div class="header--input-wrapper">
+        <input type="text" class="header--input" id="q" />
+      </div>
+      <div class="header--infos">
+        <div id="current-refined-values" class="header--current-refined-values"></div>
+        <div id="stats" class="header--stats"></div>
+      </div>
+      <a href="https://www.algolia.com/" class="header--algolia">
+        Recherche et ♥ par <img src="img/logo-algolia.svg" class="header--algolia-logo" alt="Algolia logo" />
+      </a>
+    </header>
+
+    <div class="l-container js-container">
+      <aside class="l-sidebar">
+        <div id="clear-all"></div>
+        <section class="facet-wrapper">
+          <h3 class="facet--title">Année</h3>
+          <div id="year" class="facet"></div>
+          <h3 class="facet--title">Type</h3>
+          <div id="type" class="facet"></div>
+          <h3 class="facet--title">Tags</h3>
+          <div id="tags" class="facet"></div>
+          <h3 class="facet--title">Speaker</h3>
+          <div id="authors" class="facet"></div>
+        </section>
+        <div class="thank-you">
+          <p>Code disponible sur <a href="https://github.com/pixelastic/parisweb/">GitHub</a>.</p>
+        </div>
+      </aside>
+
+      <div class="l-results">
+        <div class="hits" id="hits"></div>
+        <div class="pagination" id="pagination"></div>
+      </div>
+    </div>
+
+    <script id="hitTemplate" language="x-template">
+      <article class="hit {{#inViewport}}hit__inViewport{{/inViewport}}">
+        <div class="hit--thumbnail"></div>
+
+        <div class="hit--content">
+          <h3 class="hit--title">{{{highlightedName}}}</h3>
+
+          <div class="hit--description">
+            <p>{{{highlightedDescription}}}</p>
+          </div>
+        </div>
+      </article>
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/g/lodash@4.11.1,jquery@2.2.1,instantsearch.js@1.8.2,hogan.js@3.0.2"></script>
+    <script src="./js/in-viewport.min.js"></script>
+    <script src="app.js"></script>
+    <script>require('app').default.init()</script>
+  </body>
+</html>
+
+

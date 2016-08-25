@@ -1,0 +1,18 @@
+$base-font-size: 16px;
+
+// Colors
+$pink: #ef509d;
+$blue: #1c9ec2;
+$light-blue: #d2f1f8;
+$background-blue: #D5F4FA;
+$text-color: #494949;
+
+// UI dimensions
+$header-height: 60px;
+$sidebar-width: 250px;
+$hits-width: 640px;
+
+// RWD breakpoints
+$breakpoint-sidebar: $sidebar-width + $hits-width;
+$breakpoint-header--algolia: 768px;
+$breakpoint-header--current-refined: 1080px;

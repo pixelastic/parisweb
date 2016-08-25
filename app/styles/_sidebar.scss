@@ -1,0 +1,21 @@
+.l-sidebar {
+  padding: 20px 15px 20px 20px;
+  background: white;
+  border-right: 3px solid $blue;
+}
+
+// Titles of each facet
+.facet--title {
+  font-size: 1.8rem;
+  margin: 0 0 8px;
+  color: $text-color;
+}
+
+// Bottom page thank you note
+.thank-you {
+  border-top: 3px dotted rgb(221, 221, 221);
+  padding: .5rem 0px;
+  font-size: .9rem;
+  line-height: 1.2rem;
+  text-align: center;
+}

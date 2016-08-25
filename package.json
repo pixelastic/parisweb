@@ -1,0 +1,38 @@
+{
+  "name": "parisweb",
+  "version": "0.0.1",
+  "description": "Search in all the ParisWeb conferences",
+  "author": "Tim \"pixelastic\" Carry",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:pixelastic/parisweb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pixelastic/parisweb/issues"
+  },
+  "scripts": {
+    "push": "./scripts/push",
+    "build": "./scripts/build",
+    "serve": "./scripts/serve",
+    "deploy": "./scripts/deploy",
+    "postinstall": "./scripts/postinstall"
+  },
+  "devDependencies": {
+    "auto-reload-brunch": "2.0.0",
+    "babel": "5.8.29",
+    "babel-brunch": "6.0.2",
+    "babel-core": "5.8.29",
+    "babel-eslint": "4.1.6",
+    "babel-preset-es2015": "6.3.13",
+    "brunch": "2.4.2",
+    "eslint": "1.10.3",
+    "eslint-config-airbnb": "2.1.1",
+    "eslint-config-algolia": "4.5.0",
+    "eslint-plugin-algolia": "1.5.0",
+    "eslint-plugin-react": "3.11.3",
+    "gh-pages": "0.8.0",
+    "sass-brunch": "2.0.0"
+  },
+  "dependencies": {}
+}
