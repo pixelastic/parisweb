@@ -21,10 +21,10 @@ let Search = {
 
     this.addSearchBoxWidget();
     // this.addStatsWidget();
+    this.addTypeWidget();
+    this.addYearWidget();
     this.addTagsWidget();
     this.addAuthorsWidget();
-    // this.addPowersWidget();
-    // this.addSpeciesWidget();
     this.addHitsWidget();
     // this.addPaginationWidget();
     // this.addCurrentRefinedValues();
@@ -107,6 +107,13 @@ let Search = {
       }
     });
 
+    // TODO: Thumbnails
+    // If there is a dailymotion/youtube video, we can try to get the thumbnail
+    // Check if possible to get one from slideshare and other hosting
+    // webservices
+    // Otherwise, downloading the PDF, extracting the first page and pushing it
+    // along the content
+
     // TODO: Tags
     // - We should be able to click on tags to further select/unselect them
     // - If a selection is currently made on a tag, it should be visible
@@ -156,17 +163,24 @@ let Search = {
       })
     );
   },
-  addTagsWidget() {
+  addTypeWidget() {
     this.search.addWidget(
       instantsearch.widgets.refinementList({
-        container: '#tags',
-        attributeName: 'tags',
-        operator: 'and',
-        limit: 10,
-        showMore: {
-          limit: 20,
-          templates: Search.showMoreTemplates
-        }
+        container: '#type',
+        attributeName: 'type'
+      })
+    );
+  },
+  addYearWidget() {
+    this.search.addWidget(
+      instantsearch.widgets.rangeSlider({
+        container: '#year',
+        attributeName: 'year',
+        tooltips: {
+          format: _.parseInt
+        },
+        pips: false,
+        step: 1
       })
     );
   },
@@ -185,14 +199,17 @@ let Search = {
       })
     );
   },
-  addSpeciesWidget() {
+  addTagsWidget() {
     this.search.addWidget(
       instantsearch.widgets.refinementList({
-        container: '#species',
-        attributeName: 'species',
-        operator: 'or',
+        container: '#tags',
+        attributeName: 'tags',
+        operator: 'and',
         limit: 10,
-        sortBy: ['isRefined', 'count:desc', 'name:asc']
+        showMore: {
+          limit: 20,
+          templates: Search.showMoreTemplates
+        }
       })
     );
   },
