@@ -181,8 +181,8 @@ var Search = {
     }
     Search.lazyloadCounter++;
 
-    var isConference = data.type == 'conference';
-    var isWorkshop = data.type == 'workshop';
+    var isConference = data.type == 'Conférence';
+    var isWorkshop = data.type == 'Atelier';
 
     var description = data._snippetResult.description.value;
     description = description.replace(' …', '…');
