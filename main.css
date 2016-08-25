@@ -464,13 +464,14 @@ html, body {
   /* line 61, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
   .hit--title .search-hit--highlight {
     background: #d2f1f8;
-    padding: 0 .1rem; }
+    padding: 0 .1rem;
+    font-weight: normal; }
 
-/* line 67, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+/* line 68, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
 .hit--authors {
   margin-top: .5rem; }
 
-/* line 71, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+/* line 72, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
 .hit--author {
   font-size: .9rem;
   height: 40px;
@@ -482,19 +483,19 @@ html, body {
   background-position: 0px 0px;
   background-size: 40px; }
 
-/* line 86, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+/* line 87, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
 .hit--tags {
   margin-top: .5rem; }
 
-/* line 89, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+/* line 90, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
 .hit--tag {
   font-size: .9rem;
   display: inline-block; }
-  /* line 92, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+  /* line 93, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
   .hit--tag:before {
     content: '#'; }
 
-/* line 97, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+/* line 98, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
 .hit--description {
   padding-top: .5rem;
   font-size: .9rem;
