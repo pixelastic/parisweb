@@ -1,0 +1,35 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'bundler/setup'
+require_relative '../lib/helper_extract'
+require_relative '../lib/helper_push'
+
+records = HelperExtract.all_records
+records = records.flatten
+app_id = 'O3F8QXYK6R'
+index = 'parisweb'
+index_tmp = 'parisweb_tmp'
+
+settings = {
+  attributesToIndex: [
+    'title',
+    'description',
+    'authors.name'
+  ],
+  customRanking: [
+    'desc(year)'
+  ],
+  attributesForFacetting: [
+    'year',
+    'type',
+    'tags',
+    'authors.name'
+  ],
+  highlightPreTag: '<span class="search-hit--highlight">',
+  highlightPostTag: '</span>'
+}
+
+HelperPush.new(app_id)
+          .set_settings(index_tmp, settings)
+          .push_records(index_tmp, records)
+          .move_index(index_tmp, index)

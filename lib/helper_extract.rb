@@ -100,7 +100,7 @@ class HelperExtract
   # Returns:
   #   - Array: List of all records
   def self.all_records
-    Dir[File.expand_path('./data/records/**/*.json')].sort.map do |file|
+    Dir[File.expand_path('./records/**/*.json')].sort.map do |file|
       JSON.parse(File.open(file).read)
     end
   end
