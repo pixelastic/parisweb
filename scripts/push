@@ -11,6 +11,13 @@ records = records.reject do |record|
   true if record['year'] == 2016
 end
 
+# Quick and dirty hack to use a readable facet value
+records = records.map do |record|
+  record['type'] = 'Atelier' if record['type'] == 'workshop'
+  record['type'] = 'Conférence' if record['type'] == 'conference'
+  record
+end
+
 app_id = 'O3F8QXYK6R'
 index = 'parisweb'
 index_tmp = 'parisweb_tmp'

@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+npm run build
+rm -rf node_modules/gh-pages/.cache
+gh-pages --dist public --branch gh-pages
+echo "Website available on https://pixelastic.github.io/parisweb/"
