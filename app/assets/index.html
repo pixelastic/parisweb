@@ -34,14 +34,14 @@
       <aside class="l-sidebar">
         <div id="clear-all"></div>
         <section class="facet-wrapper">
-          <h3 class="facet--title">Année</h3>
-          <div id="year" class="facet"></div>
-          <h3 class="facet--title">Type</h3>
-          <div id="type" class="facet"></div>
-          <h3 class="facet--title">Speaker</h3>
-          <div id="authors" class="facet"></div>
           <h3 class="facet--title">Tags</h3>
           <div id="tags" class="facet"></div>
+          <h3 class="facet--title">Speaker</h3>
+          <div id="authors" class="facet"></div>
+          <h3 class="facet--title">Type</h3>
+          <div id="type" class="facet"></div>
+          <h3 class="facet--title">Année</h3>
+          <div id="year" class="facet facet__year"></div>
         </section>
         <div class="thank-you">
           <p>Code disponible sur <a href="https://github.com/pixelastic/parisweb/">GitHub</a>.</p>
@@ -56,16 +56,25 @@
 
     <script id="hitTemplate" language="x-template">
       <article class="hit {{#inViewport}}hit__inViewport{{/inViewport}} {{#isConference}}hit__isConference{{/isConference}} {{#isWorkshop}}hit__isWorkshop{{/isWorkshop}}">
-        <span class="hit--year">{{year}}</span>
+      <a href="https://www.paris-web.fr/{{year}}" target="_blank" class="hit--year">{{year}}</a>
         <h3 class="hit--title">{{{title}}}</h3>
         <ul class="hit--authors">
           {{#authors}}
-            <li class="hit--author" style="background-image: url({{picture}})">{{{name}}}</li>
+          <li 
+            class="hit--author js-facet-toggle {{#isRefined}}hit-facet__isRefined{{/isRefined}}" 
+            data-facet-name="authors.name"
+            data-facet-value="{{plainName}}"
+            style="background-image: url({{picture}})"
+            >{{{highlightedName}}}</li>
           {{/authors}}
         </ul>
         <ul class="hit--tags">
           {{#tags}}
-            <li class="hit--tag">{{{.}}}</li>
+          <li 
+            class="hit--tag js-facet-toggle {{#isRefined}}hit-facet__isRefined{{/isRefined}}" 
+            data-facet-name="tags" 
+            data-facet-value="{{plainValue}}"
+          >{{{highlightedValue}}}</li>
           {{/tags}}
         </ul>
         <div class="hit--description">
@@ -74,7 +83,7 @@
       </article>
     </script>
 
-    <script src="https://cdn.jsdelivr.net/g/lodash@4.11.1,jquery@2.2.1,instantsearch.js@1.8.2,hogan.js@3.0.2"></script>
+    <script src="https://cdn.jsdelivr.net/g/lodash@4.11.1,jquery@2.2.1,instantsearch.js@1.5.0,hogan.js@3.0.2"></script>
     <script src="./js/in-viewport.min.js"></script>
     <script src="app.js"></script>
     <script>require('app').default.init()</script>

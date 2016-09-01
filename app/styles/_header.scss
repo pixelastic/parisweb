@@ -2,29 +2,45 @@ $input-height: $header-height - 16px;
 $input-color-bright: #FFF;
 $input-color-dim: rgba(255, 255, 255, .8);
 $input-color-dimmer: rgba(255, 255, 255, .6);
-$input-width: 480px;
+$input-width__large: 480px;
 
 // Header
 .l-header {
   display: flex;
   flex-flow: row nowrap;
+  align-items: center;
   background: white;
   position: relative;
   border-bottom: 3px solid $pink;
 }
 
 // Main logo
+.header--home {
+  align-items: center;
+  margin-left: .5rem;
+  margin-right: .5rem;
+  @media (min-width: $breakpoint-header--input) {
+    margin-right: 1rem;
+  }
+}
+
 .header--logo {
-  height: $header-height - 9px;
-  margin: 3px 3rem 0 1rem;
+  height: 40px;
+  @media (min-width: $breakpoint-header--input) {
+    height: $header-height - 10px;
+  }
 }
 
 // Search input
 .header--input-wrapper {
   flex: 0;
+  flex-basis: 100%;
+  margin-right: 1rem;
   position: relative;
-  flex-basis: $input-width;
   height: $header-height;
+  @media (min-width: $breakpoint-header--input) {
+    flex-basis: $input-width__large;
+  }
 }
 .header--input {
   border: 0;
@@ -35,24 +51,29 @@ $input-width: 480px;
   line-height: $input-height;
   display: block;
   font-size: 1rem;
-  width: $input-width;
+  width: 100%;
   padding: 6px 20px;
   margin-top: 8px;
   background: {
     color: $pink;
     image: url("./img/svg-icons/search-icon.svg");
     repeat: no-repeat;
-    position: ($input-width - 44px) 5px;
+    position: 98% 5px;
     size: 36px;
   }
   @include placeholders{
-    color: $input-color-dim;
+    color: transparent;
+    @media (min-width: $breakpoint-header--placeholder) {
+      color: $input-color-dim;
+    }
   }
   &:focus {
     outline-color: transparent;
     color: $input-color-bright;
     @include placeholders{
-      color: $input-color-dimmer;
+      @media (min-width: $breakpoint-header--placeholder) {
+        color: $input-color-bright;
+      }
     }
   }
 }
@@ -143,6 +164,7 @@ $input-width: 480px;
 // Powered by Algolia
 .header--algolia {
   display: none;
+  flex-grow: 1;
   color: $text-color;
   text-align: right;
   line-height: $header-height;

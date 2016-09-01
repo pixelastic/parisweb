@@ -26,6 +26,7 @@ settings = {
   attributesToIndex: [
     'title',
     'description',
+    'tags',
     'authors.name'
   ],
   customRanking: [

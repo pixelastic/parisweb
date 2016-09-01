@@ -37,8 +37,8 @@
 }
  
 .search-hit--highlight {
-  color: $pink;
-  font-weight: bold;
+  background: $light-blue;
+  padding: 0 .1rem;
 }
 
 .hit--year {
@@ -47,9 +47,13 @@
   right: 1rem;
   text-align: right;
   background: $light-blue;
+  color: $text-color;
   padding: .5rem;
   border-radius: 3px;
   font-weight: bold;
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 .hit--title {
@@ -58,11 +62,6 @@
   color: $pink;
   margin-right: 4rem;
   font-size: 1.9rem;
-  .search-hit--highlight {
-    background: $light-blue;
-    padding: 0 .1rem;
-    font-weight: normal;
-  }
 }
 
 .hit--authors {
@@ -82,6 +81,14 @@
     position: 0px 0px;
     size: $author-size;
   }
+  cursor: pointer;
+  &:hover {
+    text-decoration: underline;
+  }
+  &.hit-facet__isRefined {
+    color: $pink;
+    font-weight: bold;
+  }
 }
 
 .hit--tags {
@@ -90,8 +97,16 @@
 .hit--tag {
   font-size: .9rem;
   display: inline-block;
+  cursor: pointer;
+  &:hover {
+    text-decoration: underline;
+  }
   &:before {
     content: '#';
+  }
+  &.hit-facet__isRefined {
+    color: $pink;
+    font-weight: bold;
   }
 }
 
@@ -100,5 +115,8 @@
   font-size: .9rem;
   line-height: 1.1rem;
   position: relative;
+  .search-hit--highlight {
+    font-weight: bold;
+  }
 }
 

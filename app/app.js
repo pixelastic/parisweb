@@ -21,21 +21,35 @@ let Search = {
 
     this.addSearchBoxWidget();
     // this.addStatsWidget();
-    this.addTypeWidget();
-    this.addYearWidget();
     this.addTagsWidget();
     this.addAuthorsWidget();
+    this.addTypeWidget();
+    this.addYearWidget();
     this.addHitsWidget();
     // this.addPaginationWidget();
     // this.addCurrentRefinedValues();
 
     this.search.start();
   },
+  onRender() {
+    // Enable lazyloading of images below the fold
+    let hits = $('.hit');
+    function onVisible(hit) {
+      $(hit).addClass('hit__inViewport');
+    }
+    _.each(hits, (hit) => {
+      inViewport(hit, {offset: 50}, onVisible);
+    });
+  },
+  // Check if the specified facet value is currently refined
+  isRefined(facetName, facetValue) {
+    let facetRefinements = Search.search.helper.getRefinements(facetName);
+    return !!_.find(facetRefinements, { value: facetValue });
+  },
   cloudinary(url, options) {
     let baseUrl = 'https://res.cloudinary.com/pixelastic-parisweb/image/fetch/';
     let stringOptions = [];
 
-    // http://res.cloudinary.com/pixelastic-parisweb/image/fetch/h_50,q_90,c_scale,r_max,f_auto/https://www.paris-web.fr/2015/assets_c/2015/05/Martin%20Naumann-thumb-143x143-487.jpg
     // Handle common Cloudinary options
     if (options.width) {
       stringOptions.push(`w_${options.width}`);
@@ -82,15 +96,15 @@ let Search = {
     }
     Search.lazyloadCounter++;
 
+    // Conference / Workshop
     let isConference = data.type == 'Conférence';
     let isWorkshop = data.type == 'Atelier';
 
+    // Description
     let description = data._snippetResult.description.value;
     description = description.replace(' …', '…');
 
-    // Get only authors name and pictures
-    // TODO: It should be possible to further select/unselect on clicking on
-    // authors
+    // Authors
     let authors = _.map(data.authors, (author, index) => {
       let picture = Search.cloudinary(author.picture, {
         height: 50,
@@ -101,8 +115,11 @@ let Search = {
         radius: 'max',
         format: 'auto'
       });
+      console.info(`${author.name} ${Search.isRefined('authors.name', author.name)}`);
       return {
-        name: data._highlightResult.authors[index].name.value,
+        plainName: author.name,
+        highlightedName: data._highlightResult.authors[index].name.value,
+        isRefined: Search.isRefined('authors.name', author.name),
         picture
       }
     });
@@ -114,9 +131,14 @@ let Search = {
     // Otherwise, downloading the PDF, extracting the first page and pushing it
     // along the content
 
-    // TODO: Tags
-    // - We should be able to click on tags to further select/unselect them
-    // - If a selection is currently made on a tag, it should be visible
+    // Tags
+    let tags = _.map(data.tags, (tag, index) => {
+      return {
+        plainValue: tag,
+        highlightedValue: data._highlightResult.tags[index].value,
+        isRefined: Search.isRefined('tags', tag),
+      }
+    });
 
     let displayData = {
       uuid: data.objectID,
@@ -126,7 +148,7 @@ let Search = {
       title: Search.getHighlightedValue(data, 'title'),
       description,
       year: data.year,
-      tags: data.tags,
+      tags,
       authors
     };
 
@@ -138,16 +160,6 @@ let Search = {
     }
     return object._highlightResult[property].value;
   },
-  // Enable lazyloading of images below the fold
-  onRender() {
-    let hits = $('.hit');
-    function onVisible(hit) {
-      $(hit).addClass('hit__inViewport');
-    }
-    _.each(hits, (hit) => {
-      inViewport(hit, {offset: 50}, onVisible);
-    });
-  },
   addSearchBoxWidget() {
     this.search.addWidget(
       instantsearch.widgets.searchBox({
@@ -156,10 +168,39 @@ let Search = {
       })
     );
   },
-  addStatsWidget() {
+  // addStatsWidget() {
+  //   this.search.addWidget(
+  //     instantsearch.widgets.stats({
+  //       container: '#stats'
+  //     })
+  //   );
+  // },
+  addTagsWidget() {
     this.search.addWidget(
-      instantsearch.widgets.stats({
-        container: '#stats'
+      instantsearch.widgets.refinementList({
+        container: '#tags',
+        attributeName: 'tags',
+        operator: 'and',
+        limit: 10,
+        showMore: {
+          limit: 20,
+          templates: Search.showMoreTemplates
+        }
+      })
+    );
+  },
+  addAuthorsWidget() {
+    this.search.addWidget(
+      instantsearch.widgets.refinementList({
+        container: '#authors',
+        attributeName: 'authors.name',
+        operator: 'or',
+        sortBy: ['isRefined', 'name:asc', 'count:desc'],
+        limit: 10,
+        showMore: {
+          limit: 20,
+          templates: Search.showMoreTemplates
+        }
       })
     );
   },
@@ -184,35 +225,6 @@ let Search = {
       })
     );
   },
-  addAuthorsWidget() {
-    this.search.addWidget(
-      instantsearch.widgets.refinementList({
-        container: '#authors',
-        attributeName: 'authors.name',
-        operator: 'or',
-        sortBy: ['isRefined', 'count:desc', 'name:asc'],
-        limit: 10,
-        showMore: {
-          limit: 20,
-          templates: Search.showMoreTemplates
-        }
-      })
-    );
-  },
-  addTagsWidget() {
-    this.search.addWidget(
-      instantsearch.widgets.refinementList({
-        container: '#tags',
-        attributeName: 'tags',
-        operator: 'and',
-        limit: 10,
-        showMore: {
-          limit: 20,
-          templates: Search.showMoreTemplates
-        }
-      })
-    );
-  },
   addHitsWidget() {
     let hitTemplate = $('#hitTemplate').html();
     this.search.addWidget(
@@ -227,6 +239,16 @@ let Search = {
         }
       })
     );
+
+    // Allow user to further select/deselect facets directly in the hits
+    let hitContainer = $('#hits');
+    hitContainer.on('click', '.js-facet-toggle', (event) => {
+      var target = $(event.currentTarget);
+      var facetName = target.data('facet-name');
+      var facetValue = target.data('facet-value');
+      Search.search.helper.toggleRefinement(facetName, facetValue).search();
+      target.toggleClass('hit-facet__isRefined');
+    });
   },
   addPaginationWidget() {
     this.search.addWidget(

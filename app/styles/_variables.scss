@@ -14,5 +14,7 @@ $hits-width: 640px;
 
 // RWD breakpoints
 $breakpoint-sidebar: $sidebar-width + $hits-width;
+$breakpoint-header--input: 480px;
 $breakpoint-header--algolia: 768px;
 $breakpoint-header--current-refined: 1080px;
+$breakpoint-header--placeholder: 600px;
