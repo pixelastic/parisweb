@@ -25,9 +25,9 @@ index_tmp = 'parisweb_tmp'
 settings = {
   attributesToIndex: [
     'title',
-    'description',
+    'authors.name',
     'tags',
-    'authors.name'
+    'description'
   ],
   customRanking: [
     'desc(year)'
@@ -43,10 +43,26 @@ settings = {
   ),
   snippetEllipsisText: '…',
   highlightPreTag: '<span class="search-hit--highlight">',
-  highlightPostTag: '</span>'
+  highlightPostTag: '</span>',
+  typoTolerance: 'strict'
 }
+
+synonyms = [{
+  objectID: 'javascript',
+  type: 'synonym',
+  synonyms: %w(js javascript)
+}, {
+  objectID: 'ux',
+  type: 'synonym',
+  synonyms: ['ux', 'user experience']
+}, {
+  objectID: 'ui',
+  type: 'synonym',
+  synonyms: ['ui', 'user interface']
+}]
 
 HelperPush.new(app_id)
           .set_settings(index_tmp, settings)
+          .add_synonyms(synonyms)
           .push_records(index_tmp, records)
           .move_index(index_tmp, index)

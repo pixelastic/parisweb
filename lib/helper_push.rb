@@ -4,6 +4,7 @@ class HelperPush
   def initialize(app_id)
     @app_id = app_id
     @api_key = api_key
+    @index = nil
 
     if @api_key.nil?
       puts 'Cannot find your API key.'
@@ -21,8 +22,13 @@ class HelperPush
 
   def set_settings(index_name, settings)
     puts "Configuring settings on #{index_name}"
-    index = Algolia::Index.new(index_name)
-    index.set_settings(settings)
+    @index = Algolia::Index.new(index_name)
+    @index.set_settings(settings)
+    self
+  end
+
+  def add_synonyms(synonyms)
+    @index.batch_synonyms(synonyms)
     self
   end
 
@@ -61,4 +67,3 @@ class HelperPush
     nil
   end
 end
-
