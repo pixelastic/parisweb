@@ -119,13 +119,13 @@ var Search = {
     this.search.on('render', this.onRender);
 
     this.addSearchBoxWidget();
-    // this.addStatsWidget();
+    this.addStatsWidget();
     this.addTagsWidget();
     this.addAuthorsWidget();
     this.addTypeWidget();
     this.addYearWidget();
     this.addHitsWidget();
-    // this.addPaginationWidget();
+    this.addPaginationWidget();
     // this.addCurrentRefinedValues();
 
     this.search.start();
@@ -215,7 +215,6 @@ var Search = {
         radius: 'max',
         format: 'auto'
       });
-      console.info(author.name + ' ' + Search.isRefined('authors.name', author.name));
       return {
         plainName: author.name,
         highlightedName: data._highlightResult.authors[index].name.value,
@@ -267,14 +266,11 @@ var Search = {
       placeholder: 'Rechercher une conférence, un orateur, un thème...'
     }));
   },
-
-  // addStatsWidget() {
-  //   this.search.addWidget(
-  //     instantsearch.widgets.stats({
-  //       container: '#stats'
-  //     })
-  //   );
-  // },
+  addStatsWidget: function addStatsWidget() {
+    this.search.addWidget(instantsearch.widgets.stats({
+      container: '#stats'
+    }));
+  },
   addTagsWidget: function addTagsWidget() {
     this.search.addWidget(instantsearch.widgets.refinementList({
       container: '#tags',
@@ -319,11 +315,13 @@ var Search = {
   },
   addHitsWidget: function addHitsWidget() {
     var hitTemplate = $('#hitTemplate').html();
+    var noResults = $('#noResults').html();
     this.search.addWidget(instantsearch.widgets.hits({
       container: '#hits',
       hitsPerPage: 10,
       templates: {
-        item: hitTemplate
+        item: hitTemplate,
+        empty: noResults
       },
       transformData: {
         item: Search.transformItem
