@@ -120,21 +120,36 @@ var Search = {
 
     this.addSearchBoxWidget();
     // this.addStatsWidget();
-    this.addTypeWidget();
-    this.addYearWidget();
     this.addTagsWidget();
     this.addAuthorsWidget();
+    this.addTypeWidget();
+    this.addYearWidget();
     this.addHitsWidget();
     // this.addPaginationWidget();
     // this.addCurrentRefinedValues();
 
     this.search.start();
   },
+  onRender: function onRender() {
+    // Enable lazyloading of images below the fold
+    var hits = $('.hit');
+    function onVisible(hit) {
+      $(hit).addClass('hit__inViewport');
+    }
+    _.each(hits, function (hit) {
+      inViewport(hit, { offset: 50 }, onVisible);
+    });
+  },
+
+  // Check if the specified facet value is currently refined
+  isRefined: function isRefined(facetName, facetValue) {
+    var facetRefinements = Search.search.helper.getRefinements(facetName);
+    return !!_.find(facetRefinements, { value: facetValue });
+  },
   cloudinary: function cloudinary(url, options) {
     var baseUrl = 'https://res.cloudinary.com/pixelastic-parisweb/image/fetch/';
     var stringOptions = [];
 
-    // http://res.cloudinary.com/pixelastic-parisweb/image/fetch/h_50,q_90,c_scale,r_max,f_auto/https://www.paris-web.fr/2015/assets_c/2015/05/Martin%20Naumann-thumb-143x143-487.jpg
     // Handle common Cloudinary options
     if (options.width) {
       stringOptions.push('w_' + options.width);
@@ -181,15 +196,15 @@ var Search = {
     }
     Search.lazyloadCounter++;
 
+    // Conference / Workshop
     var isConference = data.type == 'Conférence';
     var isWorkshop = data.type == 'Atelier';
 
+    // Description
     var description = data._snippetResult.description.value;
     description = description.replace(' …', '…');
 
-    // Get only authors name and pictures
-    // TODO: It should be possible to further select/unselect on clicking on
-    // authors
+    // Authors
     var authors = _.map(data.authors, function (author, index) {
       var picture = Search.cloudinary(author.picture, {
         height: 50,
@@ -200,8 +215,11 @@ var Search = {
         radius: 'max',
         format: 'auto'
       });
+      console.info(author.name + ' ' + Search.isRefined('authors.name', author.name));
       return {
-        name: data._highlightResult.authors[index].name.value,
+        plainName: author.name,
+        highlightedName: data._highlightResult.authors[index].name.value,
+        isRefined: Search.isRefined('authors.name', author.name),
         picture: picture
       };
     });
@@ -213,9 +231,14 @@ var Search = {
     // Otherwise, downloading the PDF, extracting the first page and pushing it
     // along the content
 
-    // TODO: Tags
-    // - We should be able to click on tags to further select/unselect them
-    // - If a selection is currently made on a tag, it should be visible
+    // Tags
+    var tags = _.map(data.tags, function (tag, index) {
+      return {
+        plainValue: tag,
+        highlightedValue: data._highlightResult.tags[index].value,
+        isRefined: Search.isRefined('tags', tag)
+      };
+    });
 
     var displayData = {
       uuid: data.objectID,
@@ -223,9 +246,10 @@ var Search = {
       isConference: isConference,
       isWorkshop: isWorkshop,
       title: Search.getHighlightedValue(data, 'title'),
+      url: data.url,
       description: description,
       year: data.year,
-      tags: data.tags,
+      tags: tags,
       authors: authors
     };
 
@@ -237,26 +261,43 @@ var Search = {
     }
     return object._highlightResult[property].value;
   },
-
-  // Enable lazyloading of images below the fold
-  onRender: function onRender() {
-    var hits = $('.hit');
-    function onVisible(hit) {
-      $(hit).addClass('hit__inViewport');
-    }
-    _.each(hits, function (hit) {
-      inViewport(hit, { offset: 50 }, onVisible);
-    });
-  },
   addSearchBoxWidget: function addSearchBoxWidget() {
     this.search.addWidget(instantsearch.widgets.searchBox({
       container: '#q',
       placeholder: 'Rechercher une conférence, un orateur, un thème...'
     }));
   },
-  addStatsWidget: function addStatsWidget() {
-    this.search.addWidget(instantsearch.widgets.stats({
-      container: '#stats'
+
+  // addStatsWidget() {
+  //   this.search.addWidget(
+  //     instantsearch.widgets.stats({
+  //       container: '#stats'
+  //     })
+  //   );
+  // },
+  addTagsWidget: function addTagsWidget() {
+    this.search.addWidget(instantsearch.widgets.refinementList({
+      container: '#tags',
+      attributeName: 'tags',
+      operator: 'and',
+      limit: 10,
+      showMore: {
+        limit: 20,
+        templates: Search.showMoreTemplates
+      }
+    }));
+  },
+  addAuthorsWidget: function addAuthorsWidget() {
+    this.search.addWidget(instantsearch.widgets.refinementList({
+      container: '#authors',
+      attributeName: 'authors.name',
+      operator: 'or',
+      sortBy: ['isRefined', 'name:asc', 'count:desc'],
+      limit: 10,
+      showMore: {
+        limit: 20,
+        templates: Search.showMoreTemplates
+      }
     }));
   },
   addTypeWidget: function addTypeWidget() {
@@ -276,31 +317,6 @@ var Search = {
       step: 1
     }));
   },
-  addAuthorsWidget: function addAuthorsWidget() {
-    this.search.addWidget(instantsearch.widgets.refinementList({
-      container: '#authors',
-      attributeName: 'authors.name',
-      operator: 'or',
-      sortBy: ['isRefined', 'count:desc', 'name:asc'],
-      limit: 10,
-      showMore: {
-        limit: 20,
-        templates: Search.showMoreTemplates
-      }
-    }));
-  },
-  addTagsWidget: function addTagsWidget() {
-    this.search.addWidget(instantsearch.widgets.refinementList({
-      container: '#tags',
-      attributeName: 'tags',
-      operator: 'and',
-      limit: 10,
-      showMore: {
-        limit: 20,
-        templates: Search.showMoreTemplates
-      }
-    }));
-  },
   addHitsWidget: function addHitsWidget() {
     var hitTemplate = $('#hitTemplate').html();
     this.search.addWidget(instantsearch.widgets.hits({
@@ -313,6 +329,16 @@ var Search = {
         item: Search.transformItem
       }
     }));
+
+    // Allow user to further select/deselect facets directly in the hits
+    var hitContainer = $('#hits');
+    hitContainer.on('click', '.js-facet-toggle', function (event) {
+      var target = $(event.currentTarget);
+      var facetName = target.data('facet-name');
+      var facetValue = target.data('facet-value');
+      Search.search.helper.toggleRefinement(facetName, facetValue).search();
+      target.toggleClass('hit-facet__isRefined');
+    });
   },
   addPaginationWidget: function addPaginationWidget() {
     this.search.addWidget(instantsearch.widgets.pagination({
