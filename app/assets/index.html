@@ -57,7 +57,7 @@
     <script id="hitTemplate" language="x-template">
       <article class="hit {{#inViewport}}hit__inViewport{{/inViewport}} {{#isConference}}hit__isConference{{/isConference}} {{#isWorkshop}}hit__isWorkshop{{/isWorkshop}}">
       <a href="https://www.paris-web.fr/{{year}}" target="_blank" class="hit--year">{{year}}</a>
-        <h3 class="hit--title">{{{title}}}</h3>
+        <a href="{{url}}" class="hit--title">{{{title}}}</a>
         <ul class="hit--authors">
           {{#authors}}
           <li 

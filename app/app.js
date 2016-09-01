@@ -146,6 +146,7 @@ let Search = {
       isConference,
       isWorkshop,
       title: Search.getHighlightedValue(data, 'title'),
+      url: data.url,
       description,
       year: data.year,
       tags,
