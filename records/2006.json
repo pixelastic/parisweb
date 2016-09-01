@@ -10,6 +10,7 @@
     ],
     "description": "Tristan Nitot résumera la situation du web d'aujourd'hui. Il y parlera des standards Web et de la relation avec les navigateurs Web modernes.  Cette vue d'ensemble de la situation permettra de cerner les tenants et aboutissants de la situation actuelle.",
     "type": "conference",
+    "url": "https://www.paris-web.fr/2006/planning.html#tristann",
     "year": 2006
   },
   {
@@ -23,6 +24,7 @@
     ],
     "description": "Laurent Denis nous expliquera ce qu'est l'accessibilité selon le W3C. Elle ne se limite pas à penser son site pour les handicapés, mais se veut une approche indépendante du périphérique d'accès (écran, lecteur d'écran, loupe, périphérique mobile, etc.).",
     "type": "conference",
+    "url": "https://www.paris-web.fr/2006/planning.html#laurentd",
     "year": 2006
   },
   {
@@ -36,6 +38,7 @@
     ],
     "description": "Jean-Louis Carvès nous parlera de la démarche standards/accessibilité de l'Intranet corporate IBM mais aussi, au travers de témoignages, des gains concrets perçus par des clients ayant engagé une telle démarche sur des sites web publics ou privés.",
     "type": "conference",
+    "url": "https://www.paris-web.fr/2006/planning.html#jeanlouisc",
     "year": 2006
   },
   {
@@ -49,6 +52,7 @@
     ],
     "description": "Laurent Gloaguen fera partager sa connaissance de la commercialisation de la qualité Web, des arguments qui convainquent les décideurs, des choix techniques à faire dans un contexte de rentabilité, et illustrera les bénéfices des bonnes pratiques avec des exemples concrets.",
     "type": "conference",
+    "url": "https://www.paris-web.fr/2006/planning.html#laurentg",
     "year": 2006
   },
   {
@@ -62,6 +66,7 @@
     ],
     "description": "Qu'est-ce la qualité Web ? Pourquoi s'y intéresser ? Quels bénéfices attendre de cette approche ? Élie Sloïm répondra à ces dfférentes questions, et expliquera comment intégrer un processus qualité dans un développement Web. En guise d'illustration, il présentera le référentiel qualité Opquast, des exemples concrets de bonnes pratiques, et fera le point sur l'utilisation de l'outil par ses utilisateurs professionnels.",
     "type": "conference",
+    "url": "https://www.paris-web.fr/2006/planning.html#elies",
     "year": 2006
   },
   {
@@ -75,6 +80,7 @@
     ],
     "description": "Pascale Lambert-Charreteur fera un bref rappel historique pour montrer que les CSS ont déjà 10 ans et que la méthode est éprouvée. Puis elle détaillera ce que permettent de faire les CSS2 (pourquoi, comment), et ce qu'apporteront les CSS3.",
     "type": "conference",
+    "url": "https://www.paris-web.fr/2006/planning.html#pascalel",
     "year": 2006
   },
   {
@@ -88,6 +94,7 @@
     ],
     "description": "Denis Chêne expliquera la notion de Design for All et comment cette notion peut s'appliquer au Web.",
     "type": "conference",
+    "url": "https://www.paris-web.fr/2006/planning.html#denisc",
     "year": 2006
   },
   {
@@ -101,6 +108,7 @@
     ],
     "description": "Daniel Glazman racontera la standardisation de deux des standards principaux du Web, HTML et CSS, du début à mercredi dernier, comment i y est venu et pourquoi. Il expliquera comment se passent les décisions, quels sont les enjeux industriels, comment se négocient les avancées et les compromis pour faire évoluer les standards, etc.",
     "type": "conference",
+    "url": "https://www.paris-web.fr/2006/planning.html#danielg",
     "year": 2006
   },
   {
@@ -114,6 +122,7 @@
     ],
     "description": "François Nonnenmacher nous parlera de l'évolution du groupe Capgemini à travers une transformation d'envergure : comment passer de sites faits « à l'ancienne » à des sites modernes conformes aux standards web ? C'est ce qu'il nous expliquera.",
     "type": "conference",
+    "url": "https://www.paris-web.fr/2006/planning.html#francoisn",
     "year": 2006
   },
   {
@@ -127,6 +136,7 @@
     ],
     "description": "Denis Boudreau parlera de la différence qu'il y a entre une conception de qualité (durable) et une conception à court terme (jetable). Comment vendre un site qui saura encore tenir ses promesses quand un nouveau navigateur sortira ?",
     "type": "conference",
+    "url": "https://www.paris-web.fr/2006/planning.html#denisb",
     "year": 2006
   },
   {
@@ -140,6 +150,7 @@
     ],
     "description": "Partager les données, les assembler, créer de la valeur en réutilisant ce qui est déjà disponible, nous le pratiquons au quotidien. En normalisant les formats de données et nos pratiques professionnelles nous créons un environnement d'échanges riches. De nombreux formats (microformats, XML, RDF) permettent de construire cet écosystème d'interactions des données afin d'enrichir notre expérience quotidienne du Web. Découvrez avec Karl Dubost l'état de l'art dans le domaine du Web sémantique.",
     "type": "conference",
+    "url": "https://www.paris-web.fr/2006/planning.html#karld",
     "year": 2006
   }
 ]

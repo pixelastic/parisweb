@@ -29,11 +29,16 @@ class Selector2006
       author = element(dd, 'a').text
       description = dd.text.tr("\n", ' ')
 
+      url = 'https://www.paris-web.fr/2006/planning.html'
+      anchor = title.attribute('id')
+      url << "##{anchor}"
+
       sessions << {
         title: text,
         authors: author,
         description: description,
         type: 'conference',
+        url: url,
         year: 2006
       }
     end
