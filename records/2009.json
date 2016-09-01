@@ -3,6 +3,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Intégrateurs, montez au front !",
+    "url": "https://www.paris-web.fr/2009/-Jeudi-8-octobre-.html#hcalendar_Paris-Web_2009__conference_4",
     "description": "L’intégrateur HTML est devenu développeur web front. Au-delà de la terminologie, ce métier s’est complexifié, industrialisé, segmenté en sous-spécialités. Alors qu’on pourrait penser que la richesse des profils permettrait à chacun d’y faire sa place, bon nombre de développeurs expriment leur frustration.Nous tenterons de comprendre cette frustration et ébaucherons quelques pistes pour leur rendre le sourire.",
     "authors": [
       {
@@ -20,6 +21,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Utilisabilité : quand le webdesign rencontre le marketing.",
+    "url": "https://www.paris-web.fr/2009/-Jeudi-8-octobre-.html#hcalendar_Paris-Web_2009__conference_5",
     "description": "Le web marketing s’est toujours inspiré des techniques de communication de l’industrie papier. Or, les études d’utilisabilité ont prouvés que le web, perçu par les utilisateurs comme un nouveau média, déclenchait de nouveaux comportements, remettant ainsi en cause des stratégies établies et séculaires.Au milieu, le webdesign, doit se frayer un chemin et réfléchir à la fois à l’esthétisme et à la fonction principale d’un site.Comprendre la démarche de l’utilisabilité, au travers des conclusions de ses expertises, l’allier avec les besoins du marketing et les attentes du webdesign, afin de vous permettre de créer des sites web efficaces et efficients, tels seront les buts de cette intervention.",
     "authors": [
       {
@@ -37,6 +39,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Un seul Web",
+    "url": "https://www.paris-web.fr/2009/-Jeudi-8-octobre-.html#hcalendar_Paris-Web_2009__conference_6",
     "description": "Avec les nouveautés de CSS 3 et HTML 5, il est désormais aisé de n’avoir qu’un seul site Web, qu’il soit accédé par des navigateurs de bureau ou des clients mobiles. Nous allons voir comment faire un design Web qui soit multi-clients, réduisant ainsi le coût du projet et simplifiant sa maintenance.  Attention, présence de canards en plastique sur scène fortement probable.",
     "authors": [
       {
@@ -54,6 +57,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Webdesigner, l’homme qui parlait à l’oreille des intégrateurs",
+    "url": "https://www.paris-web.fr/2009/-Jeudi-8-octobre-.html#hcalendar_Paris-Web_2009__conference_7",
     "description": "Le webdesigner doit-il être un illustrateur, une infographiste, un concepteur, un intégrateur ... ? La réponse n’est pas aisée et fait toujours débat aujourd’hui tant ce métier est jeune et dépendant d’un secteur en constante évolution.Ce que nous pouvons constater, c’est qu’il existe encore bien souvent, un gouffre d’incompréhension entre les designer qui se concentrent sur la créativité graphique, la communication, le marketing et les intégrateurs soumis aux contraintes du média web, aux problèmes de compatibilité et soucieux de standards et d’accessibilité.Comment réconcilier designer et intégrateur ? Comment envisager le métier de designer dans un contexte web sans en faire un développeur ou un ergonome ? Et si le webdesigner n’était tout simplement qu’un créatif capable de communiquer avec un intégrateur, de comprendre ses contraintes et d’adapter son travail en conséquence ?Quels pré-requis un designer doit-il acquérir pour atteindre cet objectif ? Quelles méthodes de travail imaginer entre ces deux acteurs du web pour laisser à l’un une certaine liberté créative et garantir à l’autre une faisabilité technique satisfaisante ?",
     "authors": [
       {
@@ -71,6 +75,7 @@
     "year": 2009,
     "type": "conference",
     "title": "HTTP pour les naïfs et les brutes",
+    "url": "https://www.paris-web.fr/2009/-Jeudi-8-octobre-.html#hcalendar_Paris-Web_2009__conference_9",
     "description": "Vous connaissez HTTP, un peu, beaucoup, à la folie ? Mais êtes vous sûrs d’avoir tout saisi ? Cette présentation vous donnera quelques pistes pour comprendre la métaphore HTTP et son utilisation réelle (et limitée) sur le Web aujourd’hui.",
     "authors": [
       {
@@ -88,6 +93,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Le Webdesign orienté business",
+    "url": "https://www.paris-web.fr/2009/-Jeudi-8-octobre-.html#hcalendar_Paris-Web_2009__conference_10",
     "description": "Les webdesigners chargés de réaliser le(s) site(s) Web d’une entreprise sont soumis à de très fortes contraintes liées aux objectifs business et marketing du client. Mais au fait, c’est quoi le Webdesign ? Et un webdesigner ? Et qu’est-ce que le business vient faire là dedans ? Est-il possible de produire un webdesign pragmatique qui ne s’autocensure pas tout en étant à l’écoute à la fois des commanditaires et des utilisateurs ? Tentative de réponse pendant cette conférence.",
     "authors": [
       {
@@ -105,6 +111,7 @@
     "year": 2009,
     "type": "conference",
     "title": "CSS peut-il être orienté objet ?",
+    "url": "https://www.paris-web.fr/2009/-Jeudi-8-octobre-.html#hcalendar_Paris-Web_2009__conference_12",
     "description": "Appliquer les principes de la programmation orientée objet à CSS (OOCSS) aide à obtenir un code plus léger et qui est à la fois plus simple à écrire et maintenir. Peu importe votre bibliothèque Javascript préférée (jQuery, YUI etc.), apprendre les rouages de OOCSS simplifiera votre processus de développement. Faites usage du projet open source OOCSS, y compris les \"singletons\", l’héritage, le \"scope\" et calculez la complexité du code.CSS est un point de frustration pour les développeurs et ingénieurs sur lequel les startups se cassent les dents. Dans cette présentation pratique, Nicole explore les stratégies permettant de prendre le contrôle de votre interface utilisateur. Cette présentation couvre les rouages de OOCSS et inclue des démonstrations, y compris de débuggage.Apprenez à :Un changement fondamental dans l’architecture du code permet au projet open source OOCSS de fournir des tonnes de fonctionnalité en seulement 27 lignes de code, évitant ainsi le gonflage des fichiers et l’inefficacité. Essayez cette évolution du langage et apprenez à l’appliquer à des projets existants.",
     "authors": [
       {
@@ -122,6 +129,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Mobile, nouvelles fonctionnalités",
+    "url": "https://www.paris-web.fr/2009/-Jeudi-8-octobre-.html#hcalendar_Paris-Web_2009__conference_13",
     "description": "Charles parlera des fonctionnalités qui seront prochainement (ou actuellement) dans vos téléphones via des applications Web, telles que la géolocalisation, l’accès aux fichiers, CSS3, scope, etc. Il y abordera ce qui est actuellement faisable, niveau implémentation et niveau standardisation, ce qu’il reste a faire, et un peu côté technique. Quels sont les avantages, motivations et questions qui viennent avec ces avancées et comment fonctionnent-elles ?",
     "authors": [
       {
@@ -139,6 +147,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Basic housekeeping - keeping the web a safe and clean environment",
+    "url": "https://www.paris-web.fr/2009/-Jeudi-8-octobre-.html#hcalendar_Paris-Web_2009__conference_14",
     "description": "Internet est constamment la cible d’attaques de spammers, crackers et autres personnes qui abusent du réseau, ils nous empêchent ainsi de concevoir le Web que nous imaginons. C’est très frustrant et ça l’est d’autant plus qu’au lieu de chercher de vrais solutions, nous punissons nos utilisateurs en leurs imposants des mesures de sécurités inaccessibles et peu utiles.Dans le cadre de cette conférence, Chris Heilmann essayera d’apporter des réponses en expliquant des techniques de base pour combattre ce mal. Bien qu’il n’y ai pas de solution miracle à la sécurité du Web, pensez au moins à fermer vos portes virtuelles aux agresseurs.",
     "authors": [
       {
@@ -156,6 +165,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Webdesign et qualité",
+    "url": "https://www.paris-web.fr/2009/-Jeudi-8-octobre-.html#hcalendar_Paris-Web_2009__conference_15",
     "description": "Jamais la toile n’a vu fleurir autant de services web en tout genre qu’aujourd’hui et pourtant, la qualité de ces services est rarement au rendez-vous. Mais qu’entend-on au juste par « qualité » ?Nous tenterons d’apporter une réponse par l’exemple et des critères de jugement sur ce qui fait la qualité d’une application web moderne. Nous essayerons également d’observer et comprendre l’importance des facteurs discrets mais fondamentaux à l’élaboration d’une application de qualité supérieure. Nous allons enfin apprendre à être intransigeants sur la richesse de l’expérience utilisateur et à refuser les compromis.",
     "authors": [
       {
@@ -178,6 +188,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Being Agile, Being Good",
+    "url": "https://www.paris-web.fr/2009/-Vendredi-9-octobre-.html#hcalendar_Paris-Web_2009__conference_4",
     "description": "Les méthodes agiles ont révolutionné le monde du développement web et est de facto l’approche favorite des startups. Bien utilisées, les méthodes agiles peuvent résoudre les problèmes qui empoisonnent les méthodes traditionnelles. Néanmoins, nous commençons seulement à voir comment faire fonctionner cette philosophie dans le développement pour le web. En particulier, comment peut-on s’assurer d’une qualité constante quand les cycles de publication sont courts et que le processus requiert de la souplesse.Dans cette conférence, Stephanie discutera des avantages, des contraintes, des challenges et des techniques pour appliquer les méthodes agiles à la construction de sites de haute qualité.",
     "authors": [
       {
@@ -195,6 +206,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Référencement & Standards Web : La même destination",
+    "url": "https://www.paris-web.fr/2009/-Vendredi-9-octobre-.html#hcalendar_Paris-Web_2009__conference_5",
     "description": "Cette conférence montrera l’action du web sémantique sur les moteurs de recherche actuels et ce qu’il nous est possible d’extrapoler concernant les futures applications. Nous prendrons un peu de recul pour voir la grande image de ce qui est en train de se dessiner. Nos pages web deviennent plus que des documents consultables par les internautes, mais aussi une source d’informations pour les ordinateurs. Ceci est rendu possible grâce aux standards web.Nous verrons comment les Microformats et RDFa enrichissent les pages. Ils font partie des premiers formats sémantiques pris en charge par les moteurs de recherche. Ces moteurs, omniprésent dans notre utilisation du web, qui sont en train de se positionner comme les premiers grands acteurs de la révolution sémantique.",
     "authors": [
       {
@@ -212,6 +224,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Un Web ouvert",
+    "url": "https://www.paris-web.fr/2009/-Vendredi-9-octobre-.html#hcalendar_Paris-Web_2009__conference_6",
     "description": "Comment faire un site ouvert sur le web ?De nombreux services fournissent maintenant des API vers leurs données et des flux d’export RSS. Nous allons dépasser ce degré zéro d’ouverture pour tenter de voir ce qui est envisageable.Certaines briques déjà existantes vous permettent d’ors et déjà de faire reposer votre site sur l’existant. Identification OpenId, communication entre applications par OAuth, exploration par YQL, SPARQL ou BOSS, les possibilités ne manquent pas et permettent de développer rapidement le service qui manque sans tout recréer déconnecté du reste du web.Ensuite nous parlerons de vie privée, de contrôle de ses données par l’utilisateur, et de toutes ces problématiques \"gênantes\" mais qui sont des réflexions indispensable dans le web d’aujourd’hui.",
     "authors": [
       {
@@ -229,6 +242,7 @@
     "year": 2009,
     "type": "conference",
     "title": "De l’ergonomie pour mon e-commerce",
+    "url": "https://www.paris-web.fr/2009/-Vendredi-9-octobre-.html#hcalendar_Paris-Web_2009__conference_7",
     "description": "Qu’est-ce qu’un site e-commerce qui marche, comment l’ergonomie peut l’aider à effectivement marcher, ou marcher mieux. Qu’est-ce que l’internaute demande, exige, attend d’un site e-commerce. Comment répondre mais aussi précéder ces attentes ?Problématiques spécifiques avec illustrations positives, négatives et avant / après de sites web :",
     "authors": [
       {
@@ -246,6 +260,7 @@
     "year": 2009,
     "type": "conference",
     "title": "CSS3 : Future Style Now",
+    "url": "https://www.paris-web.fr/2009/-Vendredi-9-octobre-.html#hcalendar_Paris-Web_2009__conference_9",
     "description": "Dans cette présentation, Molly E. Holzschlag passera en revue les concepts de base de CSS 3 et montrera comment les designers web et les développeurs peuvent étendre leur palette de possibilité avec de nombreuses fonctionnalités comme la gestion améliorée des couleurs, les images multiples en background, les images de bordure, les fontes embarquées et le design pour de multiples media. Molly montrera aussi comment utiliser l’amélioration progressive (« progressive enhancement ») tout en s’assurant que chaque fonctionnalité non encore supportée par un navigateur donné est correctement dégradée (« degrade gracefully »).",
     "authors": [
       {
@@ -263,6 +278,7 @@
     "year": 2009,
     "type": "conference",
     "title": "ROI et performance web : intégrer la culture de l’optimisation à la stratégie Internet",
+    "url": "https://www.paris-web.fr/2009/-Vendredi-9-octobre-.html#hcalendar_Paris-Web_2009__conference_10",
     "description": "Avec Internet, les directions marketing vivent une révolution liée au déploiement de stratégies nouvelles qui ne sont pas dénuées de risques. L’étude 2009 \"Analysis & action\" du cabinet Loudhouse Research révèle les axes d’investissement privilégiés : emailing, publicité en ligne, outils web analytics, référencement. Beaucoup d’initiatives pour être visible, mais une démarche d’analyse et d’optimisation des investissements encore peu fréquente. Le potentiel d’optimisation inexploité semble donc gigantesque ; le virage à prendre pour nombre de directions e-marketing sera d’intégrer la culture de l’optimisation à leur stratégie Internet pour optimiser les coût et minimiser les risques.Dans le cadre de cette conférence, c’est donc la culture de l’optimisation continue sera au premier plan ; le management de la qualité comme facteur clé de succès dans la démarche de pilotage de la performance sera à ce titre largement commenté.",
     "authors": [
       {
@@ -280,6 +296,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Concevoir un produit web c’est bien, faire en sorte qu’il soit accepté c’est mieux !",
+    "url": "https://www.paris-web.fr/2009/-Vendredi-9-octobre-.html#hcalendar_Paris-Web_2009__conference_12",
     "description": "Pourquoi un produit web est-il plus accepté qu’un autre ? Comment pourrais-je améliorer l’acceptabilité de mon produit ? Si cette conférence m’ennuie, pourrais-je surfer sur mon Iphone ou mon Blackberry ?Si vous vous posez ces questions, alors vous êtes le bienvenu. Si vous ne vous les posez pas, vous êtes quand même le bienvenuAprès un rapide passage en revue des théories en psychologie sociale, nous identifierons les critères-clés d’acceptation avec de nombreux exemples parlants et métaphores à l’appui. Nous décortiquerons ensemble des cas réels afin de vous apporter toutes les connaissances nécessaires à l’élaboration d’un produit web accepté.La présentation permettra d’aboutir à une prise de conscience unanime : faire un produit accepté nécessite une approche commune incontournable, requérant une collaboration poussée entre les divers corps de métier et qui condamne le système de caste (’’chasse gardée\") encore trop présent dans les projets web.",
     "authors": [
       {
@@ -302,6 +319,7 @@
     "year": 2009,
     "type": "conference",
     "title": "WCAG 2.0, Flash, PDF, Javascript et les autres sont dans un bateau...",
+    "url": "https://www.paris-web.fr/2009/-Vendredi-9-octobre-.html#hcalendar_Paris-Web_2009__conference_13",
     "description": "Avec la diversification des technologies et des médias utilisés sur le web, l’accessibilité peut de plus en plus apparaitre comme une contrainte insurmontable. Face aux demandes incessantes pour avoir toujours plus d’interactivité et d’innovation, la réponse ne peut pas être « désolé, ça n’est pas possible ».  Nous essayerons au travers de cette conférence de voir en quoi les WCAG 2.0 peuvent apporter une solution vis-à-vis de la conformité aux standards mais également les solutions techniques existantes tel qu’ARIA, le balisage PDF ou les API d’accessibilité.",
     "authors": [
       {
@@ -324,6 +342,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Les nouveaux standards du web et leur implémentation dans les navigateurs modernes",
+    "url": "https://www.paris-web.fr/2009/-Vendredi-9-octobre-.html#hcalendar_Paris-Web_2009__conference_14",
     "description": "Firefox 3.5 est la nouvelle version du navigateur web du projet Mozilla. Cette version apporte plusieurs améliorations très significatives pour les développeurs Web. Cela se traduit en particulier  par de meilleurs performances, un meilleur support d’HTML5, de CSS3 et de Javascript 1.8.La nouvelle  version du moteur Gecko rajoute plusieurs fonctionnalités multimédia telle que l’élément vidéo. Cette session sera l’occasion de redécouvrir la  puissance des  standards et  de l’importance  de l’Open Web, à  l’heure où l’enjeu  du Web  se déplace vers  les applications riches, où  les environnements de développement  tels que Silverlight, Flash cherchent  à positionner le  Web en  tant que citoyen  de seconde zone.",
     "authors": [
       {
@@ -346,6 +365,7 @@
     "year": 2009,
     "type": "conference",
     "title": "Design itératif pour un site web de grande échelle",
+    "url": "https://www.paris-web.fr/2009/-Vendredi-9-octobre-.html#hcalendar_Paris-Web_2009__conference_15",
     "description": "Nous aborderons les principes du design en itération au travers d’exemples concrets. Wireframes, prototypages, développements et tests utilisateurs sont autant de processus à renouveler afin de délivrer la meilleure expérience utilisateur tout en ayant des contraintes techniques extrêmes.Avec 38 millions de vues par jours, la page du lecteur de Dailymotion nous montre à quel point le processus d’itération est nécessaire dans le cadre d’un redesign complet et qu’à cette échelle un changement radical de design n’est pas envisageable. Nous aborderons les différentes étapes  de ce projet et les conclusions que nous pouvons en tirer.",
     "authors": [
       {
@@ -363,6 +383,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Wikipédia accessible ? C’est possible !",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_2",
     "description": "\"Wikipédia, le projet d’encyclopédie libre que vous pouvez améliorer\" se présente comme un projet d’encyclopédie que chacun peut consulter. Mais pour cela, il faut que ses rédacteurs utilisent au mieux les capacités de l’outil mediaWiki de manière à produire un contenu accessible... Sans pour autant se transformer en obsédés des WCAG.Cet atelier présentera le cadre global de l’accessibilité de Wikipédia, et se concentrera sur les solutions à mettre en place pour une amélioration de l’accessibilité qui ne trouble pas le travail des contributeurs.",
     "authors": [
       {
@@ -381,6 +402,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Gérer la sécurité de vos applications web",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_3",
     "description": "\"J’fais des trous, des petits trous... encore des petits trous.\" Tous les jours, à l’insu de votre plein gré, la sécurité de votre site web est mise à l’épreuve. Une simple petite faille peut suffire au bonheur des hackers.Nous verrons par des exemples pratiques comment sont exploitées aujourd’hui les principales failles de sécurité sur les serveurs et les applications web et quelles peuvent être leurs portées.Mais quelles sont donc les précautions à prendre pour éviter la plupart de ces attaques ?",
     "authors": [
       {
@@ -399,6 +421,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Faut-il maîtriser son code HTML ?",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_4",
     "description": "Cet atelier sera divisé en deux parties : une présentation et un débat animé. Chaque partie durera 45 minutes.La présentation portera majoritairement sur les sujets suivants :Pour lancer le débat, demander aux gens ce qu’ils pensent des sujets abordés lors de la présentation. Leur demander de répondre à la même question \"Faut-il maitriser son code HTML ?\" et raconter leur propre expérience de développements.",
     "authors": [
       {
@@ -412,6 +435,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "La trousse de survie en milieu web hostile",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_5",
     "description": "Vous êtes perdu au milieu de la jungle Internet, lâché comme ça tout seul dans ce milieu hostile au respect des standards, des bonnes pratiques et de l’accessibilité ?N’ayez plus peur, et venez voir les explorateurs du Web Samuel et Vincent ! Ils vous exposeront leur trousse de survie en milieu Web hostile !Autrement dit, nous allons découvrir des outils de développement et d’évaluation gratuits qui permettent de mieux respecter les standards, les bonnes pratiques et d’améliorer l’accessibilité : les bookmarklets, les plug-ins navigateurs, les sites Web et services, etc…Avec tout ça, vous serez parés pour l’aventure de l’accessibilité !",
     "authors": [
       {
@@ -430,6 +454,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Eye Tracking ou comment mon client regarde mon site Internet et les nouvelles interactions Homme-Machine de demain",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_6",
     "description": "A-t-il vu la promotion du mois ? Le panier d’achat ? Cherche-t-il les avis de consommateurs ? Qu’a-t-il regardé en premier et combien de temps y est-il resté ? Dois-je refondre mon site et sur quels critères afin d’en améliorer l’ergonomie, et augmenter le ‘taux de conversion’ ?Si vous vous êtes déjà posé les questions suivantes sans pouvoir y répondre de manière objective et simple, cet atelier vous apportera des éléments de réponse.A travers des exemples concrets, vous découvrirez ce que la technologie Eye Tracking peut vous apporter pour l’analyse de son ‘usabilité’ en pré-test ou l’audit d’un site web. Démonstrations et applications illustreront comment il est possible de recueillir facilement et objectivement le parcours du regard d’un internaute. Vous disposerez ainsi d’éléments objectifs pour :Lors de l’atelier, un appareil Eye Tracking sera mis à votre disposition pour effectuer vos premiers tests sur vos sites en ligne !Au delà des applications Markéting et Ergonomie (« pré-test de site web », de publicités), l’Eye Tracking est également utile pour les personnes handicapées, pour le contrôle de vigilance dans les voitures de demain et de multiples autres applications passionnantes et surprenantes dans un futur proche pour tous au quotidien. Venez les découvrir !",
     "authors": [
       {
@@ -443,6 +468,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Technologies riches sur mobile : tour d’horizon et perspectives",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_8",
     "description": "Pendant l’atelier, Nicolas Fournier présentera diverses technologies pour créer des interfaces riches sur application mobile. Fort de retours d’expérience provenant de prototypes ou de réelles applications, il pourra donner les avantages et inconvénients comparés de ces technologies, tout en restant assez écarté du côté technique pour permettre un public large. Au menu, rien que ça : les usages, les WebKits, Android, LWUIT et JavaFX !",
     "authors": [
       {
@@ -456,6 +482,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Le Web social",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_9",
     "description": "Sur les réseaux sociaux actuels, l’utilisateur a une vision limitée de son réseau. Le fournisseur a, de son coté, une vision totale - de 250 millions de comptes dans le cas de Facebook. Le fournisseur peut de plus exclure à son bon vouloir toute personne qu’il pense être contre ses intérêts. Du coté pratique, l’utilisateur est confronté à un nombre grandissant de réseaux, chacun lui demandant de rentrer les mêmes informations.En utilisant le Web Sémantique (l’ontologie FOAF en particulier), on peut créer des réseaux sociaux distribués (décentralisés) où chaque acteur peut contrôler son espace personnel et ce connecter à ses amis qui peuvent faire de même. Mais, jusqu’à présent, ces informations étaient complètement publiques.En utilisant une astuce simple permise par SSL (Secure Sockets Layer) on peut non seulement créer des réseaux sociaux décentralisés, mais aussi sécurisés, qui permettent au serveur de retourner des représentations personnalisées en identifiant l’utilisateur par la connexion SSL elle-même - sans qu’il doive enter un nom de compte ou un mot de passe.Nous décrirons l’architecture d’un tel system qui a déjà des implémentations Open Source en Python, Perl, PHP, Drupal, Java, et autres.",
     "authors": [
       {
@@ -469,6 +496,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Portabilité des données : danger ou opportunité ?",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_10",
     "description": "Discussion sur les notions de mobilité et d’appartenance des données numériques. Quels sont les enjeux sous-jacents ? Quelle différence entre portabilité et contrôle ? Faut-il encourager l’ouverture et la réutilisation de ses données ? Quel est le lien avec nos identités numériques ?Le format adopté encouragera les échanges entre participants afin de rendre la session interactive.",
     "authors": [
       {
@@ -482,6 +510,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Comment faire du Web 2.0 vraiment accessible ?",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_11",
     "description": "Cet atelier va explorer les problèmes d’accessibilité pour les applications web, dans un monde qui utilise des navigateurs n’importe où (jeux videos, telephones de tous types, les voitures, et même dans les ordinateurs !). Ce sera une discussion interactive, avec le but de suivre les chemins au-delà de \"faire une version alternative\". Donc les thèmes prevus sont HTML5 avec ARIA,<canvas>, <video>/<audio>, SVG, l’accessibilité Flash etc.Il y a eu déjà pas mal de discussion sur ces thèmes. Dans cet atelier, nous voulons voir l’état de l’art actuel, l’avenir (ou les avenirs possibles) vu par les professionnels, pour nous informer et pour mieux informer les autres discussions tels que celle qui aura lieu chez Stanford University sur video, et dans le groupes d’HTML5 et de la WAI sur <canvas> et ARIA.",
     "authors": [
       {
@@ -495,6 +524,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Kit du parfait petit intégrateur",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_12",
     "description": "Il s’agira de l’étude concrète d’un cas pratique de A à Z en se basant sur un site réel et existant. Nous y aborderons donc, dans un ordre chronologique, toutes les étapes  de la création et du recettage d’un site web du point de vue de l’intégrateur.Nous parlerons donc des outils mais aussi des méthodes disponibles pour chaque étape en essayant d’être à la fois exhaustifs et critiques, et ce en se basant/faisant des démos sur un site web réel existant dont nous reprendrons les étapes de conception, débuggage et optimisation.Sera fourni à chaque participant une \"check-list\" des étapes préconisées et des outils et méthodes pour chaque étape. Nous attendons la participation des personnes assistant à l’atelier, et ce afin notamment d’enrichir cette check-list, qui resterai disponible en ligne par la suite (billet, wiki ? reste à décider).",
     "authors": [
       {
@@ -513,6 +543,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Le Web en Offline avec Gears et HTML 5",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_13",
     "description": "Gears est un outil Open Source, majoritairement connu pour permettre à une page Web d’être consultable en étant déconnecté du réseau. Ce plugin pour navigateur Web propose pourtant d’autres briques utiles dans d’autres contextes, notamment les performances et le traitement d’un nombre important de données. C’est un outil unique permettant de créer des applications fonctionnelles hors-ligne et cross-brower sans avoir à recours à du client lourd (type application iPhone). La présentation se focalisera sur la présentation des composants, des exemples d’utilisation mais aussi sur les contraintes et les choix de stratégie à adopter dans son code pour éviter la création d’usines à gaz.L’atelier concluera sur l’avenir et HTML 5 dans la mesure où les travaux de Gears sont désormais intégrés à la spécification HTML 5.",
     "authors": [
       {
@@ -526,6 +557,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Accessibilité, on rase gratis",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_14",
     "description": "Comment évaluer rapidement l’accessibilité du site qu’on vient de développer quand on n’a pas un expert sous la main ?Dans une première partie nous vous présenterons les outils auxquels nous faisons appel au quotidien : la plupart vous sont connus (Firebug), d’autres sont spécifiques (bookmarklets, revues d’écran). Ces outils nous permettent d’évaluer rapidement l’accessibilité des sites auxquels nous sommes confrontés.Dans une deuxième partie nous \"raserons gratis\" les sites que vous nous suggérez : nous ferons un \"crash test\" rapide qui vous permettra de rentrer au bureau en sachant quels points sont les plus bloquants pour améliorer grandement l’accessibilité de votre site.",
     "authors": [
       {
@@ -549,6 +581,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Webdesign et dyslexie",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_15",
     "description": "Après une définition des multiples aspects de la dyslexie, je compte présenter des exemples source de difficultés pour les personnes dyslexiques, et des solutions pour supprimer (ou minimiser) ces problèmes.Étant moi-même dyslexique, je suis particulièrement sensible à cette approche, trop rarement abordée.",
     "authors": [
       {
@@ -562,6 +595,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Web Sémantique : données liées et sémantique des schémas",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_16",
     "description": "Nous gravirons ensemble la pile des recommandations du W3C pour le web sémantique sans entrer dans les détails techniques mais en donnant suffisamment d’éléments sur chacune d’elle pour reconstruire le puzzle de ce nouveau paysage d’information. L’objectif n’est pas de donner une formation technique complète sur les différentes briques de cette pile (RDF, RDFS, SPARQL, OWL, RDFa, GRDDL, RIF, SKOS, POWDER, etc.) chacune méritant à elle seule plusieurs heures de formation. Notre objectif sera de donner les clefs de lecture de ces recommandations et leur positionnement respectif pour permettre aux auditeurs d’identifier les briques qui peuvent leur être utiles.",
     "authors": [
       {
@@ -575,6 +609,7 @@
     "year": 2009,
     "type": "workshop",
     "title": "Test automatisé d’applications JavaScript avec Qunit et Selenium",
+    "url": "https://www.paris-web.fr/2009/-Samedi-10-octobre-.html#hcalendar_Paris-Web_2009__conference_17",
     "description": "Plus une application arrive à un stade de maturation avancé et plus elle se complexifie, rendant son test de plus en plus hardu pour le commun des mortels.Plutôt que de perdre beaucoup de temps à tester manuellement nos applications JavaScript, nous verrons donc comment mettre en place des tests automatisés sur une application avec Qunit, le framework de tests de JQuery.Et nous verrons comment exécuter tous ces tests dans notre application avec Selenium.",
     "authors": [
       {
