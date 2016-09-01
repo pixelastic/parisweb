@@ -1,7 +1,9 @@
 [
   {
     "year": 2008,
+    "type": "conference",
     "title": "Ergonomie des interfaces riches",
+    "url": "https://www.paris-web.fr/2008/-Jeudi-13-novembre-.html#hcalendar_Paris-Web_2008__conference_3",
     "description": "Les interfaces riches sont-elles une révolution pour l’ergonomie ? Au travers d’exemples basés sur les patterns les plus utilisés, Amélie abordera la question de l’appropriation et des usages, et fera un état des lieux des bonnes pratiques et défauts les plus fréquemment rencontrés.",
     "authors": [
       {
@@ -17,7 +19,9 @@
   },
   {
     "year": 2008,
+    "type": "conference",
     "title": "Qualité et accessibilité Web : vers l’amélioration continue",
+    "url": "https://www.paris-web.fr/2008/-Jeudi-13-novembre-.html#hcalendar_Paris-Web_2008__conference_4",
     "description": "Jusqu’à présent, la qualité et l’accessibilité web ont surtout été traitées sous l’angle du respect des standards. Malheureusement, lorsque cette approche s’applique à des parcs de plusieurs centaines de sites ou des équipes étendues, elle peut rapidement s’avérer irréaliste, voire contre-productive. Au cours de cette conférence, nous montrerons pourquoi les démarches qualité et accessibilité Web, encore trop souvent statiques, doivent rapidement devenir des démarches dynamiques. Leur objectif ne doit pas seulement être la qualité, mais aussi et surtout l’amélioration continue. Nous présenterons différents niveaux de maturité et d’industrialisation dans le secteur Web et comment les producteurs de services en ligne peuvent les franchir. Nous montrerons enfin pourquoi et comment ces démarches d’amélioration continue peuvent devenir de précieux outils d’optimisation et de communication.",
     "authors": [
       {
@@ -33,7 +37,9 @@
   },
   {
     "year": 2008,
+    "type": "conference",
     "title": "Travailler dans le présent",
+    "url": "https://www.paris-web.fr/2008/-Jeudi-13-novembre-.html#hcalendar_Paris-Web_2008__conference_6",
     "description": "Dans cette présentation, Chris Heilmann nous parlera des problèmes liés à l’adoption de standards du web récents, et décrira des façons de contourner ces difficultés. Un exemple simple est le manque de prise en charge native de l’audio et de la vidéo, et les problèmes des implémentations actuelles. La session illustrera concrètement comment régler des problèmes a priori sans solution en les attaquant sous un autre angle.  Il s’agit essentiellement de trouver une façon pragmatique de vendre, implémenter et utiliser les standards plutôt que d’attendre que le marché adopte des technologies dont l’utilisation devrait être d’une évidence complète.",
     "authors": [
       {
@@ -49,7 +55,9 @@
   },
   {
     "year": 2008,
+    "type": "conference",
     "title": "Accessibilité : des volontaires ?",
+    "url": "https://www.paris-web.fr/2008/-Jeudi-13-novembre-.html#hcalendar_Paris-Web_2008__conference_8",
     "description": "Aurélien Levy et Stéphane Deschamps vous proposent de vous mettre en situation de handicap pour vous permettre de mieux comprendre les blocages liés à l’inaccessibilité des sites Web. Nous verrons par la suite comment éliminer simplement les défauts les plus fréquents et améliorer grandement l’accessibilité de vos services.",
     "authors": [
       {
@@ -70,7 +78,9 @@
   },
   {
     "year": 2008,
+    "type": "conference",
     "title": "Internautes et robots des moteurs de recherche, mais comment font-ils pour s’y retrouver ?",
+    "url": "https://www.paris-web.fr/2008/-Jeudi-13-novembre-.html#hcalendar_Paris-Web_2008__conference_9",
     "description": "La conception d’un site Web, axé qualité et rentabilité, passe par l’identification du message de l’entreprise, de la classification de l’information et de son organisation. Comment faire le « bon effort » ? Montrer l’interaction entre le métier d’architecte de l’information et celui de référenceur dans la conception d’un site web centré utilisateur et les impacts sur la rentabilité d’un site Web est l’objectif visé par cette conférence.",
     "authors": [
       {
@@ -91,7 +101,9 @@
   },
   {
     "year": 2008,
+    "type": "conference",
     "title": "Internationalisation",
+    "url": "https://www.paris-web.fr/2008/-vendredi-14-novembre-technique-.html#hcalendar_Paris-Web_2008__conference_2",
     "description": "Comme son nom l'indique, le Web se veut mondial. Mais pour remplir cette promesse, l'internationalisation de toutes ses parties constituantes s'impose.  Pas acquise au début, cette internationalisation s'est réalisée petit à petit et est encore en cours.  Nous passerons en revue les progrès accomplis, les chantiers d'aujourd'hui et les perspectives d'avenir.",
     "authors": [
       {
@@ -107,7 +119,9 @@
   },
   {
     "year": 2008,
+    "type": "conference",
     "title": "La mode se démode, le style jamais",
+    "url": "https://www.paris-web.fr/2008/-vendredi-14-novembre-technique-.html#hcalendar_Paris-Web_2008__conference_3",
     "description": "Après dix années de « Browser Peace », la nouvelle « Browser War » en cours entre Firefox 3, Internet Explorer 8, Opera 9 et Webkit offre enfin de grandes avancées sur les CSS et une harmonisation des implémentations. Nous allons faire le point sur les nouveautés des CSS 3 ainsi que sur les dernières propositions faites au CSS Working Group.",
     "authors": [
       {
@@ -123,7 +137,9 @@
   },
   {
     "year": 2008,
+    "type": "conference",
     "title": "Identité 2.0 et Web sémantique",
+    "url": "https://www.paris-web.fr/2008/-vendredi-14-novembre-technique-.html#hcalendar_Paris-Web_2008__conference_5",
     "description": "Nos activités, nos relations, nos contenus, nos envies et finalement notre identité ont migré d’une sphère locale à une portée mondiale grâce au Web. La complexité croissante des relations que nous souhaitons stocker et exprimer en ligne demande une évolution de notre façon de concevoir et d’assurer la pérennité et l’utilité des applications Web. David Larlet discutera des solutions apportées par le Web Sémantique dans le domaine.",
     "authors": [
       {
@@ -139,7 +155,9 @@
   },
   {
     "year": 2008,
+    "type": "conference",
     "title": "IE 8 et les standards du Web",
+    "url": "https://www.paris-web.fr/2008/-vendredi-14-novembre-technique-.html#hcalendar_Paris-Web_2008__conference_7",
     "description": "Dans cette session, Chris Wilson parlera d’Internet Explorer 8 et de ses avancées en termes de conformité aux standards et de prise en charge d’AJAX. Il illustrera aussi les nouvelles possibilités qui s’offrent aux responsables de sites Web.",
     "authors": [
       {
@@ -155,7 +173,9 @@
   },
   {
     "year": 2008,
+    "type": "conference",
     "title": "Performance Web côté client",
+    "url": "https://www.paris-web.fr/2008/-vendredi-14-novembre-technique-.html#hcalendar_Paris-Web_2008__conference_8",
     "description": "80% des problèmes de performance Web se situe au niveau des échanges avec le navigateur et sur le navigateur lui-même : échanges réseau, rendu dans le navigateur, organisation des composants dans une page etc.   Nous aborderons les principales problématiques et les solutions à mettre en œuvre. Forts de l'expérience de l'équipe performance de Yahoo!, à la fin de cette session vous saurez aborder la question des performances Web du point de vue du visiteur et mettre en œuvre les actions correctrices sur vos sites Web.",
     "authors": [
       {
@@ -178,6 +198,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "ARIA : Accessible Rich Internet Application",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-aria",
     "tags": [
       "accessibilité",
       "javascript"
@@ -200,6 +221,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Cascade et héritage : concevoir, organiser, optimiser et maintenir ses feuilles de styles",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-cascade_et_heritage",
     "tags": [
       "CSS",
       "optimisation"
@@ -227,6 +249,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Javascript De(ux) zéro",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-JS_de_zero",
     "tags": [
       "javascript"
     ],
@@ -243,6 +266,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Les nouvelles technologies du Web",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-technologies_web",
     "tags": [
       "histoire et prospective"
     ],
@@ -259,6 +283,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Rédaction Web et référencement naturel",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-redaction_et_referencement_naturel",
     "tags": [
       "référencement"
     ],
@@ -275,6 +300,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "2UNL",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-2unl",
     "tags": [
       "ressources humaines",
       "optimisation"
@@ -292,6 +318,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Playing with Opera stuff",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-playing_with_Opera",
     "tags": [
 
     ],
@@ -308,6 +335,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "L’accessibilité du Web, ça sert à tous",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-accessibilite_sert_a_tous",
     "tags": [
       "accessibilité"
     ],
@@ -324,6 +352,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Performance Web côté client",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-performance_client",
     "tags": [
       "optimisation"
     ],
@@ -345,6 +374,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Validation avancée des formulaires",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-validation_formulaires",
     "tags": [
       "accessibilité",
       "javascript",
@@ -363,6 +393,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "jQuery et accessibilité",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-jquery",
     "tags": [
       "accessibilité",
       "javascript"
@@ -385,6 +416,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Using and remixing the web and systems",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-web_remixed",
     "tags": [
       "javascript",
       "widget",
@@ -403,6 +435,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Comment rendre mes vidéos accessibles ?",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-videos_accessibles",
     "tags": [
       "accessibilité",
       "vidéo"
@@ -420,6 +453,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Développement efficace avec les frameworks CSS",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-frameworks_CSS",
     "tags": [
       "CSS"
     ],
@@ -436,6 +470,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Enrichissement progressif de sites Web",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-enrichissement_progressif",
     "tags": [
       "accessibilité",
       "design"
@@ -453,6 +488,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "RDFa vs Microformats",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-rdf_vs_microformats",
     "tags": [
       "sémantique"
     ],
@@ -474,6 +510,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Firebug, Web Inspector : des outils indispensables",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-outils_developpement",
     "tags": [
       "design",
       "outils"
@@ -491,6 +528,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Accessibilité par les utilisateurs",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-accessibilite_utilisateurs",
     "tags": [
       "accessibilité"
     ],
@@ -512,6 +550,7 @@
     "year": 2008,
     "type": "workshop",
     "title": "Optimiser ses CSS",
+    "url": "https://www.paris-web.fr/2008/-samedi-15-novembre-technique-.html#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-optimiser_css",
     "tags": [
       "CSS",
       "optimisation"

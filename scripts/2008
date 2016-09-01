@@ -41,6 +41,21 @@ class Selector2008
     authors
   end
 
+  def url(title, filepath)
+    basename = File.basename(filepath)
+    anchor = title.attr('id')
+    return nil if anchor.nil?
+
+    prefix = 'https://www.paris-web.fr/2008/'
+
+    url = "#{prefix}-Jeudi-13-novembre-.html##{anchor}" if basename == 'sessions01.html'
+    url = "#{prefix}-vendredi-14-novembre-technique-.html##{anchor}" if basename == 'sessions02.html'
+    url = "#{prefix}-samedi-15-novembre-technique-.html##{anchor}" if basename == 'workshop.html'
+
+    url
+  end
+
+
   def title(event)
     h3 = element(event, 'h3')
     element(h3, 'span,abbr').remove
@@ -56,7 +71,9 @@ class Selector2008
       events.each do |event|
         sessions << {
           year: 2008,
+          type: 'conference',
           title: title(event),
+          url: url(event, filepath),
           description: description(event),
           authors: authors(event)
         }
@@ -84,6 +101,7 @@ class Selector2008
         year: 2008,
         type: 'workshop',
         title: title,
+        url: url(event, @workshop_filepath),
         tags: tags,
         description: description(event),
         authors: authors(event)
