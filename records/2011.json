@@ -3,6 +3,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "La lisibilité des contenus",
+    "url": "https://www.paris-web.fr/2011/ateliers/la-lisibilite-des-contenus.php",
     "description": "Comment rendre la lecture de vos contenus textuels efficace, confortable, agréable et accessible à tous ?  L'atelier comprendra 3 volets :   Quels sont les points communs ou différents entre  la lecture papier et la lecture à l'écran la lecture à l'écran et la lecture via des aides techniques les contenus ponctuels et les longs textes   Quelles sont les qualités d'un contenu textuel  la lisibilité l'intelligibilité   Comment atteindre ses objectifs via  les directives d'accessibilité les règles d'ergonomie les principes d'utilisabilité    Avec de bons ou mauvais exemples, et quelques outils qui peuvent aider à l'évaluation de la lisibilité d'un contenu textuel.",
     "tags": [
       "Accessibilité",
@@ -25,6 +26,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Tester l'ergonomie de son site même sans budget",
+    "url": "https://www.paris-web.fr/2011/conferences/tester-lutilisabilite-de-son-site-web-quand-on-na-pas-de-budget.php",
     "description": "Faire des tests d'utilisabilité semble toujours être une pratique réservée aux grosses entreprises capables d'y allouer des budgets importants. Pourtant, même à petite échelle, il est possible de tester son site Web et d'obtenir des résultats intéressants. Cette présentation proposera un retour d'expérience sur les méthodes et outils peu coûteux à disposition.",
     "tags": [
       "Ergonomie",
@@ -46,6 +48,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Les goûts et les couleurs",
+    "url": "https://www.paris-web.fr/2011/conferences/les-gouts-et-les-couleurs.php",
     "description": "Les Webmasters et autres designers Web ont beaucoup à faire et à envisager lorsqu'ils dessinent les grands traits d'un site à venir, de l'encodage aux bases de données en passant par l'accessibilité et les polices de caractères. Il est toutefois un aspect du design Web qui revêt une importance capitale et qui très (trop) souvent est traité sinon avec désinvolture, au moins en se basant sur des critères subjectifs peu pertinents : la couleur. L'impact du choix de la palette des couleurs d'un site Web est immense et reste étrangement peu documenté ; la psychologie chromatique est pourtant une part primordiale du design qu'il serait irresponsable de survoler, et nombre grands groupes et marques célèbres ne s'y sont pas trompés, poussant parfois très loin les études afin d'établir le meilleur rapport possible entre le message à délivrer et les couleurs qui instaureront très vite l'état d'esprit propice à recevoir ce message.  Cette conférence vous donnera les clés pour choisir les couleurs idéales pour vos projets, ce qu'elles inspirent, suscitent et sous-entendent, ainsi que les associations heureuses et celles à éviter.",
     "tags": [
       "Design"
@@ -66,6 +69,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Ces indices dans les CSS qui indiquent que votre projet web est mal parti",
+    "url": "https://www.paris-web.fr/2011/ateliers/ces-indices-dans-les-css-qui-indiquent-que-votre-projet-web-est-mal-parti.php",
     "description": "Lorsqu'un développeur web front-end expérimenté récupère un ancien projet, il lui faut souvent quelques minutes seulement pour sentir si le projet va être problématique, car certains indices permettent de sentir cela.  Lors de l’atelier, nous nous baserons sur l'échange et l'expérience des les participants pour essayer de faire émerger quelques règles simples et facilement utilisable par un non spécialiste permettant de signaler que quelque chose ne va pas dans le projet, et nous proposerons quelques pistes de travail pour remédier au problème rencontré.",
     "tags": [
       "CSS",
@@ -87,6 +91,7 @@
     "year": 2011,
     "type": "conference",
     "title": "La typo, mon navigateur et moi",
+    "url": "https://www.paris-web.fr/2011/conferences/la-typo-mon-navigateur-et-moi.php",
     "description": "Afficher des polices typographiques dans un navigateur, c'est un peu magique. L'affichage des caractères, les ligatures, les petites capitales... il y a plein de truc géniaux à faire, mais tous les navigateurs n'ont pas la même qualité de rendu ! Plutôt que de baisser les bras, je vous propose de voir ensemble comment ça fonctionne et comment on peut faire simplement de la belle typographie.",
     "tags": [
       "Typographie"
@@ -107,6 +112,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Ga, Bu, Zo, Meu, ou pourquoi faire simple quand on peut faire compliqué ?",
+    "url": "https://www.paris-web.fr/2011/conferences/ga-bu-zo-meu-ou-pourquoi-faire-simple-quand-on-peut-faire-complique.php",
     "description": "Les 5 dernières années ont vu un nombre de changements technologiques impressionnants, qui changent la manière de concevoir, coder, déployer, opérer, distribuer et monnayer les applications. Certaines tendances facilitent la création d'applications simples et élégantes, alors que d'autres créent de nouvelles complexités que les développeurs doivent gérer.  Nous proposons un tour d'horizon des ces tendances technologiques sous forme d'un dialogue entre un Shadok et un Gibi.     Componentisation du web : APIs REST et Javascript, Gadgets Javascript, Infrastructure comme un Service (IaaS accessible sous forme d'APIs).   Commencer par l'API, puis écrire les clients : Interface Utilisateur de NewTwitter construite a partir de l'API, comme les clients mobiles.   Plate Forme de Nuages qui permettent une montée en charge facile (PaaS) : rendre une appli scalable représentait 90% du travail il y a 5 ans, maintenant les PaaS nuages + bases de données NoSQL réduisent ça a 20%, le reste peut être passé à concevoir les interactions utilisateur.   Standardisation des clients, mais multiplication des facteurs de forme: du cote de chez Gibi ça se standardise autour de 2 plate formes : html5 vs android & ios. Mais du cote de Shadoko on souligne que l'appli doit tourner sur de nombreux facteurs de formes : laptop, desktop, phone, tablets. Les dernières années le serveur s'est simplifié, mais la complexité se retrouve côté client : tout html5/css3 avec Titanium ou Phonegap, ou natif?   Synchronicite : Shadoko cite Steve Jobs et iCloud pour arguer (ZoMeuGaGa) d'un retour au client serveur, aux architectures à la Lotus Notes, la synchronisation et ses problèmes. Gibi prône HTML5 et des applications connectées la plupart du temps.   Social/geo/mobile : 3 axes qui rendent les applications plus intéressantes, le challenge étant de rester simple. Facebook (Shadok) vs Twitter, Path et Foursquare (Gibi) comme exemples mobiles avec un focus bien précis.   Monétisation : multiplication des marketplaces pour les applis, Shadoko se régale, Gibi compte ses revenus.",
     "tags": [
       "KISS",
@@ -128,6 +134,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Développeurs, cachez-moi cette page !",
+    "url": "https://www.paris-web.fr/2011/ateliers/developpeurs-cachez-moi-cette-page.php",
     "description": "L'une des contraintes les plus complexes à résoudre lorsqu'on développe une application web consiste à ne pas générer deux fois la même page. Pour y parvenir, la plupart des développeurs ont recours à des solutions de cache propriétaires qui montrent rapidement leurs limites lorsqu'il s'agit de cacher des pages très dynamiques. Un article et ses commentaires, accompagnés d'un flux Twitter actif par exemple. Heureusement, le protocole HTTP offre depuis très longtemps des outils adaptés pour contrôler la mise en cache côté navigateur. Au cours de cet atelier, nous étudierons tout d'abord les modèles fondamentaux du cache HTTP côté client grâce à l'expiration et la validation. Enfin, nous découvrirons comment améliorer les performances tout en restant le plus dynamique possible grâce aux Edge Side Includes, ESI, et les reverse proxy caches tels que Varnish.",
     "tags": [
       "HTTP",
@@ -149,6 +156,7 @@
     "year": 2011,
     "type": "conference",
     "title": "HTML5 APIs: Where no man has gone before",
+    "url": "https://www.paris-web.fr/2011/conferences/html5-apis-where-no-man-has-gone-before.php",
     "description": "This talk aims to introduce you to the plethora of APIs HTML5 and related technologies offer us. Sure, HTML5 brings eye-candy and we'll look at that, but there's so much more to it when it comes to building day-to-day web sites and web applications.  Les API HTML5 : là l'homme n'a jamais posé le pied.  Cette présentation vise à vous initier à la pléthore d'API que HTML5 et les technologies connexes nous offrent. Bien sûr, HTML5 propose son lot d'apports purement esthétiques et nous allons les examiner, mais il y a tellement plus de choses à découvrir dès qu'il s'agit de parler de la conception de sites web au jour le jour, et d'applications web.   NB : cette conférence sera en anglais avec traduction simultanée.",
     "tags": [
       "HTML5"
@@ -169,6 +177,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Client-développeur : comment  bien rédiger un contrat de développement de site ou d'application pour éviter de perdre de l'argent",
+    "url": "https://www.paris-web.fr/2011/ateliers/client-developpeur-comment-bien-rediger-un-contrat-de-developpement-de-site-ou-dapplication-pour-evi.php",
     "description": "Ce sujet est né de la coïncidence de deux événements, mi-mai 2011.   Premier événement : deux nouveaux clients m'ont contacté la semaine passée. Ils ont, l'un et l'autre, perdu environ un an et dépensé plusieurs dizaines de milliers d'euros pour obtenir un site ou une appliction que finalement ils n'obtiendront pas. Il en découlera des procédures judiciaires, des expertises, du temps écoulé, de l'argent supplémentaire dépensé et, pour les professionnels, une réputation ruinée.  Second événement : à Sud Web l'un des orateurs avait pour thème l'achat de prestations IT et Web. Mais à aucun moment il n'a évoqué la question de comment s'écrit un contrat.  Or, un contrat bien négocié, qui ménage les intérêts des parties, est gage de réussite du projet et, donc, de réduction des risques contentieux. Et rédiger des contrats ou traiter des contentieux IT, c'est ce que je fais tous les jours. J'ai donc quelques trucs, astuces et idées à transmettre.",
     "tags": [
       "Métier"
@@ -189,6 +198,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Lightning talks",
+    "url": "https://www.paris-web.fr/2011/conferences/lightning-talks.php",
     "description": "10 Lightning talks, 4 minutes par présentation et pas une seconde de plus.     Pas de Liens Sans Autorisation m'a tuer (PDF), par Thierry Stoehr  La Glande Assistée par Ordinateur (PDF), par Laurence Vagner Ack, better than grep (PDF), par Anthony Ricaud L'amusante frénésie des pages à largeurs fixes (support), par Rudy Rigot Comment faire un sac de laptop en 30s, par Karl Dubost Pdf.js, par Vivien Nicolas BootToGecko, par Mounir Lamouri Ligthning Failconf, par Benjamin Lorteau L'accessibilité : un truc réservé aux riches ? (PDF), par Jean-Philippe Simonnet W3C Sentaï Team (support), par Jérémie Patonnier",
     "tags": [
 
@@ -214,6 +224,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Comment améliorer les performances avec l'usage mixé d'hébergeurs, CDN et Clouds ?",
+    "url": "https://www.paris-web.fr/2011/conferences/est-il-possible-dameliorer-les-performances-et-optimiser-les-couts-avec-lusage-mixe-dhebergeurs-cdn-.php",
     "description": "Est-il possible d'améliorer les performances et optimiser les coûts avec l'usage mixé d'hébergeurs, CDN et Clouds ?  Tous les éditeurs sont aujourd'hui à la recherche d'une solution permettant de maximiser les performances. Cedexis, \"l'aiguilleur du net\", a développé un service unique de monitoring communautaire (RUM) qui génère quotidiennement plus d'un milliard de mesures en temps réel provenant de millions d'internautes. En adossant à ces données, un service breveté de load-balancing DNS applicatif, Cedexis apporte des réponses pour atteindre l'objectif d'une expérience utilisateur optimale.",
     "tags": [
       "Performance"
@@ -239,6 +250,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Les neurosciences au service du design numérique",
+    "url": "https://www.paris-web.fr/2011/conferences/la-science-au-service-du-design.php",
     "description": "Est-ce possible de construire l'engagement d'un utilisateur ? Les neurosciences au service du design numérique.   Quelles techniques ont permis de générer 60% d'augmentation des taux de conversion chez ING direct ? Quelles techniques ont permis d'augmenter le nombre de devis online de MMA de 120.000 unités en un an ? Quelles techniques ont permis de diminuer de 29% les appels intrusifs de eBay ?    Cette conférence permettra de faire découvrir les techniques innovantes qui sont en coulisse de ces succès : une méthodologie centrée sur l'analyse des comportements humains, des techniques de pointes permettant de prédire objectivement les comportements des utilisateurs face aux écrans : analyses de l'activité cérébrale (est-ce que l'utilisateur comprend les écrans, est-ce que les zones de plaisir sont activées, est-ce que l'utilisateur connais déjà les informations présentées...), de l'activité oculaire...    Le comportement humain devient un outil primordial pour réussir ses projets digitaux et atteindre ses propres objectifs. Eric Schmidt (CEO Google)",
     "tags": [
       "Design"
@@ -259,6 +271,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Petite arithmétique de l’UX : choisir, renoncer, construire",
+    "url": "https://www.paris-web.fr/2011/conferences/petite-arithmetique-de-lux-choisir-renoncer-construire.php",
     "description": "Le seul fait d’exister ne suffisant plus pour réussir, chaque service cherche à se démarquer auprès des usagers. Cette conférence abordera les perspectives données par la simplicité de l’expérience utilisateur. Mais comment parvenir à la simplicité ? Peut-on seulement en décider ?  Pour y répondre, nous évoquerons comment fournir un service tout en tenant compte des capacités attentionnelles des internautes et des contextes d’usage : comment trouver l’équilibre entre forme et fonction? S’agit-il seulement de supprimer des choses à l’écran ? Comment satisfaire des usages novices tout en laissant place aux usages avancés ? ...  Au final, théories et exemples illustrant les quelques dynamiques indispensables pour créer des services en ligne simples, qui respectent et pensent vraiment aux utilisateurs.",
     "tags": [
       "UX"
@@ -284,6 +297,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Travaillons avec le Web",
+    "url": "https://www.paris-web.fr/2011/ateliers/travaillons-avec-le-web.php",
     "description": "Pendant près de 10 ans, j'ai eu l'opportunité de travailler à distance dans des organisations internationales (avec Opera et le W3C). Je partagerai pendant cet atelier les astuces, les trucs, les techniques simples permettant de rendre le travail à distance plus agréable et efficace. Cet atelier pourrait être l'occasion pour que collectivement nous créons ensemble un petit guide utilisable par la communauté francophone (sur github, ou bitbucket ?).  NB : c'est facultatif, mais il est recommandé de disposer d'un compte Github pour suivre cet atelier.",
     "tags": [
       "Métier"
@@ -304,6 +318,7 @@
     "year": 2011,
     "type": "conference",
     "title": "SEO, mobilité et accessibilité : la sainte trinité d'un développement Web inclusif",
+    "url": "https://www.paris-web.fr/2011/conferences/seo-mobilite-et-accessibilite-la-sainte-trinite-dun-developpement-web-inclusif.php",
     "description": "La mobilité est un enjeu qui révolutionne les pratiques actuelles de l'industrie du Web. L'optimisation pour les moteurs de recherche (SEO) occupe une place de choix dans les préoccupations des responsables de sites Web, mais son caractère aléatoire en rebute plusieurs. Les standards d'accessibilité apportent une série de nouvelles préoccupations qui viennent non seulement supporter, mais aussi optimiser les pratiques de mobilité et de SEO. Lors de cette présentation, le conférencier invite à revisiter les bases pour établir plusieurs parallèles entre les trois pratiques. De l'exercice émerge une approche de développement où chacun y trouve son compte et ce, dans le meilleur intérêt de ceux pour qui sont développés les sites web : les utilisateurs finaux.",
     "tags": [
       "Accessibilité",
@@ -326,6 +341,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Accessibilité : soyons agiles",
+    "url": "https://www.paris-web.fr/2011/conferences/accessibilite-soyons-agiles.php",
     "description": "Après une quinzaine d'années de pratique, la boîte à outils de l'accessibilité des projets Web est bien fournie : standards, checklists, méthodes d'application, expertise, tests utilisateurs, validateurs, canaux de feedback... Mais l'existence d'outils n'empêche pas les échecs et les difficultés récurrentes. Et si ce n'était pas une question d'outillage mais de choix et de bon emploi des outils ? Comment en effet choisir l'outil le plus adéquat et en faire le bon usage selon le contexte ? Dans cette conférence, nous partirons d'observations pratiques pour suggérer quelques principes stratégiques de gestion intelligente et efficiente de l'accessibilité. L'objectif est de produire des sites accessibles sans surcoût et sans (trop) faire souffrir les équipes projet.",
     "tags": [
       "Accessibilité"
@@ -351,6 +367,7 @@
     "year": 2011,
     "type": "conference",
     "title": "L'OpenData : une évolution culturelle, politique et technique",
+    "url": "https://www.paris-web.fr/2011/conferences/lopendata-une-evolution-culturelle-politique-et-technique.php",
     "description": "Vous souhaitez libérer des données ? Qu'est-ce qu'une donnée ? Qu'entend-on par « libération » ? Comment favoriser la réutilisation de vos données pour en décupler leur valeur ? Quelles sont les bonnes pratiques dans ce domaine ? Quelles sont les conditions de réutilisation ? Quels sont les outils existants ? Quelles sont les sources actuelles ? Locales ? Nationales ? Comment croiser ces données pour proposer un service innovant aux utilisateurs ? Comment les hackers-citoyens peuvent-ils s'approprier ces données ?",
     "tags": [
       "OpenData"
@@ -371,6 +388,7 @@
     "year": 2011,
     "type": "conference",
     "title": "HTML5 pour l’écriture d’applications cross-devices : challenges et solutions",
+    "url": "https://www.paris-web.fr/2011/conferences/html5-pour-lecriture-dapplications-cross-devices-challenges-et-solutions.php",
     "description": "HTML5 et ses amis CSS3 et SVG sont particulièrement intéressants à l’heure de la multiplication des périphériques (PC, tablettes et téléphones). En effet, 2 choix s’offrent aux développeurs pour viser ces différentes plateformes. Le 1er est de coder avec l’environnement natif de chacune (Objective-C, Java, Silverlight, etc.) et cela peut vite coûter très cher. Le 2ème choix consiste à envisager une technologie commune à toutes les plateformes : HTML5. Oui mais HTML5 est-t-il capable d’offrir une richesse et une ergonomie similaire à une application native ? Comment s’adapter aux différentes résolutions et ergonomie disponibles ? Quiz des performances ? Quelles sont les limitations face à une application dite native ?  Tout au long de cette session, nous essaierons de répondre à ces questions en construisant une même application qui fonctionnera sur la majorité des plateformes actuelles. Nous verrons ainsi que grâce aux dernières évolutions des technologies du W3C et à l’augmentation des performances des derniers navigateurs, HTML5 et ses amis n’ont pas à rougir face à aux applications natives pour de nombreux cas d’utilisation. Nous y découvrirons malgré tout les nouveaux challenges que cela peut lever.",
     "tags": [
       "HTML5"
@@ -391,6 +409,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Immediate Inspiration",
+    "url": "https://www.paris-web.fr/2011/conferences/immediate-inspiration.php",
     "description": "As web industry professionals, we rarely experience a shortage of creativity itself. What tends to be elusive and fleeting is inspiration - often when we need it the most for important projects. Wouldn't it be great to be able to have a reliable method to evoke and tap into creative inspiration at will to spur the process of ideation and production? This talk will explore the concepts around the sources of inspiration and ideas and practices for eliminating blocks and accessing the spark when you need it to develop and execute great work. En tant que professionnels, il nous arrive rarement de tomber à court de créativité. C'est surtout l'inspiration qui nous échappe et se fait fugace -- le plus souvent au moment où nous en avons le plus besoin, pour des projets importants. Il nous faudrait disposer d'une méthode fiable que nous pourrions invoquer afin de puiser à la demander l'inspiration créatrice qui relance le processus de réflexion et de production ? Cette conférence explorera les concepts liés aux sources d'inspiration et d'idées, et les moyens d'éliminer les points bloquants afin de déclencher l'étincelle au moment où nous avons besoin d'elle, afin de concevoir et réaliser nos projets.  NB : cette conférence sera en anglais avec traduction simultanée.",
     "tags": [
       "Métier"
@@ -411,6 +430,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Tester vos services, mythes et réalités !",
+    "url": "https://www.paris-web.fr/2011/conferences/tester-vos-services-mythes-et-realites-1.php",
     "description": "Le but de cette conférence est de faire le point sur les différentes méthodes d'évaluation des interfaces. Le point de départ est l'affirmation de Jakob Nielsen : 5 utilisateurs suffisent pour trouver 85 % des problèmes d’ergonomie. Cette affirmation est souvent reprise en oubliant de préciser le contexte théorique qui date de 1993. Depuis les études sur le sujet, notamment une série d’études « Comparative usability evaluation » de Rolf Molich, ont été nombreuses ce qui permet de répondre à des questions comme :    Combien de participants sont nécessaires pour trouver le plus de problèmes critiques ? Peut-on trouver tous les problèmes ? Est ce qu’il y a des différences de qualités entre les résultats obtenus par les différentes méthodes ?   Dans un deuxième temps, nous aborderons une partie pratique en répondant à la question : Quelle méthode à quel moment du projet ? La réponse est donc basée sur trois méthodologies \"simples et élégantes\" :   En début de projet : une méthode d'inspection des IHM \"à ma façon\". En cours de projet : des tests utilisateurs. En fin de projet, pour valider la prise en main : Une méthodologie d'évaluation basée sur la norme ISO 20282 \"Facilité d’emploi des produits quotidiens.\"   Pour conclure, nous répondrons de manière précise à la question \"Combien d’utilisateurs faut-il pour trouver 85 % des problèmes d’ergonomie ?\" avec l'aide d'un outil statistique.",
     "tags": [
       "Ergonomie",
@@ -432,6 +452,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Simply Responsive CSS3",
+    "url": "https://www.paris-web.fr/2011/ateliers/simply-responsive-css3.php",
     "description": "Maybe you've wanted to dive in to CSS3, but have held back because you just didn't think it was ready. Don't be fooled, CSS3 isn't the future, it's the present, and is ripe for the pickin' and is ready to respond to display your sites in multiple devices right now. This session will touch upon the gamut of CSS3 properties from colors, web fonts, and visual effects, to transitions, animations and media queries. If you aren't yet using CSS3, this workshop will give you the inspiration and resources to go forth and implement the new properties with confidence.  Peut-être avez-vous déjà voulu vous plonger dans les CSS3, mais vous êtes retenu car vous l'estimiez encore immature ? Ne soyez pas dupe, CSS3 ne tient pas du futur, mais du présent ; il est assez mûr pour être cueilli, et il peut dès maintenant servir à afficher vos sites sur de nombreux écrans. Cette session abordera la variété de propriétés CSS3 liées aux couleurs, aux polices pour le Web, ainsi que les transitions graphiques, telles que les transitions, les animations et les Media Queries. Si vous n'utilisez pas déjà CSS3, cet atelier vous donnera l'inspiration et les ressources nécessaires pour aller de l'avant et implémenter ses propriétés en toute confiance.  NB : cet atelier se tiendra en anglais.",
     "tags": [
       "CSS3"
@@ -452,6 +473,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Optimizing your layout for phones and tablets using viewport and media queries",
+    "url": "https://www.paris-web.fr/2011/conferences/optimizing-your-layout-for-phones-and-tablets-using-viewport-and-media-queries.php",
     "description": "With mobile web browsing becoming widespread, users expect their favorite sites to \"just work\" on their mobile device of choice. Exciting times, especially as there are a number of new hooks in modern mobile browsers that help web designers to create compelling experiences on phones and tablets. In my talk, I will cover the various features of the viewport meta tag, and look at how they allow you to control mobile browsers' zoom behaviors. I'll also connect this to Opera's CSS Device Adaptation proposal, which brings this feature to CSS in the form of the @viewport rule. Furthermore, I will explain how viewport can be combined with media queries to create super-flexible layouts that work nicely across different browsing contexts and devices, and explore various strategies to dealing with different screen sizes and pixel densities. Maintenant que le fait de naviguer sur Internet à en étant mobile est devenu une réalité, les utilisateurs s'attendent à ce que leurs sites préférés fonctionnent sans problème sur leur appareil mobile. Nous entrons dans une ère passionnante, car les navigateurs mobiles modernes disposent de nombreuses fonctionnalités qui aident les designers web à concevoir une expérience mobile (sur téléphone ou tablette) plus intéressante.Lors de cette conférence, je parlerai des différentes possibilités offertes par la balise meta \"viewport\", et montrerait comme elle vous permettent de contrôler le comportement du zoom des navigateurs mobiles. Je ferai également le lien avec la proposition d'Opera nommée CSS Device Adaptation, qui apporte cette fonctionnalité aux CSS, sous la forme d'une règle @viewport.  NB : cette conférence sera en anglais avec traduction simultanée.",
     "tags": [
       "Mobile"
@@ -472,6 +494,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Intégrateur : entre le marteau et l'enclume",
+    "url": "https://www.paris-web.fr/2011/ateliers/integrateur-entre-le-marteau-et-lenclume.php",
     "description": "Vous réalisez vos intégrations avec soin et amour : idéalement valides, sémantiques et accessibles. Mais pourquoi faut-il que le 'dev' saccage cela !? À partir d'exemples concrets nous essayerons de décortiquer ensemble ce qui coince, entre le code idéal produit par l'intégrateur et le code effectivement développé, afin d'en tirer la leçon et lister les concessions prévisibles de part et d'autre pour un mariage réussi. Venez donc avec votre intégrateur, avec votre dev, favori ou maudit, et surtout avec votre code. Souple sur les pattes arrières  ",
     "tags": [
       "Intégration",
@@ -493,6 +516,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Un navigateur, comment ça marche ?",
+    "url": "https://www.paris-web.fr/2011/conferences/un-navigateur-comment-ca-marche.php",
     "description": "On lui donne des milliers de lignes de code, on lui envoie plein de médias, on lui demande de faire le grand écart entre Wikipédia et une version web d'un OS. Et pourtant, on ne le connaît pas vraiment alors qu'il est au centre de nos métiers.  Dans cette session, nous verrons un peu ce qui passe au cours de la vie d'une page web et comment les instructions que l'on donne à un navigateur sont transformées. On parlera sans doute de trafic réseau, de construction de la page à partir du HTML, d'interprétation des CSS et de rendu à l'écran, de modification de la page via JavaScript. Et peut-être verra-t-on Michel Chevalet…",
     "tags": [
       "Navigateurs"
@@ -513,6 +537,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Développer pour le mobile en pratique : outils et techniques",
+    "url": "https://www.paris-web.fr/2011/ateliers/developper-pour-le-mobile-en-pratique-outils-et-techniques.php",
     "description": "Concevoir un site ou une application web pour le mobile n'a rien à voir avec le web classique. Pourtant, les techniques et processus débordent aujourd'hui sur le web de bureau !  Cet atelier commencera donc par un rappel des notions et contraintes qui font la particularité du web mobile, suivi par un tour d'horizon des différents frameworks et outils disponibles. Enfin, l'analyse de différents sites et applications nous permettra de réfléchir à ce qui fonctionne bien ou pas, et pourquoi.",
     "tags": [
       "Mobile"
@@ -533,6 +558,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Fast and Furious Enough - Définissez et testez rapidement votre premier MVP en utilisant des pratiques issues de Lean Startup",
+    "url": "https://www.paris-web.fr/2011/ateliers/fast-and-furious-enough---lean-startup-workshop-define-and-test-your-first-mvp-to-launch-faster.php",
     "description": "Comment proposer une expérience à la fois simple, facile et réellement innovante à vos futurs utilisateurs ? Comment tester la pertinence de sa solution au plus tôt en utilisant le prototypage papier ?   Comment définir et vérifier ses hypothèses à partir d'indicateurs mesurables ?   Nous vous proposons de travailler sur ces 3 questions sous la forme d’un atelier vous permettant d’utiliser certaines pratiques issues du mouvement lean-startup, mais aussi du systems thinking et du design thinking pour lancer au plus tôt des produits web qui attaquent de vrais enjeux.    Dans cet atelier vous allez :   Identifier un problème et proposer une nouvelle idée de produit permettant de corriger ce problème Définir des hypothèses de travail et les indicateurs que vous souhaitez mesurer Concevoir les premiers écrans de votre MVP en réalisant un prototype papier Recueillir les premiers résultats de votre MVP Inspecter les résultats et adapter votre stratégie en fonction",
     "tags": [
       "Prototypage"
@@ -558,6 +584,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Principes d’ingénierie du développement Web",
+    "url": "https://www.paris-web.fr/2011/conferences/principes-dingenierie-du-developpement-web.php",
     "description": "Cela fait plusieurs années que nous parlons d’industrialisation des pratiques de développement pour le Web. Pourtant, la qualité n’est pas toujours au rendez-vous. Budgets dépassés, fonctionnalités incomplètes, design ordinaire, faiblesses en accessibilité et en sécurité, sont encore trop souvent rencontrés. Ce n’est pas sans raison, les budgets diminuent, les contraintes augmentent, la communication entre intervenants est relative et les difficultés sont abondantes et complexes. Les enjeux sont grands aussi : ce sont entre autres les développements informatiques (qui sont presque toujours en bonne partie Web maintenant, mobile bientôt) qui nous amènent en tant que société à être plus productif, donc compétitif dans un marché toujours plus mondial.   Il existe pourtant quelques trucs et astuces, des façons de faire que nous pouvons commencer à inclure à l’intérieur de principes d’ingénierie. Nous allons regarder comment arriver à définir ces principes de façon à ce qu’elles ressemblent à notre culture d’entreprise et voir quelques exemples de réalisation de ceux-ci. Nous allons rester simples, pragmatiques et réalistes, sans tomber dans les dogmes, tout en se donnant une direction dans laquelle la qualité est un but atteignable.",
     "tags": [
       "Métier"
@@ -578,6 +605,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Vive les tableaux de mise en page !",
+    "url": "https://www.paris-web.fr/2011/ateliers/vive-les-tableaux-de-mise-en-page.php",
     "description": "Le design web en 2011 consiste encore à se battre avec des positionnements flottants, absolus, relatifs, des clear, des problèmes de compatibilité, des hacks, des bidouilles, des bugs d'affichage et autres frameworks CSS encombrants.   On ne devrait plus en être là aujourd'hui. C'est du rôle des CSS de nous offrir des solutions simples, intuitives et stables (NDLR : genre \"KISS\" quoi).   Les propositions CSS3 avant-gardistes telles que Flexible box model et Grid Layout ne seront pas utilisables en production avant un bon bout de temps. En attendant, si la solution était sous nos yeux depuis des années ? Et si l'avenir (proche) des CSS étaient les tableaux de mise en page ?   Note : ça parlera (un peu) de tableaux HTML bien fichus, linéarisables, toussa et aussi (surtout) de CSS display: table, de ses avantages et inconvénients.",
     "tags": [
       "CSS3",
@@ -599,6 +627,7 @@
     "year": 2011,
     "type": "conference",
     "title": "The mobile browser world",
+    "url": "https://www.paris-web.fr/2011/conferences/the-mobile-browser-world.php",
     "description": "In this presentation, PPK will describe the mobile browser world, its 10 to 15 important browsers, their relations, the difference between normal and proxy browsers, and how to go about deciding on a starting point for your mobile web endeavors. He'll try to make sense of a confusing ecosystem that web developers will need to learn to know better, and he will go way beyond just iPhone and Android. Lors de cette présentation, PPK décrira le monde du mobile, ces 10 à 15 principaux navigateurs, leurs relations, les différences entre les navigateurs normaux et ceux fonctionnant par proxy, et expliquera comment s'y prendre pour choisir un point de départ pour vos efforts côté mobile. Il tentera donner du sens à l'écosystème confus que les développeurs web doivent apprendre à mieux connaître, et ira bien plus loin que les systèmes iPhone et Android.  NB : cette conférence sera en anglais avec traduction simultanée.",
     "tags": [
       "Mobile"
@@ -619,6 +648,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Premier pas pour le développement accessible",
+    "url": "https://www.paris-web.fr/2011/ateliers/premier-pas-pour-le-developpement-accessible.php",
     "description": "Les recommandations pour la production de contenus accessibles (WCAG) existent maintenant depuis plus de 10 ans mais l'accessibilité fait  toujours cruellement défaut dans la majorité des productions web en France et dans le monde. Manque de volonté ? Manque de compétences ? Manque de temps ou d'argent ? Les raisons invoquées sont multiples et variées, certaines à tort, d'autre à raisons.  Certes il existe des listes de tests de conformité WCAG (RGAA, Accessiweb, UWEM...) mais celles ci sont surtout orientées vérification à postériori de la production. Il reste cependant à inventer des outils tels qu'une liste permettant de savoir simplement quels sont les premiers pas nécessaires pour se mettre sur la voie d'un site accessible. Peu importe le test qu'ils permettent de satisfaire, ces premiers pas sont des choses à faire impérativement lors de la production d'un site, ils pourraient par exemple indiquer précisément les éléments ou attributs indispensables et la façon de les utiliser.  Nous débattrons au cours de cet atelier d'une première liste et essayerons ensemble de l'enrichir.",
     "tags": [
       "Accessibilité"
@@ -639,6 +669,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Industrialisation de l'intégration Web : la révolution de l'artisan devenu ouvrier",
+    "url": "https://www.paris-web.fr/2011/conferences/industrialisation-mecanisation-des-esprits-ou-automatisation-des-procedes.php",
     "description": "Le développement Web frontend – multiplicité de compétences – est l'apanage des experts … ou des stagiaires. Développer, c'est Java, C# ou PHP.  L'omniprésence des interfaces recourant à HTML induit un recours à des points de repère, tant pour les développeurs, les chefs de projet que les acheteurs. C'est une des idées qui en est ressortie de l'atelier “Industrialiser l'artisanat du développement HTML” à Paris Web 2010.  Depuis, l'eau a coulé sous les ponts et une liste de bonnes pratiques de développement frontend est en cours de réalisation. Nous verrons comment et pourquoi l'alimenter, entre autre pour des besoins d'industrialisation des projets.  L'industrialisation, c'est aussi un mot qui inquiète, surtout lorsque cela concerne un des pans du développement Web proche du modèle de l'artisanat. Est-ce le retour du travail à la chaîne ? Est-ce une spécialisation ou une déresponsabilisation ? Ou pire, est-ce un moyen d'apporter une réponse unique à des besoins multiples ?",
     "tags": [
       "Intégration",
@@ -660,6 +691,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "CoffeeScript, le Javascript simple et élégant",
+    "url": "https://www.paris-web.fr/2011/ateliers/coffeescript-le-javascript-simple-et-elegant.php",
     "description": "La critique principale adressée à l'encontre de Javascript est sa syntaxe parfois obscure.   Jeremy Ashkenas, est parti de ce constat pour créer Coffeescript. Ce langage qui compile en Javascript et qui n'aura pas encore 2 ans à l'heure de Paris Web 2011, ne cesse pourtant de faire parler de lui. La preuve, Brendan Eich, créateur du Javascript, avoue s'en inspirer fortement pour les prochaines versions de Javascript. Ruby on Rails, un des frameworks web les plus avant-gardistes, l'intégrera par défaut dans sa nouvelle version (3.1)...   Cet atelier se propose donc d'expliquer les grands principes de ce langage, ces avantages par rapport au Javascript classique et les outils qui gravitent autour.",
     "tags": [
       "Javascript"
@@ -680,6 +712,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Comment argumenter en faveur d'un poste de responsable qualité web",
+    "url": "https://www.paris-web.fr/2011/ateliers/comment-argumenter-en-faveur-dun-poste-de-responsable-qualite-web.php",
     "description": "Si le poste de Responsable qualité web commence - à peine - à se faire connaître, il est important de se poser la question de sa rentabilité. Comment peut-on \"vendre\" un tel poste support (qui n'englobe pas que des tests, joue en parallèle de la production, etc.) ? Comment argumenter et convaincre sa hiérarchie ? Comment vendre cette compétence auprès du client ?",
     "tags": [
       "Métier",
@@ -701,6 +734,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Planification ou itération ? Spécialisation ou hétérogénéité ? Transmission orale ou écrite ? Deux jeux pour nous amuser et en parler",
+    "url": "https://www.paris-web.fr/2011/ateliers/planification-ou-iteration-specialisation-ou-heterogeneite-transmission-orale-ou-ecrite-deux-jeux-po.php",
     "description": "Au travers de jeux, dont on sait qu'ils sont un moyen d'apprentissage très performant, expérimentons certains concepts proposés par les méthodes agiles. Nul doute que vous pourrez mettre en application rapidement ce avec quoi vous vous serez amusé ici. Alors planification ou itération ? spécialisation ou hétérogénéité ? transmission orale ou écrite ?",
     "tags": [
       "Métier"
@@ -721,6 +755,7 @@
     "year": 2011,
     "type": "conference",
     "title": "KISS dans une grande entreprise ?",
+    "url": "https://www.paris-web.fr/2011/conferences/kiss-dans-une-grande-entreprise.php",
     "description": "La plus grosse difficulté quand les équipes de développement sont nombreuses et importantes, c'est de s'assurer de l'homogénéité des pratiques pour des questions de maintenabilité, de qualité, d'accessibilité, de facilité à retrouver des compétences.  Le Groupe France Télécom-Orange comporte une instance nommée ISAD (Information System Architecture and Design) dont le travail est précisément de garantir des pratiques communes.  Pour ce faire, ISAD fournit des versions d'Eclipse packagées avec une liste de plugins normalisée, ainsi que des préconisations et du code réutilisable, l'idée étant de simplifier les installations de nouveaux arrivants, de mutualiser les pratiques. Bref : adopter une philosophie qui veut se rapprocher de KISS.  Nous présenterons les environnements de développement prépackagés, ainsi que la démarche de normalisation/préconisation, et finirons par des outils et des livrables spécialement dédiés à  l'accessibilité et à l'ergonomie des sites web.",
     "tags": [
       "KISS",
@@ -742,6 +777,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Comment gérer ses relations client simplement quand on débute",
+    "url": "https://www.paris-web.fr/2011/ateliers/comment-gerer-ses-relations-client-simplement-quand-on-debute.php",
     "description": "Une grande partie des travailleurs du web exercent leur métier en freelance, et si le savoir faire coté \"métier\" est bien présent, ça n'est pas toujours une partie de plaisir de gérer l'aspect juridique et relationnel avec son client. Combien de fois nous avons entendu que \"le commercial\" ou \"la paperasse\" ça n'est \"vraiment pas votre truc\". Il existe pourtant des astuces et une méthodologie pour gérer plus sereinement vos projets et vos clients, sans négliger les aspects juridiques de notre métier. Julien vous apportera des petits trucs et conseils pour gérer au mieux une prestation de A à Z, avec des exemples concrets, en abordant également le droit d'auteur et le droit à l'image, pour que le maitre mots de vos futures prestations soit \"keep it simple\".",
     "tags": [
       "Métier"
@@ -762,6 +798,7 @@
     "year": 2011,
     "type": "conference",
     "title": "La Sagesse du Web",
+    "url": "https://www.paris-web.fr/2011/conferences/la-sagesse-du-web.php",
     "description": "Le Web social est un domaine expérimental, émergeant où les valeurs humaines de base sont parfois facilement remplacées par des règles d'affaire peu intéressante pour l'usager.  Je m'adresse à la fois aux utilisateurs et aux créateurs de services Web. Les utilisateurs adoptent différents services qui occupent une grande partie de leur temps, cependant ces services sont très rarement conçus avec pour objectif de respecter le bien-être humain, ou de s'inscrire dans un écosystème de façon éthique. Très souvent ces services sont mit en ligne avec pour objectif de collectionner le maximum d'usagers, et d'occuper le maximum de leur temps en ligne sans pour autant prévoir faire de leur temps hors-ligne une expérience intéressante. À l'aide de métaphores et d'histoires modernes, je tente de sensibiliser les créateurs de services web à mieux comprendre comment le web fonctionne, et cela nous sert à notre avantage.",
     "tags": [
       "Métier",
@@ -783,6 +820,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Table ronde des navigateurs",
+    "url": "https://www.paris-web.fr/2011/conferences/table-ronde-des-navigateurs.php",
     "description": "Certains ont qualifié le renouveau d'innovation à tour de bras dans le monde des navigateurs de nouvelle guerre des navigateurs. Nous nous proposons d'explorer au cours de cette table ronde comment les développeurs de navigateurs associent innovation et standardisation, compétition et collaboration.",
     "tags": [
       "HTML5",
@@ -826,6 +864,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "SVG et le web design moderne",
+    "url": "https://www.paris-web.fr/2011/ateliers/svg-et-le-web-design-moderne.php",
     "description": "Envie de découvrir SVG ? De savoir comment ça marche ? Et surtout de voir comment on peut s'en servir \"en vrai\" ? Vous allez voir que ce n'est pas bien difficile. Des bases de la technologie à la gestion multi-navigateur en passant par les combo gagnant avec CSS, HTML et Javascript, vous saurez tout ce qu'il est nécessaire de savoir pour faire des site ultra-graphiques qui respectent les standards du Web... en toute simplicité.",
     "tags": [
       "SVG"
@@ -846,6 +885,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Dompter le Web Mobile",
+    "url": "https://www.paris-web.fr/2011/ateliers/dompter-le-web-mobile.php",
     "description": "Le Web Mobile apporte des problématiques aussi nouvelles qu'inombrables ainsi que son lot de bugs inconnus… Nous verrons dans cet atelier les différents outils qui sont à notre disposition et comment en faire bon usage pour tacler ces nouveaux challenges.Cet atelier abordera les équivalents des inspecteurs sur navigateur desktop, les manières de loguer, les émulateurs, etc…  Du matériel sera à votre disposition, cependant si vous disposez d'un PC/Mac et d'appareils dotés de navigateurs (iPhone, Android, WebOS, Nokia, Windows, etc…) vous êtes invité à les amener.",
     "tags": [
       "Mobile"
@@ -866,6 +906,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Intégration HTML : appréhender un gros projet en grosse agence",
+    "url": "https://www.paris-web.fr/2011/ateliers/integration-html-apprehender-un-gros-projet-en-grosse-agence.php",
     "description": "S'il y a une chose que j'ai appris en travaillant sur de gros projets du type Météo France ou Le Louvre avec des dizaines voir des centaines de pages à déployer, c'est la nécessité d'une méthode.   Bien sûr, un site grand compte de type portail est toujours considéré comme un nouveau challenge par le ou les intégrateurs : des nombreux blocs, déclinaisons de pages et gestion multilingue jusqu’aux évolutions permises et à la livraison d'un code compréhensible pour les prochains intervenants du projet.   Alors comment bien débuter un gros projet qui se veut déclinable et modulable ?   Il s'agira d'aborder les étapes clés d'un gros projet réussi depuis l'analyse de maquettes jusqu’à la place de l'intégrateur dans un process de grosse agence en passant par l'organisation de ses fichiers et la production de gabarits les plus modulables possible.",
     "tags": [
       "Intégration",
@@ -887,6 +928,7 @@
     "year": 2011,
     "type": "conference",
     "title": "Javascript as a Programming Language",
+    "url": "https://www.paris-web.fr/2011/conferences/javascript-as-a-programming-language.php",
     "description": "How to setup up a stable javascript continuous integration environment and why you need it.   Through a real life example, the talk explains all the benefits of having a development process that brings real control over javascript codebase. A deep analysis of developer and webapps needs and of the tools that fit those requirements. Comment mettre en place en environnement d'intégration continue stable pour JavaScript, et pourquoi vous en avez besoin.A l'aide d'exemple réels, cette conférence expliquera les bénéfices amenés par un processus de développement qui offre un réel contrôle sur son code JavaScript. Il s'agit d'une analyse en profondeur des besoins des développeurs et des applications, ainsi que des outils.  NB : cette conférence sera en anglais avec traduction simultanée.",
     "tags": [
       "Javascript"
@@ -907,6 +949,7 @@
     "year": 2011,
     "type": "workshop",
     "title": "Typography for Programmers",
+    "url": "https://www.paris-web.fr/2011/ateliers/typography-for-programmers.php",
     "description": "A good proportion of web design today descends from print/graphic design and these influences are becoming even more prevalent. Typography for the web is now all the rage especially as we are (finally) able to use different fonts other than the tried and tested workhorses Arial, Verdana & Georgia. Therefore, solid knowledge of typography basics should really be a must for every internet professional today.   This workshop should teach every programmer and possibly a few web design students about how to design a web page with type and impress fellow designers using just the good old HTML and CSS with a spice of simple mathematics.  Une large portion du web design actuel descend de l'impression et du graphisme, et ces influences se font de plus en plus sentir. La typographie pour le web est un sujet à la mode, particulièrement depuis que nous sommes (enfin) en mesure d'utiliser des polices autres que les sempiternels grands noms, comme Arial, Verdana ou Georgia. De fait, une solide connaissance des bases de la typographie devrait être un pré-requis pour tout professionnel de l'Internet actuel.Cet atelier devrait apprendre à tous les programmeurs, et même à certains étudiant en web design, à concevoir une page web à l'aide de polices, et à impressionner leurs camarades juste en utiliser nos bons vieux langages HTML et CSS, avec une pincée de mathématiques élémentaires.  NB : cet atelier se tiendra en anglais.",
     "tags": [
       "Typographie"

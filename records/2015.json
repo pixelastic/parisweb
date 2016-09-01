@@ -3,6 +3,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Et dans 20 ans, je fais quoi ?",
+    "url": "https://www.paris-web.fr/2015/ateliers/et-dans-20-ans-je-fais-quoi.php",
     "description": "Vieux croutons, seniors du Web ou plus jeunes, comment voyez-vous votre avenir dans le métier ? Serez-vous noyé sous les techno, aurez-vous changé de branche ?  Dans cet atelier improvisé, venez partager votre point de vue sur votre futur.  Atelier animé par Nathalie Rosenberg.",
     "tags": [
 
@@ -23,6 +24,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "ES6 c'est maintenant, les gens !",
+    "url": "https://www.paris-web.fr/2015/ateliers/es6-cest-maintenant-les-gens.php",
     "description": "Grâce à des transpileurs de qualité comme Babel, il est possible depuis déjà 2014 d'utiliser la majorité des nouveautés de ES6 partout où ES5 est disponible. Donc Node.js / io.js et, côté navigateurs, IE9+ et tous les autres…  Code plus concis, plus performant, plus propre, plus puissant : ES6 réconcilie beaucoup de monde avec JavaScript, et fait pleurer de joie celles et ceux qui n'avaient pas besoin d'être converti-e-s.  Dans cet atelier, nous allons découvrir et pratiquer autant de nouveautés ES6 que le temps nous le permettra, histoire de démystifier la bête, vous prouver que ça marche déjà, et vous donner envie de sauter le pas dès maintenant !",
     "tags": [
       "JavaScript",
@@ -44,6 +46,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Amélioration progressive de la théorie à la pratique",
+    "url": "https://www.paris-web.fr/2015/ateliers/amelioration-progressive-de-la-theorie-a-la-pratique.php",
     "description": "Si vous pensez que l'amélioration progressive oblige à tout faire en double, et sans s'amuser, venez apprendre à vous faciliter la vie et celle des utilisateurs. Sans détour ni grands discours, vous découvrirez du code, des raccourcis et des astuces pour développer des fonctionnalités robustes, rapides, accessibles et référençables !  Études de cas, exercices pratiques et participation active sont au programme de cet atelier dont vous ressortirez — je l'espère — améliorés !  Venez avec votre tête, vos questions et retours d'expérience, nous ferons le reste en groupe.",
     "tags": [
       "Accessibilité",
@@ -68,6 +71,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Adoptez un workflow web !",
+    "url": "https://www.paris-web.fr/2015/ateliers/adoptez-un-workflow-web.php",
     "description": "Le web est enfin sorti de l’ère de la bricole. Il est révolu le temps du graphiste ou de l’informaticien bidouilleur.  Architecte de l’information, ergonome, UX/UI designer, frontend/backend developer, CM, PM, etc. le web se spécialise et, dans la foulée, se professionnalise. Il devient un vrai travail d’équipe pluridisciplinaire. Il répond à des besoins de plus en plus complexes dans des environnements de plus en plus variés.  Pour faire face à ces défis, les outils se multiplient et de nouvelles méthodes voient le jour. On parle de performance, optimisation, modularité, maintenabilité, « scalabilité », productivité, et il est grand temps d’intégrer un workflow web, un vrai, de qualité ! Sur base de cas concrets, cet atelier combine les approches méthodologiques et techniques modernes.  À l’issue de celui-ci, DRY, KISS, BEM, SMACSS, SASS, BOWER, GRUNT, GULP, GIT… ne seront plus des gros mots ou des termes confus mais bien les clés de votre futur flux de production web !",
     "tags": [
       "Méthodologie",
@@ -91,6 +95,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Pasdecalais.fr, histoire d'une démarche d'accessibilité",
+    "url": "https://www.paris-web.fr/2015/conferences/pasdecalaisfr-histoire-dune-demarche-daccessibilite.php",
     "description": "Depuis 2008, le Département du Pas-de-Calais s'est engagé dans la démarche impulsée par le RGAA, avec le double objectif d'atteindre au maximum l'accessibilité universelle sans que le résultat soit laid, tentant ainsi de faire disparaître quelques idées reçues et d'inciter les autres collectivités à entreprendre elles aussi cette mise en conformité, pour un web plus fonctionnel et pour tous.",
     "tags": [
       "Accessibilité",
@@ -112,6 +117,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Internet et libertés : pour un engagement des acteurs du numérique",
+    "url": "https://www.paris-web.fr/2015/conferences/internet-et-libertes-pour-un-engagement-des-acteurs-du-numerique.php",
     "description": "Les législations françaises, européennes ou internationales concernent de plus en plus souvent le monde numérique. Le lien entre Internet, réseaux, acteurs du Web et libertés fondamentales est quotidien : une part importante de l'exercice des libertés passe aujourd'hui par la législation concernant Internet. La neutralité des acteurs sur cette question devient-elle impossible quand on demande aux hébergeurs ou FAI de devenir des auxiliaires de services de renseignement, quand la neutralité du Net est un enjeu économique, quand l'exploitation des données personnelles est un enjeu majeur de la vie privée ?  L'expérience des mobilisations autour de la neutralité du Net, d'ACTA ou des lois antiterroristes et de renseignement doit nous interroger sur la responsabilité des acteurs du numérique. Entre convictions personnelles et engagement public, quelle voie choisir pour quelles actions, et quelles relations avoir avec le monde politique et les associations de défense des libertés ?",
     "tags": [
       "législation",
@@ -135,6 +141,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Accessibilité automatique et ses amis Node, Grunt…",
+    "url": "https://www.paris-web.fr/2015/ateliers/accessibilite-automatique-et-ses-amis-node-grunt.php",
     "description": "Prérequis pour participer à l'atelier : installer node.js ou à défaut installer VirtualBox.   Passage en revue de quelques solutions de tests d’accessibilité, de performance front et de qualité de code, basées sur un environnement Node.js, NPM, Grunt. Ce type de solution est un moyen moderne de déployer des tests en phase de développement pour un projet soucieux de qualité de code et d’accessibilité.  Nous  avons testé et mis en place ces outils dans le cadre de développement d’application Orange. Cet atelier sera un retour d’expérience dans le déploiement de tels outils.  Cet atelier permettra à chacun de mettre en place et  s’approprier des  solutions  de tests :   Un linter de code adapté aux règles basiques  Un linter d’accessibilité, pour aller plus loin Puis, un outil avec des règles d’accessibilité plus élaborées validant le code statique des pages Enfin, un outil capable valider l’accessibilité du code généré (avec un navigateur headless comme PhantomJS)   On peut voir que la complexité augmentera de manière progressive.  Nous comptons montrer par la pratique l’intérêt de tels outils dans la mise en place d’un processus d’amélioration continue de l’accessibilité, de la performance et du code front dans le développement.",
     "tags": [
       "Accessibilité",
@@ -164,6 +171,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Découvrir ES6 par le code",
+    "url": "https://www.paris-web.fr/2015/conferences/decouvrir-es6-par-le-code.php",
     "description": "ES6, la nouvelle version du JavaScript est à la mode. Vous avez peut-être déjà vu une conférence à ce sujet, mais comment se faire une idée en ne faisant que parcourir une liste de nouvelles syntaxes ?  Ici, nous allons faire du code ! En partant d'une base de code en JavaScript « standard », nous allons la transformer progressivement avec toutes les nouvelles notations.  Nous passerons ainsi en revue la plupart des nouveaux concepts. En commençant par les facilités de syntaxe mais en étudiant aussi les nouveaux paradigmes comme les classes, les promesses jusqu'aux generators.  Le livecoding sera réalisé avec un environnement de build avec Gulp, Webpack et Babel. Rien que vous ne puissiez reproduire chez vous le soir même !",
     "tags": [
       "Babel",
@@ -185,6 +193,7 @@
     "year": 2015,
     "type": "conference",
     "title": "[Conf Sponsor] Vorlon.JS : un outil pour simplifier le debug web sur toutes les plateformes",
+    "url": "https://www.paris-web.fr/2015/conferences/conf-sponsor-2-1.php",
     "description": "Le web est omniprésent sur toutes les plateformes. Les technologies Web sont devenues extrêmement puissantes et performantes avec des ajouts récents comme WebGL, ES6, Web Audio, WebRTC, les modules de layout CSS… J’en passe et des meilleurs !  On côtoie donc plus jamais le fameux « natif ». Mais l’expérience de debug n’est pas toujours heureuse et simple.  C’est pour cela que nous avons décidé d’écrire un outil open-source et cross-plateformes pour simplifier l’expérience de debug web, notamment sur mobile. Nous vous présenterons le framework que nous avons écrit, son utilisation et comment écrire des plug-ins pour étendre son fonctionnement. Ramenez vos téléphones sous Android, iOS (et soyons fous sous Windows Phone !), on va les débugger ensemble dans la joie et la bonne humeur.",
     "tags": [
       "front-end",
@@ -211,6 +220,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Confessions d'un serial killer",
+    "url": "https://www.paris-web.fr/2015/conferences/confessions-dun-serial-killer.php",
     "description": "La créativité est la capacité à imaginer et mettre en œuvre des solutions originales à des problèmes.  Il n'est pas rare de voir des équipes déborder d'idées mais les saborder au moment de la mise en œuvre. C'est le résultat de ce qu'on appelle les creativity-killers. Au cours de ce talk destiné à un public varié, je parlerai des creativity-killers qu'on s'impose à soi-même, de ceux qu'on reçoit de l'extérieur, de comment s'en protéger et comment enfin établir l'hygiène de l'assassin dont nous avons tant besoin pour être un serial-killer heureux et épanoui <3",
     "tags": [
       "balance",
@@ -236,6 +246,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Creating a Culture of Code Quality",
+    "url": "https://www.paris-web.fr/2015/conferences/creating-a-culture-of-code-quality.php",
     "description": "Quality isn't something that just happens, even with the best engineers. It requires bottom-up and top-down support in the engineering organization, champions to drive it forward, and a clear vision to sustain it.   Quality can be thought of concentric circles of increasing scope.  Compilation: Use an opinionated compiler and make it run in a strict mode.  Linting: Build or use an AST linter to enforce coding styles and conventions.  Unit tests: Verify function and object contracts in a sandboxed environment.  Integration tests: Blackbox testing of application functionality ensures core product flows are working before deployment.  Build tools: Enable developers to leverage all of the above seamlessly with a high quality build system.  Documentation: Reduce the overhead of 1on1 training and make it easy for people to self-improve.  Culture: Quality is the responsibility of every engineer.",
     "tags": [
       "automatisation",
@@ -260,6 +271,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Découper son application monolithique : Pourquoi ? Comment ?",
+    "url": "https://www.paris-web.fr/2015/conferences/decouper-son-application-monolithique-pourquoi-comment.php",
     "description": "Si elles ont leurs avantages au début d'un projet (une seule base de code, une seule suite de tests, une seule façon de déployer) les applications monolithiques ont néanmoins de nombreux inconvénients lorsque le projet grossit.  Ça tombe bien, la mode est aux micro-services, au SOA et autres buzzwords de ce genre. :)  Sous forme d'un retour d'expérience, nous verrons ensemble quels sont ces problèmes et en quoi les micro-services sont une excellente alternative.  Nous verrons ensuite pourquoi et comment BlaBlaCar a décidé de découper son application actuelle et quels ont été les impacts techniques mais également humains et organisationnels.",
     "tags": [
       "découpage",
@@ -287,6 +299,7 @@
     "year": 2015,
     "type": "conference",
     "title": "WebGL and WebVR: 3D web today and tomorrow",
+    "url": "https://www.paris-web.fr/2015/conferences/webgl-and-webvr-3d-web-today-and-tomorrow.php",
     "description": "The web has been mostly two-dimensional so far — and so we've design and conceptualised it pretty much as — literally — a page. A rectangle that we're filling with content in a visually pleasing and functional way.  We've even started to imitate three dimensions by using CSS 3D transitions and parallax scrolling — but we've not quite cut it yet.  In the meantime, mostly in the background WebGL has become fairly widely™ available and most people know that it exists but only a few people have actually used it.  While there's a flood of proof-of-concepts and toy demos, we're still mostly thinking of the web as \"pages\" in an infinite collection of books.  I'd like to change that. I'd like to take your hand and run with you into this whole universe of possibilities that WebGL gives you as of today. I'll even show some interesting use cases beyond demos and games.  Once we've taken a short breath from running through the third dimension, we'll go one step ahead: Instead of seeing the web on the screen in front of us, we'll go in. With WebVR we're having amazing ways of placing the action around the user — though, that's very bleeding edge right now and there's still some open questions… that makes it even more important to actually talk and think about this together; your ideas are wanted!  We'll then do one more thing: \"We have to go deeper!\" - Inception style! We'll do some live coding inside a virtual 3D space using WebGL and WebVR - so we'll code 3D stuff while being in a virtual 3D world.",
     "tags": [
       "3D",
@@ -308,6 +321,7 @@
     "year": 2015,
     "type": "conference",
     "title": "La crypto pour les devs : petit état des lieux des outils d'aujourd'hui et des techniques de demain",
+    "url": "https://www.paris-web.fr/2015/conferences/la-crypto-pour-les-devs-petit-etat-des-lieux-des-outils-daujourdhui-et-des-techniques-de-demain.php",
     "description": "Plus que jamais, nous avons besoin de sécuriser nos échanges et de renforcer notre confiance dans nos outils pour garder nos données à l'abri des yeux indiscrets. Peut-être que franchir le pas vous semble insurmontable. Peut-être que vous vous dites que tout ça reste une affaire de groupes d'hacktivistes éclairés. Plus probablement, il vous manque sans doute juste une connaissance simple de l'univers du chiffrement, et de la fantastique boîte à outils qui l'accompagne.  Alors profitons-en, on embarque pour un tour d'horizon de la cryptographie : chiffrement, techniques, outils… Nous regarderons quels outils existent, pourquoi et comment les utiliser. Et parce que le web ne serait pas parfait s'il n'était pas ouvert, nous nous intéresserons aussi bien aux clients « lourds » qu'aux alternatives web (et il en y en a plein).   Mieux : puisque nous ferons le tour des techniques, observons les outils que le W3C met à notre portée de devs, avec l'API WebCrypto : ajouter du chiffrement et une gestion fine de la sécurisation se révèle désormais beaucoup plus pratique.  Ceinture et bretelles : attachez-vous bien, on chiffre !",
     "tags": [
       "sécurité"
@@ -328,6 +342,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Evaluer l'UX : des méthodes simples mais efficaces !",
+    "url": "https://www.paris-web.fr/2015/ateliers/evaluer-lux-des-methodes-simples-mais-efficaces.php",
     "description": "L’expérience utilisateur (UX) est devenu un facteur concurrentiel crucial sur le marché des produits et systèmes interactifs. Améliorer l’expérience utilisateur durant le cycle de développement d’un produit nécessite notamment de savoir l’évaluer. Or, les méthodes traditionnelles d’évaluation de l’utilisabilité ne sont pas adaptées à l’évaluation de l’UX. Parfois méconnues des professionnels, plusieurs méthodes existent pour évaluer l’UX.  Dans cet atelier, nous proposerons d'abord une vue globale des méthodes d’évaluation de l’UX, des plus classiques aux plus innovantes. Vous saurez ainsi sélectionner les méthodes les plus adaptées à votre projet et vos ressources.  Nous nous centrerons ensuite sur 3 méthodes d'évaluation simples mais efficaces et vous découvrirez de manière pragmatique comment les utiliser pour évaluer l'UX dans vos projets.",
     "tags": [
       "Méthodologie",
@@ -354,6 +369,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Le jour où l'on n'aura plus besoin de l'accessibilité",
+    "url": "https://www.paris-web.fr/2015/conferences/le-jour-ou-lon-naura-plus-besoin-de-laccessibilite.php",
     "description": "L'être humain a une capacité inégalée à percevoir, comprendre, et utiliser les informations disponibles dans les contenus numériques -- du moins, tant que ses facultés sensorielles et cognitives le lui permettent. Pour contourner les déficiences de tous types, et réduire le handicap, les utilisateurs peuvent s'appuyer sur des technologies dites d'assistance, qui vont par exemple vocaliser les textes, transcrire les contenus audio, ou permettre de piloter une interface par la voix, l'oeil, ou différentes parties du corps.  Ces technologies d'assistance sont une chance formidable pour les utilisateurs handicapés, et ont de nombreux arguments à faire valoir : constamment disponibles, infatigables, impartiales, multi-compétentes… Mais elles ont un énorme défaut, par rapport aux besoins humains: elles sont désespérément stupides, et limitées. Pour fonctionner correctement, on doit les alimenter avec des contenus et interfaces accessibles. Et ça, c'est pas gagné…  Mais ce n'est peut-être pas une fatalité. Les progrès récents de l'intelligence artificielle et du machine learning, associés au big data, autorisent tous les espoirs: et si les technologies d'assistance finissaient par égaler les capacités humaines de perception et de compréhension?  Cette conférence propose, humblement, d’explorer cette hypothèse, en faisant l’inventaire de quelques technologies, issues des laboratoires ou déjà sur le marché, qui pourraient rendre ce rêve bien réel. Ce n’est pas encore possible, mais demain cela arrivera. Et l’on n’aura plus besoin de l’accessibilité…",
     "tags": [
       "Accessibilité",
@@ -375,6 +391,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Le prototypage rapide",
+    "url": "https://www.paris-web.fr/2015/ateliers/le-prototypage-rapide.php",
     "description": "En tant que designers, une des plus grandes difficultés du métier, c'est de bien se faire comprendre de nos clients et des gens qui se servent de nos productions. Et quand il s'agit de travailler sur une interface, il est hasardeux de ne communiquer qu'avec des mots ou des images fixes.  Le prototypage rapide, c'est l'idée que le design d'interface est un langage dans lequel le designer doit pouvoir s'exprimer directement. Une interface, ça ne se décrit pas, ça se montre – et il existe des outils pour passer directement de l'idée à la démonstration.  Je compte présenter rapidement les idées et l'histoire du prototypage rapide, avant de faire la démonstration des méthodes et des outils actuels.",
     "tags": [
       "prototypage",
@@ -396,6 +413,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Faire son testament numérique",
+    "url": "https://www.paris-web.fr/2015/ateliers/faire-son-testament-numerique.php",
     "description": "La conférence Death and UX: Digital Afterlife and Digital Legacy d'Agnieszka Maria Walorska aborde le testament numérique du point de vue du grand public utilisateur des plateformes de réseaux sociaux.  Qu'en est-il du testament numérique pour les gens de notre profession qui ont un nom de domaine, qui administrent les adresses de courriel de leurs amis, famille, etc. ?  Nous tenterons de mettre à plat un mode d'emploi.",
     "tags": [
 
@@ -416,6 +434,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Quoi de neuf sous le ciel de la sécurité du web et des internets",
+    "url": "https://www.paris-web.fr/2015/conferences/quoi-de-neuf-sous-le-ciel-de-la-securite-du-web-et-des-internets.php",
     "description": "Chacun d'entre nous se sent de plus en plus concerné par les enjeux de la sécurité et de la confiance dans les outils connectés. Les applications web méritent que l'on prenne en compte ces nouvelles attentes des utilisateurs.  Afin de contrer la pratique honteuse qui consiste à ne penser à la sécurité qu'à la fin des projets, cette présentation tentera de sensibiliser les développeurs web aux risques et attaques du web (en remontant des couches hardwares aux couches softwares). Puis nous reverrons les outils mis à disposition pour blinder son développement web (bonnes pratiques de l'OWASP, normes W3C implémentées dans les navigateurs, frameworks spécialisés en sécurité incluant le chiffrement, l'authentification, la permission). Enfin, nous discuterons des fonctionnalités en discussion au W3C, relatives à la sécurité.",
     "tags": [
       "sécurité",
@@ -437,6 +456,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Privacy-by-designer: delivering personalisation & privacy from flow to finish",
+    "url": "https://www.paris-web.fr/2015/conferences/privacy-by-designer-delivering-personalisation-privacy-from-flow-to-finish.php",
     "description": "With the shaping of the Internet of Everything, our designer roles and responsibilities are undergoing transformation. User experience design has been extended to address all aspects of a product or service as perceived by its users. At the same time, human computer interactions starts to revolve around values which we normally find in human-to-human relationships: understanding and trust; which translate to smart personalisation and privacy.   As designers, we need to deliver great, personal experiences. We also need to deliver trustworthy products. We owe it to both our users and the people who hire us to actively think about privacy, and to implement privacy in the flows and designs we deliver.",
     "tags": [
       "design",
@@ -459,6 +479,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Le défi d'une personne aveugle : conseiller sur l'accessibilité dans un web toujours plus visuel",
+    "url": "https://www.paris-web.fr/2015/conferences/le-defi-dune-personne-aveugle-conseiller-sur-laccessibilite-dans-un-web-toujours-plus-visuel.php",
     "description": "Après plus de 15 ans passés au service de l'accessibilité numérique, j'expliquerai, lors de cette conférence, quels outils ont été mis en place pour me permettre, en tant que personne aveugle, d'exercer le métier que je fais aujourd'hui. En plus de l'aménagement de mon poste de travail, je parlerai des outils spécifiques mis en place, de leur accessibilité, des difficultés rencontrées durant mon parcours professionnel et de la façon dont j'ai pu les surmonter.  Une deuxième partie de cette conférence sera consacrée à l'utilisation d'outils accessibles, et de la mise en place d'une méthodologie et d'une formation pour un référent accessibilité aveugle. Cette formation peut être animée par une personne aveugle en toute autonomie.  En conclusion, les premières conséquences de cette formation seront dévoilées.",
     "tags": [
       "Accessibilité",
@@ -483,6 +504,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Panorama des solutions mobile hybrides",
+    "url": "https://www.paris-web.fr/2015/conferences/panorama-des-solutions-mobile-hybrides.php",
     "description": "Les statistiques d’utilisation des téléphones mobiles sont en constante progression et trois choix se dessinent actuellement pour délivrer du contenu sur le Web. Un site responsive, un site dédié mobile ou une application disponible sur un store. Et dans ce dernier cas, vous serez très vite confronté aux contraintes des différents systèmes d’exploitation : Android, iOS et Windows Phone – pour les majoritaires.  Dans ce contexte, beaucoup d’outils de développement émergent avec un seul objectif : réutiliser les compétences des développeurs Web et mutualiser le code entre les différentes plate-formes.  Cette présentation se base sur le retour d’expérience réussie autour de la mise en place de prototypes et de projets client chez Ekino. Je vais vous exposer les solutions que nous n’avons pas retenues en expliquant nos choix. Puis je vais parcourir plus en détail les solutions que nous avons testées : Apache Cordova, Ionic, SuperSonic, ReactNative, etc.  Nous verrons que l’expression “Write once, run everywhere” n’est pas toujours vrai.  Le but est qu’à la sortie de cette conférence, je vous aie aidé à faire vos choix techniques, en fonction de vos projets et de vos compétences !",
     "tags": [
 
@@ -503,6 +525,7 @@
     "year": 2015,
     "type": "conference",
     "title": "[Conf Sponsor] Les données animées en temps réel : c’est quoi ? pourquoi faire ? et comment les intégrer ?",
+    "url": "https://www.paris-web.fr/2015/conferences/conf-sponsor-1-2.php",
     "description": "Tous les sites mettent maintenant du CSS pour animer l’apparition du contenu car notre cerveau est très réceptif et attentif aux choses qui bougent… Mais, si au lieu de mettre des “objets inanimés qui bougent”, nous mettions des données utiles qui évoluent en temps réel, l’impact sur nos visiteurs/utilisateurs seraient bien plus grand.  La bonne nouvelle c’est que le temps réel n’est plus réservé aux traders new-yorkais en chemise rayée… Il y a des données temps réel dans les réseaux sociaux, les informations, dans les stocks des super-promos, dans les prix, dans l’économie du partage, dans les transports… Bref partout ! Soit la mise à jour de la donnée a une utilité pratique / commerciale, soit vous pouvez proposer à votre utilisateur le tout dernier contenu utile !  Nous vous proposons d’apprendre comme transformer une UI mort-vivante en une UI pleine de vie avec des données animées en temps réel : quelles données ? Comment les communiquer efficacement à vos applications/sites web ? Comment les afficher ?",
     "tags": [
       "streaming API",
@@ -529,6 +552,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Death and UX: Digital Afterlife and Digital Legacy",
+    "url": "https://www.paris-web.fr/2015/conferences/death-and-ux-digital-afterlife-and-digital-legacy.php",
     "description": "Approximately 1/3 of all Facebook-Accounts already belongs to deceased users and the numbers are rising. About 10.000 Facebook users die every day. And Facebook, of course, is not the only one relevant platform. Death has long since arrived online - but how should we handle it? What happens with the digital legacy of a user? Does the digital death always follow the physical death?  Numerous providers try to find a solution for this problem - and they fail. Why is it so? Which challenges are posed by the uncomfortable topic “death” to the entire user experience of the product (from user guidance over visual design to content strategy)? What can we do to overcome them? There are many open questions regarding this topic. In my talk I'll try to provide answers to at least some of them.  Probably all of us have already confronted the topic of death on the Internet. After the death of a loved one we look up online what we should do in such a situation. Condolences are often expressed online (especially it the deceased is a distant acquaintance), and posted in social media. These are all interesting aspects of the digital death, which I’ll consider in my speech. But what I find particularly interesting, is a different dimension of the digital afterlife. A dimension that affects a growing proportion of the society, but is consciously perceived by the least. An issue that affects everyone who uses online services and enters personal information there. What happens to this information after we die? Is the physical death necessarily followed by the digital death?  I could say – “I don’t care what happens to my digital accounts after I die, I’m dead anyway”. But it’s not that easy. What would happen if I would die tomorrow? As I’m not married, my parents would be the ones, who have to deal with it. And they are definitely not “digital natives”. They wouldn’t have an idea which services I was using and how to deal with them after I die. They wouldn’t know what would me my preferences: do I want everything to disappear? Would I prefer a “memorial profile” (which is for example possible on Facebook)? Or maybe I would just like to stay as it is? If I don’t want my parents to have one more thing to deal with (as if the death of their child wasn’t enough) – maybe I should take care of it while still alive?   But how? There are already different services trying to help users managing their digital afterlife. But they struggle. Why? -   People just don’t want to deal with their own death – especially while being young and healthy; -   It’s difficult to get user feedback (for example conduct user tests) in the context of death; -   It’s difficult to verify the death of the user – in a way which is both user-friendly and highly secure; -   There are no universal standards and regulations: neither for reporting the death of the user nor for creating a last will for digital data.  In my talk I will address these and others questions and constraints and provide answers and recommendations: based on research and the learning from the digital afterlife project I’m currently working on.",
     "tags": [
       "UX"
@@ -549,6 +573,7 @@
     "year": 2015,
     "type": "conference",
     "title": "De grands « pouvoirs » impliquent de grandes « responsabilités »",
+    "url": "https://www.paris-web.fr/2015/conferences/de-grands-pouvoirs-impliquent-de-grandes-responsabilites.php",
     "description": "Les super héros existent, le pire c'est qu'ils sont sous nos yeux au quotidien, mais seul peu d'entre nous sont capables de les voir.  Bon, comme mauvais, les gens talentueux sont durs à percevoir, non parce qu'ils dissimulent leur identité secrète ou toute cette ribambelle de conneries, mais plus simplement parce qu'ils ne savent souvent pas eux-mêmes qui ils sont.  Les héros ne se dandinent pas en string ficelle sur MTV, ils ne se baladent pas non plus d'immeuble en immeuble accrochés à une toile et ne sont pas non plus nécessairement de bons contributeurs sur GitHub ; une chose est sûre, ils sont à nos côtés au quotidien.  Après avoir démontré que ces personnes avec des capacités exceptionnelles existent, nous toucherons du doigt les notions gravitant autour des pouvoirs, des capacités et des talents pour tenter d'expliquer en quoi ces personnes d'exception le sont réellement.  Au terme de cette conférence, vous serez à même, selon votre choix de conscience, soit de sauver l'humanité, soit de fomenter un plan diabolique pour devenir le maître du monde.",
     "tags": [
       "accomplissement",
@@ -571,6 +596,7 @@
     "year": 2015,
     "type": "conference",
     "title": "[Conf Sponsor] Le dev front à Mach 1 au quotidien",
+    "url": "https://www.paris-web.fr/2015/conferences/le-dev-front-a-mach-1-au-quotidien.php",
     "description": "Mais pourquoi, en 2015, on persiste à gaspiller un temps fou à sauver, attendre un éventuel build bien trop lent, pour ensuite basculer sur chaque navigateur de développement, et dans chacun rafraîchir, rejouer le scénario qui amène à l'interaction / visualisation souhaitée… Encore, et encore, et encore.  Un boucle de feedback infiniment plus étroite et rapide est possible, qui nous permet d'éditer notre code source où nous voulons (éditeurs autonomes, devtools…), de passer très vite à travers une chaîne de build, même complexe, et de voir instantanément le résultat dans nos navigateurs de développement, tout en répliquant à la volée nos manip's de test à travers eux.  Gagnez du temps et du plaisir dans votre dev front. Toute la journée. Tous les jours.",
     "tags": [
       "feedback",
@@ -595,6 +621,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Design de soi : valoriser son identité et son expertise sur le web",
+    "url": "https://www.paris-web.fr/2015/conferences/design-de-soi-valoriser-son-identite-et-son-expertise-sur-le-web.php",
     "description": "Être visible sur le web est un atout professionnel de poids : votre portfolio, votre blog et votre présence sur les réseaux sociaux donnent à voir non seulement ce que vous faites, mais également qui vous êtes. Or, Internet sait tout et n'oublie jamais : aussi, y communiquer en son nom de manière positive, efficace et pérenne est un exercice difficile, dont dépend en grande partie votre réputation numérique.  En tant que professionnel·le du web, vous ne pouvez pas faire l'impasse dessus, quelles que soient vos aspirations professionnelles (trouver un nouvel emploi, créer votre entreprise, développer votre clientèle, etc.). C'est pourquoi il est important de choisir soigneusement les mots et les images qui parleront pour vous lorsqu'autrui se renseignera à votre propos sans que vous soyez dans la pièce.  C'est là que ce que j'appelle le « design de soi » entre en jeu.  Loin de tout charabia marketing, le design de soi est une démarche créative et pragmatique centrée sur votre identité et votre expertise : elle vous donnera les moyens de mieux définir votre image de marque personnelle et de la communiquer de façon efficace, responsable et sensée.  Cette conférence n'entend pas délivrer une marche à suivre universelle, mais vous offrir des pistes de réflexion en amont d'un travail de design de soi.  Comment réconcilier la dimension professionnelle de votre présence sur le web et votre envie d'y partager vos centres d'intérêts personnels ? Faut-il fixer des limites à cette « extimité » ?  Comment parler de vous-même et de vos succès sur le web sans paraître égocentrique ou vaniteux ?  Enfin, comment valoriser votre expertise par rapport à celle de vos pairs, tout en gardant des liens étroits avec eux ?  Voici quelques-unes des questions auxquelles nous réfléchirons ensemble.",
     "tags": [
       "communication",
@@ -622,6 +649,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Vie privée, surveillance, dépendance aux GAFAs, faut-il réinventer le web pour éviter la dystopie ?",
+    "url": "https://www.paris-web.fr/2015/conferences/vie-privee-surveillance-dependance-aux-gafas-faut-il-reinventer-le-web-pour-eviter-la-dystopie.php",
     "description": "Que reste-t-il de la promesse initiale du web ? Celle d'un accès libre à l'information, au savoir, au partage ? L'idée que chacun pouvait lire et écrire librement à l'intention de tous ?   Alléchés par la gratuité de services gratuits sans cesse plus cools au premier abord, nous sommes devenus largement dépendants de grands services difficiles à quitter. Ces services nous pistent à chaque instant, compilent nos préférences, lisent nos messages, scrutent nos contacts, surveillent ce qui nous préoccupe, savent où nous nous déplaçons.   Nous pensons être leurs clients, nous pensons être des rois. Mais nous ne sommes que la matière première qui est vendue à ceux qui payent pour nous ces services, les annonceurs publicitaires.  Nous sommes des cochons qui croient que la nourriture qui les engraisse leur est offerte car le monde tourne autour d'eux, négligeant de s'intéresser au fermier qui surveille leur courbe de poids, ignorant tout de l'abattoir et de la boucherie.  Nous, internautes, nous sommes les cochons du numérique, engraissés à coup de vidéos de chatons, bientôt débités en andouillettes, saucissons industriels et jambons sous cellophane.  Mais nous, à Paris-Web, nous sommes plus que cela. Nous sommes ceux qui font le web. Peut-on imaginer un web plus respectueux des valeurs originelles ? Un web qui ne dépouille pas les usagers de leurs données personnelles ? Un web qui respecte ses usagers ? Un web qui ne se soumette pas à la surveillance de masse mise en place par la loi Renseignement ?  À quoi ressemblerait ce web ? Sur quels principes serait-il bâti ? C'est ce que je vous propose de voir ensemble. Parmi les 7 principes :   Auto-hébergement Logiciel libre Chiffrement Dire non à la gratuité Ergonomie & UX Standards Killer feature",
     "tags": [
       "Hébergement",
@@ -644,6 +672,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Initiation à la facilitation graphique",
+    "url": "https://www.paris-web.fr/2015/ateliers/initiation-a-la-facilitation-graphique.php",
     "description": "Vous devez animer une réunion avec votre(vos) client(s), votre équipe et/ou vos collègues, que faites-vous ?   Vous présentez vos idées à partir d’un PowerPoint au risque que tout le monde ne vous écoute pas Vous donnez un paquet de Post-Its à chacun et animez une séance de brainstorming avec le risque que trop d’idées se dégagent Vous organisez un jeu d’Innovation : c’est ludique, c’est fun, mais certains auraient préféré une bonne réunion descendante (voir réponse 1) Vous restez silencieux, à l’écoute et illustrez la complexité des idées exprimées à la seule force de votre crayon   Je vous propose de découvrir cette 4e option : la facilitation graphique. Vous ne savez pas dessiner ? C’est possible, mais vous avez d’autres qualités innées qui feront de vous un bon « architecte visuel des idées »",
     "tags": [
       "facilitation graphique",
@@ -665,6 +694,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Désendettement de code Javascript : le guide anti-crise",
+    "url": "https://www.paris-web.fr/2015/ateliers/desendettement-de-code-javascript-le-guide-anti-crise.php",
     "description": "Vous avez récupéré un projet JavaScript de plusieurs milliers de lignes, on vous demande des évolutions et des corrections de bugs, et rien ne va.  Code illisible, régressions en pagaille, structure des répertoires incompréhensibles : vous ne savez pas par où commencer !  Au long des 90 minutes de cet atelier, nous vous proposons de découvrir les techniques et les outils qui vont vous sauver la vie via des travaux pratiques de code JavaScript côté back-end avec NodeJS, et côté front-end avec AngularJS.  Débutants ou ayant déjà une connaissance de ces technologies sont les bienvenus. Les travaux pratiques seront disponibles si vous souhaitez coder vous-mêmes pendant l'atelier.",
     "tags": [
       "AngularJS",
@@ -693,6 +723,7 @@
     "year": 2015,
     "type": "conference",
     "title": "Webperf 2.0",
+    "url": "https://www.paris-web.fr/2015/conferences/webperf-20.php",
     "description": "Les règles webperf édictées en 2007 et 2009 par Steve Souders sont-elles encore d'actualité alors qu'HTTP/2.0 pointe le bout de son nez et que la moitié du surf se fait sur mobile ? Venez le découvrir !  Après une courte introduction sur ce qu'est la webperf et pourquoi il est essentiel d'avoir un site rapide, nous ferons le point sur les règles de base et pourquoi elles existent comme ça (concaténation, minification, sharding, spriting, etc.) Nous ferons l'examen de ces règles pour découvrir pourquoi certaines ne sont plus d'actualités à cause du mobile et du HTTP2.   Le coeur de la présentation sera consacré aux nouveautés en terme de webperf :   Formats d'image (webp, jpeg-xr, libjpeg) Protocoles & RFC : SPDY, HTTP2.0, QUIC, resources hints (preload, prerender, preconnect) Font loading HTML5 : async, defer, postpone/lazyload, picture, service worker Outils de mesures et de diagnostic   Le but est de comprendre ce qui nous attend avec les nouveaux navigateurs et de repartir avec une vision nouvelle des chantiers webperf sur lesquels vous allez travailler !",
     "tags": [
       "HTML",
@@ -715,6 +746,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Tester l'accessibilité de son site Web avec NVDA",
+    "url": "https://www.paris-web.fr/2015/ateliers/tester-laccessibilite-de-son-site-web-avec-nvda.php",
     "description": "Les tests d'accessibilité à l'aide de barres d'outils intégrées aux navigateurs Web représentent déjà une tâche ardue pour la plupart d'entre nous; ajoutez à cela des exigences de test avec lecteurs d'écran et pour la plupart, le tout devient rapidement bien trop compliqué pour y mettre l'effort. Pourtant, ce n'est pas du tout sorcier!   Cet atelier pratique d'introduction à l'usage du lecteur d'écran NVDA est destiné à ceux et celles qui ne se considèrent pas forcément experts en la matière, mais qui doivent tout de même parfois mesurer le niveau d'accessibilité de leurs projets.   Ensembles, nous établirons les bases de ce qui pourrait devenir votre prochain cadre méthodologie de tests pour l'accessibilité. Aucun ninja skill requis! Apportez vos laptops et vos pires craintes à propos de l'utilisation de lecteurs d'écran, afin que nous puissions les pourfendre à grands coups de techniques éprouvées (pourfendre vos craintes, pas vos laptops)!",
     "tags": [
       "Accessibilité",
@@ -741,6 +773,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Créer et partager sa single-page application en 1h avec React, Node.js, PouchDB et NPM",
+    "url": "https://www.paris-web.fr/2015/ateliers/creer-et-partager-sa-single-page-application-en-1h-avec-react-nodejs-pouchdb-et-npm.php",
     "description": "Node.js est une plateforme de choix pour réaliser son application web. Elle vient avec un écosystème très riche de paquets pour construire son application web. De plus, son framework phare, Express, est facile à appréhender et bien outillé. En quelques minutes on peut coder un serveur d’application web.  PouchDB est une petite base de données qu’on peut embarquer dans son application. Son interface est très simple et ses concepts de base peuvent être acquis en quelques minutes. De plus, celle-ci peut être embarquée dans votre application.  Nous n'aurons pas besoin de déployer et configurer un service dédié pour stocker nos données  React permet de créer des composants pour l'interface graphique, le client chargé dans le navigateur. Nous assemblerons ces composants grâce à l'outil browserify pour construire une jolie interface.  NPM est le gestionnaire de paquets de Node. On verra comment, grâce à lui, on peut partager nos composants React et surtout notre application.  Vous prenez tout ça, vous mélangez le tout et vous obtenez une application web moderne que vous pouvez publier sur le dépôt officiel de Nodes.js. À la fin de l'atelier, vous aurez donc créé et publié votre application web. Grâce à ça n'importe qui pourra l'installer et la démarrer en deux lignes de commande !",
     "tags": [
       "JavaScript",
@@ -763,6 +796,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "Observer les utilisateurs en condition réelle pour mieux comprendre les enjeux du contexte et les besoins",
+    "url": "https://www.paris-web.fr/2015/ateliers/observer-un-utilisateur-dans-son-milieu-naturel-pour-mieux-concevoir.php",
     "description": "Lorsque l'on souhaite développer un nouveau produit (ou en améliorer un existant) la tendance est de produire des éléments avant même de comprendre l'usage actuel.  Prendre le temps d'observer, c'est se donner l'avantage d'éviter toute spéculation sur une utilisation potentielle du produit. Cela nous permet de nous confronter à la réalité telle quelle est vécue par les utilisateurs dans leur contexte d'usage.  Cet atelier a pour but de donner les principaux réflexes à avoir pour réaliser de bonnes observations et en retirer des données qualitatives qui permettront une conception plus proche des réels besoins utilisateurs.  L'atelier s'effectuera en deux temps : une première partie théorique expliquera comment réaliser une bonne observation et sera illustrée par des retours d'expérience. La deuxième partie se voudra pratique, les participants seront amenés à construire une grille d'observation et à l'appliquer sur une vidéo montrant l'utilisation d'un produit.",
     "tags": [
       "design",
@@ -786,6 +820,7 @@
     "year": 2015,
     "type": "conference",
     "title": "An Introduction to CSS Grid Layout",
+    "url": "https://www.paris-web.fr/2015/conferences/an-introduction-to-css-grid-layout.php",
     "description": "Since the early days of the web, designers have been trying to lay out web pages using grid systems. Likewise, almost every CSS framework attempts to implement some kind of grid system, using floats and often leaning on preprocessors. The CSS Grid Layout module brings us a native CSS Grid system for the first time — a grid system that does not rely on document source order, and can create complex layouts which are easily redefined with media queries. Following along with practical examples, you’ll learn how Grid works, and how it can be used to implement modern layouts and responsive designs.",
     "tags": [
       "CSS"
@@ -806,6 +841,7 @@
     "year": 2015,
     "type": "workshop",
     "title": "WebGL in practice",
+    "url": "https://www.paris-web.fr/2015/ateliers/webgl-in-practice.php",
     "description": "In this workshop you will get your hands onto all that's needed to level up your web applications with the power of the third dimension.  You will learn the basics to get an interactive 3D world on screen with Three.js, how to load 3D models from various formats and tips and tricks to gain the best performance.  Outline:   Light, camera, action - Three.js basics Loading 3D Models from various formats: OBJ/MTL, JSON and more Interactivity: Move it around Advanced Three.js: Particle Systems, Stereoscopic rendering, Web VR Performance tricks: Memory management and tweaks",
     "tags": [
       "3D",

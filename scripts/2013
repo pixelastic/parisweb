@@ -80,6 +80,10 @@ class Selector2013
     authors
   end
 
+  def url(doc)
+    element(doc, 'meta[property="og:url"]')[0].attr('content')
+  end
+
   def sessions
     sessions = []
     @sessions_filepath.each do |filepath|
@@ -88,6 +92,7 @@ class Selector2013
         year: 2013,
         type: type(doc),
         title: title(doc),
+        url: url(doc),
         description: description(doc),
         tags: tags(doc),
         authors: authors(doc),

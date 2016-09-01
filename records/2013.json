@@ -3,6 +3,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Responsive, l’indispensable révolution des outils et processus",
+    "url": "https://www.paris-web.fr/2013/ateliers/responsive-lindispensable-revolution-des-outils-et-processus.php",
     "description": "Les processus et techniques habituels sont incompatibles avec la création de sites s’affichant au mieux du mobile aux ordinateurs de bureau en passant par les tablettes.   Vous vous demandez comment convaincre un client que son site doit être compatible mobile et tablette ? Comment déterminer les points de rupture ? S’il existe une hauteur de page idéale sur mobile ? Ce que valent les frameworks CSS responsive ?   Venez trouver réponse à toutes ces questions (et à bien d’autres) et découvrir les processus, techniques et outils pour aborder la révolution du responsive avec sérénité.",
     "tags": [
       "responsive design"
@@ -23,6 +24,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Développons notre efficacité !",
+    "url": "https://www.paris-web.fr/2013/ateliers/les-croyances-limitatives.php",
     "description": "Démarcher de nouveaux clients, justifier et présenter une réalisation, gérer une situation de conflit, mener une réunion ou transmettre son travail à un quelqu'un… Durant 1h30, nous aborderons les impondérables de notre quotidien professionnel pouvant susciter de l'appréhension.  Nous ne verrons pas comment faire tout cela, mais nous analyserons ce qui nous bloque ou nous limite, pourquoi et comment y faire face pour se simplifier la vie et obtenir de meilleurs résultats.   Cet atelier s'adresse à tous, indépendants comme professionnels intégrés à l'entreprise, tout corps de métier confondu, chef de projet comme web designer, UX designer comme développeur.  Sous forme de petits exercices pratiques, de mises en situation, vous partagerez vos expériences, les analyserez et apprendrez de nouvelles postures pour mieux gérer ces situations.",
     "tags": [
       "croyances limitatives",
@@ -44,6 +46,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Mise en place d'outils de monitoring",
+    "url": "https://www.paris-web.fr/2013/ateliers/monitoring-mise-en-place-doutils-de-monitoring.php",
     "description": "Nous verrons comment mettre en place des outils simples de collecte de données et de métriques ainsi que des outils de visualisation et des dashboards.  Ces outils permettront tant la collecte de métriques de sources diverses que leur exploitation.",
     "tags": [
       "monitoring"
@@ -64,6 +67,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Multimodalité & interfaces. Le design est une question d'humains, pas de machine",
+    "url": "https://www.paris-web.fr/2013/conferences/multimodalite-des-interfaces-web-une-nouvelle-approche-du-design.php",
     "description": "Sur des projets web, l'interface est souvent restreinte à un format, une taille, une technologie. Cependant, l'interface est, littéralement, la façon dont se présente une relation. Depuis l'informatique ubiquitaire pensée par Mark Weiser, décrite par Philip K. Dick et réalisée par Google, les formats connectés à Internet ne cessent de se multiplier jusqu'à leur dématérialisation. Sur le web, les designers, développeurs et autres acteurs, pensent aujourd'hui le web comme une suite d'expériences évoluant au fil des supports. Ces expériences multimodales font appel à des interfaces et des interactions pour lesquelles la place de l'humain est centrale.",
     "tags": [
       "design"
@@ -84,6 +88,7 @@
     "year": 2013,
     "type": "conference",
     "title": "S.A.R.A.H. maison intelligente pour connecter l'internet des objets",
+    "url": "https://www.paris-web.fr/2013/conferences/sarah-maison-intelligente-pour-connecter-linternet-des-objets.php",
     "description": "Un peu de science fiction pour manipuler et faire communiquer l’internet des objets.  Durant ces 15 dernières années nous avons vu émerger et se consolider le web, ses API, ses usages autour l’Open Software. Une deuxième vague du web est apparue depuis peu autour de l'internet mobile. Il faut de nouveau normaliser les APIs et Usages.  Maintenant, le réel rencontre le virtuel avec l’Open Hardware : des objets construits comme des LEGOs, connectés et communiquant avec notre vie numérique. Une lame de fond présente depuis 2005 en train d'exploser dans notre quotidien. Mais tout est encore à normaliser...  Comment aborder ce Tsunami ? Quels enjeux ? Quelle est la place du métier du web dans cette aventure ? Une avancée aussi pour l'accessibilité ?  S.A.R.A.H. est un petit framework, open source, visant à faire communiquer ces objets connectés et à interagir naturellement avec eux dans la maison, au bureau, etc. via de la reconnaissance vocale, gestuelle, faciale, QRCode, NFC...  L’idée n’est pas de proposer une Nième box domotique, mais de combler un manque pour faire communiquer les objets simplement. Et surtout donner accès, aujourd'hui, à ces technos, qui seront les enjeux de demain. Les métiers du web changent constamment...  Le projet : http://encausse.net/s-a-r-a-h/  La communauté : https://plus.google.com/u/0/communities/105964514508504667709",
     "tags": [
       "internet des objets"
@@ -104,6 +109,7 @@
     "year": 2013,
     "type": "conference",
     "title": "[Conf Sponsor] Le retour sur investissement de la qualité web",
+    "url": "https://www.paris-web.fr/2013/conferences/conf-sponsor-le-retour-sur-investissement-des-demarches-qualite-web.php",
     "description": "Quels sont les bénéfices d'une démarche qualité web ? Comment prouver sa rentabilité ?  La qualité Web et les checklists de bonnes pratiques sont maintenant de plus en plus répandues. Pour accélérer le mouvement et enfin faire en sorte que ces démarches qualité Web contribuent à améliorer massivement le Web, il est temps d'en prouver le retour sur investissement. Sur quels postes permettent-elles de faire des économies ou de gagner de l'argent ? Avec qui et comment obtenir des preuves de leur rentabilité ?",
     "tags": [
       "qualité"
@@ -124,6 +130,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Learning to love: Crash course in emotional UX design",
+    "url": "https://www.paris-web.fr/2013/conferences/learning-to-love-crash-course-in-emotional-ux-design.php",
     "description": "Learning to love: Crash course in emotional UX design  Human-computer interaction is awkward. This talk will hopefully make you understand how to make it less awkward by applying psychology principles and tricks behind emotional UX design and build products that your users will love.    Apprendre à aimer : cours intensif en design émotionnel  Les interactions homme-machine ne sont pas idéales. Si tout se passe bien, cette conférence vous fera apprendra à les améliorer en appliquant les principes et astuces psychologiques qui se cachent derrière le design émotionnel, et à concevoir des produits que vos utilisateurs aimeront.    NB : cette conférence sera animée en anglais avec traduction simultanée.",
     "tags": [
       "UX"
@@ -144,6 +151,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Soyez responsables : construisez votre API",
+    "url": "https://www.paris-web.fr/2013/conferences/soyez-responsables-construisez-votre-api.php",
     "description": "L'année 2012 aura été riche en effets d'annonces : la majorité de nos solutions CMS / CMF PHP migrent vers un socle Symfony2 ; les projets utilisent de plus en plus Bootstrap en socle de départ ; les intégrations démarrent avec Compass / Susy ou Bourbon par défaut… Cette montée en puissance d'un leader dans chaque domaine est préoccupante dans une dynamique open-source : elle vient à l'encontre de la diversité de l'écosystème, et fragilise l'ensemble en appuyant tout sur un socle commun.  Pourtant, à l'usage au quotidien, on peste souvent après ces outils : pourquoi telle méthode fonctionne-t-elle ainsi ? Pourquoi mon rythme vertical n'est pas bon avec cette grille de base ? Pourquoi telle interface n'est-elle pas disponible ? C'est le problème quand on s'appuie aveuglément sur des solutions communément admises. On se retrouve à les tordre pour les faire entrer dans nos contraintes et à se battre contre elles au lieu de les utiliser.  Le web est riche de sa diversité. Il faut rester curieux, attentif, et ne pas s'engouffrer dans des solutions par effet de mode. Aucun outil n'est universel et il n'y a aucune raison de démarrer un projet avec telle ou telle solution par défaut. Chaque projet a ses spécificités qui le rendent unique.  Pour bien utiliser, il faut bien comprendre. Pour bien comprendre, il faut expérimenter. Soyez responsables, construisez vos propres outils, vos propres API pour correctement appréhender les rouages internes, et être à même de choisir une solution non-pas parce qu'elle est utilisée sur 70% des projets, mais parce qu'elle est adaptée à 100% à votre besoin.  Nous verrons au cours de cette conférence comment construire intelligemment un outil, une architecture capable de répondre à des besoins donnés, pour avoir le choix de l'outil et éviter de s'enfermer dans des automatismes néfastes.",
     "tags": [
       "API"
@@ -164,6 +172,7 @@
     "year": 2013,
     "type": "conference",
     "title": "HTML5 accessibility",
+    "url": "https://www.paris-web.fr/2013/conferences/html5-accessibility.php",
     "description": "HTML5 accessibility  HTML5 accessibility, lessons learnt, challenges, author guidance etc.    Accessibilité de HTML5  Accessibilité de HTML5, enseignements tirés, défis, guide du créateur, etc.    NB : cette conférence sera animée en anglais avec traduction simultanée.",
     "tags": [
       "accessibilité",
@@ -185,6 +194,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Tutoriel HTML5",
+    "url": "https://www.paris-web.fr/2013/ateliers/tutoriel-html5.php",
     "description": "Découvrir les APIs JavaScript de HTML5, programmation d'applications web avec HTML5 : persistance, offline applications, géolocalisation, orientation, dessin/animation, multimédia, programmation de jeux (animation, effets sonores, etc).",
     "tags": [
       "HTML5",
@@ -207,6 +217,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Projets responsive : mise en commun de retours d'expérience",
+    "url": "https://www.paris-web.fr/2013/ateliers/projets-responsive-mise-en-commun-de-retours-dexperience.php",
     "description": "Il est logique pour un concept récent et pourtant fortement répandu, d’avoir, chacun dans son coin, la sensation de manquer de retours d’expérience sur le sujet. C’est forts de ce constat que Rudy et Jérémie ont souhaité co-écrire le livre « Projet Responsive Web Design » (Eyrolles), afin d’inspirer les gens les plus perdus à s’appuyer sur leurs retours d’expérience à eux.  Ah, quel bonheur, si l’on pouvait tous profiter des retours d’expérience des autres, pour se sentir plus forts tous ensemble, et avoir la sensation tous ensemble d’acquérir de l’expérience projet !  Durant cet atelier, un document texte sera partagé à tous les participants, leur permettant de partager en temps réel leurs bonnes et mauvaises expériences, leurs conseils et leurs inspirations. Le document et les débats seront organisés autour des phases projet habituelles : d’abord le recueil du besoin, puis le cahier des charges… jusqu’à la mise en ligne !  Évidemment, le document collaboratif sera ensuite mis à disposition publiquement, en Creative Commons.",
     "tags": [
       "responsive design"
@@ -232,6 +243,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Le web après les mots de passe",
+    "url": "https://www.paris-web.fr/2013/conferences/le-web-apres-les-mots-de-passe.php",
     "description": "Cette présentation s'adresse aux concepteurs d'applications web, afin de leur donner des pistes pour rendre leurs applications plus sûres. Les défauts des mots de passe pour s'authentifier auprès des applications web sont bien connus: les utilisa-teurs-trices doivent choisir entre un mot de passe sûr (complexe et différent pour chaque application) ou facile à retenir (simple, utilisé sur plusieurs applications). Le résultat est un véritable casse tête dans le premier cas, ou l'usurpation d'identité pour ceux qui choisissent la facilité. L'année 2012 a vu 12 million de comptes piratés (1 toutes les 3 secondes), entraînant des vols pour un montant estimé à 26 milliards de dollars. Pourtant des solutions existent, et nous présenterons leurs principales caractéristiques :  Délégation de l'authentification auprès de serveurs d'identités, offrant la possibilité d'une authentification unique (Social Sign-In à travers Facebook, Google, Twitter et autres). Authentification forte à l'aide de multiples facteurs ou canaux de communications (PC + mobile, empreintes digitales, token OTP, cartes à puce…)  Nous ferons un rapide panorama des protocoles disponibles ou en cours de spécification permettant ce type d'authentification: OpenID [Connect], SAML, BrowserID, OAuth, FIDO Alliance.  Pour illustrer concrètement la mise en oeuvre de ces techniques, nous présenterons un code simple (javascript) réalisant une délégation d'authentification à l'aide d'une solution open source (par ex. Mozilla Persona), et nous montrerons un exemple de mise oeuvre d'authentification à multiple facteurs (carte à puce et empreinte digitale) dans une application web.",
     "tags": [
       "authentification",
@@ -253,6 +265,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Penser l'expérience utilisateur mobile",
+    "url": "https://www.paris-web.fr/2013/conferences/penser-lexperience-utilisateur-mobile.php",
     "description": "Comment penser une interaction homme-machine par essence dégradée? Qui n’existe que dans le mouvement, la rupture, l’attente?  Les écrans et leurs contextes d’utilisation nous forcent à modifier nos réflexes de conception pour être au plus proche des besoins et usages réels. Pour y parvenir, et en décortiquant les contraintes inhérentes à la mobilité et à ses supports, nous verrons ensemble à quoi particulièrement s’attacher lorsque l’on conçoit une expérience utilisateur mobile.",
     "tags": [
       "UX",
@@ -274,6 +287,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Analysing Complex User Needs with User Matrices",
+    "url": "https://www.paris-web.fr/2013/ateliers/analysing-complex-user-needs-with-user-matrices.php",
     "description": "Analysing Complex User Needs with User Matrices  Currently, our user experience tools tend to focus on “who” users are, but in many cases, user needs fall along multiple spectrums and dimensions. In this hands-on workshop, you will get the chance to learn how and when to use this new product design method that has been developed by Steph—a method that is an effective bridge between user research and design.    Analyser les besoins utilisateurs complexes à l’aide des matrices utilisateur  À l’heure actuelle, nos outils d’expérience utilisateur ont tendance à se limiter à « qui » sont les utilisateurs. Mais dans de nombreux cas, les besoins de l’utilisateur se trouvent répartis sur de nombreuses variations et dimensions. Au cours de cet atelier pratique, vous pourrez apprendre comment et quand utiliser cette nouvelle méthode de conception de produit développée par Steph – une méthode qui se révèle faire une liaison efficace entre les recherches utilisateur et la conception.    NB : cet atelier sera animé en anglais.",
     "tags": [
       "UX"
@@ -294,6 +308,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Adaptive Images for Responsive Web Design",
+    "url": "https://www.paris-web.fr/2013/conferences/adaptive-images-for-responsive-web-design.php",
     "description": "Adaptive Images for Responsive Web Design The open web doesn't stop at our desktop. Smart phones and tablets not only contain more computing power and better browsers than the computers that started the Internet economy, they have better displays. In this session presented by Christopher Schmitt, we will work through tips and tricks to develop future friendly images in our sites and apps:  Icon fonts in a breeze and accessibility Setting up Mobile icons and bookmarks Using SVG to streamline performance The fall and rise of JPEG image format ...and much more!    Des images qui s'adaptent à un design responsif Le web ouvert ne s'arrête pas à nos ordinateurs de bureau. Non seulement les téléphones et tablettes disposent de plus de puissance et de meilleurs navigateurs que les ordinateurs qui ont lancé l'économie en ligne, mais ils disposent en plus de meilleurs écrans. Lors de cette session présentée par Christopher Schmitt, nous verrons les trucs et astuces qui permettent de mettre en place des images pérennes pour nos sites et applications :  Utiliser des polices d'icônes simplement pour plus d'accessibilité Mettre en place des icônes et favoris mobiles Utiliser SVG pour améliorer les performances Le retour en grâce du format d'image JPEG ...et bien plus encore !    NB : cette conférence sera animée en anglais avec traduction simultanée.",
     "tags": [
       "images",
@@ -315,6 +330,7 @@
     "year": 2013,
     "type": "conference",
     "title": "[Conf Sponsor] Utilisez le GPU pour améliorer la performance de vos applications Web",
+    "url": "https://www.paris-web.fr/2013/conferences/utilisez-le-gpu-pour-ameliorer-la-performance-de-vos-applications-web.php",
     "description": "Le GPU est en de plus en plus important pour la performance de nos applications Web. Il est depuis un moment utilisé pour vous dans certains cas comme le canvas 2D ou certaines animations CSS3, nous en parlerons donc en introduction. Mais nous verrons ensuite comment aller encore plus loin avec WebGL. Cela sera illustré à travers un moteur 3D HTML5 que nous avons conçu en France ainsi qu’un framework de conception de jeu au-dessus. Vous verrez alors que malgré l’utilisation du GPU, il faut continuer à être vigilant aux concepts de base de JavaScript pour la performance. Ce sera l’occasion de mettre un peu les mains dans le code, vous verrez ce n’est pas sale !",
     "tags": [
 
@@ -340,6 +356,7 @@
     "year": 2013,
     "type": "conference",
     "title": "HTML / CSS : bousculez vos habitudes !",
+    "url": "https://www.paris-web.fr/2013/conferences/html-css-bousculez-vos-habitudes.php",
     "description": "Depuis que je fais de l'intégration (un paquet d'années), j'ai toujours été très concerné par les standards, l'accessibilité et la sémantique. Il se trouve cependant qu'avec l'expérience, on se rend compte que les contraintes de production et de performances ont bien évolué en 15 ans : à force de respecter d'antiques préceptes on crée des fichiers CSS lourds, redondant, et non réutilisables. C'est pourquoi 12% des plus gros sites mondiaux comptent plus de 50 occurences de \"!important\".  Ces aberrations peuvent être évitées en utilisant judicieusement des CSS efficaces.  Nicole Sullivan (ex-Yahoo!) a ouvert la voie en créant \"OOCSS\" (CSS orientés “objet”), d’autres tels que Jonathan Snooks ou Kaelig Deloumeau-Prigent ont suivi le mouvement.  Voyons quelles réelles remises en question nous attendent pour parvenir à nos fins.",
     "tags": [
       "CSS",
@@ -362,6 +379,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Understanding DOM and its importance for accessibility",
+    "url": "https://www.paris-web.fr/2013/conferences/wcag-412-understanding-dom-and-its-importance-for-accessibility-1.php",
     "description": "Understanding DOM and its importance for accessibility  When I do training on advanced accessibility, attendees are sometimes taken aback when I tell them that HTML is a “polite request”, but it is true. As web developers we like to think that our hard work creating HTML, CSS, and JavaScript is what makes our sites so great, but the reality is that all our hard work is really just a request that says “Please, Mr. Browser, can you make this website do all the cool stuff I’ve designed here?” At the time the user’s browser actually receives your web page and all of its assets, your control of the situation entirely ceases and control for how your site really looks and operates is entirely in the hands of the browser.  The user visits the site with their browser which submits a request over HTTP (or HTTPS) for a URI. The server responds by sending over the necessary files to display the page. At that point, the browser’s rendering engine turns those files into a series of objects which are then displayed on the screen. Each of those objects have specific methods and properties available to them. From these objects, assistive technologies are able to convey important information, typically through the use of an accessibility API. In this session, I'll describe the interactions between HTML/ CSS/ JavaScript, the DOM, the BOM, Accessibility APIs and Assistive Technologies, providing important technical insight into accessibility.    Comprendre le DOM et son importance pour l'accessibilité Lorsque je fais des formations sur l’accessibilité avancée, les participants sont parfois interloqués quand je leur dis que le HTML n’est qu’une « demande polie » ; c’est pourtant vrai. En tant que développeurs web, nous aimons croire que la grandeur de nos sites vient de notre dur labeur à créer du code HTML, CSS et JavaScript, mais dans les faits, ce dur labeur n’est qu’une demande sous la forme « S’il vous plaît monsieur le Navigateur, pouvez-vous faire en sorte que ce site web fasse tous les trucs cool que j’ai codé ici ? » Dès que le navigateur de votre visiteur reçoit effectivement votre page web et tous ses composants, vous perdez totalement le contrôle de la situation au profit du navigateur, qui choisit la manière dont le site s’affiche et fonctionne. Le navigateur avec lequel le visiteur parcours votre site demande une URI par requête HTTP (ou HTTPS). Le serveur répond en envoyant les fichiers nécessaires à l’affichage de la page. À cet instant, le moteur de rendu du navigateur transforme ces fichiers en une série d’objets qui sont ensuite affichés à l’écran. Chacun de ces objets dispose de ses propres méthodes et propriétés. À partir de ces objets, les technologies d’assistance sont capables de faire remonter les informations importantes, typiquement par le biais d’une API d’accessibilité. Lors de cette session, je décrirai les interactions entre HTML/CSS/JavaScript, le DOM, le BOM, les API d’accessibilité et les technologies d’assistance, vous donnant une vision technique importante de l’accessibilité.    NB : cette conférence sera animée en anglais avec traduction simultanée.",
     "tags": [
       "accessibilité",
@@ -383,6 +401,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Votre site à l'épreuve des tests utilisateurs DIY, on vient avec nos ergonomes (3 heures)",
+    "url": "https://www.paris-web.fr/2013/ateliers/venez-avec-votre-site-et-testons-le.php",
     "description": "Si vous n'avez pas de site vous pouvez venir aussi. Cet atelier à pour but de vous présenter et de mettre en œuvre une méthodologie de tests utilisateurs en mode DIY (Do It Yourself). Le but de ces tests est de détecter des problèmes d'utilisabilité sur un site au cours des cycles de développement, afin de les corriger.  Pour l'atelier, nous nous baserons sur des sites proposés par les participants. Les « utilisateurs testeurs » seront aussi les participants.   Venez avec votre ordinateur portable ou votre tablette pour effectuer les tests. Les salles des ateliers ne disposent pas d'ordinateur.  Après une courte présentation de méthodologie, nous nous attaquerons à :  La rédaction de la consigne La mise en place d'une grille d'observation La mise en place de la passation La passation L'analyse des résultats  Nous échangerons ensuite nos impressions sur ces tests utilisateurs et comment nous pourrions les améliorer ou trouver des variantes en fonctions des besoins.  Les sites proposés doivent être exempts de tous chatons ou de toutes représentations symboliques jugées comme mignonnes ou à la mode.",
     "tags": [
       "tests utilisateurs"
@@ -408,6 +427,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Tester son JS, c'est possible !",
+    "url": "https://www.paris-web.fr/2013/ateliers/tester-son-js-cest-possible.php",
     "description": "Si de nombreux développeurs mettent un point d'honneur à tester leur code côté serveur, force est de constater que bien peu ont franchi le cap côté client.   On trouve pourtant pléthore d’outils de test en JavaScript, pour tous les goûts (TDD, BDD...) et tous les degrés de test (unitaire, fonctionnel et d’intégration) : nous examinerons entre autre QUnit, Jasmine, Mocha, Chai, CasperJS et Karma.   Mais plus important, vous découvrirez les bonnes pratiques du test JS :  Comment tester de l'asynchrone ? Tester le DOM Mocks et stubs Le pattern PageObject",
     "tags": [
       "JavaScript",
@@ -429,6 +449,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "SVG, devenez maître des vecteurs",
+    "url": "https://www.paris-web.fr/2013/ateliers/svg-devenez-maitre-des-vecteurs.php",
     "description": "Présent dans les spécifications HTML depuis près de 15 ans, c'est aujourd'hui seulement que le format vectoriel SVG devient une véritable alternative aux formats d'images statiques.  Dans un premier temps, vous découvrirez à travers des exemples concrets les axes d'optimisation offerts par ce format (poids, requête HTTP, maintenabilité, dynamique graphique), ses différents modes d'intégration (object, fichier, inline, base64) et leurs impacts sur votre application web.  Dans la seconde moitié de l'atelier, nous verrons comment interagir avec le SVG en JavaScript, de la possibilité pour vos utilisateurs à personnaliser leur interface, à son utilisation comme un module applicatif (notifications, aide contextuelle).",
     "tags": [
       "SVG"
@@ -449,6 +470,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Livre Électronique et Standards du Web",
+    "url": "https://www.paris-web.fr/2013/conferences/livre-electronique-et-standards-du-web.php",
     "description": "Le Livre Électronique est probablement le plus gros consommateur de Standards du Web actuel hors du Web lui-même. Les points de convergence entre notre moyen d'expression préféré et les eBooks sont nombreux mais les points de divergence également. Quels sont les apports du Livre Électronique dans HTML, les CSS, les autres langages ? Quels sont les spécifications du W3C qui doivent impérativement progresser pour aider le Livre Électronique ? Pouvez-vous transformer une collection de documents Web en Livre Électronique en moins que temps que Tristan Nitot en a besoin pour passer son fameux tutu rose ? Comment le W3C et l'IDPF, le consortium chargé d'EPUB, travaillent-ils ensemble ? Le Livre Électronique et le Web évoluent-ils à la même vitesse ?  Bref, tout ce que vous avez voulu savoir sur les dessous Web du Livre Électronique sans jamais oser le demander.",
     "tags": [
       "livres numérique",
@@ -470,6 +492,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Le dessous des grilles",
+    "url": "https://www.paris-web.fr/2013/ateliers/le-dessous-des-grilles.php",
     "description": "Désormais, les intégrateurs ne jurent pratiquement que par les frameworks HTML/CSS. Cependant, hormis quelques particularités concernant la typographie ou les boutons, la différence entre un framework et un autre framework se situe principalement dans les fichiers de définition de layout et de grille. En effet, ce sont les éléments agissant sur la structure de la page, c'est-à-dire des classes (les plus) spécifiques à chaque site web.  Pourtant, si on vous évoque fréquemment les capacités techniques de ces grilles, il est très rare de soulever le capot pour décortiquer le code et en déterminer le fonctionnement.  Dans cet atelier, il vous sera présenté différentes philosophies de grilles relatives aux besoins spécifiques d'un projet : compatibilité Internet Explorer, adaptabilité selon les dimensions d'un périphérique, facilité de mise en œuvre, variabilisation à l'aide de préprocesseurs...  Pour cela, nous décrirons en détail ce qu'il en est au niveau du code afin de montrer aux novices comment est constitué le cœur de la bête, et permettre aux plus aguerris de faire part de leurs remarques les plus pertinentes concernant les avantages et les inconvénients de chacune des approches.  L'objectif de l'atelier sera de lister les problématiques relatives à la conception de grilles en CSS et de montrer comment passer de la logique déclarative à la logique générative de code CSS (permise grâce aux préprocesseurs CSS).",
     "tags": [
       "CSS",
@@ -492,6 +515,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Test unitaire ? Mock ? TDD ? Kezako ? (En finir avec les régressions)",
+    "url": "https://www.paris-web.fr/2013/ateliers/test-unitaire-mock-tdd-kezako-en-finir-avec-les-regressions.php",
     "description": "Vous venez de reprendre un projet : vous vous perdez dans les méandres du code source ? À chaque fois que vous ouvrez un fichier, vous vous demandez comment cela peut-il fonctionner en production ? Pour une raison encore inconnue, le projet ne compile plus que sur une des machines de l'équipe ? Le dernier fix que vous avez commité a rajouté plus de bugs qu’il n’en a corrigé ?  Si c’est le cas, suivez-moi dans la quête du Test Driven Development. Nous rencontrerons pléthore d'ennemis contre lesquels nous aurons à combattre : bugs, complexité, code statique, couplage fort. Ils essaieront de nous barrer la route, mais heureusement, nous pourrons compter sur nos alliés jUnit, Mockito, refactoring et injection/dépendance.  Cette session vous montrera des exemples de code legacy posant problème, puis nous verrons comment s’organiser au niveau du code, des outils, et de l’équipe pour reprendre en main notre projet et éviter que cela ne se reproduise sur nos prochaines réalisations.",
     "tags": [
       "tests"
@@ -512,6 +536,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Lightning talks",
+    "url": "https://www.paris-web.fr/2013/conferences/lightning-talks.php",
     "description": "Dans l'ordre d'apparition sur scène :   LE truc qui m’énerve (millésime 2013) (François Nonnenmacher) SlimerJS (Laurent Jouanneau) La méthode Agile (non pas celle-ci, l’autre) (Marie Paccard, Sébastien Desbenoit et Markus Gramlich) Exterminons les haut de casses (Raphaël Yharrassarry) Le code typographique français en 4 minutes sans respirer (Damien Alexandre) Tetris ou le secret des origines de CSS Grid Layout (David Rousset) Explorer le système solaire en 4 minutes ! (David Catuhe) Le challenge du Berger (Sébastien Desbenoit) J'ai décidé d'arrêter de sauver le monde (Nicolas Hoffmann) Le ticket 3057 (Thomas Zilliox)",
     "tags": [
 
@@ -537,6 +562,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Goûts et mauvais goût : de la subjectivité en design",
+    "url": "https://www.paris-web.fr/2013/conferences/gouts-et-mauvais-gout-de-la-subjectivite-en-design.php",
     "description": "Découvrez pourquoi certains design sont haïs par le monde entier et pourquoi la femme de votre boss aime le violet-marron.   \"Ça dépend des goûts\", cette phrase rendrait fou n'importe quel designer, tellement elle nous plonge dans un abîme où l'argumentation n'a plus de prise. En effet, les designers aiment à penser qu'un bon design n'est pas une affaire de goûts. Un design répond à des objectifs précis, on peut donc analyser objectivement ses qualités. Le subjectif n'aurait rien à voir la dedans. Vraiment ? Pourtant il arrive régulièrement que des designs soient décriés pour leur laideur par toute la communauté des designers. On ne reproche pas à ces réalisations des erreurs fonctionnelles (un manque d'ergonomie, une typo illisible ou des contrastes mal équilibrés), on dit juste que c'est affreusement laid. Alors est-ce que le mauvais goût existe réellement ? Et si c'est le cas, comment éviter que notre site ne devienne la prochaine risée d'Internet ? Pas de panique, nous tenterons d'y répondre à l'aide d'une Comic Sans.",
     "tags": [
       "design"
@@ -557,6 +583,7 @@
     "year": 2013,
     "type": "conference",
     "title": "La rencontre entre hacktivisme et sociétés civiles, un enjeu pour les libertés numériques",
+    "url": "https://www.paris-web.fr/2013/conferences/la-rencontre-entre-hacktivisme-et-societes-civiles-un-enjeu-pour-les-libertes-numeriques.php",
     "description": "Avec le développement mondial d'Internet, les échanges n'ont jamais été aussi nombreux. De ce point de vue, la liberté de communiquer et de s'informer ne cesse de s'étendre. Cette liberté est pourtant extrêmement fragile : hier en Tunisie et en Égypte, aujourd'hui en Syrie, en Chine, en Iran, le pouvoir politique n'hésite pas à censurer le réseau, voire à le couper, pour assurer son emprise sur les populations civiles. Même dans les pays démocratiques, le déploiement d'arsenaux législatifs conçus pour protéger tantôt la sécurité, tantôt les industries culturelles, met à mal le principe de neutralité du Net. Nombreuses ont été les tentatives de faire peser sur les intermédiaires techniques la \"régulation\" des échanges, au détriment du pouvoir judiciaire. La vie privée est, elle aussi, de plus en plus menacée, que ce soit par le développement de technologies intrusives comme le Deep Packet Inspection, ou par la concentration des données personnelles sur les serveurs de quelques acteurs dominants. Demain, l'Internet des objets, si prometteur et enthousiasmant par bien des aspects, ne pourrait-il pas tourner au cauchemar, faute d'un véritable débat citoyen sur ses enjeux en termes de libertés fondamentales ?  S'assurer que les avancées technologiques profitent à tous, qu'elles soient le terreau fertile du développement social et économique, sans devenir les outils d'une surveillance généralisée, tel est le défi des années à venir. Aujourd'hui, ce sont principalement les hacktivistes qui portent ces sujets. Qu'ils militent pour la promotion d'outils libres et ouverts, construisent des réseaux de communication décentralisés, aident les cyberdissidents à s'exprimer sans risquer leur vie, ou se lancent directement dans l'arène politique, ils posent sans cesse la même question : tous connectés, d'accord, mais comment ? Cette articulation entre culture technique et problématique citoyenne est au cœur des mutations en cours. La compréhension et la maîtrise réelle des outils numériques par le plus grand nombre sera la meilleure garantie des libertés fondamentales. Il est aujourd'hui crucial, et urgent, de mieux partager ces compétences, de construire des ponts entre les communautés hackers / hacktivistes, les acteurs de la société numérique et les citoyens.  Cette communication s'attachera à expliciter les enjeux de la protection des droits numériques, le rôle des hacktivistes dans la promotion de ces droits, et proposera enfin quelques pistes de rapprochement entre hacktivistes et sociétés civiles, via notamment ces lieux collaboratifs que sont les hackerspaces, les makerspaces et les FabLabs.",
     "tags": [
       "hacktivisme"
@@ -577,6 +604,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Et si on enrichissait nos frameworks CSS ?",
+    "url": "https://www.paris-web.fr/2013/ateliers/et-si-on-enrichissait-nos-frameworks-css.php",
     "description": "Forts de leur expérience avec leurs frameworks respectifs, Nicolas et Raphaël vous proposent d'animer un workshop CSS autour de frameworks CSS légers : astuces, propositions, principes, pré-processeurs, conventions de nommage, exemples, problématiques à résoudre, compatibilité cross-browsers, etc. Tous les coups sont permis, et les participants vont être mis à contribution, quel que soit leur niveau !",
     "tags": [
       "CSS",
@@ -603,6 +631,7 @@
     "year": 2013,
     "type": "conference",
     "title": "La folle journée, ou les fourberies d'un projet",
+    "url": "https://www.paris-web.fr/2013/conferences/la-folle-journee-ou-les-fourberies-dun-projet.php",
     "description": "Un projet web, on le sait, est un parcours semé d’embûches. Au fil des multiples exigences et retours clients, il évolue tout au long de sa réalisation, et pas toujours en bien…  Comment trier les sollicitations des clients ? Comment y répondre de façon constructive ? Comment, que l’on soit commercial, créatif, développeur ou chef de projet, arbitrer ses choix tout en ménageant d’un côté les intérêts du projet et de l’autre les légitimes exigences de chacun ?  Entre décisions arbitraires et mauvaise foi aveugle, un projet peut vite se transformer en farce digne de Molière : c’est ce que nous avons choisi de dépeindre ici !  Acte 1 : L’avant-vente. « Un site à base de QR codes ? Révolutionnaire ! »  Acte 2 : La direction artistique. « Ah, votre femme n’aime pas le rose ? »  Acte 3 : L’intégration. « Ce <div class=\"span\"> est une contrainte CMS, désolé. »  Acte 4 : Le développement. « L’offshore au Bangladesh ? Bonne idée ! »  Acte 5 : La mise en production. « Allez go go go, c’est vendredi ! »  Alors, le client : précieux allié ou perfide saboteur ?",
     "tags": [
       "gestion de projet",
@@ -634,6 +663,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "[Atelier Sponsor] SEO, SMO et Social CRM les meilleures pratiques",
+    "url": "https://www.paris-web.fr/2013/ateliers/atelier-sponsor-seo-smo-et-social-crm-les-meilleures-pratiques.php",
     "description": "Être présent sur le web est un enjeu incontournable pour les entreprises qui souhaitent attirer des consommateurs hyper connectés via les moteurs de recherche et pléthore de réseaux sociaux. Dans ce contexte, comment est-il possible pour l'entreprise d'assurer simplement une présence efficace lui permettant d'acquérir des clients ?   Comment identifier les meilleurs media sociaux pour communiquer ? Quels sont les nouveaux outils que le CRM traditionnel intègre pour devenir Social CRM...",
     "tags": [
 
@@ -659,6 +689,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Après la macro, la micro !",
+    "url": "https://www.paris-web.fr/2013/ateliers/apres-la-macro-la-micro.php",
     "description": "Marie et moi présentions l’an passé un atelier sur les grilles macro-typographiques. Je propose cette année (en solo) de rester dans le monde de la typographie mais de plonger dans les détails de la ponctuation, des caractères, des abréviations et d’autres symboles alambiqués.",
     "tags": [
       "typographie"
@@ -679,6 +710,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "CSS3/JS Selectors: When your HTML5 Has No Class",
+    "url": "https://www.paris-web.fr/2013/ateliers/css3js-selectors-when-your-html5-has-no-class-3.php",
     "description": "CSS3/JS Selectors: When your HTML5 Has No Class  Pick an element, any element. Style it. Manipulate it. No IDs. No classes. No jQuery necessary. We'll learn all the new features of selectors in CSS and JavaScript that enable you to select this DOM node, that DOM node, and even an imaginary DOM node based on attributes, relation to other elements, location in the DOM, or just an element's mere existence. The possibilities are endless, if you know how to use the tools in your tool box. Today's tool is CSS3 (and JavaScript) selectors.    Sélecteurs CSS3/JS : quand HTML5 n’a pas la classe  Choisissez un élément, n’importe lequel. Stylez-le. Manipulez-le. Aucune ID. Aucune classe. Pas de jQuery. Nous verrons les nouvelles fonctionnalités des sélecteurs de CSS et JavaScript, qui vous permettent de sélectionner tel nœud du DOM, tel autre nœud du DOM, et même ce nœud imaginaire du DOM, en fonction des attributs, des relations avec les autres éléments, de la position dans le DOM, ou juste la simple existence de l’élément. Les possibilités sont infinies, si vous savez comment utiliser le contenu de votre boite à outils. L’outil du moment, ce sont les sélecteurs CSS3 (et JavaScript)    NB : cet atelier sera animé en anglais.",
     "tags": [
       "CSS",
@@ -701,6 +733,7 @@
     "year": 2013,
     "type": "conference",
     "title": "[Conf Sponsor] « Listening Platforms » : outils indispensables à la rationalisation de votre présence Web ?",
+    "url": "https://www.paris-web.fr/2013/conferences/conf-sponsor-listening-plateforms-outils-indispensables-a-la-rationalisation-de-votre-presence-web.php",
     "description": "La présence Web d’une marque (une entreprise ou un produit) est de plus en plus « protéiforme » : sites Web/Mobile/Tablette, sites e-Commerce, moteurs de recherche, blogs, réseaux sociaux, comparateurs, sites d’affiliation… Outre cette explosion des canaux numériques, la complexité technique croissante des dispositifs nécessite d’industrialiser leur surveillance : performances, sécurité, compatibilité multi-devices… pour garantir à ses utilisateurs une expérience de qualité. Les « listening platforms » sont là pour répondre à ce besoin et identifier où sont les réels axes de progrès pour votre marque.",
     "tags": [
       "présence web"
@@ -721,6 +754,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Deux ou trois choses que vous ne savez peut-être pas sur la sécurité de votre site Web",
+    "url": "https://www.paris-web.fr/2013/conferences/deux-ou-trois-choses-que-vous-ne-savez-peut-etre-pas-sur-la-securite-de-votre-site-web.php",
     "description": "Même si vous n'êtes pas programmeur, vous êtes tous au courant des attaques XSS, CSRF, des injections SQL, etc. Mais, une fois le site Web en place et bien programmé pour éviter ces attaques, il en reste d'autres que vous n'avez peut-être pas évaluées. Après un rappel comme quoi les attaques les plus simples sont souvent les meilleures, je parlerai :  des attaques par déni de service, aussi bien volumétriques (force brute) que plus subtiles. C'est typiquement à votre hébergeur et à l'opérateur réseau de s'en occuper. Mais il est bon d'être au courant de ce qu'ils font. des dangers spécifiques au DNS : vous croyez que votre nom de domaine www.jesuisleplusbeau.example mène forcément sur votre site ? Pas toujours, grâce aux attaques par empoisonnement DNS. Vous verrez pourquoi il faut demander DNSSEC à votre hébergeur. des subtilités de HTTPS : le petit cadenas vous protège ? Vraiment ? Depuis le succès de l'opération Tulipe Noire, on ne peut plus croire les autorités de certification. Y a-t-il d'autres pistes ?",
     "tags": [
       "HTTPS",
@@ -742,6 +776,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Esthétique et pratique du Web qui rouille",
+    "url": "https://www.paris-web.fr/2013/conferences/esthetique-et-pratique-du-web-qui-rouille.php",
     "description": "Artisans du Web, parlons de notre matériau. Le Web : extraordinaire, flexible, formidable et fragile, étonnant et changeant. Méconnu. Concevoir un site Web implique des choix sur la pérennité du partage de l’information. Cela nécessite aussi une compréhension de l'érosion de l'information.  Entre l'exploration de techniques concrètes de la refonte d'un site (défi : sans tout casser !) à la mise en place d'une stratégie de l’archivage du Web contemporain, nous essaierons de mieux comprendre la pérennité, la transformation, la matérialité de l’information; et bien sûr les avantages et problèmes de son érosion.  Accepter un Web qui rouille, c'est, inévitablement, en découvrir une nouvelle esthétique. C'est aussi l'occasion de formuler une pratique du Web qui à la fois en renforce notre compréhension et nous permet de réaliser des choix pertinents lors de la conception et la gestion de nos sites.  Quelques pistes : http://olivier.thereaux.net/2013/01-Digital-Decay/ http://www.24joursdeweb.fr/2012/un-site-web-de-1000-ans/  Rendez-vous à Paris Web 2013 pour en discuter ensemble.",
     "tags": [
       "archivage",
@@ -768,6 +803,7 @@
     "year": 2013,
     "type": "conference",
     "title": "HTML5 JavaScript APIs",
+    "url": "https://www.paris-web.fr/2013/conferences/html5-javascript-apis.php",
     "description": "HTML5 JavaScript APIs  With HTML5, CSS3 and JavaScript, you can create web applications that work on all mobile devices. Modern browsers are capable of running your web apps. No need to learn OS specific programming languages. In this session we discuss some of the native HTML5 related JavaScript API that make your browser the most powerful piece of software on your device.   In this session we will take a look at a simple web game and look at the HTML5 related JavaScript APIs that enable it to function in browsers on all platforms, whether the user is online or offline, without the use of any frameworks, libraries or other 3rd party scripts. APIs covered include (but are not limited to) the selectors API, application cache, LocalStorage, DataSet API and classList.    Les API JavaScript de HTML5  Avec HTML5, CSS3 et JavaScript, vous pouvez créer des applications web qui fonctionnement sur tous les appareils mobiles. Les navigateurs modernes sont en mesure de faire tourner vos applications web. Inutile d'apprendre un langage de programmation spécifique à tel ou tel système d'exploitation. Lors de cette session, nous discuterons des certaines des API JavaScript rattachées à HTML5, qui font de votre navigateur le logiciel le plus puissant de votre appareil mobile.   Cette session se penchera sur un simple jeu pour le web, dénombrera les API JavaScript de HTML5 qui lui permettent de fonctionner sur les navigateurs de n'importe quelle plate-forme, que l'utilisateur soit en ligne ou hors ligne, sans devoir utiliser le moindre framework, la moindre bibliothèque ou autres scripts tiers. Les API abordées comprennent (entre autres) celle des sélecteurs, le cache d'application, LocalStorage, l'API DataSet et classList.    NB : cette conférence sera animée en anglais avec traduction simultanée.",
     "tags": [
       "API",
@@ -790,6 +826,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Designing with Sensors: Creating Adaptive Experiences",
+    "url": "https://www.paris-web.fr/2013/conferences/designing-with-sensors-creating-adaptive-experiences.php",
     "description": "Use Smart Device technology, Sensors and User Data to design a better user experience.  How do we utilize sensor and user data to create experiences in the digital world? We all know that smart devices have sensors, but how can we use this as a resource to acquire information about the user and his environment? And how can we use this information to design a better user experience that is both unobtrusive and transparent? The simple answer: we create adaptive systems.   A microphone could be used to determine if a user is in a quiet or loud environment, Analyzing the user’s search patterns or what applications he downloads can tell us about his preferences and hobbies. Using assisted GPS technology for tracking current location and location history can yield us the user’s surroundings and the physical boundaries of his life, so we can understand what subway station he takes to work, or where he likes to eat his lunch. This data allows us to learn about the user, his environment and dynamically adapt to his needs in any situation. When we understand the context of use we can design functions that are triggered in relevant situations.   Join speaker Avi Itzkovitch to discover core concepts for utilizing smart device technologies and sensor data in order to understand context, and add “adaptive thinking” to the UX professional’s toolset when designing experiences. In his presentation, Avi will demonstrate the importance of understanding context when designing adaptive experiences, give ideas on how to design adaptive systems and most important, inspire designers to think how smart devices and context aware applications can enhance the user experience with adaptivity.    Utiliser les technologies des terminaux mobiles, les capteurs et les données utilisateurs pour créer des expériences adaptatives Comment pouvez-nous utiliser les capteurs et les données utilisateur pour créer des expériences utilisateur dans le monde numérique ? Nous savons tous que les appareils modernes disposent de capteurs, mais comment pouvez-nous les utiliser comme source d’information sur l’utilisateur et son environnement ? Et comment pouvons-nous utiliser cette information pour concevoir une expérience utilisateur qui serait à la fois discrète et transparente ? La réponse est simple : nous créons des systèmes qui s’adaptent. Un micro pourrait être utilisé pour déterminer si l’utilisateur est dans un environnement calme ou bruyant. L’analyse de ses habitudes de recherche ou des applications qu’il télécharge peut nous en dire plus sur ses préférences et ses hobbies. En utilisant la technologie GPS qui suit la position actuelle et les positions précédentes peuvent nous révéler les environs de l’utilisateur et les limites physique de sa vie, afin que l’on déduise la station de métro qu’il prend pour se rendre à son travail, ou l’endroit où il préfère déjeuner. Ces données nous permettent d’en apprendre plus sur l’utilisateur et son environnement, et de nous adapter dynamiquement à ses besoins dans n’importe quelle situation. Une fois que l’on a compris le contexte d’utilisation, nous pouvons mettre en place des fonctionnalités qui sont déclenchées selon la situation appropriée. Joignez-vous à Avi Itzkovitch dans la découverte des principaux concepts de l’utilisation des technologies des appareils mobiles et des données de capteurs afin de comprendre le contexte courant, et ajoutez « réflexion adaptative » à votre boite à outils professionnelle lors de la conception d’expériences. Lors de cette présentation, Avi démontrera l’importance d’une bonne compréhension du contexte lors de la conception d’expériences adaptatives, vous donnera des idées sur la manière de concevoir un système de design adaptatif, et surtout, donnera aux designers l’envie de réfléchir à la manière dont les terminaux mobiles et les applications sensibles au contexte peuvent améliorer l’expérience utilisateur grâce à l’adaptabilité.    NB : cette conférence sera animée en anglais avec traduction simultanée.",
     "tags": [
       "UX"
@@ -810,6 +847,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Construire pour le futur",
+    "url": "https://www.paris-web.fr/2013/ateliers/construire-pour-le-futur.php",
     "description": "La très grande majorité des sites est construite pour un instant T, rarement on songe à ce qu'ils soient toujours en ligne 5 ans après. Existe-t-il de bonnes méthodes pour construire un site qui soit toujours utilisable et si possible pas démodé dans 20 ans ?  De la gestion de projet, reprise future, conception du layout et du design, cet atelier est une idée d'échanges pour de meilleures pratiques et des retours d'expériences.",
     "tags": [
       "pérennité"
@@ -830,6 +868,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Redesign dans le navigateur ? Et pourquoi pas !",
+    "url": "https://www.paris-web.fr/2013/ateliers/redesign-dans-le-navigateur-et-pourquoi-pas.php",
     "description": "Aujourd'hui les navigateurs web disposent d'une batterie d'outils de développement et de débogage complète et très puissante.  Cet atelier propose de mettre en œuvre l'amélioration continue du webdesign en faisant vivre les prototypes de nos « petits pas » dans le navigateur et ainsi tester directement les modifications futures de notre site web.  Pour participer, il est conseillé de vous munir de votre ordinateur portable et de la dernière version de Firefox ou de Chrome ainsi que de votre éditeur de texte favori. Il serait également intéressant de venir avec un projet à tester.",
     "tags": [
       "design",
@@ -853,6 +892,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Des modèles de conceptions pour vos composants d'interface grâce à ARIA",
+    "url": "https://www.paris-web.fr/2013/ateliers/des-modeles-de-conceptions-pour-vos-composants-dinterface-grace-a-aria.php",
     "description": "Au cours de cet atelier, après un rapide tour d'horizon des grands types de composants d'interfaces existants et notamment ceux définis dans la spécification ARIA, nous étudierons en détail deux ou trois grands composants, de leur sémantique de codage à leur enrichissement ARIA en passant par leur fonctionnement au clavier. Enfin, pour chacun de ces composants nous partirons à la quête du Saint-Graal : des solutions toutes faites déjà correctement codées ou, à défaut, que nous essayerons de corriger.",
     "tags": [
       "accessibilité"
@@ -873,6 +913,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Les outils pour développeurs inclus dans les navigateurs Web",
+    "url": "https://www.paris-web.fr/2013/ateliers/les-outils-pour-developpeurs-inclus-dans-les-navigateurs-web.php",
     "description": "De plus en plus d'applications Web peuvent rester ouvertes pendant des heures, si ce n'est des jours, dans le navigateur des utilisateurs. Il devient donc indispensable de savoir comment traquer les fuites mémoires, comment isoler le code qui ralentit le défilement et plus globalement comment maîtriser les outils pour développeurs inclus dans les navigateurs.  Découvrez via cet atelier comment on peut résoudre une série de problèmes fréquemment rencontrés par les développeurs Web en maîtrisant ces outils.",
     "tags": [
       "développement",
@@ -894,6 +935,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Théorie du flow et webdocumentaires",
+    "url": "https://www.paris-web.fr/2013/conferences/theorie-du-flow-et-webdocumentaires.php",
     "description": "Mihály Csíkszentmihályi. Derrière ce nom barbare se cache un psychologue hongrois qui a, en 1970, formalisé la théorie du flow cognitif. Cette série de principes, bien connue des designers d'expérience, est à la base du plaisir qu'on peut ressentir devant des objets interactifs bien conçus, les bons jeux vidéo par exemple. Mais comment pourrait-on essayer d'appliquer cette théorie pour raconter des histoires documentaires interactives sur le web ? Cette présentation serait une adaptation de cet article : Théorie du flow et webdocumentaires.",
     "tags": [
       "UX",
@@ -915,6 +957,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Un petit pas pour l'em, un grand pas pour le Web",
+    "url": "https://www.paris-web.fr/2013/conferences/un-petit-pas-pour-lem-un-grand-pas-pour-le-web.php",
     "description": "Aujourd'hui, je parcours le Web principalement sur mon ordinateur portable, très souvent sur mon smartphone, parfois sur ma tablette et ma TV, et plutôt exceptionnellement sur ma liseuse. Ces différents appareils ont bien entendu des formats — paysage ou portrait — et tailles très différents, ce que les adeptes du *Responsive Web Design* ont bien intégré dans leur conception du Web.  Mais ils ont aussi des tailles de base de police de caractère très différents —une échelle de 16 à 24px dans mon cas—, ce que presque tous les intégrateurs Web ignorent, ou choisissent d'ignorer pour se faciliter la tâche. Cela fait pourtant déjà quelque temps que l'on sait qu'il faut utiliser une unité proportionnelle et non fixe pour définir les hauteurs de texte, mais ce n'est que trop peu appliqué, les intégrateurs refusant souvent de lâcher prise.  L'étape suivante, qui devrait être un enchainement naturel —mais pose plus de contraintes—, est d'utiliser ces mêmes unités pour d'autres dimensions, notamment les largeurs de « boîtes » et les seuils de Media Queries.  L'objectif de cette conférence est d'illustrer les avantages et inconvénients d'une telle intégration complètement élastique, en espérant convaincre que les uns l'emportent suffisamment sur les autres pour améliorer notre pratique de l'intégration Web.",
     "tags": [
       "CSS",
@@ -936,6 +979,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Maquetter : Critiquer & être Critiqué",
+    "url": "https://www.paris-web.fr/2013/ateliers/maquetter-critiquer-etre-critique.php",
     "description": "Le maquettage est une méthode qui permet de formaliser et de communiquer rapidement des interfaces d'un service web.  Cet outil itératif est accessible à tous pour la peine que l'on prenne le temps de représenter ses idées à l'aide d'un crayon ou d'un logiciel.  Il permet également de véhiculer rapidement et efficacement ses idées. Puis quand les idées sont comprises, le travail le plus dur est ensuite d'essuyer les critiques.   Au cours de l'atelier, l'accent sera mis sur la création rapide de maquettes pour le web, puis sur les critiques (et leur compréhension) de ces maquettes.   Les objectifs en sortie de l'atelier sont triples :  comprendre les critiques  apprendre à formuler les réponses maquetter une interface",
     "tags": [
       "maquettage"
@@ -956,6 +1000,7 @@
     "year": 2013,
     "type": "conference",
     "title": "jQuery sans jQuery",
+    "url": "https://www.paris-web.fr/2013/conferences/jquery-sans-jquery.php",
     "description": "Une immense majorité de développeurs connaissent jQuery, mais pas vraiment JavaScript. Nous verrons comment faire en pur JS ce que vous avez l’habitude de faire avec jQuery, en mettant l’accent sur le support par les navigateurs des fonctionnalités JS utilisées, et sur les polyfills disponibles. Nous proposerons également des idées d’architecture pour la mise en place de ces techniques.",
     "tags": [
       "JavaScript"
@@ -976,6 +1021,7 @@
     "year": 2013,
     "type": "workshop",
     "title": "Rendre son application HTML5 accessible en 4 étapes",
+    "url": "https://www.paris-web.fr/2013/ateliers/rendre-son-application-html5-accessible-en-4-etapes.php",
     "description": "Le HTML5 est la nouvelle frontière du Web : porteur de toutes les promesses, de toutes les incertitudes aussi... Celle de l’accessibilité fait partie des plus prégnantes: dans cette profusion de nouvelles fonctionnalités, qu’est-ce qui marche ? Par quoi commencer ? Comment vérifier ?  En partant d’une application existante, la présentation montrera comment passer du HTML4 au HTML5 complété par ARIA, en respectant les bonnes pratiques d’accessibilité :  Définir les structures Préciser les rôles Attribuer les propriétés Définir les interactions  À chaque étape, les effets de l’introduction du nouveau code seront vérifiés via des tests avec des technologies d’assistance. Le caractère très mouvant du HTML5 et la variabilité de son support dans les agents utilisateurs ne nous facilitant pas la tâche, les principaux pièges, et leurs solutions, seront décrits.",
     "tags": [
       "accessibilité",
@@ -997,6 +1043,7 @@
     "year": 2013,
     "type": "conference",
     "title": "Guide de survie en milieu responsive",
+    "url": "https://www.paris-web.fr/2013/conferences/guide-de-survie-en-milieu-responsive.php",
     "description": "Le responsive web design est une approche relativement jeune sous sa forme actuelle et manque encore de bonnes pratiques reconnues et éprouvées dans l’industrie. Du coup, à nouvelle approche, nouvelles questions :  Le designer d'expérience utilisateur se demandera  « Quels sont les usages ? Quel sont les bonnes pratiques RWD ? Comment je vais adapter la méthodologie UX ? Comment avoir une expérience qui soit cohérente sur plusieurs écrans ? » Le développeur Front se demandera « Comment je vais utiliser les break-points ? Et les media queries ? Comment je vais éviter le snifing ? Et concevoir des blocs responsive ? Et les animations ? Comment je vais gérer le grand-écart entre IE7 et les autres navigateurs ? Et le débug sur les différents terminaux ? » L’architecte se demandera « Comment je vais garantir la meilleure productivité possible ? Et la meilleure qualité ? Tout en utilisant le data binding, l'injection de dépendance, les tests unitaires, etc. ? »   Autour d’un projet concret, nous partagerons avec vous les enseignements retirés de cette aventure qui vous permettrons d’en sortir vivant… ou pas.  PS : N’oubliez pas votre serviette de bain.",
     "tags": [
       "responsive design"
