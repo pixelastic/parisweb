@@ -52,6 +52,21 @@ class Selector2007
     title.text.split(': ')[1..-1].join(': ')
   end
 
+  def url(title, filepath)
+    basename = File.basename(filepath)
+    anchor = element(title, 'a[name]')
+    return nil if anchor.empty?
+    anchor = anchor[0].attr('name')
+
+    prefix = 'https://www.paris-web.fr/2007/'
+
+    url = "#{prefix}Jeudi-15-novembre.html##{anchor}" if basename == 'sessions01.html'
+    url = "#{prefix}Vendredi-16-novembre.html##{anchor}" if basename == 'sessions02.html'
+    url = "#{prefix}Samedi-17-novembre.html##{anchor}" if basename == 'ateliers.html'
+
+    url
+  end
+
   def sessions
     sessions = []
     @sessions_filepath.each do |filepath|
@@ -61,8 +76,9 @@ class Selector2007
       titles.each do |title|
         sessions << {
           year: 2007,
-          type: "conference",
+          type: 'conference',
           title: title(title),
+          url: url(title, filepath),
           description: description(title),
           authors: authors(title)
         }
@@ -85,8 +101,9 @@ class Selector2007
       parent = title.ancestors('h3')[0]
       workshops << {
         year: 2007,
-        type: "workshop",
+        type: 'workshop',
         title: parent.text,
+        url: url(parent, @workshop_filepath),
         description: description(parent),
         authors: authors(parent)
       }

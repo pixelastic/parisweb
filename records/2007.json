@@ -3,6 +3,7 @@
     "year": 2007,
     "type": "conference",
     "title": "Les enjeux de la production web",
+    "url": "https://www.paris-web.fr/2007/Jeudi-15-novembre.html#latchman",
     "description": "Samuel Latchman nous présentera son expérience dans la réalisation de contenus web et l’organisation du travail. Après un bref aperçu des métiers, des délais et des contraintes, nous aborderons la standardisation des méthodes de travail et des compétences. Avec des études de cas concrets et des exemples, nous verrons quelles techniques jouent sur la qualité finale.",
     "authors": [
       {
@@ -20,6 +21,7 @@
     "year": 2007,
     "type": "conference",
     "title": "Utilisateurs et décideurs : à hue et à dia !",
+    "url": "https://www.paris-web.fr/2007/Jeudi-15-novembre.html#lorant",
     "description": "Myriam Lorant montrera les différences de points de vue entre les utilisateurs et les décideurs à l’origine de la demande. Joindre les deux est un travail à plein temps. Myriam nous donnera des pistes de réflexions ainsi que des solutions concrètes.",
     "authors": [
       {
@@ -37,6 +39,7 @@
     "year": 2007,
     "type": "conference",
     "title": "Et maintenant, qu’est-ce qu’on met dedans ?",
+    "url": "https://www.paris-web.fr/2007/Jeudi-15-novembre.html#pedinielli",
     "description": "Michèle Pedinielli élargira la problématique pour parler des contenus eux-mêmes. \"Du contenu\". Certes. Mais pour qui ? Pour quoi faire ? A quelles conditions ce contenu devient de l’information utile et utilisée ? Quelques questions et quelques pistes de réponses autour de la place de l’éditorial dans un site web.",
     "authors": [
       {
@@ -54,6 +57,7 @@
     "year": 2007,
     "type": "conference",
     "title": "Le référentiel général d’accessibilité des administrations",
+    "url": "https://www.paris-web.fr/2007/Jeudi-15-novembre.html#rgaa",
     "description": "Dans une première partie, Pascal Souhard nous donnera un aperçu global du référentiel et de sa mise en œuvre vu de l’intérieur. Dans une seconde partie, Elie Sloïm (remplaçant Laurent Denis) et Aurélien Levy nous montreront le RGAA d’un point de vue technique : ses implications et comment s’y conformer.",
     "authors": [
       {
@@ -86,6 +90,7 @@
     "year": 2007,
     "type": "conference",
     "title": "Accessibilité des vidéos et des sous-titres",
+    "url": "https://www.paris-web.fr/2007/Jeudi-15-novembre.html#carves",
     "description": "Jean Louis Carvès intervient pour présenter l’état de l’art sur l’accessibilité vidéo. Nous y aborderons la question des sous-titres, leur inclusion, et les résultats obtenus.",
     "authors": [
       {
@@ -103,6 +108,7 @@
     "year": 2007,
     "type": "conference",
     "title": "Futur du HTML, où en est-on ?",
+    "url": "https://www.paris-web.fr/2007/Jeudi-15-novembre.html#glazman",
     "description": "Pour clôturer la journée, Daniel Glazman finira sur HTML, le langage utilisé pour développer toutes nos pages web. Ce langage est en pleine effervescence et une cinquième version est en cours d’élaboration.",
     "authors": [
       {
@@ -120,6 +126,7 @@
     "year": 2007,
     "type": "conference",
     "title": "Accessibilité des contenus PDF et Flash",
+    "url": "https://www.paris-web.fr/2007/Vendredi-16-novembre.html#boudreau",
     "description": "Jugé à tort ou à raison comme le nec plus ultra des formatsdynamiques, Flash impose depuis toujours d’importants problèmesfonctionnels aux personnes handicapées. Les promesses de Macromedia(Adobe) laissent croire que cette sombre époque est enfin révolue. L’un des formats les plus populaires sur le Web après HTML, PDF a très mauvaise réputation  auprès des internautes ayant des limitations fonctionnelles. Ses détracteurs racontent même que les efforts déployés par Adobe depuis des années pour améliorer l’accessibilité du format ne portent pas leurs fruits. Qu’en est-il vraiment ? Denis Boudreau nous présentera l’état de l’art sur ces technologies et un récapitulatif concernant leur accessibilité réelle.",
     "authors": [
       {
@@ -137,6 +144,7 @@
     "year": 2007,
     "type": "conference",
     "title": "Multilinguisme web et problématiques associées",
+    "url": "https://www.paris-web.fr/2007/Vendredi-16-novembre.html#booth",
     "description": "Le Web nous débarrasse de l’espace et des frontières géographiques. On se retrouve en contact avec des personnes provenant des quatre coins de la planète, et en pratique, les frontières les plus fortes sontlinguistiques. Stephanie Booth nous montrera où le web nous met des bâtons dans les roues et comment prendre en compte les problèmes qui ne manquent jamais de survenir.",
     "authors": [
       {
@@ -154,6 +162,7 @@
     "year": 2007,
     "type": "conference",
     "title": "AJAX et accessibilité",
+    "url": "https://www.paris-web.fr/2007/Vendredi-16-novembre.html#hoel",
     "description": "AJAX tend à devenir une des technologies incontournables des applications web. Son utilisation pose pourtant de sérieuses questions d’ergonomie et d’accessibilité. Michel Hoël nous fera un résumé et partagera son expérience sur le sujet.",
     "authors": [
       {
@@ -171,6 +180,7 @@
     "year": 2007,
     "type": "conference",
     "title": "Successful teams use web standards !",
+    "url": "https://www.paris-web.fr/2007/Vendredi-16-novembre.html#heilmann",
     "description": "Chris Heilmann animera la seule conférence en anglais de ces deux jours. Nous y aborderons la mise en œuvre des standards et normes du Web dans les équipes de développement.",
     "authors": [
       {
@@ -188,6 +198,7 @@
     "year": 2007,
     "type": "conference",
     "title": "Bonnes pratiques du Web mobile",
+    "url": "https://www.paris-web.fr/2007/Vendredi-16-novembre.html#hazael-massieux",
     "description": "La dernière conférence se détachera un peu du reste pour nous parler du Web mobile. C’est Dominique Hazaël-Massieux, du W3C, qui nous en présentera les bonnes pratiques et nous introduira à ce type d’accès un peu particulier.",
     "authors": [
       {
@@ -205,6 +216,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Analysons ensemble l’ergonomie de votre site Internet !",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#boucher",
     "description": "Apprenez à décortiquer un site web grâce à 12 règles d’ergonomie. La première partie de l’atelier mené par Amélie Boucher consistera en une rapide présentation des règles d’ergonomie à travers des illustrations sur divers sites web. Dans la seconde partie, ce sera à vous de jouer ! Nous essaierons ensemble de repérer les points d’accroche en termes de qualité d’utilisation sur les sites web que vous désirez. Pour préparer cet atelier, envoyez vite les adresses des sites que vous souhaitez analyser à atelier.ergo@paris-web.fr. Tout est ouvert : votre site, celui d’un de vos clients, de votre cousine, de votre association, etc.",
     "authors": [
       {
@@ -221,6 +233,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Atelier pratique CSS",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#lambert-goetter",
     "description": "Pascale Lambert-Charreteur et Raphaël Goetter se réunissent pour vous proposer un atelier pratique qui sera celui d’un projet concret de conception de page en CSS. À partir d’une maquette au format image, l’objectif sera d’obtenir une page web dont la mise en page sera réalisée à l’aide de feuilles de styles, sans tableaux. On s’attardera sur quelques cas concrets : réalisation d’un menu graphique, d’un cadre arrondi, etc.",
     "authors": [
       {
@@ -242,6 +255,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Q&R techniques sur les questions d’accessibilité",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#denis-levy",
     "description": "Laurent Denis, Aurélien Levy et Marie Destandau vous proposent une dernière chance d’aborder tous les sujets d’accessibilité qui n’ont pas été déjà couverts, ou ce qui n’a pas été bien compris. Au travers de questions-réponses, vous aborderez toutes les problématiques techniques nécessaires.",
     "authors": [
       {
@@ -268,6 +282,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "XBL, une plate-forme normalisée",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#jouanneau",
     "description": "Laurent Jouanneau vous expliquera dans un atelier ce qu’est XBL, les nombreux avantages qu’il apporte, comment on l’utilise, et en quoi sa version 2, qui est en passe de devenir une recommendation au W3C, pourrait révolutionner le développement d’applications et de sites web.",
     "authors": [
       {
@@ -284,6 +299,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Un site web rapide ? C’est pas sorcier !",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#pillard-ricaud",
     "description": "Avec l’avènement des connexions haut-débit et bientôt très haut-débit, les concepteurs semblent de moins en moins attentifs à la rapidité de leurs sites. De plus, avec de telles connexions, les internautes supportent mal un site qui les fasse attendre. Cela gâche l’expérience utilisateur, pourtant censée être au cœur du \"web 2.0\". Anthony Ricaud et Mathieu Pillard vous présenteront comment, sans devoir repenser votre application ou vos pages depuis le début, améliorer la rapidité de votre site.",
     "authors": [
       {
@@ -305,6 +321,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Q&R techniques sur les bonnes pratiques",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#sloim-bonny",
     "description": "Élie Sloïm et Fabrice Bonny créateurs du projet Opquast, animeront un atelier de questions-réponses sur ce projet ; ensemble de bonnes pratiques pour la qualité des services en ligne. S’il vous reste des questions, c’est le moment.",
     "authors": [
       {
@@ -326,6 +343,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "UWA : apprenez à concevoir des widgets multiplateformes",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#borderie",
     "description": "Vous utilisez XHTML/XML, JavaScript et CSS avec aisance ? Vous avez donc tout ce qu’il faut pour créer des widgets UWA ! Ce format, développé par Netvibes, permet de faire fonctionner un widget sur les autres systèmes sans devoir adapter son code source : Netvibes bien sûr, mais aussi iGoogle, Apple Dashboard, Opera, Windows Vista... Xavier Borderie vous permettra de découvrir le monde des widgets et de vous y frotter un peu.",
     "authors": [
       {
@@ -342,6 +360,7 @@
     "year": 2007,
     "type": "workshop",
     "title": " Flex, Flash et accessibilité",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#deschamps",
     "description": "Stéphane Deschamps étudiera avec vous les avancées des applications avec Flex et Flash : quelle accessibilité ? Comment la mettre en œuvre ?",
     "authors": [
       {
@@ -358,6 +377,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Le RGAA par la pratique",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#rgaa",
     "description": "Laurent Denis et Aurélien Levy prendront la suite de leur conférence du jeudi. L’atelier permettra d’aborder la mise en œuvre pratique du référentiel général d’accessibilité des administrations sous un angle technique.",
     "authors": [
       {
@@ -379,6 +399,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Et si je me mettais à sa place ?",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#delorme",
     "description": "Sébastien Delorme parlera de la prise en compte des besoins, comportements et capacités des utilisateurs. Un site web assure le luxe d’une très large audience, encore faut-il s’adapter au plus grand nombre d’internautes. Chaque utilisateur est différent, au delà du handicap physique, facteur le plus souvent montré pour l’exemple, nous réagissons différemment en fonction de notre matériel, de notre expérience avec l’outil informatique ou encore en fonction de notre catégorie sociale ou de notre activité professionnelle. Cet atelier a pour but de vous faire prendre conscience de ces différences afin de pouvoir les prendre en compte dans l’élaboration et la création d’un site web. Vous aurez l’occasion à plusieurs reprises de vous confrontez à des situations inhabituelles, d’échanger vos expériences et vos avis avec les autres participants. L’atelier vous fournira plusieurs méthodes et pistes de réflexions pour l’amélioration des services web et la prise en compte des utilisateurs.",
     "authors": [
       {
@@ -395,6 +416,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Unobstrusive Javascript and the Object Literal notation",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#heilmann",
     "description": "Chris Heilmann nous proposera un atelier en anglais autour de Javascript. Le langage sera abordé autour du concept d’insertion non intrusive. La notation objet littérale sera aussi abordée.",
     "authors": [
       {
@@ -411,6 +433,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "L’accessibilité, vue d’un navigateur",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#McCathieNeville",
     "description": "Qu’est-ce que l’accessibilité implique pour un logiciel de navigation ? Charles McCathieNeville évoquera son expérience sur l’intégration de l’accessibilité dans le navigateur Opera, en prenant en compte les besoins variés des utilisateurs, des lecteurs d’écran, tout en satisfaisant aussi bien les demandes de clients « grands comptes » (notamment les opérateurs de téléphonie mobile) que celles des développeurs. Il expliquera en quoi les recommandations en cours d’écriture, tel HTML5, sont à la fois une opportunité et un risque. Il présentera ARIA et le gain réel en termes d’accessibilité pour AJAX, les applications SVG, les widgets — bref, tout le fatras qu’on appelle Web 2.0 ! Malgré ce que son nom laisse supposer, il tentera de faire tout ça en français...",
     "authors": [
       {
@@ -427,6 +450,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Conception d’un site accessible : démarche et bilan !",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#destandau",
     "description": "Émilie Sidoli, Julie Landry, Laurence Borne, et Marie Destandau ont conçu et réalisé le site dédié aux Publics Handicapés du Centre Pompidou dans le cadre de leur formation de Concepteur Réalisateur Multimédia à l’école des Gobelins, en 2004-2005. Elles nous présenteront la méthodologie et les livrables du travail qu’elles ont rendu.",
     "authors": [
       {
@@ -458,6 +482,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Making ends meet : building beautiful, robust sites on best web practices",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#troeth",
     "description": "Personne n’a jamais trouvé que les termes \"Accessibilité web\" et \"standards du web\" soient séduisants, ni même simplement beaux. Dans une société où l’esthétique s’oppose souvent à la fonction, nous devons à la fois relever ce défi technique et encourager nos collègues à chercher la qualité. Dans cette session bilingue, Stephanie Troeth abordera avec vous le \"comment\" de la gestion de projet, de la gestion des membres de l’équipe, des techniques de développement — et, plus important encore, comment garder la vision intacte.",
     "authors": [
       {
@@ -474,6 +499,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Bibliothèques JavaScript",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#fil-tdd",
     "description": "Vous désirez en savoir un peu plus sur la gestion des évènements au sein d’un document web ? Julien Wajsberg (remplaçant Fil) et Christophe Porteneuve vous présenteront les avantages et les inconvénients de quelques-unes des bibliothèques Javascript les plus en vue du moment : jQuery, Prototype et Scriptaculous.",
     "authors": [
       {
@@ -495,6 +521,7 @@
     "year": 2007,
     "type": "workshop",
     "title": "Usages & communication sur le Web",
+    "url": "https://www.paris-web.fr/2007/Samedi-17-novembre.html#pekelman-montagne",
     "description": "Ori Pekelman & Louis Montagne nous proposeront l’élaboration d’un nouveau schéma d’organisation et de traitement des informations. À mi-chemin entre l’IRC et Usenet, et s’inspirant fortement des effets des wikis ils présenteront leur recherche pour un outil de communication sur le Web avec leur réalisation « The Long Talk ».",
     "authors": [
       {
