@@ -5,6 +5,30 @@
   padding: 5px;
 }
 
+// When no results match
+.hits__noResults {
+  background: white;
+  position: relative;
+  width: 100%;
+  margin: 3rem;
+  padding: 2rem;
+  line-height: 2rem;
+  &:before, &:after {
+    content: '';
+    height: 3px;
+    background: #494949;
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+  &:before {
+    top: -6px;
+  }
+  &:after {
+    bottom: -6px;
+  }
+}
+
 // Each hit
 .ais-hits--item {
   flex: 1 1 800px;
@@ -119,4 +143,5 @@
     font-weight: bold;
   }
 }
+
 

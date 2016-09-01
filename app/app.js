@@ -20,13 +20,13 @@ let Search = {
     this.search.on('render', this.onRender);
 
     this.addSearchBoxWidget();
-    // this.addStatsWidget();
+    this.addStatsWidget();
     this.addTagsWidget();
     this.addAuthorsWidget();
     this.addTypeWidget();
     this.addYearWidget();
     this.addHitsWidget();
-    // this.addPaginationWidget();
+    this.addPaginationWidget();
     // this.addCurrentRefinedValues();
 
     this.search.start();
@@ -115,7 +115,6 @@ let Search = {
         radius: 'max',
         format: 'auto'
       });
-      console.info(`${author.name} ${Search.isRefined('authors.name', author.name)}`);
       return {
         plainName: author.name,
         highlightedName: data._highlightResult.authors[index].name.value,
@@ -169,13 +168,13 @@ let Search = {
       })
     );
   },
-  // addStatsWidget() {
-  //   this.search.addWidget(
-  //     instantsearch.widgets.stats({
-  //       container: '#stats'
-  //     })
-  //   );
-  // },
+  addStatsWidget() {
+    this.search.addWidget(
+      instantsearch.widgets.stats({
+        container: '#stats'
+      })
+    );
+  },
   addTagsWidget() {
     this.search.addWidget(
       instantsearch.widgets.refinementList({
@@ -228,12 +227,14 @@ let Search = {
   },
   addHitsWidget() {
     let hitTemplate = $('#hitTemplate').html();
+    let noResults = $('#noResults').html();
     this.search.addWidget(
       instantsearch.widgets.hits({
         container: '#hits',
         hitsPerPage: 10,
         templates: {
-          item: hitTemplate
+          item: hitTemplate,
+          empty: noResults
         },
         transformData: {
           item: Search.transformItem
