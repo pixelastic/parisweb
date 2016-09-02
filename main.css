@@ -537,7 +537,7 @@ html, body {
   height: 95px;
   position: relative;
   margin-right: 1rem;
-  background-image: url("../img/unicorn.png");
+  background-image: url("./img/unicorn.png");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: contain; }
