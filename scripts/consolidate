@@ -19,9 +19,9 @@ class Consolidate
     end
 
     records = records.map do |record|
-      next record if record['ressource'].nil?
-      video = record['ressource']['video']
-      slides = record['ressource']['slides']
+      next record if record['ressources'].nil?
+      video = record['ressources']['video']
+      slides = record['ressources']['slides']
       ressource = slides || video
 
       record['thumbnail'] = vimeo_thumbnail(ressource) if vimeo?(ressource)

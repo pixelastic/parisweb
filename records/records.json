@@ -15,7 +15,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2008/presentations/jeudi-tech/PW2008-01-jeudi-AmelieBoucher.pdf",
       "video": "http://www.dailymotion.com/video/k5VO5Yu6eMN9wDS45i"
-    }
+    },
+    "thumbnail": "./img/thumbnails/PW2008-01-jeudi-AmelieBoucher.png"
   },
   {
     "year": 2008,
@@ -33,7 +34,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2008/presentations/jeudi-tech/PW2008-02-jeudi-ElieSloim.pdf",
       "video": "http://www.dailymotion.com/video/x7qlry_elie-sloym-qualit-et-accessibilit-w_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/PW2008-02-jeudi-ElieSloim.png"
   },
   {
     "year": 2008,
@@ -51,7 +53,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2008/presentations/jeudi-tech/PW2008-03-jeudi-ChrisHeilmann.pdf",
       "video": "http://www.dailymotion.com/video/k6rAWAg4vVWCUlS58J"
-    }
+    },
+    "thumbnail": "./img/thumbnails/PW2008-03-jeudi-ChrisHeilmann.png"
   },
   {
     "year": 2008,
@@ -74,7 +77,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2008/presentations/jeudi-tech/PW2008-04-jeudi-DeschampsLevy.pdf",
       "video": "http://www.dailymotion.com/video/k7cPj3NsswoonKS5I7"
-    }
+    },
+    "thumbnail": "./img/thumbnails/PW2008-04-jeudi-DeschampsLevy.png"
   },
   {
     "year": 2008,
@@ -97,7 +101,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2008/presentations/jeudi-tech/PW2008-05-jeudi-CotinValoisLassaigne.pdf",
       "video": "http://www.dailymotion.com/video/k5C8OA8KbsiZXVS629"
-    }
+    },
+    "thumbnail": "./img/thumbnails/PW2008-05-jeudi-CotinValoisLassaigne.png"
   },
   {
     "year": 2008,
@@ -115,7 +120,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2008/presentations/vendredi-tech/PW2008-13-vendrediTech-FrancoisYergeau.pdf",
       "video": "http://www.dailymotion.com/video/k7aMHvn9kOzrIuS8kz"
-    }
+    },
+    "thumbnail": "./img/thumbnails/PW2008-13-vendrediTech-FrancoisYergeau.png"
   },
   {
     "year": 2008,
@@ -133,7 +139,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2008/presentations/vendredi-tech/PW2008-14-vendrediTech-DanielGlazman.pdf",
       "video": "http://www.dailymotion.com/video/k4PfnOVMhq2YaiSbJu"
-    }
+    },
+    "thumbnail": "./img/thumbnails/PW2008-14-vendrediTech-DanielGlazman.png"
   },
   {
     "year": 2008,
@@ -151,7 +158,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2008/presentations/vendredi-tech/PW2008-15-vendrediTech-DavidLarlet.pdf",
       "video": "http://www.dailymotion.com/video/x7rppw_david-larlet-identit-20-et-web-sman_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/PW2008-15-vendrediTech-DavidLarlet.png"
   },
   {
     "year": 2008,
@@ -169,7 +177,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2008/presentations/vendredi-tech/PW2008-16-vendrediTech-ChrisWilson.pdf",
       "video": "http://www.dailymotion.com/video/k556WiOG492DCES9BE"
-    }
+    },
+    "thumbnail": "./img/thumbnails/PW2008-16-vendrediTech-ChrisWilson.png"
   },
   {
     "year": 2008,
@@ -192,7 +201,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2008/presentations/vendredi-tech/PW2008-17-vendrediTech-DaspetSullivan.pdf",
       "video": "http://www.dailymotion.com/video/k7G8LcbXbMN0YASaqh"
-    }
+    },
+    "thumbnail": "./img/thumbnails/PW2008-17-vendrediTech-DaspetSullivan.png"
   },
   {
     "year": 2008,
@@ -580,7 +590,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/j01-ga/stephane_deschamps_integrateurs_montez_au_front.pdf",
       "video": "http://www.dailymotion.com/video/xbcfgw_integrateurs-montez-au-front-stepha_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/stephane_deschamps_integrateurs_montez_au_front.png"
   },
   {
     "year": 2009,
@@ -598,7 +609,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/j01-pa/christophe_zlobinski_furmaniak_utilisabilite_webdesign_marketing.pdf",
       "video": "http://www.dailymotion.com/video/xbeuc6_utilisabilite-quand-le-webdesign-re_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/christophe_zlobinski_furmaniak_utilisabilite_webdesign_marketing.png"
   },
   {
     "year": 2009,
@@ -616,7 +628,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/j01-ga/daniel_glazman_un_seul_web.pdf",
       "video": "http://www.dailymotion.com/video/xbd0nx_un-seul-web-daniel-glazman-paris-we_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/daniel_glazman_un_seul_web.png"
   },
   {
     "year": 2009,
@@ -634,7 +647,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/j01-pa/gilles_vauvarin_webdesigner_parlait_integrateur.pdf",
       "video": "http://www.dailymotion.com/video/xbevhs_webdesigner-lyhomme-qui-parlait-a-l_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/gilles_vauvarin_webdesigner_parlait_integrateur.png"
   },
   {
     "year": 2009,
@@ -652,7 +666,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/j01-ga/karl_du_bost_http_naifs_bruts.pdf",
       "video": "http://www.dailymotion.com/video/xbdepl_http-pour-les-naifs-et-les-brutes-k_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/karl_du_bost_http_naifs_bruts.png"
   },
   {
     "year": 2009,
@@ -670,7 +685,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/j01-pa/jeremie_patonnier_webdesign_business.pdf",
       "video": "http://www.dailymotion.com/video/xbf1pa_le-webdesign-oriente-business-jerem_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/jeremie_patonnier_webdesign_business.png"
   },
   {
     "year": 2009,
@@ -724,7 +740,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/j01-ga/christian_heilmann_basic_housekeeping.pdf",
       "video": "http://www.dailymotion.com/video/xbdfv1_basic-housekeeping-keeping-the-weby_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/christian_heilmann_basic_housekeeping.png"
   },
   {
     "year": 2009,
@@ -747,7 +764,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/j01-pa/florent_verschelde_benjamin_de_cock_webdesign_applications.pdf",
       "video": "http://www.dailymotion.com/video/xbfgk0_webdesign-et-qualite-f-verschelde-b_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/florent_verschelde_benjamin_de_cock_webdesign_applications.png"
   },
   {
     "year": 2009,
@@ -765,7 +783,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/v02-ga/stephanie_troeth_being_agile_being_good.pdf",
       "video": "http://www.dailymotion.com/video/xbe1t2_being-agile-being-good-stephanie-tr_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/stephanie_troeth_being_agile_being_good.png"
   },
   {
     "year": 2009,
@@ -783,7 +802,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/v02-pa/thierry_regagnon_referencement_standards_web.pdf",
       "video": "http://www.dailymotion.com/video/xbfsx7_referencement-standards-web-la-meme_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/thierry_regagnon_referencement_standards_web.png"
   },
   {
     "year": 2009,
@@ -801,7 +821,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/j01-ga/eric_daspet_un_web_ouvert.pdf",
       "video": "http://www.dailymotion.com/video/xbdc7d_un-web-ouvert-eric-daspet-paris-web_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/eric_daspet_un_web_ouvert.png"
   },
   {
     "year": 2009,
@@ -819,7 +840,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/v02-pa/amelie_boucher_ergonomie-ecommerce.pdf",
       "video": "http://www.dailymotion.com/video/xbfwxj_de-lyergonomie-pour-mon-ecommerce-a_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/amelie_boucher_ergonomie-ecommerce.png"
   },
   {
     "year": 2009,
@@ -837,7 +859,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/v02-ga/molly_holzschlag_css3.pdf",
       "video": "http://www.dailymotion.com/video/xbcuzl_css3-future-style-now-molly-holzsch_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/molly_holzschlag_css3.png"
   },
   {
     "year": 2009,
@@ -855,7 +878,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/v02-pa/arnaud_brin_roi_performance_web.pdf",
       "video": "http://www.dailymotion.com/video/xbg87l_roi-et-performance-web-integrer-la_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/arnaud_brin_roi_performance_web.png"
   },
   {
     "year": 2009,
@@ -878,7 +902,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/v02-ga/alain_vagner_gautier_barrere_acceptabilite.pdf",
       "video": "http://www.dailymotion.com/video/xbecn3_concevoir-un-produit-web-cyest-bien_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/alain_vagner_gautier_barrere_acceptabilite.png"
   },
   {
     "year": 2009,
@@ -901,7 +926,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/v02-ga/aurelien_levy_sebastien_derlorme_quizz.pdf",
       "video": "http://www.dailymotion.com/video/xbdifk_paris-web-le-quizz_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/aurelien_levy_sebastien_derlorme_quizz.png"
   },
   {
     "year": 2009,
@@ -924,7 +950,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/v02-ga/mozilla_nouveaux_standards.pdf",
       "video": "http://www.dailymotion.com/video/xbehq4_les-nouveaux-standards-du-web-et-le_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/mozilla_nouveaux_standards.png"
   },
   {
     "year": 2009,
@@ -942,7 +969,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2009/slides/v02-pa/herve_mischler_design_iteratif.pdf",
       "video": "http://www.dailymotion.com/video/xbglwe_design-iteratif-pour-un-site-web-de_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/herve_mischler_design_iteratif.png"
   },
   {
     "year": 2009,
@@ -1356,7 +1384,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/orateur_monique-brunel-thumb-143x143-59-thumb-143x143-164.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -1378,7 +1406,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/maurice-thumb-143x143-119.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xo97x8",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-PA-03-MSvay/tester_ergonomie_de_son_site_sans_buget.pdf"
     },
@@ -1400,7 +1428,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/09/david-rault-second-shot-thumb-143x143-187.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xq70e5",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-GA-02-DRault/Les_gouts_et_les_couleurs.pdf"
     },
@@ -1423,7 +1451,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/olivier-thumb-143x143-163.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -1444,7 +1472,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/jeremie-pattonier-thumb-143x143-124.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpl0ce",
       "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-PA-03-JPatonnier/la_typo_mon_navigateur_et_moi.pdf"
     },
@@ -1467,7 +1495,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/patrick-chanezon-thumb-143x143-102.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpk048",
       "slides": null
     },
@@ -1490,7 +1518,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/hugo-hamon-thumb-143x143-141.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/telechargements/2011/03-samedi/SA-AM-05-HHamon/developpeurs_cachez-moi_cette_page.pdf"
     },
@@ -1512,7 +1540,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/robert-nyman-thumb-143x143-104.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xnd3c7",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-GA-05-RNyman/HTML5_APIs.pdf"
     },
@@ -1534,7 +1562,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/08/marc-lipskier-thumb-143x143-176.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -1560,7 +1588,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/robin-berjon-thumb-143x143-125.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpqxvq",
       "slides": null
     },
@@ -1587,7 +1615,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/julien-coulon-thumb-143x143-133.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xnl50v",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-PA-02-SEnten_JCoulon/usage_mix_hebergeurs_CDN_clouds.pdf"
     },
@@ -1609,7 +1637,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/marc-van-rymenant-thumb-143x143-162.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xnd3m4",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-PA-05-MVanRymenant/neurosciences.pdf"
     },
@@ -1636,7 +1664,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/amelie-boucher-thumb-143x143-145.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpmom5",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-GA-06-NBenfedda_ABoucher/arithmetique-UX-final.pdf"
     },
@@ -1658,7 +1686,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/karl-dubost-thumb-143x143-134.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -1681,7 +1709,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/denis-boudreau-thumb-143x143-123.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpi8vr",
       "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-GA-06-DBoudreau/SEO_mobilite_accessibilite.pdf"
     },
@@ -1708,7 +1736,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/orateur_laurent_denis-thumb-143x143-37-thumb-143x143-157.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xn6rbd",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-PA-01-ESloim_LDenis/accessibilite_soyons_agiles.pdf"
     },
@@ -1730,7 +1758,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/david-larlet-thumb-143x143-143.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpli6g",
       "slides": null
     },
@@ -1752,7 +1780,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/david-rousset-thumb-143x143-155.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpluyp",
       "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-PA-06-DRousset/html5_ecriture_application_cross-devices.pdf"
     },
@@ -1774,7 +1802,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/08/denise-jacobs-thumb-143x143-179.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xozeyk",
       "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-GA-01-DJacobs/immediate_inspiration.pdf"
     },
@@ -1797,7 +1825,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/raphael-thumb-143x143-160.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xppgcn",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-PA-08-RYharrassarry/tester_vos_services_mythes_et_realites.pdf"
     },
@@ -1819,7 +1847,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/08/denise-jacobs-thumb-143x143-179.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/telechargements/2011/03-samedi/SA-PM-11-DJacobs/simply_responsive_css3.pdf"
     },
@@ -1841,7 +1869,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/andreas-bovens-thumb-143x143-131.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xqb4iz",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-GA-03-ABovens/Optimizing_your_layout_for_phones_and_tablets_using_viewport_and_media_queries.pdf"
     },
@@ -1864,7 +1892,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/orateur_romy-thumb-143x143-69-thumb-143x143-167.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/telechargements/2011/03-samedi/SA-PM-09-RDuhem_Verdiere/integrateur_entre_le_marteau_et_enclume.pdf"
     },
@@ -1886,7 +1914,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/anthony-ricaud-thumb-143x143-146.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xp69td",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-PA-06-ARicaud/un_navigateur_comment_ca_marche.pdf"
     },
@@ -1908,7 +1936,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/goulven-champenois-thumb-143x143-140.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/telechargements/2011/03-samedi/SA-PM-12-GChampenois/mobile_en_pratique.pdf"
     },
@@ -1935,7 +1963,7 @@
         "picture": "/img/nophoto.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -1956,7 +1984,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/benoit-piette-thumb-143x143-173.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpmyif",
       "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-PA-08-BPiette/principes_ingenierie_developpement_web.pdf"
     },
@@ -1979,7 +2007,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/orateur_raphael_goetter-thumb-143x143-54-thumb-143x143-166.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/telechargements/2011/03-samedi/SA-AM-04-RGoetter/vive_les_tableaux_de_mise_en_page.pdf"
     },
@@ -2001,7 +2029,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/ppk-thumb-143x143-156.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpqipc",
       "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-GA-03-PPKoch/the_mobile_browser_world.pdf"
     },
@@ -2023,7 +2051,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/08/aurelien-levy-thumb-143x143-41-thumb-143x143-175.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -2045,7 +2073,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/09/thomas-parisot-thumb-143x143-186.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xp5wtt",
       "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-PA-01-TParisot/industrialisation_integration_web.pdf"
     },
@@ -2067,7 +2095,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/jonathan-blanchet-thumb-143x143-94.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -2089,7 +2117,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/delphine-thumb-143x143-165.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/telechargements/2011/03-samedi/SA-PM-10-DMalassingne/comment_argumenter_en_faveur_poste_responsable_qualite_web.pdf"
     },
@@ -2111,7 +2139,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/pablo-pernot-thumb-143x143-98.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -2133,7 +2161,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/stephane-thumb-143x143-142.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xnfif6",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-GA-01-SDeschamp/kiss_grande_entreprise.pdf"
     },
@@ -2155,7 +2183,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/08/julien-dubedou-thumb-143x143-180.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -2177,7 +2205,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/celine-celines-thumb-143x143-171.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpn6fc",
       "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-PA-02-CCelines/la_sagesse_du_web.pdf"
     },
@@ -2222,7 +2250,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/sam-dutton-thumb-143x143-99.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpg6zl",
       "slides": null
     },
@@ -2244,7 +2272,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/jeremie-pattonier-thumb-143x143-124.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/telechargements/2011/03-samedi/SA-AM-07-JPatonnier/svg_et_le_web_design_moderne.pdf"
     },
@@ -2266,7 +2294,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/yves-thumb-143x143-168.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/telechargements/2011/03-samedi/SA-PM-08-YVanGoethem/dompter_le_web_mobile.pdf"
     },
@@ -2289,7 +2317,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/florian-boudot-thumb-143x143-158.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -2310,7 +2338,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/marco-cedaro-thumb-143x143-159.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xpkork",
       "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-GA-05-MCedaro/javascript_as_a_programming_language.pdf"
     },
@@ -2332,7 +2360,7 @@
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/marko-dugonjic-thumb-143x143-137.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/telechargements/2011/03-samedi/SA-AM-08-MDugonjic/typography_for_programmers.pdf"
     },
@@ -2891,7 +2919,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/pablo-pernot-thumb-143x143-239.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -2913,7 +2941,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/091208_Ve%E2%95%A0%C3%BCronique_Marino_photo-thumb-143x143-231.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xuxuyi",
       "slides": "http://www.paris-web.fr/2012/vmparisweb2012-finale-121019052421-phpapp02.pdf"
     },
@@ -2936,7 +2964,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/denise-jacobs-thumb-143x143-200.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xw4ipk",
       "slides": null
     },
@@ -2958,7 +2986,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/R_gis%20Kuckaertz-thumb-143x143-218.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xunfaz",
       "slides": "http://www.paris-web.fr/2012/130000-RegisKuckaertz.pdf"
     },
@@ -2981,7 +3009,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/D-Sciamma-thumb-143x143-248.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xvdyhk",
       "slides": "http://www.paris-web.fr/2012/29-05-2012-DS-ParisWeb%202012.pdf"
     },
@@ -3009,7 +3037,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/marie-alhomme-thumb-143x143-237.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -3037,7 +3065,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/goulven-champenois-thumb-143x143-204.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/paris-webninja-v8-121031182403-phpapp02.pdf"
     },
@@ -3060,7 +3088,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/09/Aurelien_Masfrand-thumb-143x143-263.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -3087,7 +3115,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/marie-guillaumet-thumb-143x143-212.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/Les-grilles-macro-typo-pour-le-web-facile.pdf"
     },
@@ -3111,7 +3139,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/julien-wajsberg-thumb-143x143-236.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xuxtip",
       "slides": "http://www.paris-web.fr/2012/web_moderne_pour_tous-JulienWajsberg.pdf"
     },
@@ -3135,7 +3163,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/frederic-bardeau-2-thumb-143x143-203.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/Paris-Web-Hacktivistes-ONG.pdf"
     },
@@ -3160,7 +3188,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/veroniquegendner-thumb-143x143-252.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -3183,7 +3211,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/anthony-ricaud-thumb-143x143-193.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xx8b7x",
       "slides": null
     },
@@ -3206,7 +3234,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/thibaultjouannic-thumb-143x143-244.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -3234,7 +3262,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/corinne-thumb-143x143-228.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -3262,7 +3290,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Tranchet_AS-thumb-143x143-225.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xx656w",
       "slides": null
     },
@@ -3284,7 +3312,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Marko%20Dugonjic-thumb-143x143-213.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xwji8u",
       "slides": null
     },
@@ -3311,7 +3339,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Daniel%20Glazman-thumb-143x143-199.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xxhjcy",
       "slides": null
     },
@@ -3334,7 +3362,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/09/stephane_Langlois_143-thumb-143x143-264.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -3357,7 +3385,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/aarron-walter-thumb-143x143-192.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xwsvjk",
       "slides": "http://www.paris-web.fr/2012/the-real-me.pdf"
     },
@@ -3380,7 +3408,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/vitaly-friedman-portrait-thumb-143x143-246.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xvb0xp",
       "slides": null
     },
@@ -3409,7 +3437,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/09/pascalromain-thumb-143x143-257.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xwglzp",
       "slides": "http://www.paris-web.fr/2012/SP_OQM-TOUT-OUVERT-PW_2012-6.pdf"
     },
@@ -3431,7 +3459,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/HoriaDragomir-thumb-143x143-207.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xwfj9o",
       "slides": "http://www.paris-web.fr/2012/horia-fast-mobile-uis-ParisWeb.pdf"
     },
@@ -3455,7 +3483,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Cyril%20Balit-thumb-143x143-198.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xvdwv4",
       "slides": "http://www.paris-web.fr/2012/cyril-balit.pdf"
     },
@@ -3479,7 +3507,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/mike-monteiro-thumb-143x143-217.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xvbacz",
       "slides": null
     },
@@ -3507,7 +3535,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/elie-sloim-thumb-143x143-249.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -3530,7 +3558,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/09/raphaelrougeron-thumb-143x143-258.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/HTML5-stockage-local-et-synchronisation.pdf"
     },
@@ -3552,7 +3580,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Daniel%20Glazman-thumb-143x143-199.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xvam92",
       "slides": "http://www.paris-web.fr/2012/2012/slides/D_Glazmann-conf-20121018.pdf"
     },
@@ -3575,7 +3603,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/jean-pierre-vincent2-thumb-143x143-210.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/JPVincent_performances_sur_site_mobile.pdf"
     },
@@ -3599,7 +3627,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/photo_Benjamin_Becquet-thumb-143x143-240.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xung4y",
       "slides": "http://www.paris-web.fr/2012/nouveaux_horizons_cartographie-BenjaminBecquet.pdf"
     },
@@ -3628,7 +3656,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Tranchet_AS-thumb-143x143-225.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/k7mSfdLUMjaT9C3tPnb",
       "slides": "http://www.paris-web.fr/2012/slides/On-a-monte-une-equipe-de-zero.pdf"
     },
@@ -3655,7 +3683,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/10/Benoit-Vrins-thumb-143x143-269.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/Bien-demarrer-responsive-design.pdf"
     },
@@ -3678,7 +3706,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/09/marc-van-rymenant-thumb-143x143-162-thumb-143x143-254.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/marc_van_rymenant_parisweb2012.pdf"
     },
@@ -3703,7 +3731,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/S_bastien%20sur%20le%20pont%20Charles-thumb-143x143-220.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xw4ir1",
       "slides": "http://www.paris-web.fr/2012/sebastien_desbenoit_ParisWeb-Icones.pdf"
     },
@@ -3727,7 +3755,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/christian-bastien-thumb-143x143-196.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xx656g",
       "slides": "http://www.paris-web.fr/2012/ParisWeb%272012_Bastien.pdf"
     },
@@ -3750,7 +3778,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/09/luz_caballero_143-thumb-143x143-265.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xuyza9",
       "slides": "http://www.paris-web.fr/2012/luzcaballero.pdf"
     },
@@ -3774,7 +3802,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/09/romy-thumb-143x143-259.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/florilege-bonnes-pratiques.pdf"
     },
@@ -3798,7 +3826,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/jonathan-blanchet-thumb-143x143-235.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -3822,7 +3850,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/kayser-143-thumb-143x143-230.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -3844,7 +3872,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/09/thomas-gasc-thumb-143x143-261.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/Recommandation-le-defi.pdf"
     },
@@ -3873,7 +3901,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Claudio%20Vandi-thumb-143x143-197.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xx8b7p",
       "slides": "http://www.paris-web.fr/2012/Vandi_Donovan-NewReadingExperiences-ParisWeb2012.pdf"
     },
@@ -3897,7 +3925,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/jake-archibald-thumb-143x143-208.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xwsc3y",
       "slides": "http://www.paris-web.fr/2012/Application-cache.pdf"
     },
@@ -3925,7 +3953,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Eric%20Mazzone-thumb-143x143-201.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -3946,7 +3974,7 @@
         "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/anthony-ricaud-thumb-143x143-193.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/ARicaud_clinique_navigateurs.pdf"
     },
@@ -3968,7 +3996,7 @@
         "picture": "/img/nophoto.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -3990,7 +4018,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Christophe%20Porteneuve-thumb-143x143-468.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://tdd.github.io/parisweb-2015-workshop/"
     }
@@ -4015,7 +4043,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Goulven%20Champenois-thumb-143x143-489.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -4039,7 +4067,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Thierry%20Michel-thumb-143x143-464.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -4061,7 +4089,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/535672_418218324872492_285482406_n-404x500-thumb-143x143-461.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/146476183",
       "slides": null
     },
@@ -4086,7 +4114,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Adrienne%20Charmet-thumb-143x143-481.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/143791970",
       "slides": null
     },
@@ -4117,7 +4145,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/Loic%20Laussel-thumb-143x143-517.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -4139,7 +4167,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Matthieu%20Lux-thumb-143x143-477.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/144521293",
       "slides": null
     },
@@ -4167,7 +4195,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/david-rousset-thumb-143x143-512.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/143169747",
       "slides": null
     },
@@ -4194,7 +4222,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Virginie%20Caplet-thumb-143x143-466.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/141981467",
       "slides": null
     },
@@ -4220,7 +4248,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/David%20West-thumb-143x143-474.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/145318581",
       "slides": null
     },
@@ -4249,7 +4277,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/08/olivier-dolbeau-thumb-143x143-509.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/144521294",
       "slides": "https://speakerdeck.com/odolbeau/slicing-up-a-monolithic-application-why-and-how"
     }
@@ -4271,7 +4299,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Martin%20Naumann-thumb-143x143-487.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/146476185",
       "slides": null
     },
@@ -4293,7 +4321,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/Matthias%20Dugue-thumb-143x143-518.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://talks.m4dz.net/crypto-pour-les-devs/#/"
     }
@@ -4320,7 +4348,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/guillaume_gronier_2012_450-thumb-143x143-483.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -4342,7 +4370,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/Olivier%20Nourry-thumb-143x143-521.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/142169448",
       "slides": null
     },
@@ -4365,7 +4393,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Louis-Jean%20Teitelbaum-thumb-143x143-470.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -4386,7 +4414,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/10/St%C3%A9phane%20Deschamps-thumb-143x143-526.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -4408,7 +4436,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/vgalindo-thumb-143x143-260-thumb-143x143-462.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/142169444",
       "slides": null
     },
@@ -4432,7 +4460,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Ann%20Wuyts-thumb-143x143-471.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/146476184",
       "slides": null
     },
@@ -4458,7 +4486,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/Sylvie%20Duchateau-thumb-143x143-523.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/141981469",
       "slides": null
     },
@@ -4480,7 +4508,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/08/mickael-dumand-thumb-143x143-508.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/146682823",
       "slides": null
     },
@@ -4508,7 +4536,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/Allan%20Denis-thumb-143x143-511.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/141981466",
       "slides": null
     },
@@ -4530,7 +4558,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Agnieszka%20Maria%20Walorska-thumb-143x143-494.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/144521295",
       "slides": null
     },
@@ -4554,7 +4582,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/etienne-thumb-143x143-525.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/141981468",
       "slides": null
     },
@@ -4580,7 +4608,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Christophe%20Porteneuve-thumb-143x143-468.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/143169751",
       "slides": null
     },
@@ -4609,7 +4637,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Marie%20Guillaumet-thumb-143x143-467.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/142169449",
       "slides": null
     },
@@ -4633,7 +4661,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Tristan%20Nitot-thumb-143x143-476.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/146682821",
       "slides": null
     },
@@ -4656,7 +4684,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Romain%20Couturier-thumb-143x143-465.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -4685,7 +4713,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Francois-Petitit-thumb-143x143-495.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -4708,7 +4736,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/Stephane%20Rios-thumb-143x143-522.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/145318582",
       "slides": "https://github.com/stefounet/webperf2.0"
     }
@@ -4735,7 +4763,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Denis%20Boudreau-thumb-143x143-469.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2015/presentations/parisweb2015-nvda-a11y-testing-dboudreau-final.pptx"
     }
@@ -4758,7 +4786,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Frank%20Rousseau-thumb-143x143-498.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -4782,7 +4810,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/Julien%20Champagne-thumb-143x143-515.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -4803,7 +4831,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Rachel%20Andrew-thumb-143x143-479.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/143791969",
       "slides": "https://speakerd.s3.amazonaws.com/presentations/58789e8c1da64a65b32009c35243be2b/css-grid-50-parisweb-2015.pdf"
     },
@@ -4827,7 +4855,7 @@
         "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Martin%20Naumann-thumb-143x143-487.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2015/presentations/Paris%20Web%2015%20-%20WebGL%20in%20practice.pdf"
     },
@@ -4849,7 +4877,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071115/01-Samuel_Latchman/Les_enjeux_de_la_production_web.pdf",
       "video": "http://www.dailymotion.com/parisweb/video/x4jyuo_les-enjeux-de-la-production-web_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Les_enjeux_de_la_production_web.png"
   },
   {
     "year": 2007,
@@ -4867,7 +4896,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071115/03-Myriam_Lorant/Utilisateurs_et_decideurs___a_hue_et_a_dia__.pdf",
       "video": "http://www.dailymotion.com/parisweb/video/x4k91f_utilisateurs-et-decideurs-a-hue-et_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Utilisateurs_et_decideurs___a_hue_et_a_dia__.png"
   },
   {
     "year": 2007,
@@ -4885,7 +4915,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071115/02-Michele_Pedinielli/Et_maintenant__qu_est-ce_qu_on_met_dedans__.pdf",
       "video": "http://www.dailymotion.com/parisweb/video/x4kaa9_et-maintenant-questce-quon-met-deda_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Et_maintenant__qu_est-ce_qu_on_met_dedans__.png"
   },
   {
     "year": 2007,
@@ -4918,7 +4949,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071115/04-Aurelien_Levy+Elie-Sloim+Pascal_Souhard/042_-_Aurelien_Levy,_Elie_Sloim_-_Le_RGAA.pdf",
       "video": "http://www.dailymotion.com/parisweb/video/x4l76s_le-referentiel-general-daccessibili_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/042_-_Aurelien_Levy__Elie_Sloim_-_Le_RGAA.png"
   },
   {
     "year": 2007,
@@ -4936,7 +4968,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071115/05-Jean-Louis_Carves/Accessibilite_des_videos_et_des_sous-titres.pdf",
       "video": "http://www.dailymotion.com/parisweb/video/x4l9l7_accessibilite-des-videos-et-des-sou_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Accessibilite_des_videos_et_des_sous-titres.png"
   },
   {
     "year": 2007,
@@ -4972,7 +5005,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071116/01-Denis_Boudreau/Accessibilite_des_contenus_PDF_et_Flash.pdf",
       "video": "http://www.dailymotion.com/parisweb/video/x4llc0_accessibilite-des-contenus-pdf-et-f_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Accessibilite_des_contenus_PDF_et_Flash.png"
   },
   {
     "year": 2007,
@@ -4990,7 +5024,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071116/02-Stephanie_Booth/Multilinguisme_web_et_problematiques_associees.pdf",
       "video": "http://www.dailymotion.com/parisweb/video/x4lntr_multilinguisme-web-et-problematique_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Multilinguisme_web_et_problematiques_associees.png"
   },
   {
     "year": 2007,
@@ -5008,7 +5043,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071116/03-Michel_Hoel/AJAX_et_accessibilite.pdf",
       "video": "http://www.dailymotion.com/parisweb/video/x4lwy2_ajax-et-accessibilite_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/AJAX_et_accessibilite.png"
   },
   {
     "year": 2007,
@@ -5026,7 +5062,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Chris_Heilmann/Unobstrusive_Javascript_and_the_Object_Literal_notation.pdf",
       "video": "http://www.dailymotion.com/parisweb/video/x4lxki_successful-teams-use-web-standards_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Unobstrusive_Javascript_and_the_Object_Literal_notation.png"
   },
   {
     "year": 2007,
@@ -5044,7 +5081,8 @@
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071116/05-Dominique_Hazael-Massieux/Les_bonnes_pratiques_du_Web_mobile.pdf",
       "video": "http://www.dailymotion.com/parisweb/video/x4lzho_bonnes-pratiques-du-web-mobile_tech"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Les_bonnes_pratiques_du_Web_mobile.png"
   },
   {
     "year": 2007,
@@ -5061,7 +5099,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-01/Amelie_Boucher/Analysons_ensemble_l_ergonomie_de_votre_site_Internet__.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Analysons_ensemble_l_ergonomie_de_votre_site_Internet__.png"
   },
   {
     "year": 2007,
@@ -5083,7 +5122,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-01/Raphael_Goetter+Pascale_Lambert_Charreteur/Atelier_pratique_CSS.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Atelier_pratique_CSS.png"
   },
   {
     "year": 2007,
@@ -5110,7 +5150,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-01/Marie_Destandau+Aurelien_Levy/Q-R_techniques_sur_les_questions_d_accessibilite.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Q-R_techniques_sur_les_questions_d_accessibilite.png"
   },
   {
     "year": 2007,
@@ -5127,7 +5168,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-01/Laurent_Jouanneau/Des_widgets_dans_vos_pages_web_avec_XBL.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Des_widgets_dans_vos_pages_web_avec_XBL.png"
   },
   {
     "year": 2007,
@@ -5149,7 +5191,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-02/Mathieu_Pillard+Anthony_Ricaud/Un_site_web_rapide___C_est_pas_sorcier__.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Un_site_web_rapide___C_est_pas_sorcier__.png"
   },
   {
     "year": 2007,
@@ -5171,7 +5214,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-02/Fabrice_Bonny+Denis_Boudreau+Elie_Sloim/Q-R_sur_les_bonnes_pratiques.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Q-R_sur_les_bonnes_pratiques.png"
   },
   {
     "year": 2007,
@@ -5188,7 +5232,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-02/Xavier_Borderie/UWA___apprenez_a_concevoir_des_widgets_multiplateformes.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/UWA___apprenez_a_concevoir_des_widgets_multiplateformes.png"
   },
   {
     "year": 2007,
@@ -5205,7 +5250,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-02/Stephane_Deschamps/Flex__Flash_et_accessibilite.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Flex__Flash_et_accessibilite.png"
   },
   {
     "year": 2007,
@@ -5227,7 +5273,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Laurent_Denis+Aurelien_Levy/Le_RGAA_par_la_pratique.pdf"
-    }
+    },
+    "thumbnail": null
   },
   {
     "year": 2007,
@@ -5244,7 +5291,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Sebastien_Delorme/Et_si_je_me_mettais_a_sa_place__.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Et_si_je_me_mettais_a_sa_place__.png"
   },
   {
     "year": 2007,
@@ -5261,7 +5309,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Chris_Heilmann/Unobstrusive_Javascript_and_the_Object_Literal_notation.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Unobstrusive_Javascript_and_the_Object_Literal_notation.png"
   },
   {
     "year": 2007,
@@ -5278,7 +5327,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-03/Charles_McCathieNeville/L_accessibilite_vue_d_un_navigateur.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/L_accessibilite_vue_d_un_navigateur.png"
   },
   {
     "year": 2007,
@@ -5310,7 +5360,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-04/Laurence_Borne+Marie_Destandau+Julie_Landry+Emilie_Sidoli/production_light.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/production_light.png"
   },
   {
     "year": 2007,
@@ -5327,7 +5378,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-04/Stephanie_Troeth/Making_ends_meet___building_beautiful__robust_sites_on_best_web_practices.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Making_ends_meet___building_beautiful__robust_sites_on_best_web_practices.png"
   },
   {
     "year": 2007,
@@ -5371,7 +5423,8 @@
     ],
     "ressources": {
       "slides": "http://www.paris-web.fr/2007/archives/20071117/tranche-04/Louis_Montagne+Ori_Pekelman/Usages_et_communication_sur_le_Web.pdf"
-    }
+    },
+    "thumbnail": "./img/thumbnails/Usages_et_communication_sur_le_Web.png"
   },
   {
     "year": 2010,
@@ -5389,7 +5442,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_olivier_segonzac-thumb-143x143-52.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -5410,7 +5463,7 @@
         "picture": "/img/nophoto.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggsky",
       "slides": "http://www.paris-web.fr/telechargements/jeu-PA-01.pdf"
     },
@@ -5432,7 +5485,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/pascal_aubin-thumb-143x143-19.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh9c30",
       "slides": "http://www.paris-web.fr/telechargements/ven-PA-08.pdf"
     },
@@ -5454,7 +5507,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_thomas_parisot-thumb-143x143-48.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -5475,7 +5528,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_chris-heilmann-thumb-143x143-60.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggtma",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-03.pdf"
     },
@@ -5497,7 +5550,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_jacques-pyrat-thumb-143x143-61.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -5524,7 +5577,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/08/orateur_pascale-lambert-charreteur-thumb-143x143-76.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgq6ps",
       "slides": null
     },
@@ -5547,7 +5600,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_sebastien-billard-thumb-143x143-63.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgul6j",
       "slides": null
     },
@@ -5569,7 +5622,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_anne_sophie_fradier-thumb-143x143-47.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xfpf08",
       "slides": "http://www.paris-web.fr/telechargements/ven-GA-02.pdf"
     },
@@ -5592,7 +5645,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_christophe-porteneuve-thumb-143x143-67.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -5613,7 +5666,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/denis-boudreau-thumb-143x143-25.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh3hj4",
       "slides": null
     },
@@ -5636,7 +5689,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_paul_rouget-thumb-143x143-50.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggtj7",
       "slides": null
     },
@@ -5659,7 +5712,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/aurelie-valtat-thumb-143x143-42.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh72te",
       "slides": null
     },
@@ -5681,7 +5734,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/jake-archibald-thumb-143x143-21.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgmaoy",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-05.pdf"
     },
@@ -5703,7 +5756,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_stephanie_troeth-thumb-143x143-35.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xi0zks",
       "slides": "http://www.paris-web.fr/telechargements/ven-GA-07.pdf"
     },
@@ -5725,7 +5778,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_olivier_thereaux-thumb-143x143-55.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggt6n",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-06.pdf"
     },
@@ -5752,7 +5805,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/denis-boudreau-thumb-143x143-25.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh8h8x",
       "slides": "http://www.paris-web.fr/telechargements/jeu_PA_07.pdf"
     },
@@ -5774,7 +5827,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/laurent-morisseau-thumb-143x143-24.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -5795,7 +5848,7 @@
         "picture": "/img/nophoto.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -5821,7 +5874,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur-mickael-morier-thumb-143x143-57.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh43oe",
       "slides": null
     },
@@ -5853,7 +5906,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_gautier-barrere-thumb-143x143-74.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -5875,7 +5928,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_amelie-boucher-2-thumb-143x143-33.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggsab",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-02.pdf"
     },
@@ -5897,7 +5950,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_francis_chouquet-thumb-143x143-39.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xhfqhy",
       "slides": "http://www.paris-web.fr/telechargements/jeu-PA-09.pdf"
     },
@@ -5919,7 +5972,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/09/orateur_cedric-morin-thumb-143x143-82.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggq8v",
       "slides": "http://www.paris-web.fr/telechargements/ven-PA-03.pdf"
     },
@@ -5941,7 +5994,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/jean-pierre-vincent-thumb-143x143-22.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh9c18",
       "slides": "http://www.paris-web.fr/telechargements/ven-PA-01.pdf"
     },
@@ -5963,7 +6016,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_monique-brunel-thumb-143x143-59.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -5984,7 +6037,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/09/orateur-tanguy_loheac-thumb-143x143-80.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh9c1q",
       "slides": null
     },
@@ -6006,7 +6059,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/dave-shea-thumb-143x143-5.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xhgdbm",
       "slides": "http://www.paris-web.fr/telechargements/ven-GA-03.pdf"
     },
@@ -6028,7 +6081,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_yannick_croissant-thumb-143x143-51.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6055,7 +6108,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_corinne-schillinger-thumb-143x143-32.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6076,7 +6129,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur-jeremie-pattonier-thumb-143x143-65.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgv2fe",
       "slides": null
     },
@@ -6098,7 +6151,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_christophe-porteneuve-thumb-143x143-67.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgs8m4",
       "slides": null
     },
@@ -6120,7 +6173,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/eric-daspet-thumb-143x143-11.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh9c2f",
       "slides": "http://www.paris-web.fr/telechargements/ven-PA-07.pdf"
     },
@@ -6142,7 +6195,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/08/orateur_fabien-gandon-thumb-143x143-77.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6163,7 +6216,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/Matthieu_Mingasson-thumb-143x143-17.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggtmo",
       "slides": "http://www.paris-web.fr/telechargements/jeu-PA-08.pdf"
     },
@@ -6186,7 +6239,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/jonathan-blanchet-thumb-143x143-23.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6208,7 +6261,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/jean-pierre-vincent-thumb-143x143-22.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xguqi5",
       "slides": null
     },
@@ -6240,7 +6293,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_francois_daoust-thumb-143x143-38.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xhavgn",
       "slides": "http://www.paris-web.fr/telechargements/jeu_GA_05.pdf"
     },
@@ -6262,7 +6315,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/fabien-thumb-143x143-31.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh6vuv",
       "slides": "http://www.paris-web.fr/telechargements/jeu_PA_01.pdf"
     },
@@ -6284,7 +6337,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_jean-marc-Hardy-thumb-143x143-73.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggskb",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-04.pdf"
     },
@@ -6306,7 +6359,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/david-rault-thumb-143x143-10.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xfpaqk",
       "slides": "http://www.paris-web.fr/telechargements/ven-GA-01.pdf"
     },
@@ -6328,7 +6381,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/delphine-thumb-143x143-43.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6349,7 +6402,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_matt_may-thumb-143x143-49.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggt4c",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-01.pdf"
     },
@@ -6372,7 +6425,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_julien-dubedout-thumb-143x143-68.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgtz9h",
       "slides": null
     },
@@ -6394,7 +6447,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/laurent-morisseau-thumb-143x143-24.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6416,7 +6469,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-JeremiePatonnier-thumb-143x143-417.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939763",
       "slides": null
     },
@@ -6438,7 +6491,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Luc%20Poupard-thumb-143x143-418.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839409",
       "slides": null
     },
@@ -6461,7 +6514,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Benjamin%20Becquet-thumb-143x143-412.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6484,7 +6537,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Olivia-Lor-thumb-143x143-434.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113838905",
       "slides": "http://www.paris-web.fr/2014/slides/Conf_Paris-Web_Anim-et-interface.pdf"
     },
@@ -6506,7 +6559,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Yves-Koekkoek-thumb-143x143-439.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6527,7 +6580,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Raphael%20Rougeron-thumb-143x143-421.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6550,7 +6603,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Remi-Parmentier-thumb-143x143-436.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839948",
       "slides": null
     },
@@ -6578,7 +6631,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Karl%20Groves-thumb-143x143-446.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939760",
       "slides": null
     },
@@ -6606,7 +6659,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Julien-Oger-thumb-143x143-431.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839944",
       "slides": null
     },
@@ -6628,7 +6681,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/10/2014-photo-Vitaly-thumb-143x143-450.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113941029",
       "slides": null
     },
@@ -6652,7 +6705,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Sophie-Schuermans-thumb-143x143-437.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6674,7 +6727,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Yacine-Rezgui-thumb-143x143-449.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6700,7 +6753,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Robin-Berjon-thumb-143x143-448.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939762",
       "slides": null
     },
@@ -6722,7 +6775,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-JeremiePatonnier-thumb-143x143-417.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839415",
       "slides": null
     },
@@ -6750,7 +6803,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Nicolas-Hoffmann-thumb-143x143-432.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839946",
       "slides": null
     },
@@ -6772,7 +6825,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Thomas%20Parisot-thumb-143x143-422.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6794,7 +6847,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-David%20Boureau-thumb-143x143-400.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6815,7 +6868,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Julien%20Wasjberg-thumb-143x143-443.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6842,7 +6895,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Anthony%20Ricaud-thumb-143x143-398.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/114950685",
       "slides": null
     },
@@ -6864,7 +6917,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Philip%20Tellis-thumb-143x143-420.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939047",
       "slides": null
     },
@@ -6886,7 +6939,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Benoit%20Vrins-thumb-143x143-399.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2014/slides/Benoit_Vrins-Outils_ere_post-adobe.pdf"
     },
@@ -6909,7 +6962,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Christophe-Porteneuve-thumb-143x143-427.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6935,7 +6988,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Nicolas-Hoizey-thumb-143x143-433.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -6957,7 +7010,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Christophe-Porteneuve-thumb-143x143-427.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839414",
       "slides": null
     },
@@ -6979,7 +7032,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Dennis-Lembree-thumb-143x143-429.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/114950687",
       "slides": null
     },
@@ -7003,7 +7056,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-BillyGregory-thumb-143x143-440.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939759",
       "slides": null
     },
@@ -7030,7 +7083,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Victor%20Brito-thumb-143x143-410.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7051,7 +7104,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-David%20Rousset-thumb-143x143-444.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839412",
       "slides": null
     },
@@ -7075,7 +7128,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Hubert%20Sablonniere-thumb-143x143-402.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839942",
       "slides": null
     },
@@ -7097,7 +7150,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Alvin-Berthelot-thumb-143x143-441.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2014/slides/Alvin_Berthelot-Let_s_sketch_together.pdf"
     },
@@ -7119,7 +7172,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Yannick%20Croissant-thumb-143x143-423.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7141,7 +7194,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Raphael%20Yharrassarry-thumb-143x143-406.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/114950686",
       "slides": "http://www.paris-web.fr/2014/slides/Science_fiction_et_interactions.pdf"
     },
@@ -7169,7 +7222,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Remi-Parmentier-thumb-143x143-436.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7193,7 +7246,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Jean-Loup%20Yu-thumb-143x143-416.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839943",
       "slides": "http://www.paris-web.fr/2014/slides/Meetic-Mobile-final.pdf"
     },
@@ -7216,7 +7269,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Clement-Hardouin-thumb-143x143-428.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113838903",
       "slides": null
     },
@@ -7240,7 +7293,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Leonie-Marin-thumb-143x143-447.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113838748",
       "slides": null
     },
@@ -7263,7 +7316,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Marko%20Dugonjic-thumb-143x143-403.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939048",
       "slides": null
     },
@@ -7285,7 +7338,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/goulven.champenois-thumb-143x143-312.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7307,7 +7360,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/07/teddy.marie-luce-thumb-143x143-353.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7328,7 +7381,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/07/arnaud.limbourg-thumb-143x143-344.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7349,7 +7402,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/geoffrey-dorne-thumb-143x143-325.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/84519562",
       "slides": "http://www.paris-web.fr/2013/Multimodalite_et_interfaces_design_question_d_humains_pas_de_machine.pdf"
     },
@@ -7371,7 +7424,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/jp-encausse-thumb-143x143-338.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/77860190",
       "slides": "http://www.paris-web.fr/2013/SARAH.pdf"
     },
@@ -7393,7 +7446,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/muriel-de-dona-thumb-143x143-340.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/84038829",
       "slides": "http://paris-web.fr/2013/spopquast-partnersparis-web20131010-131016060421-phpapp01.pdf"
     },
@@ -7415,7 +7468,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/09/MariuszCiesla_web-thumb-143x143-373.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/79195072",
       "slides": null
     },
@@ -7437,7 +7490,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/matthias.dugue-thumb-143x143-313.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/80349525",
       "slides": "http://paris-web.fr/2013/soyez_responsables__construisez_votre_api.pdf"
     },
@@ -7460,7 +7513,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/steve_faulkner-thumb-143x143-367.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/77860167",
       "slides": "http://www.paris-web.fr/2013/html5-accessibility.pdf"
     },
@@ -7484,7 +7537,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/michel-buffa-thumb-143x143-372.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7510,7 +7563,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/rudy.rigot.1-thumb-143x143-315.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7532,7 +7585,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/olivier-potonniee-thumb-143x143-314.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/80978488",
       "slides": "http://paris-web.fr/2013/2013-10-12beyondpasswords-131014021231-phpapp01.pdf"
     },
@@ -7555,7 +7608,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/amelie-boucher-thumb-143x143-322.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/83920405",
       "slides": "http://www.paris-web.fr/2013/pw2013-penser-ux-mobile-aboucher-131011102932-phpapp01.pdf"
     },
@@ -7577,7 +7630,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/stephanie.stroeth-thumb-143x143-330.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7599,7 +7652,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/christopher-schmitt-thumb-143x143-323.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/81314506",
       "slides": null
     },
@@ -7626,7 +7679,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/david_rousset-thumb-143x143-357.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/84519561",
       "slides": "http://www.paris-web.fr/2013/Utilisez_le_GPU_pour_ameliorer_la_performance.pdf"
     },
@@ -7650,7 +7703,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/raphael.goetter.1-thumb-143x143-320.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/84039028",
       "slides": "http://www.paris-web.fr/2013/bousculez-vos-habitudes.pdf"
     },
@@ -7673,7 +7726,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/karl_groves-thumb-143x143-361.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/84970341",
       "slides": null
     },
@@ -7700,7 +7753,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/Raphael-Yharrassarry-thumb-143x143-342.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7722,7 +7775,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/07/raphael-rougeron-thumb-143x143-352.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7743,7 +7796,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/jonathan_rivalan-thumb-143x143-359.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7765,7 +7818,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/DanielGlazman-thumb-143x143-368.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/83484921",
       "slides": null
     },
@@ -7789,7 +7842,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/07/bertrandkeller-avatar-thumb-143x143-345.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7810,7 +7863,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/David-Wursteisen-thumb-143x143-336.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7836,7 +7889,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/DanielGlazman-thumb-143x143-368.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/81314505",
       "slides": null
     },
@@ -7858,7 +7911,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/jean-philippe-cabaroc-thumb-143x143-326.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/80974472",
       "slides": "http://paris-web.fr/2013/design-et-subjectivite-web.pdf"
     },
@@ -7880,7 +7933,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/07/PHOTO%20GUITON%20%28c%29%20Pierre%20Le%20Bruchec-thumb-143x143-351.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/85155687",
       "slides": "http://www.paris-web.fr/2013/Hacktivisme.pdf"
     },
@@ -7908,7 +7961,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/nicolas-hoffmann-thumb-143x143-329.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7940,7 +7993,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/christophe.andrieux.2-thumb-143x143-318.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/77859624",
       "slides": "http://www.paris-web.fr/2013/la-folle-journee-ou-les-fourberies-dun-projet.pdf"
     },
@@ -7967,7 +8020,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/09/vdutot-thumb-143x143-375.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -7988,7 +8041,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/vincent-thumb-143x143-332.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "https://speakerd.s3.amazonaws.com/presentations/31b73aa016590131b03d5a15da26a731/Après_la_macro__la_micro__.pdf"
     },
@@ -8012,7 +8065,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/estelle-weyl-thumb-143x143-317.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -8033,7 +8086,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/frederic-bon-thumb-143x143-337.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/83745898",
       "slides": "http://www.paris-web.fr/2013/listening_platforms.pdf"
     },
@@ -8056,7 +8109,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/stephane_bortzmeyer-thumb-143x143-365.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/77863228",
       "slides": "http://paris-web.fr/2013/2-3-choses-securite.pdf"
     },
@@ -8084,7 +8137,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/karl-dubost-thumb-143x143-310.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/83618670",
       "slides": "http://www.paris-web.fr/2013/rouille.pdf"
     },
@@ -8108,7 +8161,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/estelle-weyl-thumb-143x143-317.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/80349526",
       "slides": null
     },
@@ -8130,7 +8183,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/avi_itzkovitch-thumb-143x143-355.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/83485967",
       "slides": "http://www.paris-web.fr/2013/designing-with-sensors-creating-adaptive-experiences.pdf"
     },
@@ -8152,7 +8205,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/xavier-moutondubosc-thumb-143x143-369.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -8176,7 +8229,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/stephane_verdier-thumb-143x143-366.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -8197,7 +8250,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/aurelien_levy-thumb-143x143-354.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -8219,7 +8272,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/thomas-bassetto-thumb-143x143-316.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -8241,7 +8294,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/florent-maurin-thumb-143x143-324.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/84519560",
       "slides": "http://www.paris-web.fr/2013/theorie_workflow.pdf"
     },
@@ -8264,7 +8317,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/nicolas-hoizey-thumb-143x143-341.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/79204119",
       "slides": "http://www.paris-web.fr/2013/slides-unpetitpaspourlemungrandpaspourleweb.pdf"
     },
@@ -8286,7 +8339,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/maxime-fortelle-thumb-143x143-339.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -8307,7 +8360,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/07/raphael-rougeron-thumb-143x143-352.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/80452338",
       "slides": "http://paris-web.fr/2013/jquerysansjquery-131011050951-phpapp01.pdf"
     },
@@ -8330,7 +8383,7 @@
         "picture": "/img/nophoto.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -8361,7 +8414,7 @@
         "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/guillaume_abel-thumb-143x143-358.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/81583283",
       "slides": "http://www.paris-web.fr/2013/Guide_De_Survie_En_Milieu_Responsive.pdf"
     },

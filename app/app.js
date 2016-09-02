@@ -105,8 +105,8 @@ let Search = {
     description = description.replace(' …', '…');
 
     // Ressources
-    let video = _.get(data, 'ressource.video');
-    let slides = _.get(data, 'ressource.slides');
+    let video = _.get(data, 'ressources.video');
+    let slides = _.get(data, 'ressources.slides');
 
     // Thumbnail
     let thumbnail = data.thumbnail;
