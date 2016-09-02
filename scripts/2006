@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 require 'rubygems'
+require 'slugify'
 require 'bundler/setup'
 require_relative '../lib/helper_download'
 require_relative '../lib/helper_extract'
@@ -12,6 +13,7 @@ class Selector2006
   def initialize
     @sessions_filepath = File.expand_path('./data/2006/sessions.html')
     @authors_filepath = File.expand_path('./data/2006/authors.html')
+    @ressources_filepath = File.expand_path('./data/2006/ressources.html')
   end
 
   def sessions
@@ -75,8 +77,52 @@ class Selector2006
     end
   end
 
+  def add_ressources(sessions)
+    doc = Nokogiri::HTML(File.open(@ressources_filepath).read)
+
+    slides = {}
+    slide_links = element(doc, 'a[href$=pdf],a[href$="zip"],a[href$="ppt"]')
+    slide_links.each do |link|
+      url = link.attr('href')
+      dd = link.ancestors('dd')[0]
+      dt = dd.previous_element
+      author = dt.text
+      slides[author.slugify] = url
+    end
+
+    videos = {}
+    slide_videos = element(doc, 'a[href^="http://ru3"]')[0..-2]
+    slide_videos.each do |link|
+      url = link.attr('href')
+      dd = link.ancestors('dd')[0]
+      dd = dd.previous_element while dd.previous_element.name != 'dt'
+      dt = dd.previous_element
+      author = dt.text
+      videos[author.slugify] = url
+    end
+
+    sessions.each do |session|
+      session[:ressources] = {
+        slides: nil,
+        video: nil
+      }
+
+      slug = session[:authors].map do |author|
+        author[:name]
+      end.join('-').slugify
+
+      session[:ressources][:slides] = slides[slug] unless slides[slug].nil?
+      session[:ressources][:video] = videos[slug] unless videos[slug].nil?
+    end
+
+    sessions
+  end
+
+
   def run
     content = add_authors(sessions)
+    content = add_ressources(content)
+    ap content
 
     output = HelperPath.record('2006')
     FileUtils.mkdir_p(File.dirname(output))
