@@ -16,7 +16,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-JeremiePatonnier-thumb-143x143-417.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939763",
       "slides": null
     }
@@ -37,7 +37,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Luc%20Poupard-thumb-143x143-418.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839409",
       "slides": null
     }
@@ -59,7 +59,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Benjamin%20Becquet-thumb-143x143-412.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -82,7 +82,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Olivia-Lor-thumb-143x143-434.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113838905",
       "slides": "http://www.paris-web.fr/2014/slides/Conf_Paris-Web_Anim-et-interface.pdf"
     }
@@ -103,7 +103,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Yves-Koekkoek-thumb-143x143-439.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -124,7 +124,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Raphael%20Rougeron-thumb-143x143-421.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -147,7 +147,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Remi-Parmentier-thumb-143x143-436.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839948",
       "slides": null
     }
@@ -174,7 +174,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Karl%20Groves-thumb-143x143-446.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939760",
       "slides": null
     }
@@ -201,7 +201,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Julien-Oger-thumb-143x143-431.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839944",
       "slides": null
     }
@@ -222,7 +222,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/10/2014-photo-Vitaly-thumb-143x143-450.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113941029",
       "slides": null
     }
@@ -245,7 +245,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Sophie-Schuermans-thumb-143x143-437.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -267,7 +267,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Yacine-Rezgui-thumb-143x143-449.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -293,7 +293,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Robin-Berjon-thumb-143x143-448.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939762",
       "slides": null
     }
@@ -314,7 +314,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-JeremiePatonnier-thumb-143x143-417.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839415",
       "slides": null
     }
@@ -341,7 +341,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Nicolas-Hoffmann-thumb-143x143-432.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839946",
       "slides": null
     }
@@ -362,7 +362,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Thomas%20Parisot-thumb-143x143-422.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -384,7 +384,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-David%20Boureau-thumb-143x143-400.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -405,7 +405,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Julien%20Wasjberg-thumb-143x143-443.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -432,7 +432,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Anthony%20Ricaud-thumb-143x143-398.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/114950685",
       "slides": null
     }
@@ -453,7 +453,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Philip%20Tellis-thumb-143x143-420.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939047",
       "slides": null
     }
@@ -474,7 +474,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Benoit%20Vrins-thumb-143x143-399.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2014/slides/Benoit_Vrins-Outils_ere_post-adobe.pdf"
     }
@@ -496,7 +496,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Christophe-Porteneuve-thumb-143x143-427.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -522,7 +522,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Nicolas-Hoizey-thumb-143x143-433.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -544,7 +544,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Christophe-Porteneuve-thumb-143x143-427.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839414",
       "slides": null
     }
@@ -565,7 +565,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Dennis-Lembree-thumb-143x143-429.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/114950687",
       "slides": null
     }
@@ -588,7 +588,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-BillyGregory-thumb-143x143-440.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939759",
       "slides": null
     }
@@ -614,7 +614,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Victor%20Brito-thumb-143x143-410.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -635,7 +635,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-David%20Rousset-thumb-143x143-444.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839412",
       "slides": null
     }
@@ -658,7 +658,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Hubert%20Sablonniere-thumb-143x143-402.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839942",
       "slides": null
     }
@@ -679,7 +679,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Alvin-Berthelot-thumb-143x143-441.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2014/slides/Alvin_Berthelot-Let_s_sketch_together.pdf"
     }
@@ -700,7 +700,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Yannick%20Croissant-thumb-143x143-423.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -722,7 +722,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Raphael%20Yharrassarry-thumb-143x143-406.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/114950686",
       "slides": "http://www.paris-web.fr/2014/slides/Science_fiction_et_interactions.pdf"
     }
@@ -749,7 +749,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Remi-Parmentier-thumb-143x143-436.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -773,7 +773,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Jean-Loup%20Yu-thumb-143x143-416.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113839943",
       "slides": "http://www.paris-web.fr/2014/slides/Meetic-Mobile-final.pdf"
     }
@@ -795,7 +795,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Clement-Hardouin-thumb-143x143-428.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113838903",
       "slides": null
     }
@@ -818,7 +818,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Leonie-Marin-thumb-143x143-447.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113838748",
       "slides": null
     }
@@ -840,7 +840,7 @@
         "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Marko%20Dugonjic-thumb-143x143-403.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://vimeo.com/113939048",
       "slides": null
     }

@@ -15,7 +15,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_olivier_segonzac-thumb-143x143-52.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -36,7 +36,7 @@
         "picture": "/img/nophoto.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggsky",
       "slides": "http://www.paris-web.fr/telechargements/jeu-PA-01.pdf"
     }
@@ -57,7 +57,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/pascal_aubin-thumb-143x143-19.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh9c30",
       "slides": "http://www.paris-web.fr/telechargements/ven-PA-08.pdf"
     }
@@ -78,7 +78,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_thomas_parisot-thumb-143x143-48.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -99,7 +99,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_chris-heilmann-thumb-143x143-60.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggtma",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-03.pdf"
     }
@@ -120,7 +120,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_jacques-pyrat-thumb-143x143-61.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -147,7 +147,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/08/orateur_pascale-lambert-charreteur-thumb-143x143-76.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgq6ps",
       "slides": null
     }
@@ -169,7 +169,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_sebastien-billard-thumb-143x143-63.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgul6j",
       "slides": null
     }
@@ -190,7 +190,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_anne_sophie_fradier-thumb-143x143-47.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xfpf08",
       "slides": "http://www.paris-web.fr/telechargements/ven-GA-02.pdf"
     }
@@ -212,7 +212,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_christophe-porteneuve-thumb-143x143-67.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -233,7 +233,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/denis-boudreau-thumb-143x143-25.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh3hj4",
       "slides": null
     }
@@ -255,7 +255,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_paul_rouget-thumb-143x143-50.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggtj7",
       "slides": null
     }
@@ -277,7 +277,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/aurelie-valtat-thumb-143x143-42.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh72te",
       "slides": null
     }
@@ -298,7 +298,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/jake-archibald-thumb-143x143-21.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgmaoy",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-05.pdf"
     }
@@ -319,7 +319,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_stephanie_troeth-thumb-143x143-35.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xi0zks",
       "slides": "http://www.paris-web.fr/telechargements/ven-GA-07.pdf"
     }
@@ -340,7 +340,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_olivier_thereaux-thumb-143x143-55.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggt6n",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-06.pdf"
     }
@@ -366,7 +366,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/denis-boudreau-thumb-143x143-25.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh8h8x",
       "slides": "http://www.paris-web.fr/telechargements/jeu_PA_07.pdf"
     }
@@ -387,7 +387,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/laurent-morisseau-thumb-143x143-24.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -408,7 +408,7 @@
         "picture": "/img/nophoto.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -434,7 +434,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur-mickael-morier-thumb-143x143-57.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh43oe",
       "slides": null
     }
@@ -465,7 +465,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_gautier-barrere-thumb-143x143-74.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -487,7 +487,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_amelie-boucher-2-thumb-143x143-33.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggsab",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-02.pdf"
     }
@@ -508,7 +508,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_francis_chouquet-thumb-143x143-39.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xhfqhy",
       "slides": "http://www.paris-web.fr/telechargements/jeu-PA-09.pdf"
     }
@@ -529,7 +529,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/09/orateur_cedric-morin-thumb-143x143-82.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggq8v",
       "slides": "http://www.paris-web.fr/telechargements/ven-PA-03.pdf"
     }
@@ -550,7 +550,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/jean-pierre-vincent-thumb-143x143-22.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh9c18",
       "slides": "http://www.paris-web.fr/telechargements/ven-PA-01.pdf"
     }
@@ -571,7 +571,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_monique-brunel-thumb-143x143-59.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -592,7 +592,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/09/orateur-tanguy_loheac-thumb-143x143-80.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh9c1q",
       "slides": null
     }
@@ -613,7 +613,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/dave-shea-thumb-143x143-5.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xhgdbm",
       "slides": "http://www.paris-web.fr/telechargements/ven-GA-03.pdf"
     }
@@ -634,7 +634,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_yannick_croissant-thumb-143x143-51.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -661,7 +661,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_corinne-schillinger-thumb-143x143-32.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -682,7 +682,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur-jeremie-pattonier-thumb-143x143-65.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgv2fe",
       "slides": null
     }
@@ -703,7 +703,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_christophe-porteneuve-thumb-143x143-67.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgs8m4",
       "slides": null
     }
@@ -724,7 +724,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/eric-daspet-thumb-143x143-11.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh9c2f",
       "slides": "http://www.paris-web.fr/telechargements/ven-PA-07.pdf"
     }
@@ -745,7 +745,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/08/orateur_fabien-gandon-thumb-143x143-77.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -766,7 +766,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/Matthieu_Mingasson-thumb-143x143-17.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggtmo",
       "slides": "http://www.paris-web.fr/telechargements/jeu-PA-08.pdf"
     }
@@ -788,7 +788,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/jonathan-blanchet-thumb-143x143-23.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -810,7 +810,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/jean-pierre-vincent-thumb-143x143-22.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xguqi5",
       "slides": null
     }
@@ -841,7 +841,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_francois_daoust-thumb-143x143-38.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xhavgn",
       "slides": "http://www.paris-web.fr/telechargements/jeu_GA_05.pdf"
     }
@@ -862,7 +862,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/fabien-thumb-143x143-31.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xh6vuv",
       "slides": "http://www.paris-web.fr/telechargements/jeu_PA_01.pdf"
     }
@@ -883,7 +883,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_jean-marc-Hardy-thumb-143x143-73.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggskb",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-04.pdf"
     }
@@ -904,7 +904,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/david-rault-thumb-143x143-10.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xfpaqk",
       "slides": "http://www.paris-web.fr/telechargements/ven-GA-01.pdf"
     }
@@ -925,7 +925,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/delphine-thumb-143x143-43.jpg"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }
@@ -946,7 +946,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_matt_may-thumb-143x143-49.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xggt4c",
       "slides": "http://www.paris-web.fr/telechargements/jeu-GA-01.pdf"
     }
@@ -968,7 +968,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/orateur_julien-dubedout-thumb-143x143-68.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": "https://www.dailymotion.com/video/xgtz9h",
       "slides": null
     }
@@ -989,7 +989,7 @@
         "picture": "https://www.paris-web.fr/2010/assets_c/2010/07/laurent-morisseau-thumb-143x143-24.png"
       }
     ],
-    "ressource": {
+    "ressources": {
       "video": null,
       "slides": null
     }

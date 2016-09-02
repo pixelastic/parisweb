@@ -96,7 +96,7 @@ class Selector2014
         description: description(doc),
         tags: tags(doc),
         authors: authors(doc),
-        ressource: ressources(doc)
+        ressources: ressources(doc)
       }
     end
 
