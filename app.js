@@ -91,7 +91,65 @@
   require._cache = cache;
   globals.require = require;
 })();
-require.register("app", function(exports, require, module) {
+'use strict';
+
+/* jshint ignore:start */
+(function () {
+  var WebSocket = window.WebSocket || window.MozWebSocket;
+  var br = window.brunch = window.brunch || {};
+  var ar = br['auto-reload'] = br['auto-reload'] || {};
+  if (!WebSocket || ar.disabled) return;
+
+  var cacheBuster = function cacheBuster(url) {
+    var date = Math.round(Date.now() / 1000).toString();
+    url = url.replace(/(\&|\\?)cacheBuster=\d*/, '');
+    return url + (url.indexOf('?') >= 0 ? '&' : '?') + 'cacheBuster=' + date;
+  };
+
+  var browser = navigator.userAgent.toLowerCase();
+  var forceRepaint = ar.forceRepaint || browser.indexOf('chrome') > -1;
+
+  var reloaders = {
+    page: function page() {
+      window.location.reload(true);
+    },
+
+    stylesheet: function stylesheet() {
+      [].slice.call(document.querySelectorAll('link[rel=stylesheet]')).filter(function (link) {
+        var val = link.getAttribute('data-autoreload');
+        return link.href && val != 'false';
+      }).forEach(function (link) {
+        link.href = cacheBuster(link.href);
+      });
+
+      // Hack to force page repaint after 25ms.
+      if (forceRepaint) setTimeout(function () {
+        document.body.offsetHeight;
+      }, 25);
+    }
+  };
+  var port = ar.port || 9486;
+  var host = br.server || window.location.hostname || 'localhost';
+
+  var connect = function connect() {
+    var connection = new WebSocket('ws://' + host + ':' + port);
+    connection.onmessage = function (event) {
+      if (ar.disabled) return;
+      var message = event.data;
+      var reloader = reloaders[message] || reloaders.page;
+      reloader();
+    };
+    connection.onerror = function () {
+      if (connection.readyState) connection.close();
+    };
+    connection.onclose = function () {
+      window.setTimeout(connect, 1000);
+    };
+  };
+  connect();
+})();
+/* jshint ignore:end */
+;require.register("app", function(exports, require, module) {
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -205,8 +263,8 @@ var Search = {
     description = description.replace(' …', '…');
 
     // Ressources
-    var video = _.get(data, 'ressource.video');
-    var slides = _.get(data, 'ressource.slides');
+    var video = _.get(data, 'ressources.video');
+    var slides = _.get(data, 'ressources.slides');
 
     // Thumbnail
     var thumbnail = data.thumbnail;
@@ -215,13 +273,11 @@ var Search = {
         thumbnail = 'https://pixelastic.github.io/parisweb/' + thumbnail;
       }
       thumbnail = Search.cloudinary(thumbnail, {
-        width: 150,
-        height: 95,
         quality: 90,
-        crop: 'scale',
         format: 'auto'
       });
     }
+    var thumbnailLink = video || slides;
 
     // Authors
     var authors = _.map(data.authors, function (author, index) {
@@ -261,6 +317,7 @@ var Search = {
       description: description,
       year: data.year,
       thumbnail: thumbnail,
+      thumbnailLink: thumbnailLink,
       video: video,
       slides: slides,
       tags: tags,

@@ -79,9 +79,17 @@
         <a href="{{url}}" class="hit--title">{{{title}}}</a>
 
         <div class="hit--wrapper">
-          <div class="hit--thumbnail"></div>
+          <div class="hit--ressources">
+            {{#thumbnailLink}}<a href="{{thumbnailLink}}">{{/thumbnailLink}}
+            <div class="hit--thumbnail"></div>
+            {{#thumbnailLink}}</a>{{/thumbnailLink}}
+            <div class="hit--external">
+              {{#video}}<a href="{{video}}" class="hit--ressource__video">Video</a>{{/video}}
+              {{#slides}}<a href="{{slides}}" class="hit--ressource__slides">Slides</a>{{/slides}}
+            </div>
+          </div>
 
-          <div class="hit--facets">
+          <div class="hit--details">
             <ul class="hit--authors">
             {{#authors}}<li 
                 class="hit--author js-facet-toggle {{#isRefined}}hit-facet__isRefined{{/isRefined}}" 
@@ -94,19 +102,16 @@
             <div class="hit--description">
               <p>{{{description}}}</p>
             </div>
-
+            <ul class="hit--tags">
+            {{#tags}}<li 
+              class="hit--tag js-facet-toggle {{#isRefined}}hit-facet__isRefined{{/isRefined}}" 
+              data-facet-name="tags" 
+              data-facet-value="{{plainValue}}"
+              >{{{highlightedValue}}}</li>
+            {{/tags}}
+            </ul>
           </div>
         </div>
-
-        <ul class="hit--tags">
-        {{#tags}}<li 
-          class="hit--tag js-facet-toggle {{#isRefined}}hit-facet__isRefined{{/isRefined}}" 
-          data-facet-name="tags" 
-          data-facet-value="{{plainValue}}"
-          >{{{highlightedValue}}}</li>
-        {{/tags}}
-        </ul>
-
       </article>
     </script>
     <script id="noResults" language="x-template">

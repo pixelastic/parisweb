@@ -530,18 +530,23 @@ html, body {
   flex-flow: row nowrap; }
 
 /* line 87, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
-.hit--thumbnail {
+.hit--ressources {
+  flex: 0;
   flex-basis: 150px;
-  width: 150px;
+  margin-right: 1rem; }
+
+/* line 93, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+.hit--thumbnail {
+  box-shadow: 0 1px 0 #c5cad8, 0 2px 3px #d4d8e3;
   min-width: 150px;
-  height: 95px;
-  position: relative;
-  margin-right: 1rem;
+  min-height: 105px;
+  background-color: #e8f7fa;
   background-image: url("./img/unicorn.png");
   background-repeat: no-repeat;
-  background-position: top center;
-  background-size: contain; }
-  /* line 98, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+  background-position: center center;
+  background-size: 85px 85px;
+  position: relative; }
+  /* line 103, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
   .hit--thumbnail:after {
     content: "";
     position: absolute;
@@ -550,18 +555,45 @@ html, body {
     right: 0;
     top: 0;
     background-repeat: no-repeat;
-    background-position: top center;
-    background-size: contain; }
+    background-position: center center;
+    background-size: cover; }
 
-/* line 111, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
-.hit--facets {
-  flex-grow: 1; }
+/* line 116, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+.hit--external {
+  margin-top: 1rem;
+  display: flex;
+  flex-flow: row nowrap; }
 
-/* line 115, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+/* line 122, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+.hit--ressource__video, .hit--ressource__slides {
+  flex: 1;
+  font-size: .8rem;
+  color: #494949;
+  padding-top: 35px;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: 25px;
+  background-position: center top; }
+
+/* line 136, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+a.hit--ressource__video {
+  background-image: url("./img/svg-icons/video.svg"); }
+
+/* line 139, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+a.hit--ressource__slides {
+  background-image: url("./img/svg-icons/slides.svg"); }
+
+/* line 143, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+.hit--details {
+  flex: 1; }
+
+/* line 147, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
 .hit--authors {
   margin-top: .5rem; }
 
-/* line 119, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+/* line 151, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
 .hit--author {
   font-size: .9rem;
   height: 40px;
@@ -573,42 +605,42 @@ html, body {
   background-position: 0px 0px;
   background-size: 40px;
   cursor: pointer; }
-  /* line 133, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+  /* line 165, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
   .hit--author:hover {
     text-decoration: underline; }
-  /* line 136, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+  /* line 168, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
   .hit--author.hit-facet__isRefined {
     color: #ef509d;
     font-weight: bold; }
 
-/* line 142, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+/* line 174, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
 .hit--tags {
   display: block;
   margin-top: 1rem; }
 
-/* line 146, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+/* line 178, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
 .hit--tag {
   font-size: .9rem;
   display: inline-block;
   cursor: pointer; }
-  /* line 150, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+  /* line 182, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
   .hit--tag:hover {
     text-decoration: underline; }
-  /* line 153, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+  /* line 185, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
   .hit--tag:before {
     content: '#'; }
-  /* line 156, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+  /* line 188, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
   .hit--tag.hit-facet__isRefined {
     color: #ef509d;
     font-weight: bold; }
 
-/* line 162, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+/* line 194, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
 .hit--description {
   padding-top: .5rem;
   font-size: .9rem;
   line-height: 1.1rem;
   position: relative; }
-  /* line 167, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
+  /* line 199, /home/tim/local/www/algolia/projects/parisweb/app/styles/_hits.scss */
   .hit--description .search-hit--highlight {
     font-weight: bold; }
 
