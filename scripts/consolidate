@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+require 'fileutils'
 require 'awesome_print'
 require 'json'
 require 'open-uri'
@@ -21,27 +22,30 @@ class Consolidate
       next record if record['ressource'].nil?
       video = record['ressource']['video']
       slides = record['ressource']['slides']
-      ressource = video || slides
+      ressource = slides || video
 
-      # record['thumbnail'] = vimeo_thumbnail(ressource) if vimeo?(ressource)
-      # record['thumbnail'] = dailymotion_thumbnail(ressource) if dailymotion?(ressource)
+      record['thumbnail'] = vimeo_thumbnail(ressource) if vimeo?(ressource)
+      record['thumbnail'] = dailymotion_thumbnail(ressource) if dailymotion?(ressource)
       record['thumbnail'] = pdf_thumbnail(ressource) if pdf?(ressource)
-      ap ressource
 
       record
     end
+
+    output = HelperPath.record('records')
+    records = JSON.pretty_generate(records)
+    File.write(output, records)
   end
 
   def vimeo?(ressource)
-    ressource =~ %r(^https://vimeo.com/)
+    ressource =~ %r{^https://vimeo.com/}
   end
 
-  def dailmotion?(ressource)
-    ressource =~ %r(^https://www.dailymotion.com/)
+  def dailymotion?(ressource)
+    ressource =~ %r{^https://www.dailymotion.com/}
   end
 
   def pdf?(ressource)
-    ressource =~ /^pdf$/
+    ressource =~ /\.pdf$/
   end
 
   def vimeo_thumbnail(ressource)
@@ -60,31 +64,44 @@ class Consolidate
   def pdf_thumbnail(ressource)
     puts "Getting thumbnail for #{ressource}"
     FileUtils.mkdir_p('./tmp/pdf')
-    Dir.chdir('./tmp/pdf')
-    basename = ressource.split('/').last
+    basename = HelperPath.sanitize(ressource.split('/').last)
+    downloaded_pdf = File.expand_path("./tmp/pdf/#{basename}")
+    firstpage_pdf = downloaded_pdf.gsub('.pdf', '_001.pdf')
+    thumbnail = firstpage_pdf.gsub('_001.pdf', '.png')
+    thumbnail_basename = File.basename(thumbnail)
+    asset_path = "./app/assets/img/thumbnails/#{thumbnail_basename}"
+    url = "./img/thumbnails/#{thumbnail_basename}"
+
+    # Stop if we already extracted the thumbnail
+    if File.exist?(asset_path)
+      puts '✘ Thumbnail already generated'
+      return url
+    end
     
     # Downloading the pdf
-    `wget #{ressource}` unless File.exists("./#{basename}")
+    puts 'Downloading pdf'
+    `wget #{ressource} -O #{downloaded_pdf.shellescape}` unless File.exist?(downloaded_pdf)
+
+    # Stop if no such file
+    if File.zero?(downloaded_pdf)
+      puts '✘ No such file'
+      FileUtils.rm(downloaded_pdf)
+      return nil
+    end
 
     # Extracting the first page
-    firstpage = HelperPath.sanitize(basename.gsub('.pdf', '_001.pdf'))
-    options = [
-      basename.shellescape,
-      'cat',
-      1,
-      'output',
-      output_file.shellescape
-    ]
-    `pdftk #{basename.shellescape} cat 1 output #{firstpage.shellescape}`
+    puts 'Extracting first page'
+    `pdftk #{downloaded_pdf.shellescape} cat 1 output #{firstpage_pdf.shellescape}`
 
     # Convert file to png
-    thumbnail = firstpage.gsub('_001.pdf', '.png')
-    `convert -flatten -density 300 -quality 100 #{firstpage.shellescape} #{thumbnail.shellescape}`
+    puts 'Converting to png'
+    `convert -flatten -quality 100 -resize 300 #{firstpage_pdf.shellescape} #{thumbnail.shellescape}`
 
     # Copy the file to the assets
-    FileUtils.mv("./#{thumbnail}", '../../app/assets/img/thumbnails')
+    puts 'Moving it to assets'
+    FileUtils.mv(thumbnail, asset_path)
 
-    "./img/thumbnails/#{thumbnail}"
+    url
   end
 
 end

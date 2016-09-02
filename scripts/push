@@ -4,9 +4,8 @@ require 'bundler/setup'
 require_relative '../lib/helper_extract'
 require_relative '../lib/helper_push'
 
-records = HelperExtract.all_records.flatten
-
 # Remove all record from 2016
+records = JSON.parse(File.open(HelperPath.record('records')).read)
 records = records.reject do |record|
   true if record['year'] == 2016
 end

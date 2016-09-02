@@ -37,21 +37,10 @@
 // Hit template
 .hit {
   margin: 5px;
-  height: 200px;
   padding: 1rem;
   overflow: hidden;
   background: white;
   position: relative;
-  &:after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    height: 2rem;
-    background: linear-gradient(to bottom, transparent, #FFF 90%);
-    display: block;
-  }
   &.hit__isConference {
     border: 2px solid $pink;
   }
@@ -81,11 +70,46 @@
 }
 
 .hit--title {
+  display: block;
   margin: 0;
   font-family: 'Title';
   color: $pink;
   margin-right: 4rem;
+  padding-bottom: .5rem;
   font-size: 1.9rem;
+}
+
+.hit--wrapper {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.hit--thumbnail {
+  flex-basis: 150px;
+  width: 150px;
+  min-width: 150px;
+  height: 95px;
+  position:relative;
+  margin-right: 1rem;
+  background-image: url('../img/unicorn.png');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: contain;
+  &:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left:0;
+    right: 0;
+    top: 0;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+  }
+}
+
+.hit--facets {
+  flex-grow: 1;
 }
 
 .hit--authors {
@@ -116,7 +140,8 @@
 }
 
 .hit--tags {
-  margin-top: .5rem;
+  display: block;
+  margin-top: 1rem;
 }
 .hit--tag {
   font-size: .9rem;

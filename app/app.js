@@ -104,6 +104,25 @@ let Search = {
     let description = data._snippetResult.description.value;
     description = description.replace(' …', '…');
 
+    // Ressources
+    let video = _.get(data, 'ressource.video');
+    let slides = _.get(data, 'ressource.slides');
+
+    // Thumbnail
+    let thumbnail = data.thumbnail;
+    if (thumbnail) {
+      if (_.startsWith(thumbnail, './img')) {
+        thumbnail = `https://pixelastic.github.io/parisweb/${thumbnail}`;
+      }
+      thumbnail = Search.cloudinary(thumbnail, {
+        width: 150,
+        height: 95,
+        quality: 90,
+        crop: 'scale',
+        format: 'auto'
+      });
+    }
+
     // Authors
     let authors = _.map(data.authors, (author, index) => {
       let picture = Search.cloudinary(author.picture, {
@@ -123,17 +142,6 @@ let Search = {
       }
     });
 
-    // TODO: Thumbnails
-    let video = _.get(data, 'ressource.video');
-    let slides = _.get(data, 'ressource.slides');
-    let ressource = video || slides;
-    console.info(ressource);
-    // If there is a dailymotion/youtube video, we can try to get the thumbnail
-    // Check if possible to get one from slideshare and other hosting
-    // webservices
-    // Otherwise, downloading the PDF, extracting the first page and pushing it
-    // along the content
-
     // Tags
     let tags = _.map(data.tags, (tag, index) => {
       return {
@@ -152,8 +160,12 @@ let Search = {
       url: data.url,
       description,
       year: data.year,
+      thumbnail,
+      video,
+      slides,
       tags,
-      authors
+      authors,
+      objectID: data.objectID
     };
 
     return displayData;
