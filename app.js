@@ -204,6 +204,22 @@ var Search = {
     var description = data._snippetResult.description.value;
     description = description.replace(' …', '…');
 
+    // Ressources
+    var video = _.get(data, 'ressource.video');
+    var slides = _.get(data, 'ressource.slides');
+
+    // Thumbnail
+    var thumbnail = data.thumbnail;
+    if (thumbnail) {
+      thumbnail = Search.cloudinary(thumbnail, {
+        height: 150,
+        width: 95,
+        quality: 90,
+        crop: 'scale',
+        format: 'auto'
+      });
+    }
+
     // Authors
     var authors = _.map(data.authors, function (author, index) {
       var picture = Search.cloudinary(author.picture, {
@@ -223,13 +239,6 @@ var Search = {
       };
     });
 
-    // TODO: Thumbnails
-    // If there is a dailymotion/youtube video, we can try to get the thumbnail
-    // Check if possible to get one from slideshare and other hosting
-    // webservices
-    // Otherwise, downloading the PDF, extracting the first page and pushing it
-    // along the content
-
     // Tags
     var tags = _.map(data.tags, function (tag, index) {
       return {
@@ -248,8 +257,12 @@ var Search = {
       url: data.url,
       description: description,
       year: data.year,
+      thumbnail: thumbnail,
+      video: video,
+      slides: slides,
       tags: tags,
-      authors: authors
+      authors: authors,
+      objectID: data.objectID
     };
 
     return displayData;

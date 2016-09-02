@@ -67,31 +67,46 @@
     </div>
 
     <script id="hitTemplate" language="x-template">
-      <article class="hit {{#inViewport}}hit__inViewport{{/inViewport}} {{#isConference}}hit__isConference{{/isConference}} {{#isWorkshop}}hit__isWorkshop{{/isWorkshop}}">
-      <a href="https://www.paris-web.fr/{{year}}" target="_blank" class="hit--year">{{year}}</a>
+      {{#thumbnail}}
+        <style>
+          #hit__{{objectID}} .hit--thumbnail:after {
+            background-image:url({{thumbnail}})
+          }
+        </style>
+      {{/thumbnail}}
+      <article id="hit__{{objectID}}" class="hit {{#inViewport}}hit__inViewport{{/inViewport}} {{#isConference}}hit__isConference{{/isConference}} {{#isWorkshop}}hit__isWorkshop{{/isWorkshop}}">
+        <a href="https://www.paris-web.fr/{{year}}" target="_blank" class="hit--year">{{year}}</a>
         <a href="{{url}}" class="hit--title">{{{title}}}</a>
-        <ul class="hit--authors">
-          {{#authors}}
-          <li 
-            class="hit--author js-facet-toggle {{#isRefined}}hit-facet__isRefined{{/isRefined}}" 
-            data-facet-name="authors.name"
-            data-facet-value="{{plainName}}"
-            style="background-image: url({{picture}})"
-            >{{{highlightedName}}}</li>
-          {{/authors}}
-        </ul>
-        <ul class="hit--tags">
-          {{#tags}}
-          <li 
-            class="hit--tag js-facet-toggle {{#isRefined}}hit-facet__isRefined{{/isRefined}}" 
-            data-facet-name="tags" 
-            data-facet-value="{{plainValue}}"
-          >{{{highlightedValue}}}</li>
-          {{/tags}}
-        </ul>
-        <div class="hit--description">
-          <p>{{{description}}}</p>
+
+        <div class="hit--wrapper">
+          <div class="hit--thumbnail"></div>
+
+          <div class="hit--facets">
+            <ul class="hit--authors">
+            {{#authors}}<li 
+                class="hit--author js-facet-toggle {{#isRefined}}hit-facet__isRefined{{/isRefined}}" 
+                data-facet-name="authors.name"
+                data-facet-value="{{plainName}}"
+                style="background-image: url({{picture}})"
+              >{{{highlightedName}}}</li>
+            {{/authors}}
+            </ul>
+            <div class="hit--description">
+              <p>{{{description}}}</p>
+            </div>
+
+          </div>
         </div>
+
+        <ul class="hit--tags">
+        {{#tags}}<li 
+          class="hit--tag js-facet-toggle {{#isRefined}}hit-facet__isRefined{{/isRefined}}" 
+          data-facet-name="tags" 
+          data-facet-value="{{plainValue}}"
+          >{{{highlightedValue}}}</li>
+        {{/tags}}
+        </ul>
+
       </article>
     </script>
     <script id="noResults" language="x-template">
