@@ -211,9 +211,12 @@ var Search = {
     // Thumbnail
     var thumbnail = data.thumbnail;
     if (thumbnail) {
+      if (_.startsWith(thumbnail, './img')) {
+        thumbnail = 'https://pixelastic.github.io/parisweb/' + thumbnail;
+      }
       thumbnail = Search.cloudinary(thumbnail, {
-        height: 150,
-        width: 95,
+        width: 150,
+        height: 95,
         quality: 90,
         crop: 'scale',
         format: 'auto'
