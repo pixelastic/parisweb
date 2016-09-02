@@ -357,8 +357,8 @@ var Search = {
     this.search.addWidget(instantsearch.widgets.pagination({
       container: '#pagination',
       labels: {
-        previous: '‹ Previous',
-        next: 'Next ›'
+        previous: '‹ Précédent',
+        next: 'Suivant ›'
       },
       showFirstLast: false
     }));
