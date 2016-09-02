@@ -124,6 +124,10 @@ let Search = {
     });
 
     // TODO: Thumbnails
+    let video = _.get(data, 'ressource.video');
+    let slides = _.get(data, 'ressource.slides');
+    let ressource = video || slides;
+    console.info(ressource);
     // If there is a dailymotion/youtube video, we can try to get the thumbnail
     // Check if possible to get one from slideshare and other hosting
     // webservices

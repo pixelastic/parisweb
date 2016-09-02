@@ -1,0 +1,91 @@
+#!/usr/bin/env ruby
+require 'awesome_print'
+require 'json'
+require 'open-uri'
+require 'shellwords'
+require_relative '../lib/helper_path'
+
+class Consolidate
+  def initialize
+    @inputs = Dir['./records/20*.json']
+    @output = './records/records.json'
+  end
+
+  def run
+    records = []
+    @inputs.each do |input|
+      records += JSON.parse(File.read(input))
+    end
+
+    records = records.map do |record|
+      next record if record['ressource'].nil?
+      video = record['ressource']['video']
+      slides = record['ressource']['slides']
+      ressource = video || slides
+
+      # record['thumbnail'] = vimeo_thumbnail(ressource) if vimeo?(ressource)
+      # record['thumbnail'] = dailymotion_thumbnail(ressource) if dailymotion?(ressource)
+      record['thumbnail'] = pdf_thumbnail(ressource) if pdf?(ressource)
+      ap ressource
+
+      record
+    end
+  end
+
+  def vimeo?(ressource)
+    ressource =~ %r(^https://vimeo.com/)
+  end
+
+  def dailmotion?(ressource)
+    ressource =~ %r(^https://www.dailymotion.com/)
+  end
+
+  def pdf?(ressource)
+    ressource =~ /^pdf$/
+  end
+
+  def vimeo_thumbnail(ressource)
+    puts "Fetching thumbnail for #{ressource}"
+    id = ressource.split('/').last
+    url = "https://vimeo.com/api/oembed.json?url=http%3A//vimeo.com/#{id}"
+    json = JSON.parse(open(url).read)
+    json['thumbnail_url']
+  end
+
+  def dailymotion_thumbnail(ressource)
+    id = ressource.split('/').last
+    "http://www.dailymotion.com/thumbnail/video/#{id}"
+  end
+
+  def pdf_thumbnail(ressource)
+    puts "Getting thumbnail for #{ressource}"
+    FileUtils.mkdir_p('./tmp/pdf')
+    Dir.chdir('./tmp/pdf')
+    basename = ressource.split('/').last
+    
+    # Downloading the pdf
+    `wget #{ressource}` unless File.exists("./#{basename}")
+
+    # Extracting the first page
+    firstpage = HelperPath.sanitize(basename.gsub('.pdf', '_001.pdf'))
+    options = [
+      basename.shellescape,
+      'cat',
+      1,
+      'output',
+      output_file.shellescape
+    ]
+    `pdftk #{basename.shellescape} cat 1 output #{firstpage.shellescape}`
+
+    # Convert file to png
+    thumbnail = firstpage.gsub('_001.pdf', '.png')
+    `convert -flatten -density 300 -quality 100 #{firstpage.shellescape} #{thumbnail.shellescape}`
+
+    # Copy the file to the assets
+    FileUtils.mv("./#{thumbnail}", '../../app/assets/img/thumbnails')
+
+    "./img/thumbnails/#{thumbnail}"
+  end
+
+end
+Consolidate.new.run
