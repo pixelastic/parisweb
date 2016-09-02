@@ -115,13 +115,11 @@ let Search = {
         thumbnail = `https://pixelastic.github.io/parisweb/${thumbnail}`;
       }
       thumbnail = Search.cloudinary(thumbnail, {
-        width: 150,
-        height: 95,
         quality: 90,
-        crop: 'scale',
         format: 'auto'
       });
     }
+    let thumbnailLink = video || slides;
 
     // Authors
     let authors = _.map(data.authors, (author, index) => {
@@ -161,6 +159,7 @@ let Search = {
       description,
       year: data.year,
       thumbnail,
+      thumbnailLink,
       video,
       slides,
       tags,
