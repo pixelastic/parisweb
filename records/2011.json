@@ -1,6 +1,28 @@
 [
   {
     "year": 2011,
+    "type": "conference",
+    "title": "Améliorer le confort d'utilisation des sites web",
+    "url": "https://www.paris-web.fr/2011/ateliers/ameliorer-le-confort-dutilisation-des-sites-web.php",
+    "description": "Tous les gens qui font du web savent comment régler l'affichage d'un site web, connaissent les CSS utilisateurs, les options de zoom. Mais dans le monde réel, qui sait fixer ce genre de préférences, entre autres ?  Stéphane Deschamps partagera un retour d'expérience tiré d'une question a priori simple : peut-on aller plus loin que simplement travailler sur l'accessibilité des sites web pour augmenter le confort d'utilisation ? Il montrera comment, sur la base de cette question, on peut tirer une bibliothèque distribuable en Javascript.",
+    "tags": [
+      "Accessibilité",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Stéphane Deschamps",
+        "description": "Stéphane est développeur Web client depuis 1999. Il contribue depuis plusieurs années à promouvoir la qualité du Web, et a été successivement membre du comité éditorial d’Evolt, co-administrateur de Pompage, puis fondateur et président de Paris-Web. Il est aussi membre du collectif Openweb.  Il est actuellement expert technique dans le Groupe France Télécom - Orange en charge de questions d’accessibilité et d’interopérabilité des sites Web. C'est à ce titre qu'il intervient cette année.",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/stephane-thumb-143x143-142.jpg"
+      }
+    ],
+    "ressources": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2011,
     "type": "workshop",
     "title": "La lisibilité des contenus",
     "url": "https://www.paris-web.fr/2011/ateliers/la-lisibilite-des-contenus.php",
@@ -19,6 +41,27 @@
     ],
     "ressources": {
       "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2011,
+    "type": "conference",
+    "title": "Formulaires HTML5 : où en est-on ? Que peut-on faire ?",
+    "url": "https://www.paris-web.fr/2011/conferences/formulaires-html5-ou-en-est-on-que-peut-on-faire.php",
+    "description": "Les formulaires HTML5 introduisent pleins de nouveautés qui peuvent être utilisées dès aujourd'hui. Nous allons voir quelles sont ces nouveautés, comment les utiliser et quel est le support actuel des différents navigateurs.",
+    "tags": [
+      "HTML5"
+    ],
+    "authors": [
+      {
+        "name": "Mounir Lamouri",
+        "description": "Diplômé du département Informatique de l'INSA de Lyon en 2010, Mounir travaille depuis pour Mozilla dans l'équipe \"content\". Cette équipe est chargée de maintenir et d'améliorer le support du DOM et du HTML dans Gecko, le moteur de rendu de Firefox. Plus spécifiquement, Mounir a entre autre pour charge l'implémentation des formulaires HTML5 dans Gecko.",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/mounir-lamouri-thumb-143x143-151.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xppcq1",
       "slides": null
     }
   },
@@ -85,6 +128,49 @@
     "ressources": {
       "video": null,
       "slides": null
+    }
+  },
+  {
+    "year": 2011,
+    "type": "conference",
+    "title": "Le KISS des OS",
+    "url": "https://www.paris-web.fr/2011/conferences/le-kiss-des-os.php",
+    "description": "Le format de 15 minutes de l'intervention va tenter de traiter de façon simple et élégante (le KISS, au format court et anglais) des standards ouverts (les OS, Open Standards) : un format inédit pour évoquer le « pourquoi », le « comment », le « pour qui » et le « tout le reste » des OS qui sont la colonne vertébrale des SI. Sans formation accélérée, sans déformation exagérée et sans formatage particulier, une transformation de son point de vue sur les formats ouverts est possible !",
+    "tags": [
+      "KISS",
+      "Standards"
+    ],
+    "authors": [
+      {
+        "name": "Thierry Stœhr",
+        "description": "Thierry Stœhr travaille à l'université Paris-Diderot. Il est fortement impliqué dans le logiciel libre depuis 1998, notamment au travers de l'AFUL (association francophone des utilisateurs de logiciels libres) dont il a été secrétaire, président et un des actuels vice-président. Il a cocréée le site Formats-Ouverts en juillet 2004 : il l'anime depuis plus de 7 ans à propos du sujet des formats, avec plus de 2700 articles en ligne sur le blog. Il donne aussi des conférences, assure des formations et fait des interventions à propos du logiciel libre en général et à propos des formats en particulier.",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/thierry-stoehr-thumb-143x143-174.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xpjswk",
+      "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-PA-04-TStoehr/kiss_des_os.pdf"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "conference",
+    "title": "Je veux un VRAI sous-titrage !",
+    "url": "https://www.paris-web.fr/2011/conferences/je-veux-un-vrai-sous-titrage.php",
+    "description": "En général, les personnes qui sous-titrent ne connaissent pas les sourds, et de l'autre côté la technique est souvent méconnue du public sourd.  En quoi le sous-titrage sourd et malentendant est-il différent de la version originale sous-titrée, au delà des problèmes techniques et des référentiels d'accessibilité du sous-titrage sur le web, nous essayerons de voir les solutions les plus simples à mettre en œuvre.  Sur le fond, nous verrons comment faire en sorte que votre sous-titrage soit compris par les sourds.  Le but : faire un sous-titrage utile pour votre public.",
+    "tags": [
+      "Accessibilité"
+    ],
+    "authors": [
+      {
+        "name": "Sophie Drouvroy",
+        "description": "Diplômée de l'école des Gobelins en 1997, j'ai connu la bulle internet au plus haut de son euphorie. Un parcours varié de l'atelier PAO à l'agence de communication en full flash en passant par la production industrielle en SSII m'a amenée à regarder les standards du web et leur accessibilité en dehors même de mon handicap.  Après l'éclatement de la bulle internet, même mes compétences n'arrivent plus à faire oublier ma surdité, ce qui m'amène à me lancer dans Etrecréatif.  En parallèle, je lance le site Medias-soustitrés en 2003, pour défendre le sous-titrage sourd et malentendant en France aussi bien à la télévision que sur tous les supports possibles. Pour rappel le sous-titrage en 2001 n'était que de l'ordre de 10%. Depuis 2005, j'aide les associations de sourds et malentendants à leur demande sur les dossiers du sous-titrage.",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/sophie-douvroy-thumb-143x143-161.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xmdyi7",
+      "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-GA-04-SDrouvoy/Je_veux_un_vrai_sous-titrage.pdf"
     }
   },
   {
@@ -171,6 +257,27 @@
     "ressources": {
       "video": "https://www.dailymotion.com/video/xnd3c7",
       "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-GA-05-RNyman/HTML5_APIs.pdf"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "conference",
+    "title": "Création et partages d'archives Web personnelles",
+    "url": "https://www.paris-web.fr/2011/ateliers/creation-et-partages-darchives-web-personnelles.php",
+    "description": "Les fameuses \"erreurs 404\" et plus généralement les liens qui disparaissent sont un problème majeur pour tout site web qui cherche une certaine pérennité.   S'il est difficile d'archiver tout le web, ce problème peut être résolu de manière assez simple s'il s'agit uniquement d'archiver les pages liées à un site.  Dans cette présentation, je montrerai comment créer de telles archives \"personnelles\" et comment la fédération de ces archives pourraient conduire à un archivage du web qui, étant décentralisé, s’appuierait pleinement sur l'architecture du web.",
+    "tags": [
+      "Archivage"
+    ],
+    "authors": [
+      {
+        "name": "Éric van der Vlist",
+        "description": "Éric van der Vlist est un consultant indépendant. Il s'intéresse plus particulièrement aux techniques de mises en œuvre sur le web et son expertise en matière de technologies XML est reconnue au niveau mondial.  Créateur du site XMLfr, il est également auteur de plusieurs livres consacrées à XML et au Web 2.0 publiés par O'Reilly et Wrox.  Éric est basé à Paris et vous pouvez le joindre par mail ou le rencontrer dans une des nombreuses conférences auxquelles il participe !",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/eric-van-der-vlist-thumb-143x143-139.png"
+      }
+    ],
+    "ressources": {
+      "video": null,
+      "slides": null
     }
   },
   {
@@ -340,6 +447,27 @@
   {
     "year": 2011,
     "type": "conference",
+    "title": "Les données ouvertes et liées (Linked Open Data) pour les allergiques au RDF",
+    "url": "https://www.paris-web.fr/2011/conferences/les-donnees-ouvertes-et-liees-linked-open-data-pour-les-allergiques-au-rdf.php",
+    "description": "Le web sémantique est un sujet qui polarise. D'un côté, les fanatiques, de l'autre, les allergiques. Un cas pratique pourrait peut-être réconcilier tout le monde, à condition sans doute de réussir à explorer le sujet sans presque mentionner  les mots « RDF » ou « Ontologie ». Relevons le défi: dans cette session, nous explorerons l'adoption par la BBC des principes de « données ouvertes et liées » (Linked Open Data), et ses conséquences sur cette organisation, sa présence en ligne, mais aussi et surtout sa culture.",
+    "tags": [
+      "OpenData"
+    ],
+    "authors": [
+      {
+        "name": "Olivier Thereaux",
+        "description": "Tombé dans le web quand il n'était encore qu'un petit normand étudiant à Paris, Olivier s'est retrouvé au W3C, au Japon, un peu par hasard. Tour à tour développeur, évangéliste de bonnes pratiques du web puis en charge des outils open source du W3C, il s'attelle en parallèle à démocratiser l'art et la culture en co-créant Tokyo Art Beat. Après une escale de quelques années à Montréal passées à jouer au sein de l'agence Phéromone avec cette drôle de bête qu'est l'innovation, il a maintenant posé ses bagages à Londres où il manie ces deux obsessions - web et innovation - à la BBC.",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/olivier-thereaux-thumb-143x143-109.png"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xojr68",
+      "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-PA-07-OThereaux/donnees_ouvertes_liees.pdf"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "conference",
     "title": "Accessibilité : soyons agiles",
     "url": "https://www.paris-web.fr/2011/conferences/accessibilite-soyons-agiles.php",
     "description": "Après une quinzaine d'années de pratique, la boîte à outils de l'accessibilité des projets Web est bien fournie : standards, checklists, méthodes d'application, expertise, tests utilisateurs, validateurs, canaux de feedback... Mais l'existence d'outils n'empêche pas les échecs et les difficultés récurrentes. Et si ce n'était pas une question d'outillage mais de choix et de bon emploi des outils ? Comment en effet choisir l'outil le plus adéquat et en faire le bon usage selon le contexte ? Dans cette conférence, nous partirons d'observations pratiques pour suggérer quelques principes stratégiques de gestion intelligente et efficiente de l'accessibilité. L'objectif est de produire des sites accessibles sans surcoût et sans (trop) faire souffrir les équipes projet.",
@@ -403,6 +531,27 @@
     "ressources": {
       "video": "https://www.dailymotion.com/video/xpluyp",
       "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-PA-06-DRousset/html5_ecriture_application_cross-devices.pdf"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "conference",
+    "title": "L’accessibilité vue d’un grand compte et comment la loi de 2005 a changé nos façons de travailler",
+    "url": "https://www.paris-web.fr/2011/conferences/l-accessibilite-vue-dun-grand-compte-et-comment-la-loi-de-2005-a-change-nos-facons-de-travaille.php",
+    "description": "Le groupe SNCF s'engage jour après jour à offrir à l'ensemble de ses clients un accès facilité au sein de ses gares et à ses trains.  Sur Internet aussi l'accessibilité est devenue une préoccupation de tous les instants pour les différents sites de SNCF.  Avec un parc de site très hétérogène, certaines composantes du groupe ont été plus rapides que d’autres à mettre en place une vraie politique en matière d’accessibilité numérique.  Forts de l’expérience acquise par des pionniers comme TER-SNCF.com (labellisé Argent Accessiweb en 2007), les différentes entités du groupe travaillent désormais toutes pour une meilleure accessibilité des sites.    Que ce soit par la formation et la sensibilisation des salariés, le choix de prestataires, la conception des nouvelles fonctionnalités, le développement : l'accessibilité numérique est désormais ancrée dans les pratiques de l'entreprise au bénéfice quotidien des clients.  C'est même devenu l'un des axes de travail en commun entre les différentes entités du groupe sur Internet.  Dans le cadre de l'ouverture à la concurrence, l'accessibilité numérique et l'expertise acquise en cette matière par le groupe SNCF permettra de se différencier.",
+    "tags": [
+      "Accessibilité"
+    ],
+    "authors": [
+      {
+        "name": "Arthur Rigaud",
+        "description": "Arthur Rigaud, 35 ans, intégrateur web chez VSC Technologies depuis 2006.  Spécialisé dans le développement de sites depuis 10 ans (Maximiles, Primus Télécommunications)  Passionné par les standards et les problématiques d'accessibilité sur Internet il devient Expert en évaluation AccessiWeb et membre du groupe de travail AccessiWeb en mai 2008.",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/arthur-rigaud-thumb-143x143-154.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xojwjg",
+      "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-PA-07-ARigaud/accessibilite_vue_dun_grand_compte.pdf"
     }
   },
   {
@@ -510,6 +659,50 @@
     "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/telechargements/2011/03-samedi/SA-PM-09-RDuhem_Verdiere/integrateur_entre_le_marteau_et_enclume.pdf"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "conference",
+    "title": "Flash ou HTML5 ? Quelle techno choisir et pour quel prix.",
+    "url": "https://www.paris-web.fr/2011/ateliers/le-cout-des-sites-web-html5-versus-flash.php",
+    "description": "Avec l'avènement des navigateurs performants intégrants les dernières technologies, HTML5 - au sens large - devient une alternative viable en lieu et place de Flash. Je rappellerai ce qu'est HTML5, ce qu'il n'est pas et pourquoi il constitue une alternative viable à Flash. Nous verrons également dans quels cas nous pouvons le pousser auprès de nos clients et à quels prix. Je conclurai sur les avantages de l'utilisation des technos standards.",
+    "tags": [
+      "Flash",
+      "HTML5"
+    ],
+    "authors": [
+      {
+        "name": "Adrien Leygues",
+        "description": "Adrien est chef de projet Front-End chez Digitas France.   Diplômé d’un IUT de Services et Réseaux de Communication, Adrien débute dans le Web en tant qu’intégrateur dans une agence web à l’aube de l’an 2000. Il découvre les standards par l’intermédiaire de sites communautaires comme Pompage et de blogs. Il créé Paris-Web aux côtés de Stéphane et d’Éric en 2006.   Il s’occupe aujourd’hui de l’intégration d’une plateforme E-commerce et événementielle pour une grande marque de Luxe. La mise en place des standards est une préoccupation quotidienne depuis plusieurs années et est au cœur des développements.",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/adrien-thumb-143x143-169.jpg"
+      }
+    ],
+    "ressources": {
+      "video": null,
+      "slides": "http://www.paris-web.fr/telechargements/2011/03-samedi/SA-PM-01-ALeygues/flash_ou_html5.pdf"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "conference",
+    "title": "Ouvrir le Web un bug à la fois",
+    "url": "https://www.paris-web.fr/2011/conferences/ouvrir-le-web-un-bug-a-la-fois.php",
+    "description": "Nous nous plaignons souvent du comportement des navigateurs Web. Bien que les implémentations soient parfois bancales, les développeurs de navigateurs doivent faire des choix pas toujours faciles. Entre part de marché et bugs distribués, la marge de manœuvres est fine. Avec un ou deux exemples, vous découvrirez comment ensemble nous pouvons garder simplement le Web ouvert et interopérable.",
+    "tags": [
+      "Interopérabilité",
+      "Navigateurs"
+    ],
+    "authors": [
+      {
+        "name": "Karl Dubost",
+        "description": "Karl est un hédoniste, rêveur en permanente exploration d’un Web ouvert et créatif. Son principal défi dans sa vie professionnelle est de mettre en relation les humains et la technologie. Il s’intéresse aux changements induits dans la société par les réseaux sociaux Web. De 2000 à 2008, il a été Web Community Liaison, HTML WG staff contact, QA Activity Lead et Conformance Manager pour le W3C. Il travaille maintenant comme Web Opener pour Opera Software.",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/karl-dubost-thumb-143x143-134.png"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xnracx",
+      "slides": "http://www.paris-web.fr/telechargements/2011/01-jeudi/JE-GA-07-KDubost/Ouvrir_le_web.pdf"
     }
   },
   {
@@ -646,6 +839,28 @@
   },
   {
     "year": 2011,
+    "type": "conference",
+    "title": "Maîtrisez l'imprévu et le facteur humain dans votre conduite de qualité : la charte CATEEA",
+    "url": "https://www.paris-web.fr/2011/conferences/maitrisez-limprevu-et-le-facteur-humain-dans-votre-conduite-de-qualite-la-charte-cateea.php",
+    "description": "Dans votre gestion de projet web, vous aurez beau avoir avec vous une équipe de super-experts éclairés, il y a des chances que tout le monde ne se retrouve pas totalement dans le résultat final, product owner compris... \"Oui, là, on avait l'intention de rendre cette fonctionnalité accessible, mais en fait, au final on n'a pas trop pu...\" (et l'intégrateur grince des dents).  Pourtant, vous les aviez bien peaufinées, vos specs, et vous vous rappelez comme tout le monde était motivé de bonnes intentions pour construire un site génial ! Mais, les décisions qui n'ont pu se prendre que sur le moment, les contraintes de staffing, et le facteur humain n'ont pas eu d'autre choix que d'altérer la qualité du produit, et ce malgré la qualité des expertises en jeu (et vu que j'aime bien le pathétique, j'appelle ça : \"la déception d'expertise\").  C'est pourquoi je propose une tentative de réponse très KISS à cet effet nocif et usuel, par l'engagement de toutes les personnes ayant un impact sur le projet (PM, PO, responsable dispo, etc, ...) autour d'une charte simple et non-contractuelle, permettant d'organiser logiquement les phases d'imprévu, afin de donner les moyens aux experts les plus pertinents du projet d'apporter les réponses aux questions pertinentes, et de sauvegarder la qualité du résultat final. Cette charte (qui peut avoir des résultats impressionnants en projets réels), se prénomme CATEEA (Collaborative Achievement Through Everyone's Expertise Acknowledgement), et tente de répondre à un maximum de conditions initiales de projets.",
+    "tags": [
+      "KISS",
+      "Métier"
+    ],
+    "authors": [
+      {
+        "name": "Rudy Rigot",
+        "description": "Rudy Rigot est consultant et responsable du pôle des outils et projets internes pour l'agence parisienne de Clever Age, et réalise pour divers clients notamment des missions de conseil, de formations, ou des missions de gestion de projet fonctionnelle et/ou technique. C'est sous cette dernière casquette qu'il voit souvent des projets tourner au compromis de qualité malgré des situations de départ parfois particulièrement prometteuses.  Rudy est aussi le rédacteur du blog au ton décalé \"Rudy on web\", qui parle de web, mais aussi d'autres sujets moins intéressants, bien sûr ! ;)",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/rudy-rigot-thumb-143x143-105.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/k11jFg8M3iOy3u2BFCm",
+      "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-GA-07-RRigot/charte_CATEEA.pdf"
+    }
+  },
+  {
+    "year": 2011,
     "type": "workshop",
     "title": "Premier pas pour le développement accessible",
     "url": "https://www.paris-web.fr/2011/ateliers/premier-pas-pour-le-developpement-accessible.php",
@@ -658,6 +873,27 @@
         "name": "Aurélien Levy",
         "description": "Après une formation initiale de graphiste, Aurélien a complété ses connaissances par une formation de concepteur réalisateur multimédia à l’Institut Supérieur des Arts. En janvier 2004, il devient l’un des premiers \"experts Accessiweb en évaluation\". Il est depuis septembre 2008 expert accessibilité pour le compte de la société Temesis.  Il a notamment co-rédigé le nouveau Référentiel Général d’Accessibilité pour les Administrations de la DGME dans le cadre du décret de la loi Handicap (février 2005) et animé plusieurs conférences dans le domaine de l’accessibilité (INOP, RMLL, réunions des experts du Groupe de Travail Accessiweb, Paris-web 2007,... ). Il a contribué à la prise en compte de l’accessibilité dans des groupes comme Merck Sharp & Dohme-Chibret, Mistergooddeal, Crédit agricole, la Documentation Française et l’ONF.  A titre personnel, il est également un des correspondants en France du WaSP-ILG ce qui l’amène à organiser régulièrement des W3Cafés.  Il est l’auteur de multiples articles au travers de son blog (Fairytells) ou d’OpenWeb.  Enfin, il est l’initiateur de la pétition \"pour l’accessibilité numérique\".",
         "picture": "https://www.paris-web.fr/2011/assets_c/2011/08/aurelien-levy-thumb-143x143-41-thumb-143x143-175.jpg"
+      }
+    ],
+    "ressources": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2011,
+    "type": "conference",
+    "title": "Stockage anodin de données personnelles : conciliez légal et éthique",
+    "url": "https://www.paris-web.fr/2011/ateliers/stockage-anodin-de-donnees-personnelles-conciliez-legal-et-ethique.php",
+    "description": "Vos utilisateurs se montrent probablement méfiants avec vos cookies. Combien d'applications web sont-elles cassées parce qu'un de vos clients utilise une extension bloquant les cookies ? C'est le reflet de leur volonté de contrôler leur vie privée, sans vraiment comprendre la porte technique de leurs actions.  Le cookie n'est pourtant qu'un glaçon posé sur un iceberg. Il ne contient que quelques octets de données et l'utilisateur a un contrôle total sur sa durée de vie. Au contraire, vos clients remplissent vos fichiers journaux et ceux des régies publicitaires opérant sur votre domaine.  Dès que vous collectez une information personnelle, vous avez le devoir d'en assurer sa sécurité, son intégrité mais aussi sa péremption. Ensemble, nous nous pencherons sur plusieurs moteurs de blogs, CMS et autres plate-formes de publication en ligne.  Nous établirons une stratégie et des outils pour instaurer un droit à l'oubli automatique et prouver à tous que vous prenez la confidentialité de vos internautes très au sérieux !",
+    "tags": [
+      "Stockage des données"
+    ],
+    "authors": [
+      {
+        "name": "Florian Le Goff",
+        "description": "Formé à l'étude et à la conception de réseaux, Florian Le Goff a passé plusieurs années à administrer des applications web dans le monde des opérateurs de télécommunication. Il est maintenant co-fondateur et responsable de l'architecture technique d'un éditeur logiciel dans la santé, 9H37 SAS.  Les traces qu'il laisse l'ont toujours intéressé, du point de vue philosophique comme technique. Inspiré par les campagnes de l'EFF, c'est finalement en manipulant des données médicales qu'il commence à vraiment réfléchir à comment concilier respect de la vie privée et nécessité technique de la rétention de données.",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/florian-le-goff-thumb-143x143-138.png"
       }
     ],
     "ressources": {
@@ -814,6 +1050,27 @@
     "ressources": {
       "video": "https://www.dailymotion.com/video/xpn6fc",
       "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-PA-02-CCelines/la_sagesse_du_web.pdf"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "conference",
+    "title": "Le web développement durable : Green IT à toutes les sauces",
+    "url": "https://www.paris-web.fr/2011/conferences/le-web-developpement-durable-green-it-a-toutes-les-sauces.php",
+    "description": "Quel est l'impact de nos métiers du numérique au plan environnemental, sociétal et économique ? Le motif écologique orientant les décisions vers la dématérisalisation est-il viable ? Les interfaces numériques, les développements informatiques, les hébergeurs, l'obsolescence des applications et des matériels : tous influencent nos comportements et nos habitudes. De leur fabrication à leur utilisation, les technologies de l'information et de la communication ont une empreinte sur notre environnement.  Le Green IT, nous en mangeons quotidiennement et à toutes les sauces. Pouvons-nous l'embrasser ? *kiss the green*",
+    "tags": [
+      "Green IT"
+    ],
+    "authors": [
+      {
+        "name": "Christophe Clouzeau",
+        "description": "Gérant, UX ergonome à forte sensibilité pour le respect des standards du web et des normes d'accessibilité numérique.  De formation en écoles d'art et de multimédia (Estienne + Gobelins), son parcours professionnel englobe l'ensemble des métiers de l'image : livre, presse, communication, image de synthèse, audiovisuel, offline. Il tombe dans la marmite du web en 1996 pour ne plus en sortir. Tour à tour chef de projet artistique et associé d'agences de communication, il assume aujourd'hui la direction d'une agence spécialisée dans le design interactif et le développement durable : Neoma Interactive.",
+        "picture": "https://www.paris-web.fr/2011/assets_c/2011/07/christophe-clouzeau-thumb-143x143-170.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xpfv2p",
+      "slides": "http://www.paris-web.fr/telechargements/2011/02-vendredi/VE-GA-04-CClouzeau/le_web_developpement_durable.pdf"
     }
   },
   {

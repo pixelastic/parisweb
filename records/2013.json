@@ -87,6 +87,27 @@
   {
     "year": 2013,
     "type": "conference",
+    "title": "Web Apps et sites web, le jeu des différences",
+    "url": "https://www.paris-web.fr/2013/conferences/web-apps-et-sites-web-le-jeux-des-differences.php",
+    "description": "Les récentes évolutions de HTML, CSS et JavaScript nous conduise vers un univers que l'on qualifie \"d'applicatif\". De nouveau groupes de travail  au W3C ont d’ailleurs des noms évocateurs : \"System Application\", \"Device API\" ou encore \"Web Applications\". Voila, le mot est jeté, \"Web Applications\". Alors que le web évolue, qu'est-ce qu'une application web ? En quoi est-ce différents des sites web que nous connaissons ? Et par rapport à une application ordinaire ? En 15 minutes, nous poserons les bases de ces différences pour ne pas rater cette marche en avant inexorable du web. Que ce soit d'un point de vue technique ou conceptuel, vous repartirez avec tout ce que vous devez savoir pour creuser ce nouveau paradigme applicatif.",
+    "tags": [
+      "web apps"
+    ],
+    "authors": [
+      {
+        "name": "Jérémie Patonnier",
+        "description": "Au sortir d’études d’imprimerie et d’arts appliqués, Jérémie se lance dans le Web en tant que designer web. Il découvre alors le développement informatique, trouve ça rigolo et décide de devenir développeur web. Comme ça ne lui suffit toujours pas, il décide de passer au management en devenant responsable d’équipe web. Après toutes ces tribulations, il est maintenant consultant web pour l’agence parisienne du cabinet d’expertises Clever Age. Il est également contributeur au projet Mozilla, où il participe à la documentation des technologies du Web ouvert sur le Mozilla Developer Network (MDN).",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/07/JeremiePatonnier-thumb-143x143-349.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/83910159",
+      "slides": "http://www.paris-web.fr/2013/websites.pdf"
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
     "title": "S.A.R.A.H. maison intelligente pour connecter l'internet des objets",
     "url": "https://www.paris-web.fr/2013/conferences/sarah-maison-intelligente-pour-connecter-linternet-des-objets.php",
     "description": "Un peu de science fiction pour manipuler et faire communiquer l’internet des objets.  Durant ces 15 dernières années nous avons vu émerger et se consolider le web, ses API, ses usages autour l’Open Software. Une deuxième vague du web est apparue depuis peu autour de l'internet mobile. Il faut de nouveau normaliser les APIs et Usages.  Maintenant, le réel rencontre le virtuel avec l’Open Hardware : des objets construits comme des LEGOs, connectés et communiquant avec notre vie numérique. Une lame de fond présente depuis 2005 en train d'exploser dans notre quotidien. Mais tout est encore à normaliser...  Comment aborder ce Tsunami ? Quels enjeux ? Quelle est la place du métier du web dans cette aventure ? Une avancée aussi pour l'accessibilité ?  S.A.R.A.H. est un petit framework, open source, visant à faire communiquer ces objets connectés et à interagir naturellement avec eux dans la maison, au bureau, etc. via de la reconnaissance vocale, gestuelle, faciale, QRCode, NFC...  L’idée n’est pas de proposer une Nième box domotique, mais de combler un manque pour faire communiquer les objets simplement. Et surtout donner accès, aujourd'hui, à ces technos, qui seront les enjeux de demain. Les métiers du web changent constamment...  Le projet : http://encausse.net/s-a-r-a-h/  La communauté : https://plus.google.com/u/0/communities/105964514508504667709",
@@ -285,6 +306,28 @@
   },
   {
     "year": 2013,
+    "type": "conference",
+    "title": "Boucles de rétroactions, ou comment personnaliser vos applications",
+    "url": "https://www.paris-web.fr/2013/conferences/boucles-de-retroactions-ou-comment-personnaliser-vos-applications.php",
+    "description": "Le web est un monde hyper globalisé et tout à fait décentralisé. Les modes de vie de chacun de vos utilisateurs peuvent être radicalement différents les uns des autres.  Alors pourquoi continuer à leur envoyer une notification le matin à 10h (heure de Paris) et un récapitulatif le samedi à 14h ? Pourquoi ne pas vous adapter à Edgar, qui a l'habitude de travailler le week-end et de lire ses e-mails le soir, au coin du feu, avec un délicieux breuvage à la main ? Et à l'ensemble de combinaisons rendues possibles par les fuseaux horaires, les modes de vie de chacun et leurs passions ?  Les boucles de rétroactions (Feedback Loops) permettent de remonter en temps réel des informations sur l'utilisation faite par chacun de vos utilisateurs de votre application. Les nombreuses données contenues dans vos outils d'analyse et vos bases de données vous permettent de déclencher des actions ayant plus de sens au niveau de l'ergonomie générale de votre service.  Internet ne repose pas que sur des pages web. C'est un ensemble de services et de protocoles de communication. Si vous savez que vos utilisateurs sont loin de leurs claviers à certains moments de la journée, vous avez là une une occasion de fournir un service sur mesure, qui peut également dépasser les limites de l'Internet pour continuer sur les réseaux téléphoniques et postaux.  Nous verrons ensemble comment la « Big Data » peut concerner tout le monde et comment des analyses très rapides et des outils tout à fait standard peuvent vous permettre de faire de la haute couture, sur mesure, pour toutes et tous.",
+    "tags": [
+      "analyse des données",
+      "ergonomie"
+    ],
+    "authors": [
+      {
+        "name": "Florian Le Goff",
+        "description": "Florian Le Goff est en charge des relations avec les développeurs chez Mailjet. Il réside à Lille dans le Nord, où il co-organise la conférence TakeOff, un des principaux évènements techniques et anglophones au nord de Paris. Florian est également le co-fondateur d'ubinect, le pionnier de la gestion de cabinet médical libéral en mode web.",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/07/Florian-Le-Goff-thumb-143x143-348.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/83484863",
+      "slides": null
+    }
+  },
+  {
+    "year": 2013,
     "type": "workshop",
     "title": "Analysing Complex User Needs with User Matrices",
     "url": "https://www.paris-web.fr/2013/ateliers/analysing-complex-user-needs-with-user-matrices.php",
@@ -399,6 +442,27 @@
   },
   {
     "year": 2013,
+    "type": "conference",
+    "title": "Être bien pour produire bien",
+    "url": "https://www.paris-web.fr/2013/conferences/etre-bien-pour-produire-bien.php",
+    "description": "Quel lien peut-on raisonnablement faire entre le bien-être du travailleur et la qualité de ce qu’il produit ? Comment mesurer le bien-être d’un collaborateur ? Comment l’améliorer et mesurer l’impact de ces améliorations ?  C’est donc de l’humain et de son influence sur la qualité produite qu’il sera question.  Vous pouvez apporter de la matière à la conférence en remplissant le sondage Bien-être et qualité du travail.",
+    "tags": [
+      "qualité"
+    ],
+    "authors": [
+      {
+        "name": "Delphine Malassingne",
+        "description": "Delphine Malassingne est Responsable qualité chez Ekino. Elle y accompagne les équipes dans la production de livrables de qualité mais aussi dans la façon de produire. Son enthousiasme pour le partage de connaissance l’ont amené en parallèle à participer à des projets communautaires (w3qualité, Opquast Checklists, Paris Web, notamment). Elle essaye en parallèle “d’avoir une vie” en dessinant un peu, en calligraphiant et a même réussi à aligner trois points de couture !",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/07/delphine-malassingne-thumb-143x143-346.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/80349437",
+      "slides": null
+    }
+  },
+  {
+    "year": 2013,
     "type": "workshop",
     "title": "Votre site à l'épreuve des tests utilisateurs DIY, on vient avec nos ergonomes (3 heures)",
     "url": "https://www.paris-web.fr/2013/ateliers/venez-avec-votre-site-et-testons-le.php",
@@ -464,6 +528,27 @@
     "ressources": {
       "video": null,
       "slides": null
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
+    "title": "Je code donc je teste …",
+    "url": "https://www.paris-web.fr/2013/conferences/-je-code-donc-je-teste.php",
+    "description": "La notion de test est complètement intégrée dans le monde professionnel (R&D, panel d'utilisateurs, concept car) et plus particulièrement dans l’informatique. Historiquement, le front a longtemps été le parent pauvre du test. Passons sur les illustres « alert » et « console.log », il aura fallu attendre des outils comme Selenium pour professionnaliser la démarche.   Aujourd’hui les solutions sont abouties, complètes et utilisables et il y en a pour tous les goûts. Des tests unitaires, des tests d’intégrations en passant par les tests fonctionnels, les tests de compatibilités, les tests end2end…  C’est parti… Voyons ensemble la meilleure façon de les exploiter.  Nous avons les outils, nous n’avons plus d’excuses.",
+    "tags": [
+      "tests"
+    ],
+    "authors": [
+      {
+        "name": "Cyril Balit",
+        "description": "Cyril Balit est architecte RIA dans la société Ekino.   Après un parcours atypique de biologie, du Cobol, du VB et du Java, Cyril découvre le développement web au début des années 2000 en créant le projet open source Rialto. Il s’intéresse par la suite au développement Flex et mobile.   Actuellement Cyril encadre une équipe de développeurs front orientée web, Flex/Flash et mobile.",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/cyrilbalit-thumb-143x143-371.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/77859376",
+      "slides": "http://www.paris-web.fr/2013/je-code-donc-je-teste.pdf"
     }
   },
   {
@@ -561,6 +646,27 @@
   {
     "year": 2013,
     "type": "conference",
+    "title": "L'intégration, ce monde du « ça dépend »",
+    "url": "https://www.paris-web.fr/2013/conferences/lintegration-ce-monde-du-ca-depend.php",
+    "description": "En 2012, nous avons tué le mythe de la fin du monde. En 2013, nous allons tuer le mythe « il y a UNE vérité absolue en intégration ».  Il n'y a pas UNE vérité en intégration, mais des DIZAINES. Tout est fonction du contexte et de choix.  A l'aide d'exemples simples, nous verrons que quelques vérités bien ancrées peuvent, selon le contexte, se démonter en quelques secondes avec des contre-exemples.  Enfin, nous essaierons de montrer les leviers qui peuvent aider à la décision dans cette jungle impitoyable.",
+    "tags": [
+      "intégration"
+    ],
+    "authors": [
+      {
+        "name": "Nicolas Hoffmann",
+        "description": "Nicolas (Nico pour les intimes... et pour les autres aussi !) est intégrateur depuis une dizaine d'années en web agency en Suisse.   C'est en 2003 qu'il découvre les CSS suite à une sombre histoire de tableaux et de templates impossibles à faire fonctionner ensemble. Depuis il est tombé amoureux des CSS mais ça c'est une autre histoire.  Performances web, Web Mobile, Intégration, CSS, Qualité Web, Accessibilité, etc. tout ce qui permet de faire des sites de qualité l'intéresse.  Co-directeur du collectif OpenWeb, il contribue également à sa quête du \"Web bien fait\" via des articles : sur Openweb donc, sur Alsacréations, le Train de 13H37, et plus largement à divers projets ayant trait à la qualité Web comme OPQuast, etc.",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/nicolas-hoffmann-thumb-143x143-329.png"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/81314508",
+      "slides": "http://www.paris-web.fr/2013/lintegration-ce-monde-du-ca-depend.pdf"
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
     "title": "Goûts et mauvais goût : de la subjectivité en design",
     "url": "https://www.paris-web.fr/2013/conferences/gouts-et-mauvais-gout-de-la-subjectivite-en-design.php",
     "description": "Découvrez pourquoi certains design sont haïs par le monde entier et pourquoi la femme de votre boss aime le violet-marron.   \"Ça dépend des goûts\", cette phrase rendrait fou n'importe quel designer, tellement elle nous plonge dans un abîme où l'argumentation n'a plus de prise. En effet, les designers aiment à penser qu'un bon design n'est pas une affaire de goûts. Un design répond à des objectifs précis, on peut donc analyser objectivement ses qualités. Le subjectif n'aurait rien à voir la dedans. Vraiment ? Pourtant il arrive régulièrement que des designs soient décriés pour leur laideur par toute la communauté des designers. On ne reproche pas à ces réalisations des erreurs fonctionnelles (un manque d'ergonomie, une typo illisible ou des contrastes mal équilibrés), on dit juste que c'est affreusement laid. Alors est-ce que le mauvais goût existe réellement ? Et si c'est le cas, comment éviter que notre site ne devienne la prochaine risée d'Internet ? Pas de panique, nous tenterons d'y répondre à l'aide d'une Comic Sans.",
@@ -582,6 +688,28 @@
   {
     "year": 2013,
     "type": "conference",
+    "title": "Les 7 préceptes d'un projet web raté !",
+    "url": "https://www.paris-web.fr/2013/conferences/les-7-preceptes-dun-projet-web-rate.php",
+    "description": "Il a toujours été plus facile de complètement rater un projet que d'en assurer un réussite pleine et complète. Mais quels sont les problèmes rencontrés qui, par effet boule de neige, nous conduisent à doubler les temps de production, à tripler les ressources prévues initialement ou pire, à livrer une application totalement décalée des besoins du client ?  Multiplicité des métiers du web, mauvaise utilisation des canaux de communication, mauvais choix de méthode et d'outils sont surement des pistes, mais je suis sur que nous pouvons faire encore mieux pour arriver au pire projet web jamais réalisé.",
+    "tags": [
+      "décalé",
+      "gestion de projet"
+    ],
+    "authors": [
+      {
+        "name": "Julien Oger",
+        "description": "Chef de Projet chez GLOBALIS media systems depuis 5 ans, Julien travaille dans le web depuis une dizaine d'années pour de petits et grands comptes (BNP, Saint-Gobain, Fédération Française de couture, SNCF, etc.) sur des sujets aussi divers que de l'assistance MOA, audit organisationnel, gestion de projet au forfait, organisation de TMA.  Julien est également responsable de l'organisation des méthodes de travail dans la société et a participé à l'élaboration d'une méthode de travail adaptée aux besoins de GLOBALIS en empruntant à Scrum, Xtrem programming et Crystal Clear.",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/julien.oger-thumb-143x143-309.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/78762444",
+      "slides": "http://www.paris-web.fr/2013/les-7-preceptes-dun-projet-web-rate.pdf"
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
     "title": "La rencontre entre hacktivisme et sociétés civiles, un enjeu pour les libertés numériques",
     "url": "https://www.paris-web.fr/2013/conferences/la-rencontre-entre-hacktivisme-et-societes-civiles-un-enjeu-pour-les-libertes-numeriques.php",
     "description": "Avec le développement mondial d'Internet, les échanges n'ont jamais été aussi nombreux. De ce point de vue, la liberté de communiquer et de s'informer ne cesse de s'étendre. Cette liberté est pourtant extrêmement fragile : hier en Tunisie et en Égypte, aujourd'hui en Syrie, en Chine, en Iran, le pouvoir politique n'hésite pas à censurer le réseau, voire à le couper, pour assurer son emprise sur les populations civiles. Même dans les pays démocratiques, le déploiement d'arsenaux législatifs conçus pour protéger tantôt la sécurité, tantôt les industries culturelles, met à mal le principe de neutralité du Net. Nombreuses ont été les tentatives de faire peser sur les intermédiaires techniques la \"régulation\" des échanges, au détriment du pouvoir judiciaire. La vie privée est, elle aussi, de plus en plus menacée, que ce soit par le développement de technologies intrusives comme le Deep Packet Inspection, ou par la concentration des données personnelles sur les serveurs de quelques acteurs dominants. Demain, l'Internet des objets, si prometteur et enthousiasmant par bien des aspects, ne pourrait-il pas tourner au cauchemar, faute d'un véritable débat citoyen sur ses enjeux en termes de libertés fondamentales ?  S'assurer que les avancées technologiques profitent à tous, qu'elles soient le terreau fertile du développement social et économique, sans devenir les outils d'une surveillance généralisée, tel est le défi des années à venir. Aujourd'hui, ce sont principalement les hacktivistes qui portent ces sujets. Qu'ils militent pour la promotion d'outils libres et ouverts, construisent des réseaux de communication décentralisés, aident les cyberdissidents à s'exprimer sans risquer leur vie, ou se lancent directement dans l'arène politique, ils posent sans cesse la même question : tous connectés, d'accord, mais comment ? Cette articulation entre culture technique et problématique citoyenne est au cœur des mutations en cours. La compréhension et la maîtrise réelle des outils numériques par le plus grand nombre sera la meilleure garantie des libertés fondamentales. Il est aujourd'hui crucial, et urgent, de mieux partager ces compétences, de construire des ponts entre les communautés hackers / hacktivistes, les acteurs de la société numérique et les citoyens.  Cette communication s'attachera à expliciter les enjeux de la protection des droits numériques, le rôle des hacktivistes dans la promotion de ces droits, et proposera enfin quelques pistes de rapprochement entre hacktivistes et sociétés civiles, via notamment ces lieux collaboratifs que sont les hackerspaces, les makerspaces et les FabLabs.",
@@ -598,6 +726,48 @@
     "ressources": {
       "video": "https://vimeo.com/85155687",
       "slides": "http://www.paris-web.fr/2013/Hacktivisme.pdf"
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
+    "title": "Le paradoxe du choix",
+    "url": "https://www.paris-web.fr/2013/conferences/le-paradoxe-du-choix.php",
+    "description": "Le paradoxe du choix est un concept psychologique, étudié par le psychologue américain Barry Schawrtz, auteur d'un livre éponyme.  Ce paradoxe exprime notre comportement face à l'excès de choix dans notre quotidien. En effet, à toujours revendiquer notre liberté, nous avons maintenant beaucoup, et même trop de choix, ce qui nous amène à des comportements particuliers : la paralysie, l'insatisfaction et la culpabilité.  Durant cette mini-conférence, nous étudierons ce paradoxe afin de tenter d'en comprendre les implications au niveau des comportements et usages des utilisateurs, notamment dans l'e-commerce.",
+    "tags": [
+      "décalé"
+    ],
+    "authors": [
+      {
+        "name": "Anne Lacan",
+        "description": "Diplômé de l'EPITA en 2011, je suis passionnée par le web et surtout par l'expérience utilisateur et toutes les disciplines qui en découle. Après un bref passage en société de service ou j'ai immédiatement compris que je ne trouverai pas le bonheur, je suis rentrée chez Incubart (responsable de plusieurs place de marché autour des métiers de l'artisanat comme alittlemarket.com) où j'occupe un poste d'intégrateur et ergonome.",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/anne-lacan-thumb-143x143-334.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/83618669",
+      "slides": null
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
+    "title": "Un bon design n'est pas beau !",
+    "url": "https://www.paris-web.fr/2013/conferences/un-bon-design-nest-pas-beau.php",
+    "description": "Le beau est le plus grand tyran de monde de la conception.  Que demande-t-on à un designer ? La complexité des sites qu'il a conçu ? Les contraintes posées ? L'efficacité de son design ? Le taux de conversion record réalisé ? Non. La première chose qu'on lui demande bien souvent, c'est son portfolio.   « Ah, je ne m'aime pas. Ah, ce n'est pas beau. » La lame de la guillotine tombe et roule la tête...   Pourtant, les plus grandes réussites en terme de conception, de prise en charge de l'utilisateur ne sont pas de \"beaux sites\" mais des sites bien conçus, bien ciblés. Le bon coin ? Ce n'est pas très beau mais c'est réussi. Cdiscount ? C'est horrible, mais ça fonctionne.   Une conférence qui va entraîner les participants à la recherche du tyran à travers les marais du marketing, le dangereux temple de l'élitisme et les montagnes de la remise en question permanente. Y aura-t-il un combat final ? Nul ne le sait. Mais c'est le chemin qui est important.",
+    "tags": [
+      "design"
+    ],
+    "authors": [
+      {
+        "name": "Sébastien Desbenoit",
+        "description": "Après des études de mathématiques et des débuts dans la communication dans une galerie d'art moderne et contemporain, Sébastien Desbenoit est designer chez ThinkInnovation. Passionné par la vulgarisation et la visualisation, il tente sur son blog « Internet et Moi » de rendre compréhensible Internet et ses phénomènes à l'aide d'infographies. Il contribue également au site WebPlatform.org (icônes & contenus) et fait partie de l'équipe qui organise la conférence Sud Web.",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/sebastien-desbenoit-thumb-143x143-343.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/80972988",
+      "slides": "http://www.paris-web.fr/2013/un_bon_design_n_est_pas_beau.pdf"
     }
   },
   {
@@ -775,6 +945,27 @@
   {
     "year": 2013,
     "type": "conference",
+    "title": "Keep calm and carry on",
+    "url": "https://www.paris-web.fr/2013/conferences/keep-calm-and-carry-on.php",
+    "description": "Quel responsable d'équipe n'a jamais été confronté à cette situation particulièrement difficile où un collaborateur est soumis à un stress psychologique intense et n'arrive pas y faire face ? Dans ce cas, comment réagir ? C'est ce que j'ai vécu il y quelques mois. Le stress d'une collaboratrice était si fort qu'il en devenait même nocif pour les autres membres de l'équipe. Avec un autre responsable du projet, nous avons essayé plusieurs méthodes afin de diminuer ce stress, malheureusement nous avons pu constater que nous n'étions pas formés pour faire face à ce genre de situation. Nous avons dans un premier temps tenté le mode compréhension/discussion. Nous avons également essayé une manière plus directive : en modifiant nous-mêmes les objectifs, en revoyant le planning.   Mais rien n'y faisait : le stress était là et persistait. Dans ce cas, comment gérer les personnes en situation de stress psychologique insurmontable? Telle est la question que je me suis posée. J'ai finalement trouvé une solution grâce à un échange avec un professeur d'arts plastiques : il fallait ramener cette collaboratrice dans le concret, la réalité. En effet, le stress est surtout dû à un écart entre la réalité et la vision de la réalité que se construit la personne. Pour l'aider, j'ai donc développé trois exercices basés sur des techniques de créativité (Innovation Games®, mind-map et Lego®) autour de la notion de concrétisation du problème afin de la ramener dans la réalité :  (1) Accepter la limite de la quantité de travail que je peux faire, (2) Identifier les moments d'augmentation du stress,  (3) Identifier les problèmes rencontrés et les comprendre.   La présentation définira rapidement la notion de stress, je présenterai ensuite les exercices créés et leurs résultats.",
+    "tags": [
+      "décalé"
+    ],
+    "authors": [
+      {
+        "name": "Lou Schwartz",
+        "description": "Lou Schwartz est Ingénieur Recherche et Développement au Centre de Recherche Public Henri Tudor à Luxembourg depuis 2006 où elle s'intéresse aux questions liées à l'ergonomie, l'agilité, la personnalisation et l'amélioration de la qualité du logiciel. Ses recherches sont principalement centrées sur la façon d'améliorer la qualité des logiciels en abordant les problèmes d'utilisabilité, en particulier dans les projets agiles et le contexte spécifique de prototypage prospective. Elle se concentre avant tout sur la phase d'émergence des exigences en utilisant notamment les techniques de créativité et la conception centrée sur l'utilisateur.   Elle est l'un des membres fondateurs de l'Association des professionnels de l'utilisabilité France-Luxembourg (FLUPA).",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/lou_scwhartz-thumb-143x143-362.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/83485352",
+      "slides": "http://www.paris-web.fr/2013/keep-calm-and-carry-on.pdf"
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
     "title": "Esthétique et pratique du Web qui rouille",
     "url": "https://www.paris-web.fr/2013/conferences/esthetique-et-pratique-du-web-qui-rouille.php",
     "description": "Artisans du Web, parlons de notre matériau. Le Web : extraordinaire, flexible, formidable et fragile, étonnant et changeant. Méconnu. Concevoir un site Web implique des choix sur la pérennité du partage de l’information. Cela nécessite aussi une compréhension de l'érosion de l'information.  Entre l'exploration de techniques concrètes de la refonte d'un site (défi : sans tout casser !) à la mise en place d'une stratégie de l’archivage du Web contemporain, nous essaierons de mieux comprendre la pérennité, la transformation, la matérialité de l’information; et bien sûr les avantages et problèmes de son érosion.  Accepter un Web qui rouille, c'est, inévitablement, en découvrir une nouvelle esthétique. C'est aussi l'occasion de formuler une pratique du Web qui à la fois en renforce notre compréhension et nous permet de réaliser des choix pertinents lors de la conception et la gestion de nos sites.  Quelques pistes : http://olivier.thereaux.net/2013/01-Digital-Decay/ http://www.24joursdeweb.fr/2012/un-site-web-de-1000-ans/  Rendez-vous à Paris Web 2013 pour en discuter ensemble.",
@@ -797,6 +988,27 @@
     "ressources": {
       "video": "https://vimeo.com/83618670",
       "slides": "http://www.paris-web.fr/2013/rouille.pdf"
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
+    "title": "Bonnes pratiques des API",
+    "url": "https://www.paris-web.fr/2013/conferences/bonnes-pratiques-des-api.php",
+    "description": "L'API est un peu le Graal des données mais elle a un défaut majeur : une fois publiée, vous n'en contrôlez plus les clients, et faire évoluer les bases n'est pas évident. Ce que vous construisez est là pour longtemps. Quelles sont les retours d'expériences et bonnes pratiques pour ne pas se prendre les pieds dans le tapis ?  Vous avez certainement déjà entendu parler de REST, mais les choses sont plus complexes que ça. Comment gérer les évolutions et les versions de l'API ? Les formats en entrée et en sortie ? Les variations et paramètres d'une même ressource ? Les relations entre ressources ? La sécurité ? L'authentification ? La gestion des erreurs ? La pagination ? L'i18n et l10n ? Qu'est-ce que l'hypermedia ?   Plus généralement, nous partons avec pour objectif premier de concevoir une API le plus tôt possible, avec des bases solides mais les plus simples possible.",
+    "tags": [
+      "API"
+    ],
+    "authors": [
+      {
+        "name": "Éric Daspet",
+        "description": "Après un parcours d'expert PHP, ingénieur web à Yahoo!, consultant en technologies web, responsable innovation, expert performance web et architecte S.I., Éric est désormais directeur technique de TEA, une startup qui met sur pied un modèle ouvert de distribution de livres numériques.  En parallèle Éric est très attaché au partage des connaissances dans la communauté web et met en avant depuis plusieurs années la notion de qualité web. Au milieu d’articles dans la presse, d’une participation à Openweb et de nombreuses conférences, il a co-écrit le livre « PHP 5 avancé » aux éditions Eyrolles et est à l’origine des conférences Paris Web avec Stéphane et Adrien.  Éric Daspet : http://eric.daspet.name/ TEA : http://www.tea-ebook.com/",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/eric-daspet-thumb-143x143-333.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/77859591",
+      "slides": "http://www.paris-web.fr/2013/bonnes-pratiques-des-api.pdf"
     }
   },
   {
@@ -845,6 +1057,49 @@
   },
   {
     "year": 2013,
+    "type": "conference",
+    "title": "Mobile et accessibilité, une partie à Troie",
+    "url": "https://www.paris-web.fr/2013/conferences/mobile-et-accessibilite-une-partie-a-troie.php",
+    "description": "L’arrivée du Web mobile est peut-être la meilleure nouvelle de ces dernières années pour l’accessibilité. Pensez donc : du jour au lendemain, il faut reconstruire les sites en fonction de contraintes qui recoupent quasi-systématiquement celles de l’accessibilité : du pain béni !  Apprenez donc comment faire rentrer l’accessibilité dans le cheval de Troie du Web mobile, à rendre un design responsive accessible, et les autres bénéfices collatéraux du Web mobile.",
+    "tags": [
+      "accessibilité",
+      "web mobile"
+    ],
+    "authors": [
+      {
+        "name": "Goulven Champenois",
+        "description": "Intégrateur passionné, Goulven Champenois jongle avec l’accessibilité, l’ergonomie, les performances et le mobile pour une expérience utilisateur optimale intégrant les dernières évolutions technologiques.  Formé en grande partie grâce aux sites Openweb et Pompage, il rejoint ce projet en 2006. Trouvant le temps trop long entre deux éditions de Paris Web, il participe à l'organisation de SudWeb depuis 2011.",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/goulven.champenois-thumb-143x143-312.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/83485350",
+      "slides": "http://paris-web.fr/2013/Mobile_et_Accessibilite_une_partie_a_troie.pdf"
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
+    "title": "Les méthodes d’influence dans le web par l’exemple",
+    "url": "https://www.paris-web.fr/2013/conferences/les-methodes-dinfluence-dans-le-web-par-lexemple.php",
+    "description": "Nous sommes tous des consommateurs, et sur internet nous consommons tous. Certains acteurs du numérique cherchent par tous les moyens à nous faire agir : acheter, échanger, participer, etc.  Les techniques utilisées sont issues des méthodes d’influence, voire même de manipulation. Pour les mettre en évidence, c’est sous l’angle de l’utilisateur que je vous montrerai des sites présents dans notre quotidien. Je mettrai en exergue les méthodes de persuasion utilisées, tout au long du parcours utilisateur. Quelles sont celles que nous rencontrons le plus souvent ? Quelles sont les plus efficaces et dans quel contexte? Et pour finir, que peut-on penser de l’usage de telles méthodes ?",
+    "tags": [
+      "influence"
+    ],
+    "authors": [
+      {
+        "name": "Yannick Bonnieux",
+        "description": "Après un parcours de plus de 10 ans dans le numérique et un Master en management à GOBELINS, l'école de l'image, Yannick a eu l’occasion d'interagir sur de multiples problématiques. Il commence sa carrière comme infographiste avant d'arriver chez Ekino et de devenir UX Designer. Ainsi il ajoute une corde à son arc pour conseiller et intégrer en amont les attentes des utilisateurs, les besoins business et faciliter l’usage dans la conception d'expériences innovantes. Les différents postes qu'il a occupés lui permettent aujourd'hui de travailler plus facilement avec les différents profils de l’agence : graphistes, développeurs, consultants marketing et techniques.",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/Yannick-Bonnieux-thumb-143x143-331.png"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/83618666",
+      "slides": "http://www.paris-web.fr/2013/les-methodes-dinfluence-dans-le-web-par-lexemple.pdf"
+    }
+  },
+  {
+    "year": 2013,
     "type": "workshop",
     "title": "Construire pour le futur",
     "url": "https://www.paris-web.fr/2013/ateliers/construire-pour-le-futur.php",
@@ -862,6 +1117,28 @@
     "ressources": {
       "video": null,
       "slides": null
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
+    "title": "Vers une nouvelle éthique",
+    "url": "https://www.paris-web.fr/2013/conferences/vers-une-nouvelle-ethique.php",
+    "description": "Du client qui a un comportement spammeur, à l'image désastreuse que colportent certains médias d'internet, il est peut-être temps d'aller au-delà de notre métier, de notre rôle de conseil, et de s'imposer pour que les lois ne s'écrivent plus contre nous. Nous avons un devoir de protection. Expliquer en quoi la neutralité des réseaux est importante, en quoi le verrou des constructeurs/opérateurs est un danger à moyen terme, en quoi la protection de notre vie privée et de notre présomption d'innocence n'est pas négociable.",
+    "tags": [
+      "éthique",
+      "neutralité"
+    ],
+    "authors": [
+      {
+        "name": "Xavier Mouton-Dubosc",
+        "description": "Dresseur de punks à chiens, bipeur en logos monochromes puis rédacteur en blagues téléphonées… Il m'a fallu du temps pour devenir développeur web “professionnel”. Après 7 années en indépendant, après avoir conçu ma solution qui n'a évidemment pas décollé (dagence.pro), j’ai rejoins Simtie.fr, un service de gestion de documents où je fais le pari qu’un respect des standards aide à écrire pour le très long terme.  Mon blog reste moche, je chronique de la BD et je fais de la radio.",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/08/xavier-moutondubosc-thumb-143x143-369.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/81314507",
+      "slides": "http://paris-web.fr/2013/VersUneNouvelleEthique.pdf"
     }
   },
   {
@@ -934,6 +1211,27 @@
   {
     "year": 2013,
     "type": "conference",
+    "title": "\"Accessibiliser\" avec subtilité",
+    "url": "https://www.paris-web.fr/2013/conferences/accessibiliser-avec-subtilite.php",
+    "description": "Aujourd'hui encore, beaucoup estiment que l'accessibilité ne fait que brider la créativité et appauvrir les designs. D'autres la résument à une multitude d'exigences techniques complexes et chronophages limitant les possibilités d'interactions dans les interfaces.  Pour contribuer à faire tomber ces préjugés, je vous présenterai quelques astuces simples d'accessibilité permettant d'améliorer l'ergonomie et l'expérience d'utilisation de vos interfaces web.",
+    "tags": [
+      "accessibilité"
+    ],
+    "authors": [
+      {
+        "name": "Johan Ramon",
+        "description": "Après plusieurs années en agence Web au poste de développeur front-end puis responsable qualité, Johan rejoint la société Atalan en 2011 et devient consultant en accessibilité numérique.  Il intervient sur des missions d’assistance technique, dans la réalisation d’audits et recettes accessibilité ainsi que dans l’animation des formations techniques proposées par la société. Il est également corédacteur des notices du projet AcceDe Web.",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/johan-ramon-thumb-143x143-327.png"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/83912475",
+      "slides": "http://www.paris-web.fr/2013/accesibiliser.pdf"
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
     "title": "Théorie du flow et webdocumentaires",
     "url": "https://www.paris-web.fr/2013/conferences/theorie-du-flow-et-webdocumentaires.php",
     "description": "Mihály Csíkszentmihályi. Derrière ce nom barbare se cache un psychologue hongrois qui a, en 1970, formalisé la théorie du flow cognitif. Cette série de principes, bien connue des designers d'expérience, est à la base du plaisir qu'on peut ressentir devant des objets interactifs bien conçus, les bons jeux vidéo par exemple. Mais comment pourrait-on essayer d'appliquer cette théorie pour raconter des histoires documentaires interactives sur le web ? Cette présentation serait une adaptation de cet article : Théorie du flow et webdocumentaires.",
@@ -973,6 +1271,27 @@
     "ressources": {
       "video": "https://vimeo.com/79204119",
       "slides": "http://www.paris-web.fr/2013/slides-unpetitpaspourlemungrandpaspourleweb.pdf"
+    }
+  },
+  {
+    "year": 2013,
+    "type": "conference",
+    "title": "Impactful User Experience Strategy",
+    "url": "https://www.paris-web.fr/2013/conferences/impactful-user-experience-strategy.php",
+    "description": "Impactful User Experience Strategy  Today, we know and use many tools and techniques to better understand users and to design for them. However, translating research results to the creative design process remains a challenge. How can we make design and research meet in order to have practical, business impact?     Stratégie efficace de l'expérience utilisateur Nous connaissons et utilisons aujourd'hui de nombreux outils et techniques nous permettant de mieux comprendre les utilisateurs, et de concevoir de meilleurs projets pour eux. Cependant, il reste difficile de faire la transition depuis les résultats de nos recherches et notre processus créatif. Comment pouvons-nous faire se rencontrer design et recherche pour obtenir un résultat pratique et rémunérateur.   NB : cette conférence sera animée en anglais avec traduction simultanée.",
+    "tags": [
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Stephanie Troeth",
+        "description": "Steph is a user experience strategist who loves maturing ideas and making things real. She has worn many hats, including a product lead for a startup in digital publishing and a studio director at a digital agency.    She is also known for her grassroots contributions to best web practices through the Web Standards Project and the W3C.    Well-travelled and living on her fourth island, she speaks several flavours of English, a few languages, and possesses an indecipherable accent.      Steph est une stratège en expérience utilisateur qui adore mener des idées à maturité et à les réaliser. Elle a tenu plus d'un rôle par le passé, dont celui de chef de produit pour une startup autour des livres numériques, et celui de directrice de studio dans une agence web.    Elle est également connue pour son implication dans la défense et la promotion des meilleures pratiques du développement Web, plus particulièrement au sein du Web Standards Project et du W3C.    Une grand voyageuse qui vit désormais sur sa quatrième île, elle parle plusieurs dialectes d'anglais, quelques autres langues, et dispose d'un accent indéchiffrable.",
+        "picture": "https://www.paris-web.fr/2013/assets_c/2013/06/stephanie.stroeth-thumb-143x143-330.png"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/78770676",
+      "slides": null
     }
   },
   {

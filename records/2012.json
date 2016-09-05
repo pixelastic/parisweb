@@ -114,6 +114,32 @@
   },
   {
     "year": 2012,
+    "type": "conference",
+    "title": "Les tendances dans le web design, faut-il les suivre ou les fuir ?",
+    "url": "https://www.paris-web.fr/2012/conferences/les-tendances-dans-le-web-design-faut-il-les-suivre-ou-les-fuir.php",
+    "description": "D'où qu'elles viennent les tendances ont une influence toujours plus grande sur notre travail quotidien.   Sont-elles bénéfiques ou au contraire faut-il les fuir ? A travers cette conférence, nous apprendrons à mieux connaître ces tendances, à les appréhender. Nous verrons quand et comment les utiliser, mais aussi quand et comment s'en passer, et ainsi aller chercher la créativité loin de nos écrans.   Nous attirerons l'attention sur le fait qu'aujourd'hui, nous sommes très influencés par tout ce que nous voyons sur le web. A travers notamment tous ces sites qui nous proposent des listes interminables de tendances à suivre pour être « dans le coup » ou encore les galeries CSS.   Les tendances ont un sens et une utilité, dans le webdesign comme dans d'autres secteurs tels que la mode ou les beaux-arts.   Nous tenterons donc de livrer quelques idées et conseils pour apprendre à être un designer avec sa propre personnalité et qui sait tirer profit de ce qui l'entoure, que ce soit sur le web ou dans la vie de tous les jours.",
+    "tags": [
+      "design"
+    ],
+    "authors": [
+      {
+        "name": "Sébastien Desbenoit",
+        "description": "Sébastien Desbenoit est aujourd'hui web designer chez ThinkInnovation après des études de mathématiques et avoir travaillé dans l'art contemporain !  Passionné de vulgarisation, il tient le blog Internet & Moi qui propose une explication pour le grand public de sujets liés au web.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/S_bastien%20sur%20le%20pont%20Charles-thumb-143x143-220.jpg"
+      },
+      {
+        "name": "Francis Chouquet",
+        "description": "Web Designer depuis 2006, Francis Chouquet possède plusieurs casquettes qui lui ont permis de faire ce métier. Diplômé d'une école de commerce, il a passé plusieurs années en SSII à vendre et à installer des ERP ou des solutions logistiques pour les grands groupes.  Puis, en 2002, il a choisi de rester dans l'univers informatique mais en revenant à ses premières amours, le graphisme. Il a alors suivi plusieurs cours aux Beaux Arts de Bâle pour apprendre et comprendre les bases de ce métier pour progressivement arriver logiquement au web design qui s'est facilement et rapidement imposé comme son domaine de prédilection.  En 2006, il va également découvrir WordPress dont il fera des tutoriels sur son blog (www.fran6art.com), ainsi qu'un DVD de formation (Elephorm). Il est également le co-auteur du livre « Le Campus WordPress », premier ouvrage francophone sur WordPress, paru chez Pearson.  Aujourd'hui, il vit pleinement de son activité de web designer free-lance et ses clients sont Libération, Lemonde.fr, Groupama ainsi que de nombreuses autres sociétés dans des domaines aussi variés que la santé, l'architecture ou le conseil.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/francis-chouquet-thumb-143x143-247.png"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xwsc4e",
+      "slides": "http://www.paris-web.fr/2012/ParisWeb-tendances-webdesign-presentation.pdf"
+    }
+  },
+  {
+    "year": 2012,
     "type": "workshop",
     "title": "Le processus créatif du brief au prototype",
     "url": "https://www.paris-web.fr/2012/ateliers/le-processus-creatif-du-brief-au-prototype.php",
@@ -219,6 +245,28 @@
   {
     "year": 2012,
     "type": "conference",
+    "title": "Creative Technologist, Web Evangelist, Developer Advocate !?!",
+    "url": "https://www.paris-web.fr/2012/conferences/creative-technologist-web-evangelist-developer-advocate.php",
+    "description": "Web Evangelist, Developer Advocate, Creative Technologist : Des métiers dont on ignorait encore tout en agence il y a peu.  Ces nouveaux profils ont dû se créer entre équipes de développement front grandissantes et clients de plus en plus technophiles et exigeants. Ceux-ci n'arrivent plus simplement avec un besoin mais avec une véritable liste de course technique (ex: « Je voudrais un site en HTML5, Responsive Design, avec des animations CSS, qui est optimisé pour iPad ET IE6… » ) qu'il faut parfois démystifier et rationaliser.  Nos clients ont maintenant besoin de comprendre et les problématiques front-end doivent de plus en plus être anticipées et précisées.  Cette présentation a pour objectif de montrer combien ce rôle d'intermédiaire et d'accompagnement facilite la gestion de projets web et devient indispensable dans nos structures, mais aussi comment cela peut se traduire au quotidien.",
+    "tags": [
+      "évangélisation",
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Florian Harmel",
+        "description": "Expert en développement front (HTML, CSS et Javascript), Florian a toujours été un aficionado des interfaces client. Une attirance qui l’a amené à officier durant 7 ans chez Ekino.  Désormais Creative Technologist, il apporte son expertise dans le choix et l'intégration des technologies au sein d'interfaces riches. Son rôle : accompagner les clients dans la conception de projets innovants, basés sur les nouvelles technologies front, dont il s'efforce de percer les secrets.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Florian%20Harmel-thumb-143x143-202.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xurds6",
+      "slides": "http://www.paris-web.fr/2012/FlorianHarmel-ParisWeb2012.pdf"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
     "title": "Faire du web moderne à destination de tous",
     "url": "https://www.paris-web.fr/2012/conferences/faire-du-web-moderne-a-destination-de-tous.php",
     "description": "Les navigateurs modernes ont des possibilités décuplées par rapport à seulement quelques années auparavant : graphiques bien sûr avec CSS3, du balisage dans HTML5, des APIs, des fonctionnalités Javascript. Une certaine monoculture dans le web mobile amène aussi certains développeurs à ne garder qu'une compatibilité envers quelques moteurs récents.  Dans cette présentation, Julien Wajsberg vous montrera qu'il est réellement facile de rester compatible dans une certaine mesure, et vouss présentera ses différentes astuces pour pouvoir utiliser les nouvelles fonctions tout en gardant le site ou l'application web utilisable sur des navigateurs plus anciens : duplication de fonctions (ou pas), mode dégradé ou rehaussé, Modernizr, et d'autres choses. Et si on pouvait non seulement obtenir un web plus compatible, mais aussi mieux préparé pour le futur ?",
@@ -260,6 +308,49 @@
     "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/Paris-Web-Hacktivistes-ONG.pdf"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
+    "title": "Les User Agents, c'est le mal !",
+    "url": "https://www.paris-web.fr/2012/conferences/les-user-agents-cest-le-mal.php",
+    "description": "Savez-vous pourquoi depuis sa première version, Microsoft Internet Explorer se fait passer pour Mozilla aux yeux des serveurs web ?  Et savez-vous aussi pourquoi Opera tente désespérément de cacher à ces mêmes serveurs web qu’ils ont un jour sorti une version “10” ?  Il ne manque pas d’exemples de FAILs historiques dûs à ce petit espiègle qu’est le “User Agent”, entête HTTP destiné à laisser le navigateur se présenter comme il l’entend, mais en version bien souvent un peu mythomane sur les bords !  Et puisque montrer du doigt, c’est mal, alors que présenter des solutions, c’est mieux, nous verrons aussi ensemble les tentatives qui sont expérimentées aujourd’hui pour mieux maîtriser le rendu web, mais du côté du client, et en quoi ça va pragmatiquement être plus propre.",
+    "tags": [
+      "navigateurs"
+    ],
+    "authors": [
+      {
+        "name": "Rudy Rigot",
+        "description": "Rudy a évolué dans le back-end, le front-end, et le fonctionnel, et utilise ces trois affinités en tant que consultant pour Clever Age, où il intervient sur de la gestion de projet fonctionnelle et technique, du conseil, et de la formation. Il est tombé amoureux du concept responsive au premier regard, et il le décortique et en parle autant sur le net (notamment sur Dev.Opera) qu’en conférences (notamment, Front Row à Cracovie l’année dernière, et même brièvement et superficiellement à Paris Web 2011). C’est à New York que le responsive est né, et c’est aussi à New York que Rudy va bientôt exporter le concept “petites agences / grosses ambitions” qui réussit à Clever Age en France.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/rudyrigot-thumb-143x143-219.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xvah5r",
+      "slides": null
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
+    "title": "Il était une fois une maquette",
+    "url": "https://www.paris-web.fr/2012/conferences/il-etait-une-fois-une-maquette.php",
+    "description": "Un intégrateur HTML pleure de joie. C'est un grand jour pour sa maquette. Elle qui avait été conçue de son union avec un graphiste. Elle qui était née d'un besoin exprimé par un client. Elle qui avait grandi jusqu'à être compatible sur de nombreux navigateurs. C'est le jour J : elle va enfin rencontrer celui pour lequel elle était promise. Elle va s'unir avec un code métier.  Sa vie ne sera plus jamais la même : on va désormais l'appeler thème (pour Wordpress), ou template (pour Symfony). Elle ne pourra plus jamais être lue dans un navigateur sans son code métier. L'intégrateur n'aura alors plus la main directe sur sa maquette…  Ceci arrive tous les jours, et ce n'est pourtant pas un événement anodin :   Quels sont les réels impacts de cet événement sur la vie de votre projet ? Est-ce qu'il est possible de travailler par itération avec ce fonctionnement-là ? Ne faudrait-il pas laisser une maquette vivre sa vie, même après son union avec du code métier ? Comment concilier alors la vision modulaire du code métier et la vision hiérarchique de l'HTML ? Quels sont les alternatives pour mieux respecter le travail de chacun ?   Ces questions, que je me suis posées, méritent de plus amples réflexions. Sans vous donner de solutions universelles, j'essaierai de vous donner des pistes de réflexion sur la collaboration entre intégrateurs HTML et développeurs back.",
+    "tags": [
+      "CSS",
+      "HTML"
+    ],
+    "authors": [
+      {
+        "name": "Thomas Zilliox",
+        "description": "Je suis actuellement développeur PHP au sein d'Open Wide, une société spécialisée dans les solutions open source. Mon précédent poste était développeur front et depuis je suis resté accroc à l'intégration HTML.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Thomas%20ZILLIOX-thumb-143x143-223.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xuxxz1",
+      "slides": "http://www.paris-web.fr/2012/il_etait_une_fois_une_maquette-ThomasZilliox.pdf"
     }
   },
   {
@@ -306,6 +397,28 @@
     ],
     "ressources": {
       "video": "https://www.dailymotion.com/video/xx8b7x",
+      "slides": null
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
+    "title": "Souriez (?) vous êtes trackés !",
+    "url": "https://www.paris-web.fr/2012/conferences/souriez-vous-etes-trackes.php",
+    "description": "Sites web, applications mobiles, webapp... et demain internet des objets, la question de la confidentialité des données personnelles et du tracking des usagers fait de plus en plus le devant de l’actualité.  Cette conférence vise à balayer les apports et les dangers de la convergence des données et des technologies :   Qu’est ce que le profilage (utilisation des cookies, publicité comportementale,...) ?D’où proviennent les données ?Enjeux, apports et dangers.  Vers une amplification du phénomène ? La preuve par l’exemple :   Évolutions technologiques (HTML5...) et convergence des sources de données Apparition de nouveaux usages :  services sans contact, tv connectées, usages de la tablette en complément de la tv...  Tendance au partage des données personnelles   Perspectives : quelles alternatives et pistes de solutions (initiative Do Not Track...) ?",
+    "tags": [
+      "identité numérique",
+      "privacy"
+    ],
+    "authors": [
+      {
+        "name": "Stéphane Lebarque",
+        "description": "Stéphane Lebarque diplômé de l'ESIEA, après diverses expériences en SSII, Agence web et la participation à une création d'entreprise, a rejoint la Société de Conseil et de Réalisation Logicielle Niji en 2006. Il intervient à différents niveaux dans l'Agence Digitale de Niji, Dsquare :    Avant ventes Participation aux montages de projets collaboratifs dans le cadre d’appels à projets du Pôle de Compétitivité Images & Réseaux et de projets de Recherche & Développement du FUI Direction de missions de conseil et d’étude sur les nouvelles technologies et l’innovation Management d’équipes Design & Delivery pour la création d'expériences numériques multi-écrans aussi bien Web, Mobile que TV dans le cadre de projets au forfait pour des clients variés : startup, collectivités locales, opérateurs, grands comptes.    La convergence numérique est au cœur de sa mission quotidienne. Les opportunités et les dangers de cette convergence alimentent sa réflexion. Il a d’ailleurs été amené à partager son analyse sur la question lors du colloque du Réseau Droits, Sciences et Techniques organisé sous l'égide du CNRS au Palais du Luxembourg en 2011.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/stephane-lebarque-thumb-143x143-222.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xw0mjg",
       "slides": null
     }
   },
@@ -390,6 +503,29 @@
   {
     "year": 2012,
     "type": "conference",
+    "title": "De l'art de prendre la fuite",
+    "url": "https://www.paris-web.fr/2012/conferences/de-lart-de-prendre-la-fuite.php",
+    "description": "Savoir prendre la fuite est une compétence indispensable, et qui pourtant n'est jamais enseignée.  Manque d'opportunités, job pourri, routine abrutissante, relations nocives… Nombreuses sont les situations où la meilleure solution, c'est de se tailler en 4ème vitesse.  Le rapport avec le web ? De nombreuses applications pratiques. Quand quitter son job ? Quand virer son client ? Quand changer de situation professionnelle ? Quand abandonner une techno dans laquelle on a investi ? Autant de questions cruciales auxquelles cette conf apportera quelques réponses.  Cette présentation pratique (mais qui ne se prend pas trop au sérieux quand même) s'articulera probablement en trois points :   Les bénéfices de la fuite ; Comment reconnaître une situation à fuire ; Comment fuire efficacement et dans de bonnes conditions.",
+    "tags": [
+      "gestion de projet",
+      "méthodologie",
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Thibault Jouannic",
+        "description": "Freelance, mégalomane (mais un peu moins chaque jour), développeur passionné et pratiquant féru d’Aïkido.  Après (et un peu pendant) des études d’informatiques, il commence sa carrière dans la VoIP, avant de revenir au web, et travaille deux ans dans la TMA (tierce maintenance applicative).  De son emploi de « débuggeur pompier professionnel », il garde une aversion viscérale pour le travail bâclé, le code sale, l’absence de bonnes pratiques et la gestion de projet à l’arrache.  Indépendant depuis trois ans, il aime se considérer comme un artisan, passionné par son métier, motivé par la satisfaction de ses clients et par l’amour du travail bien fait.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/thibaultjouannic-thumb-143x143-244.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xw0mju",
+      "slides": null
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
     "title": "Advanced Typesetting for Web",
     "url": "https://www.paris-web.fr/2012/conferences/advanced-typesetting-for-web.php",
     "description": "With the rise of web fonts, we are finally able to deliver sophisticated typographic experiences to our users. However, devil is in the details, so let’s investigate how far can we go to tweak for improved legibility covering wide variety of devices.    You will learn how to choose typeface for function over form, about font and pixel size across devices, how to set-up macro and micro white-space and how to design line, leading and word space.   Avec la percée des fontes web, nous voici enfin à même de fournir une expérience typographique raffinée à nos utilisateurs. Néanmoins, le diable est dans les détails, aussi examinons jusqu’où nos ajustements peuvent aller pour améliorer la lisibilité tout en prenant en charge une large variété de périphériques.   Vous apprendrez comment choisir une police sur base de la fonction plutôt que la forme, verrez la distinction entre taille de fonte et taille de police suivant les périphériques, découvrirez comment définir des espacements macro et micro et comment concevoir les rapports d’espacement entre les lignes et les mots.    NB : cette conférence sera en anglais avec traduction simultanée.",
@@ -454,6 +590,28 @@
     "ressources": {
       "video": null,
       "slides": null
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
+    "title": "README, un fichier nommé plaisir",
+    "url": "https://www.paris-web.fr/2012/conferences/readme-un-fichier-nomme-plaisir.php",
+    "description": "Vendredi, mise en production. Vous annoncez à vos proches que pour l'apéro ce soir, c'est mort, vous êtes dé-bor-dé(e).  Un mauvais clic plus tard, le site est mort. Ambiance fin du monde pendant que vos amis s'amusent.  Si vous aviez su que la rédaction du README de votre projet vous aurait permis non seulement de préserver votre apéro sacré, mais en plus de livrer le cœur léger, vous l'auriez sûrement écrit plus tôt.  Avant que le monde ne s'effondre sur lui-même, nous ferons encore mieux : 15 minutes c'est juste ce qu'il faut pour créer un code robuste.",
+    "tags": [
+      "métier",
+      "qualité"
+    ],
+    "authors": [
+      {
+        "name": "Thomas Parisot",
+        "description": "CTO, chef de projet, lead developer, inventeur de remèdes, Thomas Parisot prodigue sa vision technique au sein de Dijiwan pour automatiser les processus d'Opinion Mining et Big Data.  En dehors, il arpente la vie de ses yeux, ses appareils photo et sa plume, que ça soit sur son blog, un carnet au fond de la sacoche, ou son livre « Réussir son blog professionnel ».  Sinon à part ça, malgré sa barbe il est sympa.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/thomas-parisot-thumb-143x143-224.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xur8ub",
+      "slides": "http://www.paris-web.fr/2012/readme-ThomasParisot.pdf"
     }
   },
   {
@@ -532,6 +690,49 @@
   {
     "year": 2012,
     "type": "conference",
+    "title": "Le web sera sécurisé ou ne sera pas",
+    "url": "https://www.paris-web.fr/2012/conferences/le-web-sera-securise-ou-ne-sera-pas.php",
+    "description": "Un nouveau web. Un web qui hébergerait tous les services de la vie courante par le biais de webapps. Ceux qui sont devenus incontournables pour faire de nous des humains complets et intégrés dans la cité. Regarder la dernière saison d’une série décalée. Payer nos courses d'un clic. Déclarer nos revenus. Sur n’importe quelle plateforme, n’importe quel périphérique…  Le challenge est de taille. Le fossé qui nous sépare de cette réalité est grand. Aucun banquier, diffuseur de contenu HD ou gouvernement n’investira dans le format des webapps tant que ce support n’améliorera pas son modèle sécuritaire. Cette sécurité doit leur garantir le même niveau de sérénité que celui offert par les applications natives.   Cette présentation a pour vocation de sensibiliser les web développeurs aux exigences sécuritaires de  ces industries chatouilleuses. Ces exigences reposent sur des principes simples tels que : l’open web platform ne doit pas permettre de voler les identifiants de clients, de contrefaire une transaction bancaire, de distribuer sans contrôle une œuvre artistique protégée, ou d’affaiblir l’accès sécurisé aux services publics. Seront également développés dans cette présentation, l’état de l’art de la sécurité dans les webapps, ainsi que les perspectives ouvertes par les récentes initiatives du W3C en matière d'API et de sécurité.",
+    "tags": [
+      "sécurité"
+    ],
+    "authors": [
+      {
+        "name": "Virginie Galindo",
+        "description": "Virginie est employée depuis plus de 10 ans par gemalto, un fournisseur de solutions numériques sécurisées. Au sein du département Technologie & Innovation, elle soutient les activités de standardisation relatives aux mobile. Depuis début 2012, Virginie est chair du groupe de travail W3C \"Web Cryptography Working Group\".",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/09/vgalindo-thumb-143x143-260.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xw0mit",
+      "slides": "http://www.paris-web.fr/2012/Paris_Web_VGALINDO_gemalto.pdf"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
+    "title": "Une journée accélérée en pure mobilité : une idée fixe ?",
+    "url": "https://www.paris-web.fr/2012/conferences/une-journee-acceleree-en-pure-mobilite-une-idee-fixe.php",
+    "description": "Lire les actualités, prendre le bus, tweeter, choisir son menu au resto, lire le dernier best seller, ne pas se tromper en rendant la monnaie, autant d'actes quotidiens qu'une personne aveugle peut désormais accomplir grâce à son smartphone.   Plus besoin de 15 kg de matériel. Vous verrez une journée en accéléré. Cramponnez-vous, c'est plus que mobile, ça décoiffe !",
+    "tags": [
+      "accessibilité",
+      "mobilité"
+    ],
+    "authors": [
+      {
+        "name": "Tanguy Lohéac",
+        "description": "Responsable accessibilité numérique chez Sanofi, membre du Groupe de Travail Accessiweb, participant au projet MIPAW, technophile handicapé critique.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/09/Loheac_Tanguy-thumb-143x143-262.png"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xw8ygi",
+      "slides": null
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
     "title": "Fast Mobile UIs",
     "url": "https://www.paris-web.fr/2012/conferences/fast-mobile-uis.php",
     "description": "I will show you how to use the new features in HTML5 to create mobile games and the hoops you have to jump through to build a sleek and responsive user interface while trying to avoid most of the headaches that come with the job when you are always an edge case.   Je vous montrerai comment utiliser les nouvelles fonctionnalités de HTML5 pour créer des jeux sur mobile, et les obstacles à franchir pour obtenir une interface utilisateur léchée et réactive, tout en essayant d’éviter la plupart des maux de tête qui accompagnent généralement ce type de travail puisqu’on est toujours en train de gérer un cas inhabituel.    NB : cette conférence sera en anglais avec traduction simultanée.",
@@ -548,6 +749,27 @@
     "ressources": {
       "video": "https://www.dailymotion.com/video/xwfj9o",
       "slides": "http://www.paris-web.fr/2012/horia-fast-mobile-uis-ParisWeb.pdf"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
+    "title": "Le jeu en vie",
+    "url": "https://www.paris-web.fr/2012/conferences/le-jeu-en-vie.php",
+    "description": "Le monde qui nous entoure et que nous traversons quotidiennement est riche et varié, plein d'une multitude de détails que nous ignorons. Il est souvent dit que le jeu vidéo nous coupe de la réalité et de notre environnement alors qu'il est un divertissement.   Internet et les smartphones nous offrent de nouveaux moyens qui ne sont pas encore pleinement utilisés.   Comment pouvons-nous utiliser les nouveaux outils mobiles pour permettre au contraire au jeu de nous aider à redécouvrir et reconquérir notre environnement immédiat en s'amusant ?",
+    "tags": [
+      "jeu"
+    ],
+    "authors": [
+      {
+        "name": "Thibault Cabanas",
+        "description": "Diplomé de l'ESAG-Penninghen, recruté pour faire des interfaces graphiques pour un jeu 3D multi-joueurs avant de superviser l'identité visuelle d'une marque de poker en ligne, Thibault Cabanas a monté son propre studio graphique et travaille désormais à des projets web innovants propriétaires avec une petite équipe de developpeurs.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/thibaultcabanas-thumb-143x143-251.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xuxxuu",
+      "slides": "http://www.paris-web.fr/2012/LeJeuEnVie.pdf"
     }
   },
   {
@@ -571,6 +793,28 @@
     "ressources": {
       "video": "https://www.dailymotion.com/video/xvdwv4",
       "slides": "http://www.paris-web.fr/2012/cyril-balit.pdf"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
+    "title": "Et si la fin du monde était causée par l'obésité du web ?",
+    "url": "https://www.paris-web.fr/2012/conferences/et-si-la-fin-du-monde-etait-cause-par-lobesite-du-web.php",
+    "description": "Le logiciel et les sites web respectent une loi toujours vérifié : l'entropie. Plus il y a de place et de ressource, plus le logiciel va l'occuper. Les impacts sont énormes : obsolescence du matériel, baisse de performance, consommation des data centers…  Pourtant des pratiques  existent pour limiter ce phénomène : éco-conception, meilleure qualité, green pattern… Ces pratiques peuvent de plus être un atout économique et social pour le monde du web.  Alors pourquoi s'en priver ?",
+    "tags": [
+      "green IT",
+      "performance"
+    ],
+    "authors": [
+      {
+        "name": "Olivier Philippot",
+        "description": "Fondateur d'un groupe qui travail sur l'éco-conception, je suis auteur d'un livre sur le green it et sur l'éco-conception des logiciels et sites web.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Olivier%20Philippot-thumb-143x143-238.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xuxw8c",
+      "slides": "http://www.paris-web.fr/2012/ParisWeb-Green_Code_Lab.pdf"
     }
   },
   {
@@ -669,6 +913,34 @@
   },
   {
     "year": 2012,
+    "type": "conference",
+    "title": "1 + 1 = 3, le « pair programming » appliqué au web",
+    "url": "https://www.paris-web.fr/2012/conferences/1-1-3-le-pair-programming-applique-au-web.php",
+    "description": "Depuis la nuit des temps, de Laurel et Hardy à Olive et Tom en passant par Stone et Charden, les hommes et les femmes ont compris que l'union faisait la force. Pour autant, le sujet reste relativement tabou dans l'informatique et les métiers du web en particulier, et bon nombre d'entre nous n'osent pas franchir le pas et continuent de travailler chacun dans leur coin.   Cette mini-conférence a pour but de présenter les attraits du « pair programming », et de montrer ce que le concept apporte au quotidien quel que soit le métier, mais aussi ses limites.",
+    "tags": [
+      "gestion de projet",
+      "méthodologie",
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Stéphane Angel",
+        "description": "Stéphane Angel (@twidi) est développeur web depuis 98, spécialisé Django depuis 2007 mais plutôt touche-à-tout, déborde d'idées en tout sens. Freelance longtemps, a bossé sur de nombreux projets, dont repos.io actuellement. Depuis peu salarié chez Libération.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/stephane_angel-thumb-143x143-221.jpg"
+      },
+      {
+        "name": "Mathieu Pillard",
+        "description": "Couteau-suisse du web, Mathieu est accroc aux standards, à l'Open Web et un fan de la première heure du projet Mozilla. Après être passé par Netscape, Mozilla Europe et Skyrock, il travaille maintenant à Libération, où il a entre autres participé à la refonte complète du moteur du site.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/mathieu-pillard-thumb-143x143-214.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xuxxy2",
+      "slides": "http://www.paris-web.fr/2012/pair_programming-MPillardSAngel.pdf"
+    }
+  },
+  {
+    "year": 2012,
     "type": "workshop",
     "title": "La performance sur les sites mobiles",
     "url": "https://www.paris-web.fr/2012/ateliers/la-performance-sur-les-sites-mobiles.php",
@@ -687,6 +959,28 @@
     "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2012/JPVincent_performances_sur_site_mobile.pdf"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
+    "title": "Influence du Bauhaus dans le digital par l’exemple",
+    "url": "https://www.paris-web.fr/2012/conferences/influence-du-bauhaus-dans-le-digital-par-lexemple.php",
+    "description": "Né en Allemagne en 1923, le Bauhaus est un courant qui toucha, l’architecture et le design, mais également la photographie, le costume et la danse.  L’un des objectifs de ce courant était d’unifier l’art, l’artisanat et la technologie. L’usage de la machine est considéré comme positive. Le design industriel et produit en sont donc des composantes importantes.  Après avoir inspiré certain succès en terme de design produit (Apple), beaucoup notent une tendance de fond dans les expériences digitales qui reflètent plusieurs principes et valeurs du design Bauhaus.  Dans cette intervention, il sera peu question de théorie sur le design Bauhaus, mais plutôt d'illustrer son influence par une série d’exemples de sites web, d'applications mobiles et tablettes.",
+    "tags": [
+      "décalé",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Guillaume Abel",
+        "description": "Après un parcours universitaire 100% numérique et aimant être au contact d’équipes pluridisciplinaires, Guillaume devient logiquement chef de projet web en agence en 2004.  Multilingue dans le domaine du web, ce geek curieux et passionné est capable de discuter code, graphisme, marketing tout comme le 1337 5|*34|  Actuellement Lead UX Designer chez Ekino, il accompagne ses clients et collègues dans la construction d’expériences innovantes qui « envoient du poney ».",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/GAbel-thumb-143x143-250.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xva9e4",
+      "slides": "http://www.paris-web.fr/2012/gabel_InfluenceBauhausDigitalDesignParExemple_V8.pdf"
     }
   },
   {
@@ -929,6 +1223,29 @@
   },
   {
     "year": 2012,
+    "type": "conference",
+    "title": "Du réel au réel, Internet des usages",
+    "url": "https://www.paris-web.fr/2012/conferences/real-2-real.php",
+    "description": "Dans sa nouvelle “When sysadmins ruled the earth”, Cory Doctorow évoque une fin du monde plausible, en fait une presque fin du monde, mystérieuse qui ne laisse vivants que les sysadmins, seuls rescapés dans leurs datacenters hermétiques. Tout se passe alors en ligne. La vie ne peut plus être que connectée, le réseau étant seul moyen de communication, de partage, tandis que le monde revient peu à peu à la réalité, à la vie après les ravages d'un virus inconnu. Autre vision, autres temps, Barjavel quant à lui annihile la technologie pour un monde seul tourné vers la nature. Deux extrêmes : réseau or not réseau, technologie or not technologie.  C'est un monde mixte qui nous attend en fait, la fin du monde de Cory Doctorow, celui du réseau à l'ancienne, expérience vécue uniquement à travers l'écran, et la venue du monde de Barjavel mais où le réseau et la technologie se sont faits invisibles. Nos échanges au quotidien, notre mobilité le prouvent. Aujourd'hui, c'est du réel au réel. Le numérique s'efface pour ne laisser que les actes réels s'interconnecter avec des personnes, des lieux, des idées, des ressources, des connaissances. Nous numérisons notre vie pour en tirer le meilleur parti, pour construire des prothèses qui nous rendent mutants ici et ailleurs, présent ici et là, dans le monde entier, sur le réseau par notre double numérique. Le concept de « prothèses » est connu depuis longtemps mais aujourd'hui elles s'effacent, elles disparaissent peu à peu, tandis que le réseau est en, vit en nous et se développe tout autour de nous. C'est cela qui marque la fin d'un monde et l'arrivée d'un nouveau.",
+    "tags": [
+      "mobilité",
+      "personas",
+      "storytelling"
+    ],
+    "authors": [
+      {
+        "name": "Jean-François Cauche",
+        "description": "Docteur en Histoire et Sciences de l'Information. Enseignant à l'université Lille III (UFR IDIST) et IUT B de Tourcoing (Parcours Métiers du Livre) Touche à tout du web et des nouvelles technologies depuis les premiers ordinateurs 8 bits jusqu'à aujourd'hui. Blogueur (secouezlecours.fr, tourisme-ereel.fr). @jeffakakaneda.  #ebook, #epaper, #réalitéaugmentée, #patrimoine, #partage, #logiciellibre, #linux, #buglab, #creativecommons, #android, #tablettes",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/jeanfrancois-cauche2-thumb-143x143-209.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xut207",
+      "slides": "http://www.paris-web.fr/2012/Real_2_Real-JeanFrancoisCauche.pdf"
+    }
+  },
+  {
+    "year": 2012,
     "type": "workshop",
     "title": "Recommandation, le défi",
     "url": "https://www.paris-web.fr/2012/ateliers/recommandation-le-defi.php",
@@ -980,6 +1297,29 @@
   {
     "year": 2012,
     "type": "conference",
+    "title": "WebGL, la 3D, c'est maintenant dans votre navigateur",
+    "url": "https://www.paris-web.fr/2012/conferences/webgl-la-3d-cest-maintenant-dans-votre-navigateur.php",
+    "description": "Stéphane vous propose de faire un petit tour d'horizon de l'arrivée de la 3D en temps réel dans le navigateur grâce à la finalisation récente de WebGL 1.0. Les navigateurs modernes ont pour la plupart implémenté cette technologie et au-delà de l'expérimentation, les premières utilisations pratiques peuvent être aujourd'hui envisagées.  Après un bref retour historique afin de contextualiser WebGL, il vous fera entrer dans le vif du sujet et vous montrera rapidement son fonctionnement et son interaction avec le navigateur. Quels sont les prérequis techniques pour que WebGL soit activé dans le navigateur ? Qu'est-ce qu'une image 3D et comment, par l'intermédiaire de Javascript et d'une bibliothèque telle que ThreeJS, les fonctions de WebGL sont activées pour former une image 3D dans le navigateur.  Pour illustrer le tout, il vous présentera des exemples d'expérimentations représentatives de WebGL en action, avec quelques exemples utilisés aujourd'hui en production.",
+    "tags": [
+      "3D",
+      "animations",
+      "WebGL"
+    ],
+    "authors": [
+      {
+        "name": "Stéphane Verdier",
+        "description": "Webmaster/intégrateur web depuis 10 ans, fervent défenseur des standards du web, de l'accessibilité et des logiciels libres, il est également formateur depuis quelques années en intégration web et HTML/CSS.  Après plusieurs années en collectivité territoriale et un passage par l'École Nationale de la Magistrature, il vient de rejoindre à la cellule web de la Communauté Urbaine de Bordeaux.  Curieux insatiable, le web est pour lui un sujet de découverte permanent.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Stephane_Verdier-thumb-143x143-243.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xuxxxc",
+      "slides": "http://www.paris-web.fr/2012/WebGL_la_3D_cest_maintenant-StephaneVerdier.pdf"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
     "title": "Application cache",
     "url": "https://www.paris-web.fr/2012/conferences/application-cache.php",
     "description": "The Application Cache is one of the cool bits of HTML5, allowing sites to work without a network connection brings us much closer to native app-like behaviour. However, from HTML5 roundup articles and talks you may be left with the impression that it's a magic-bullet fix. Unfortunately it isn't, the Application Cache is a douchebag.   I don't mean it's incompetent or difficult… it's just a douchebag. The Application Cache has skills we need, but if you asked him to paint your bathroom he'd somehow manage to flood your kitchen and break your TV in the process, and he wouldn't care.   We'll look at how to use the features of Application Cache without the horrible side effects, comparing techniques you'd use for a simple clientside app and a large content-driven site. We'll explore the many gotchas left out of most AppCache articles and how you can build your site to survive them.    Application Cache est un des morceaux sympa de HTML5, permettant aux sites de fonctionner sans connexion réseau pour nous rapprocher encore davantage d’un comportement de type app. Attention toutefois, car à en croire les articles et sessions autour d’HTML5, vous pourriez avoir le sentiment qu’il s’agit là d’une solution magique universelle. Hélas, il n’en est rien, Application Cache est un enfoiré.  Je ne veux pas dire par là qu’il est incompétent ou pénible… C’est juste un enfoiré. Application Cache a les savoir-faire dont nous avons besoin, mais si vous lui demandiez de repeindre votre salle de bain il arriverait probablement à inonder la cuisine et à casser la télé au passage, et ça ne le gênerait même pas.  Nous allons examiner comment bien employer les fonctionnalités d’Application Cache sans les horribles effets de bord, comparer les techniques à employer pour une app côté client simple et pour un site massif de contenus.  Nous explorerons les nombreux pièges passés sous silence par la plupart des articles sur AppCache, et verrons comment construire un site qui leur survive.     NB : cette conférence sera en anglais avec traduction simultanée.",
@@ -998,6 +1338,48 @@
     "ressources": {
       "video": "https://www.dailymotion.com/video/xwsc3y",
       "slides": "http://www.paris-web.fr/2012/Application-cache.pdf"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
+    "title": "Le livre numérique : et si c’était du web ?",
+    "url": "https://www.paris-web.fr/2012/conferences/le-livre-numerique-et-si-ctait-du-web.php",
+    "description": "Quel est le lien entre le livre numérique et le web, me direz vous ?   Beaucoup de choses ! Le livre numérique utilise les principales techniques du web pour son fonctionnement, en utilisant le HTML pour son contenu, le CSS pour sa mise en forme.  Nous allons soulever le capot pour y voir les technologies web, comment elles sont utilisées, les spécificités et les opportunités offertes.   Nous parlerons aussi standardisation, convergence de formats et des raisons d’avoir un format propre à certains types de contenu quand bien même il s’agit de technologies web standard.",
+    "tags": [
+      "livre numérique"
+    ],
+    "authors": [
+      {
+        "name": "Mikael Randy",
+        "description": "Côté pile, Mikael Randy est un développeur web spécialisé en PHP qui a travaillé pendant 6 ans dans une SSII spécialisée dans le développement d’application web avec Symfony, comme architecte logiciel. Il a rejoint l’équipe TEA pour mettre en place un nouveau système de diffusion du livre numérique, plus ouvert et respectueux du lecteur.  Côté face, il est administrateur du site PHPFrance, coordinateur de l’antenne lyonnaise de l’AFUP (Association Française des Utilisateurs de PHP) et passe ses heures perdues à tester et étudier les évolutions des langages web.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/Mikaelrandy-thumb-143x143-216.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xvdrsc",
+      "slides": "http://www.paris-web.fr/2012/livre_num%C3%A9rique-MikaelRandy.pdf"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "conference",
+    "title": "L'audiodescription pour sauver l'humanité",
+    "url": "https://www.paris-web.fr/2012/conferences/laudiodescription-pour-sauver-lhumanite.php",
+    "description": "La fin du monde approche. Alors qu'une guerre informatique mondiale se joue en secret, un virus a été mis au point pour empêcher la diffusion des images sur le web, notamment dans les vidéos.   La solution ? L'audiodescription.   Démo en direct. À refaire chez soi.",
+    "tags": [
+      "accessibilité"
+    ],
+    "authors": [
+      {
+        "name": "Armony Altinier",
+        "description": "Armony Altinier est directrice de la société ACS Horizons, spécialisée dans la création de sites web libres et accessibles. Consultante en accessibilité du Web, formatrice et intégratrice, elle est également engagée dans le monde associatif pour promouvoir accessibilité, logiciels libres et diversité.",
+        "picture": "https://www.paris-web.fr/2012/assets_c/2012/08/armony-altinier-thumb-143x143-194.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://www.dailymotion.com/video/xwglz1",
+      "slides": "http://www.paris-web.fr/2012/2012-10-18-Armony_audiodesc_diaporama.pdf"
     }
   },
   {

@@ -124,6 +124,51 @@
   {
     "year": 2016,
     "type": "conference",
+    "title": "Lancer son site à l'international facile ? Oui, si l'on pense à tout !",
+    "url": "https://www.paris-web.fr/2016/conferences/lancer-son-site-a-linternational-facile-oui-si-lon-pense-a-tout.php",
+    "description": "L'idée est d'aborder les sujets à prendre en compte pour coder et lancer son site  (ou son application) à l'international. Car il n'y a pas que la problématique de la traduction ou de la devise à prendre en compte... Je montrerai au travers de cas concrets que le lancement d'un site international n'est pas simple techniquement. En fonction des pays -- au delà de la traduction des mots et URLs d'une langue à une autre -- il faudra gérer des problématiques de devise, d'approvisionnement, d'unité de mesure, de design.... La liste est longue mais elle sera présentée de manière ludique pour que le public s'identifie et comprenne aisément les sujets abordés et puissent mémoriser les points à prendre en compte et les appliquer à son besoin.",
+    "tags": [
+      "méthodologie",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Aurélie Guillaume",
+        "description": "Aurélie Guillaume est actuellement responsable du pôle \"Recherche & Développement\" interne au sein d'une start-up parisienne. Ses responsabilités ne l'empêchent pas de se tenir à jour et de coder toujours plus de projets \"Perso\" à forte audience ce qui fait d'elle une développeuse de la première heure. C'est une développeuse passionnée par la conception de site internationaux / régionalisés.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Aurelie-Guillaume-thumb-143x143-589.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Pourquoi le web devrait s'intéresser au livre numérique",
+    "url": "https://www.paris-web.fr/2016/conferences/pourquoi-le-web-devrait-sinteresser-au-livre-numerique.php",
+    "description": "Après en avoir emprunté les langages et essayé de construire des spécifications dédiées, le monde du livre numérique a décidé de se rapprocher du web et d'y contribuer. Aujourd'hui, l'International Digital Publishing Forum et le W3C collaborent à l'amélioration des spécifications concernant la publication numérique : typographie, inflexions sémantiques, publications web portables voire même réglages utilisateurs sont autant de choses qui pourraient se décider sans vous. Seulement, la culture du livre numérique n'est pas forcément celle du web... et il serait peut-être préférable que vous veniez jouer les grands frères pour aider notre communauté à grandir.",
+    "tags": [
+      "accessibilité",
+      "édition",
+      "standards"
+    ],
+    "authors": [
+      {
+        "name": "Jiminy Panoz",
+        "description": "Jiminy Panoz est un développeur et designer de livres numériques. Depuis 4 ans, il propose d'accompagner les auteurs et les éditeurs dans leur transition numérique. Son objectif prioritaire est d'aider la communauté du livre numérique à fournir un travail de qualité.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Jiminy_Panoz_143-thumb-143x143-610.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
     "title": "HTML5.1 + web platform APIs",
     "url": "https://www.paris-web.fr/2016/conferences/html51-web-platform-apis.php",
     "description": "The W3C is responsible for some of the oldest and most important web standards, as well as many of the newest and most innovative. In this talk, Léonie Watson will take a lightening look at what's happening in web standards, from the technologies we use every day to the latest APIs. Find out what's new in HTML5.1, and what the future holds for HTML. Get the latest on web notifications with the Push API, speech input/output with the Web Speech API, game interaction with the Gamepad and Vibration APIs, and event handling with Pointer Events and the Pointer Lock API.",
@@ -136,6 +181,29 @@
         "name": "Léonie Watson",
         "description": "Léonie Watson began using the internet in 1993, turned it into a web design career in 1997, and (despite losing her eyesight along the way) has been enjoying herself thoroughly ever since. Léonie is a Senior Accessibility Engineer with The Paciello Group (TPG) and owner of LJWatson Consulting. Amongst other things she is co-chair of the W3C Web Platform Working Group, and a member of the ARIA and SVG working groups. In her spare time Léonie blogs on tink.uk, writes for Smashing magazine, SitePoint.com and Net magazine. She also loves cooking, dancing and drinking tequila (although not necessarily in that order)!",
         "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Leonie_watson_143-thumb-143x143-625.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Une graphiste parmi les devs",
+    "url": "https://www.paris-web.fr/2016/conferences/une-graphiste-parmi-les-devs.php",
+    "description": "Retour d'expérience sur l'intégration d'une graphiste dans une équipe de développement dans lequel on va parler de :  Comment on passe d'un boulot de graphiste à une formation en dev, La découverte des méthodes agiles, Comment on dépasse le clivage tech / créa, Mes collègues devs qui sont cools.  Le tout avec des petits dessins.",
+    "tags": [
+      "design",
+      "développement",
+      "retour d'expérience"
+    ],
+    "authors": [
+      {
+        "name": "Florie Séchaud",
+        "description": "Après un stage dans une grande web-agency, Florie a choisi de mettre ses compétences graphiques au service de l'éducation aux médias pendant quelques années. Une tentative en freelance et une formation en développement plus tard, elle a rejoint l'équipe technique de TEA -- the ebook alternative -- en tant que développeur front-end et graphiste.",
+        "picture": "/img/nophoto.jpg"
       }
     ],
     "ressource": {
@@ -222,6 +290,33 @@
   {
     "year": 2016,
     "type": "conference",
+    "title": "D'imposteur à mentor ?",
+    "url": "https://www.paris-web.fr/2016/conferences/dimposteur-a-mentor.php",
+    "description": "Voilà maintenant 6 ans que j'ai commencé à former des étudiants de 18 à 50 ans au HTML/CSS, en école et en entreprise. L'intégration valide, accessible, performante, maintenable... c'était loin d'être évident à transmettre. Aujourd'hui j'adore enseigner : c'est gratifiant, enrichissant, amusant et ça peut aussi parfois s'avérer frustrant, hilarant ou épuisant. Mais par-dessus tout, ça permet de remettre en question ses compétences, de prendre confiance en soi, et de contribuer à former la prochaine génération des artisans du web. Je viendrai accompagné d'un étudiant, Nicolas, pour vous faire part de l'expérience de formation, des joies et sueurs que je leur communique, et des enseignements que chacun de nous en retire. (Nous ne garantissons pas de garder notre sérieux jusqu'au bout. :-D)",
+    "tags": [
+      "CSS",
+      "pédagogie"
+    ],
+    "authors": [
+      {
+        "name": "Nicolas Guenin",
+        "description": "Nicolas Guenin est étudiant en conception et développement Web en alternance. Étudiant et déjà passionné de CSS, d'UX et d'A11Y, il pousse sa veille tous les jours encore plus loin. Il sera ravi de partager et d'apprendre avec vous via Twitter ou autour d'un p'tit rhum. Et oubliez !important... !chucknorris est toujours plus important !",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/07/Nicolas-Guenin_143-thumb-143x143-638.jpg"
+      },
+      {
+        "name": "Matthieu Bué",
+        "description": "Matthieu est Web designer et intégrateur freelance, formateur, staffeur SudWeb, baroudeur du Web insatiable et sans vergogne face à du code de mauvaise qualité. Avec ses plus de 10 ans de tribulations, il designe le Web et apporte son expérience en ergonomie et UX, sait taper les développeurs où ça fait mal quand ils répondent à coup de !important, et dresse ses étudiants avec son Nerf nommé « Qualité Web ». Vous le débusquerez facilement sur twikito.com et en suivant ses élucubrations sur Twitter ou CodePen.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/MatthieuBue_143-thumb-143x143-612.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
     "title": "CSS et édition WYSIWYG, l'amour vache",
     "url": "https://www.paris-web.fr/2016/conferences/css-et-edition-wysiwyg-lamour-vache.php",
     "description": "Pour une fois, il ne s'agit pas de canard mais de bovins. En effet, la première remarque qui atteint en général le cerveau quand on tente d'éditer des CSS dans un outil de production Web WYSIWYG est en général « meuuuh ? ». Nous allons vous expliquer en quoi les CSS sont historiquement et techniquement un langage très compliqué à manipuler dans un tel environnement. Nous en profiterons pour jeter un œil sur les nouveautés en cours ou à venir dans les CSS et nous les confronterons à l'UI et l'UX. BlueGriffon sera utilisé pour illustrer le propos mais il ne s'agit aucunement d'une retape sur le produit.",
@@ -289,6 +384,28 @@
   {
     "year": 2016,
     "type": "conference",
+    "title": "Il n'y a pas que class et id dans la vie",
+    "url": "https://www.paris-web.fr/2016/conferences/il-ny-a-pas-que-class-et-id-dans-la-vie.php",
+    "description": "Les sélecteurs d'attributs et de parenté sont généralement sous-utilisés et parfois mêmes inconnus au bataillon -- notamment dans l'univers back-end. Pourtant ce sont des sélecteurs puissants, pratiques et bien plus pertinents que des classes. Et -- à l'instar d'Ebay l'an passé -- on peut s'en servir pour induire une corrélation entre le HTML et le CSS, afin de tenter de garantir un peu d'accessibilité et de qualité. Ce sont également de merveilleux obstacles, générant des situations d'apprentissage intéressantes pour peu que la démarche soit réfléchie.",
+    "tags": [
+      "accessibilité",
+      "CSS"
+    ],
+    "authors": [
+      {
+        "name": "Gaël Poupard",
+        "description": "Gaël Poupard est graphiste et intégrateur web opérant sur Nantes. Sa quête de qualité l'amène à se cultiver sans cesse, sur papier ou au détour des blogs.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Gael-Poupard-thumb-143x143-579.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
     "title": "Anatomie d'une désintoxication au Web sous surveillance",
     "url": "https://www.paris-web.fr/2016/conferences/anatomie-dune-desintoxication-au-web-sous-surveillance.php",
     "description": "La monétisation d'informations personnelles est aujourd'hui le modèle économique dominant sur le Web. À mon grand dam, dans la mesure où je n'aime pas trop que des multinationales non-imposables viennent mettre leur gros nez numérique dans mes petites affaires. Saviez-vous qu'on peut obtenir une bonne approximation de votre QI en analysant la liste de vos derniers « like » et prédir la durée de votre relation de couple à partir de la structure du graphe de vos amis sur Facebook ? Google et ses amis disposent de plus d'informations sur vous que vous ne le croyez. Lesquelles, et comment sont elles utilisées ? Nous valorisons notre intimité. Pourtant, en tant que professionnel·le·s du Web, nous nous rendons complices des GAFAs en leur communiquant -- par incompétence, paresse ou inconscience -- des masses de données sensibles sur « nos » internautes. Comment désintoxiquer nos pages Web des mouchards qui les infestent, et apporter à la vie privée de nos utilisateurs, l'attention qu'elle mérite ?",
@@ -322,6 +439,50 @@
         "name": "John Foliot",
         "description": "John Foliot is an internationally recognized Web Accessibility Specialist and champion for the cause of web standards and universal accessibility. He has provided consultation services to government agencies, educational institutions and private sector companies since 1998. He has previously provided accessibility consulting to the Government of Canada, and has held accessibility related positions at JPMorgan Chase and Stanford University. His wealth of Digital Accessibility experience and insight enables him to provide stakeholders with applicable, simple and accessible strategies and solutions to everyday challenges in website design. John is currently at Deque Systems Inc., where he is a Principal Accessibility Strategist and official corporate representative for Deque at the W3C. He is an active Contributor to W3C Working Groups for HTML5, the Accessible Platform Architecture, and WCAG and related topics; W3C Community Groups for WAI-Engage, Media/Timed-Text and related topics, and was an invited speaker at the W3C Television on the Web Interest Group. Working within the W3C HTML5 Accessibility Task Force, John was co-facilitator of the Media Sub Group, and has contributed directly to the HTML5 Standard at the W3C.",
         "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/john_foliot_143-thumb-143x143-622.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Retour d'expérience sur la refactorisation d'une application (d'e-mail)",
+    "url": "https://www.paris-web.fr/2016/conferences/retour-dexperience-sur-la-refacto-dune-application-demail.php",
+    "description": "Votre équipe a passé six mois à re-factoriser une application et vous vous rendez compte que le problème est ailleurs : à chaque correction de bug, un nouveau apparaît et ce malgré la pertinence des correctifs. Il se trouve que votre application est trop vieille. Trop de développeurs sont passés par là, la logique du développement s'est perdue en route (manque de cohérence). Une solution s'impose, mais personne n'ose en parler : IL FAUT TOUT REFAIRE. À cette idée : « panique » se suivent les pensées :  OMG ! 6 mois de perdus, il faut virer tous les développeurs, ces incompétents, il faut externaliser le développement, « je vous avez dit qu'il fallait prendre CE framework ! », jamais on n'y arrivera... PAS DE PANIQUE.  Repartir de zéro n'est pas toujours une solution. Il faut réussir à recoller les morceaux, quitte à tout casser, pendant le moins de temps possible. C'est inévitable, mais faisons ça raisonnablement. Cette conférence tentera de répondre (intelligement) aux questions suivantes pour arriver à vos fins :  Comment présenter la chose à ses managers sans les faire paniquer ? Jusqu'où peut-on aller dans la casse ? À partir de quand on s'égare ?",
+    "tags": [
+      "développement",
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Noëlie Andrieu",
+        "description": "Développeur Javascript depuis 2002, Noëlie est passée de l'agence de communication, jusqu'au logiciel libre (Cozycloud) en passant pas la case blog (Skyblog).",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Noelie-Andrieu-thumb-143x143-587.jpeg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Vers l'infini et au delà des référentiels",
+    "url": "https://www.paris-web.fr/2016/conferences/vers-linfini-et-au-dela-des-referentiels.php",
+    "description": "Être conforme au RGAA c'est bien mais être conforme et réellement utilisable c'est mieux. Au cours de cette mini conférence nous verrons ensemble quelques points simples qui améliorent l'accessibilité d'un site pour tous les utilisateurs mais qui pourtant ne sont pas requis par le RGAA.",
+    "tags": [
+      "accessibilité",
+      "standards"
+    ],
+    "authors": [
+      {
+        "name": "Aurélien Levy",
+        "description": "Après une formation initiale de graphiste, Aurélien a complété ses connaissances par une formation de concepteur réalisateur multimédia à l'Institut Supérieur des Arts. En janvier 2004, il devient l'un des premiers \"experts Accessiweb en évaluation\". Depuis 2008 il a rejoint la société Temesis donc il est désormais directeur général. Il a notamment co-rédigé la version 1 et 2 du Référentiel Général d'Accessibilité pour les Administrations et animé plusieurs conférences dans le domaine de l'accessibilité (INOP, RMLL, Tech Days, CSUN, Paris-web,... ). Il contribue à la prise en compte de l'accessibilité dans des entités publics et privés comme La Poste, La Présidence de la République, Pages Jaunes, Le Défenseur des Droits ou Service-public",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/aurelien_levy-thumb-143x143-611.jpg"
       }
     ],
     "ressource": {
@@ -426,6 +587,50 @@
   {
     "year": 2016,
     "type": "conference",
+    "title": "Kit de survie en atelier de co-conception fonctionnelle UX",
+    "url": "https://www.paris-web.fr/2016/conferences/kit-de-survie-en-atelier-de-co-conception-fonctionnelle-ux.php",
+    "description": "L'animation d'atelier avec les utilisateurs n'est jamais si évidente, surtout en débutant sa carrière dans la conception web. Ces worksphops réunissent généralement plusieurs acteurs du projet d'expertise totalement différente (utilisateur final, client, chef de projet, expert fonctionnel, expert technique, web designer...) afin de définir les fonctionnalités du produit et l'expérience attendue. Au fil des échanges, ils s'assurent que l'outil spécifié correspond véritablement au besoin initial, quitte à faire émerger de nouveaux besoins ou abandonner certaines fonctionnalités parfois inutiles. C'est en soi que la phase de conception fonctionnelle est déterminante pour les autres étapes du projet puisqu'on y construit les bases et documents de référence pour l'équipe. Pour un acteur fonctionnel débutant, il y a d'autant plus de raison de stresser : connaître les acteurs à impliquer aux ateliers, planifier les étapes, anticiper les incompréhensions fonctionnelles, proposer des idées, mettre en avant le besoin utilisateur devant les contraintes techniques, imaginer des participations collectives, ludiques.... Dans cette présentation, nous nous baserons sur des retours d'UX designer, de consultant fonctionnel en herbe pour discuter ensemble des moyens d'entreprendre sereinement ces ateliers de conception.",
+    "tags": [
+      "retour d'expérience",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Emeline Racon",
+        "description": "Diplômée de l'école nationale supérieure de cognitique (Ensc) à Bordeaux, Emeline a évolué dans le milieu de l'ergonomie IHM. Travaillant depuis 4 ans sur différentes missions dans l'administration et le service public, elle exerce au sein du pôle UX et Design de CGI. Elle prend le temps de participer au lab' d'innovation et aux meetups  parisiens, sans oublier sa passion première, la danse",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Emeline-Racon-thumb-143x143-582.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Libérée, délivrée... du syndrome de l'imposteur",
+    "url": "https://www.paris-web.fr/2016/conferences/liberee-delivree-du-syndrome-de-limposteur.php",
+    "description": "Avant, j'avais plein d'excuses pour ne pas publier de code : il y a forcément mieux qui existe, le code va être tellement moche que personne ne voudra y toucher, et puis de toute façon ça va servir à rien.... Bref, j'étais retenue par un bien beau syndrome de l'imposteur. Puis un jour, alors toute jeune maman, j'ai fait un petit truc sous excel pour résoudre un de mes problèmes pratiques au quotidien (un obscur calcul de salaire de nounou). Je l'ai amélioré et partagé pour aider d'autres jeunes parents qui galéraient comme moi. De fil en aiguille, le petit truc excel s'est transformé en belle application web, les pull requests ont commencé à arriver....",
+    "tags": [
+      "développement",
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Agnès Haasser",
+        "description": "Agnès Haasser est développeuse web depuis 2010, polyvalente avec un penchant marqué pour le beau CSS et l'orthographe. Après un petit tour en SSII et en agence web, elle travaille maintenant à Lyon, chez TEA, pour développer le livre numérique en France et l'habitude du goûter de 16 h chez ses collègues.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Agnes-Haasser-thumb-143x143-588.jpeg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
     "title": "[Conf Sponsor] Node.js partout",
     "url": "https://www.paris-web.fr/2016/conferences/nodejs-partout.php",
     "description": "Depuis sa sortie en 2009, Node.js a émergé doucement... jusqu'à conquérir franchement le monde des gros sites « enterprise » à partir de 2014, au point qu'il est aujourd'hui devenu incontournable. Node.js, c'est pratiquement tout le Fortune 500, nombre des plus gros services en ligne, mais pas seulement : c'est aussi au cœur de la pratique web front, au cœur de la révolution des applications multi-plateformes : desktop, mobile, consoles, robotique, aérospatiale, IoT... Node.js est aussi l'écosystème et la communauté qui connaissent les plus fortes croissances annuelles, et ce depuis plusieurs années continues, avec des chiffres hallucinants. Cette présentation vise à réveiller celles et ceux qui n'ont pas encore Node.js fermement au centre de leur radar technique, et à élargir la perception qu'en ont les autres, laquelle se limite souvent à « serveurs web + npm ». Always bet on JS.",
@@ -437,6 +642,78 @@
         "name": "Christophe Porteneuve",
         "description": "Christophe conçoit des pages web depuis septembre 1995. Après avoir travaillé sur le premier portail JSP en Europe, il dirige la filière INSIA où il y enseigne les nouvelles technologies puis est directeur technique d'une agence web pendant 5 ans. Auteur du best-seller « Bien développer pour le Web 2.0 » chez Eyrolles, il a également écrit la référence « Prototype and script.aculo.us » chez Pragmatic Programmers. Il est aujourd'hui fondateur et directeur technique de Delicious Insights, qui tout en travaillant sur des SaaS B2B à venir conçoit et propose les cycles de formation Git Attitude et JS Attitude.",
         "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Christophe%20Porteneuve-thumb-143x143-593.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "L'épopée d'un développeur front au pays des cartes",
+    "url": "https://www.paris-web.fr/2016/conferences/l-epopee-d-un-developpeur-front-au-pays-des-cartes.php",
+    "description": "Un jour, on se réveille et on veut faire des cartes (interactives), mais le chemin est long et semé d'embûches. Ce talk décrit cette aventure et les découvertes que j'ai faites en tant que développeur front. Je vous montre donc comment éviter les faux-pas, quelques fondamentaux incontournables, d'où on vient et où on va. Je vous parle de l'histoire de la longitude, de pourquoi on a mis la Terre entière dans un carré et comment on cartographie le Pôle Nord. Des tuiles jusqu'à WebGL, je vous propose de disséquer les composants d'une carte sur le web. GeoJSON, PostGIS, Overpass, graticule ne seront plus des termes barbares mais vos alliés pour construire des cartes et des datavizs belles et efficaces.",
+    "tags": [
+      "cartographie",
+      "développement"
+    ],
+    "authors": [
+      {
+        "name": "Erik Escoffier",
+        "description": "Erik had an epiphany two years ago when looking at old maps in a library in Berlin - since then he's been obsessed with cartography. First as a multimedia developer, then a frontender, he's been tinkering since about 8 years with a broad set of technologies and languages (Javascript, node, Unity3D, Haxe, augmented reality, interactive installations...), and is now fully dedicated to experiment with maps and geographical data. After working as a community technologist at CartoDB in Madrid, he's now a front-end and maps developer. When he's not coding, Erik likes books, mountains, running and belgian beer (in that exact order).",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Erik-Escoffier-thumb-143x143-577.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Y'a pas d'avancement, pas de grimaces !",
+    "url": "https://www.paris-web.fr/2016/conferences/ya-pas-davancement-pas-de-grimaces.php",
+    "description": "Pas moins de 29 bonnes pratiques dans le livre Qualité Web (Opquast) concernant l'e-commerce. La plupart d'entre elles s'appliquent au très sensible tunnel de commande.D'autres se concentrent sur le service après-vente ou les moyens de paiement. Mais si ces bonnes pratiques s'attardent à nous rassurer, nous internautes avant nos commandes en ligne, aucune ne préoccupe de nous rassurer après. Colis fragiles, délais serrés, incertitudes sur la livraison... Nous avons tous notre lot d'expériences qui nous font angoisser à chaque achat en ligne. Conférence en forme de Pull Request à la communauté. Suivi de commande, état d'avancement... Quelques propositions de bonnes pratiques qui peuvent paraître évidentes mais qu'il est temps de formaliser.",
+    "tags": [
+      "e-commerce",
+      "qualité web",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Thomas Gasc",
+        "description": "Web Bricklayer who build stuff with PHP & Symfony.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Thomas_Gasc_143-thumb-143x143-613.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Ne passons pas à côté des choses simples",
+    "url": "https://www.paris-web.fr/2016/conferences/ne-passons-pas-a-cote-des-choses-simples.php",
+    "description": "Depuis plus de 10 ans, les sites web sont est en grande majorité propulsés par des CMS. Ce choix par défaut est remis en question depuis quelques années par les générateurs de sites statiques, notamment pour des gains de sécurité, de maintenance et de performance. Comme il est dommage de passer à côté des choses simples, nous verrons le nouveau paradigme qu'offrent ces outils, comment ils permettent de manipuler les données, de se concentrer à une conception sur mesure d'applications en manipulant des données au format Markdown ou JSON. Les possibilités sont nombreuses : blogs mais aussi livres, documentation, prototypes fonctionnels, styleguide, pages de présentation de produit, Single Page Application, etc.... À l'aide de quelques exemples, nous essaierons de vous donner envie à votre tour de reprendre la main sur vos processus de développement grâce aux générateurs de sites.",
+    "tags": [
+      "développement",
+      "webperf"
+    ],
+    "authors": [
+      {
+        "name": "Frank Taillandier",
+        "description": "Depuis près de 20 ans, Frank Taillandier suit de près l'évolution du web, des technologies ouvertes et de ses métiers. Aujourd'hui, il aime avant tout aider les équipes multi-disciplinaires à progresser pour concevoir de bons produits en adéquation avec les besoins utilisateurs. Le moyen le plus sûr de parvenir à de bons résultats est d'adopter le bon état d'esprit : démarche centrée utilisateur, amélioration continue, droit à l'erreur, management visuel et adoption agile ouverte.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Frank_Taillandier_143-thumb-143x143-604.jpg"
+      },
+      {
+        "name": "Bertrand Keller",
+        "description": "Après plusieurs années d'activité dans des agences web à Paris. Je suis parti à Rouen pour me lancer en Freelance. Ce nouveau statut me permet d'être au plus proche des mes clients et de leur proposer ce qui a de plus logique pour leur activité.",
+        "picture": "/img/nophoto.jpg"
       }
     ],
     "ressource": {
@@ -491,6 +768,27 @@
   {
     "year": 2016,
     "type": "conference",
+    "title": "Open Design",
+    "url": "https://www.paris-web.fr/2016/conferences/open-design.php",
+    "description": "« Open Source » est une expression qui peut nous être familière, mais qu'en est-il pour « Open Design » ? Comment pourrait-on définir l'Open Design ? Les dessous de la création en design sont souvent secrets pour protéger le processus de conception aussi bien que les techniques utilisées, pour en garder l'exclusivité, pour que les œuvres originales ne soient pas dupliquées. Comment remettre en question cette vision et ouvrir les pratiques de création? Où il sera question des initiatives existantes et de pistes de collaboration autour du design graphique, des fontes libres et de l'objet libre.",
+    "tags": [
+      "design"
+    ],
+    "authors": [
+      {
+        "name": "My Lê",
+        "description": "Designer inspirée par les domaines de l'art, l'illustration, la typographie, la calligraphie, My cherche à diffuser les pratiques de design graphique et artistiques. Elle est attachée à partager les projets, les logiciels et les services libre et open source. Elle donne des ateliers d'initiation HTML & CSS en tant que bénévole Mozilla.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/my-le-thumb-143x143-581.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
     "title": "Quand les militaires se prennent au jeu du design sprint",
     "url": "https://www.paris-web.fr/2016/conferences/quand-les-militaires-se-prennent-au-jeu-du-design-sprint.php",
     "description": "Retour d'expérience sur la mise en place d'un Design Sprint avec des militaires : comment faciliter la collaboration d'une cinquantaine de participants (utilisateurs, clients et designers) et créer un prototype en 5 jours. La problématique : les militaires appelés à partir en OPération EXtérieure doivent accomplir une série de tâches administratives précédant leur départ. Ces parcours et leur relation avec les différents services s'avèrent très complexes et irritants dans un contexte déjà stressant. Les personnes touchées par cette problématique étant nombreuses, il a été décidé d'organiser un Design Sprint d'une semaine afin de réunir toutes les parties prenantes, et en particulier les militaires issus des 3 armées afin de les faire participer à la conception de leur futur outil, un portail web. Notre rôle en tant que designers (4 UX designers + 1 Directeur Artistique) a été d'animer les différents ateliers de conception, de revoir les parcours utilisateurs avec les militaires et de construire progressivement un prototype sous la forme de wireframes et de maquettes graphiques. Les semaines qui ont suivi ce Design Sprint ont permis d'aboutir à un prototype plus détaillé, la réalisation de l'ensemble des wireframes et d'une planche de composants graphiques qui ont servi de base aux premiers développements. Ce que nous souhaitons illustrer à travers ce retour d'expérience :  Le processus d'un Design Sprint L'approche collaborative avec les utilisateurs et plus largement l'ensemble des parties prenantes (commanditaire, utilisateurs, consultants, designers) L'expérience humaine : la rencontre des militaires et des designers, coupés du monde sur une base de défense pendant 5 jours.",
@@ -524,6 +822,27 @@
         "name": "Bruce Lawson",
         "description": "Bruce is an open web standards advocate for Opera, the European browser. He's previously been tech lead for a large UK legal website, a tarot card reader, guitarist, tutor to a princess and Bollywood movie extra. Follow him at @brucel, read him at brucelawson.co.uk, get him drunk at the bar. Bruce est évangéliste des standards du web ouvert pour Opera, le navigateur européen. Auparavant, il a été chef technique pour un site web juridique Britannique à fort trafic, lecteur de cartes à tarot, guitariste, tuteur d'une princesse et figurant pour des films à Bollywood. Suivez-le sur @brucel, lisez-le sur brucelawson.co.uk, faites-le boire au bar.",
         "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Bruce_Lawson_143-thumb-143x143-598.jpg"
+      }
+    ],
+    "ressource": {
+      "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2016,
+    "type": "conference",
+    "title": "Organisez des cryptoparties !",
+    "url": "https://www.paris-web.fr/2016/conferences/organisez-des-cryptoparties.php",
+    "description": "En tant que (co-)organisateur de Cryptoparties sur Toulouse, quelques astuces, recettes et bonnes pratiques pour expliquer les règles de base de la sécurité informatique à son entourage, sa famille et ses voisins. Comment expliquer les bases de l'informatique et du chiffrement pour mieux faire passer des règles comme les mots de passe solide ou éviter un phising. À vous d'y picorer l'art et la manière de sensibiliser vos équipes ou vos clients à des mesures élémentaires de sécurité.",
+    "tags": [
+      "sécurité"
+    ],
+    "authors": [
+      {
+        "name": "Xavier Mouton-Dubosc",
+        "description": "Xavier Mouton-Dubosc est un autodidacte complet et il a eu la chance de pouvoir mettre de la passion dans ses métiers.  Régisseur d'une radio de punks à chiens, puis devenu humoriste de blagues téléphoniques après avoir lancé les logos et sonneries de portables, il est devenu développeur web sur le tas. Il adore compulser les standards et comprendre comment marche son métier. Dans le civil, il suis développeur back-end chez Adaptive Channel où il livre des journaux numériques pour les compagnies aériennes. Avec son uniforme, il co-organise les cryptoparty sur Toulouse et il anime une émission sur les gens du numérique http://cpu.pm. Retrouvez Xavier sur son blog http://dascritch.net et/ou sur son site présentable http://dascritch.com.",
+        "picture": "https://www.paris-web.fr/2016/assets_c/2016/05/Xavier_Mouton-Dubosc_143-thumb-143x143-614.jpg"
       }
     ],
     "ressource": {

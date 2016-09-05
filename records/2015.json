@@ -94,6 +94,29 @@
   {
     "year": 2015,
     "type": "conference",
+    "title": "Vers une bonne pratique du Pair Design",
+    "url": "https://www.paris-web.fr/2015/conferences/vers-une-bonne-pratique-du-pair-design.php",
+    "description": "Depuis quelque temps, je lis des articles sur le « pair design » et cela attise ma curiosité. Serait-ce la clé d’une expérience utilisateur réussie comme cela le suggère ou un nouveau terme à la mode ?  C'est à cette question capitale que je vais tenter de répondre, grâce au plan suivant :   Le « pair design » : un anglicisme de plus ? Un produit dérivé du pair programming ? Concrètement, ça fait quoi dans la vie de vrais « pair designers » ? Et comment s’y met-on ? Quel intérêt pour ma société ou mon organisation ?",
+    "tags": [
+      "Méthodologie",
+      "Pair Design",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Catherine Verfaillie",
+        "description": "Diplômée de Supinfocom Valenciennes et de la formation MICNI à GOBELINS, ancienne graphiste et responsable projet aguerrie, j'ai eue l’occasion de concevoir et de gérer des projets numériques à fortes tendances éditoriales, fonctionnelles et marketing, notamment chez DDB puis chez Grand Union (Fullsix).  C’est naturellement que j'ai souhaité évoluer en 2011 vers le métier d’UX Designer chez Ekino.   Je suis aujourd'hui Senior UX Designer et j'ai l'occasion d'accompagner au quotidien une équipe d’UI et d’UX Designers et d'être responsable du design de l’expérience utilisateur sur les projets de mes clients.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Catherine%20Verfaillie-thumb-143x143-478.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/143791971",
+      "slides": null
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
     "title": "Pasdecalais.fr, histoire d'une démarche d'accessibilité",
     "url": "https://www.paris-web.fr/2015/conferences/pasdecalaisfr-histoire-dune-demarche-daccessibilite.php",
     "description": "Depuis 2008, le Département du Pas-de-Calais s'est engagé dans la démarche impulsée par le RGAA, avec le double objectif d'atteindre au maximum l'accessibilité universelle sans que le résultat soit laid, tentant ainsi de faire disparaître quelques idées reçues et d'inciter les autres collectivités à entreprendre elles aussi cette mise en conformité, pour un web plus fonctionnel et pour tous.",
@@ -110,6 +133,27 @@
     ],
     "ressources": {
       "video": "https://vimeo.com/146476183",
+      "slides": null
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
+    "title": "La veille techno pour les vieux croutons",
+    "url": "https://www.paris-web.fr/2015/conferences/la-veille-techno-pour-les-vieux-croutons.php",
+    "description": "Tout le monde est d'accord : la veille techno est essentielle dans notre domaine d'activité.  Mais plus les années passent, plus l'excitation des nouvelles découvertes laisse la place à la lassitude et l'ennui.  « Comment !? Encore un framework JavaScript ?! »  Cette conférence se veut une petite réflexion sur la veille technologique : comment rester à jour dans un domaine en évolution constante, sans y perdre ses soirées, ses week-ends, et sans devenir dépressif-ve ?",
+    "tags": [
+      "veille techno"
+    ],
+    "authors": [
+      {
+        "name": "Thibault Jouannic",
+        "description": "A choisi de devenir développeur pour changer le monde sans quitter son fauteuil.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Thibault%20Jouannic-thumb-143x143-492.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/142169573",
       "slides": null
     }
   },
@@ -298,6 +342,53 @@
   {
     "year": 2015,
     "type": "conference",
+    "title": "Service workers : reprendre le contrôle du navigateur",
+    "url": "https://www.paris-web.fr/2015/conferences/service-workers-reprendre-le-controle-du-navigateur.php",
+    "description": "On nous a promis des applications web, mais nous n'y sommes toujours pas. J'utilise du JavaScript et le navigateur me sert de plateforme de développement et d'exécution, mais je n'ai pas de liens, pas d'URL, pas de convergence entre ce que j'ai dans mon navigateur et dans mon app store. Symptôme évident : les popups « Clique OK pour télécharger l'application, ou clique Annuler pour continuer sur le site web » sont toujours là…  Pourtant, en ce moment, nos navigateurs sont en train de combler un des derniers fossés entre le web et les app mobiles. Cette année, demain, nous allons pouvoir faire du web, en ligne ou hors ligne, en reprenant le contrôle du navigateur et des interactions réseau.  Ça s'appelle Service Workers et ça va nous apporter tout ce que AppCache nous avait promis, de façon utilisable, et bien plus encore : cache sur lequel on peut compter, interception des requêtes web, gestion des montées en version…  Nous allons voir à quoi ça ressemble, quelles opportunités nous sont ouvertes, comment l'utiliser, pourquoi… et enfin rassembler les app mobiles et le web.  Et si nous ajoutions la capacité à nos sites web de continuer à fonctionner en déconnecté ? Et si nous faisions enfin des app web, et pas simplement à base de JavaScript ? Les éléments pour s'y préparer sont là, avec une quinzaine de minutes pour ouvrir les yeux et avoir envie de s'y plonger.",
+    "tags": [
+      "HTML",
+      "JavaScript",
+      "mobile",
+      "offline"
+    ],
+    "authors": [
+      {
+        "name": "Éric Daspet",
+        "description": "Après avoir géré la technique de la startup qu'il a co-fondé il y a quatre ans, Éric continue son bout de chemin en accompagnant équipes techniques et produit à plonger dans le web sans s'y perdre.  Par le passé il a co-écrit le bestseller PHP 5 avancé, pu explorer les performances web à Yahoo, et co-fondé les conférences Paris-Web. Convaincu de la nécessité d'un web ouvert, il sera ravi de parler avec vous d'API, de performance web, de livre numérique, de recrutement, de start-up, de vie privée, d'identité numérique, d'architectures décentralisées et surtout, de tout ce qu'il ne connait pas encore.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/eric-daspet-thumb-143x143-463.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/144521297",
+      "slides": "https://docs.google.com/presentation/d/1hKQLmKrZU9pUVNYAp_loxxeuNeYtiqasVHn6IH2zcmk/"
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
+    "title": "« Hey, tu peux reprendre ce projet ? »",
+    "url": "https://www.paris-web.fr/2015/conferences/-hey-tu-peux-reprendre-ce-projet.php",
+    "description": "En tant que freelance, ou au sein d’une entreprise, il arrive que l’on soit amené à reprendre un projet existant. Quelles qu'en soient les raisons, c’est rarement de tout repos, et la 1re étape est souvent de rencontrer ses prédécesseurs, dans un contexte compliqué. Avec l’expérience, se détachent souvent des profils récurrents : du collègue qui n’a pas le temps à celui qui fait de la rétention d’info, en passant par le client innocent…  Ensemble, identifions ces profils et étudions les pistes pour apprendre à mieux gérer la situation et tenter d’éteindre les feux comme un vrai pompier du web :)",
+    "tags": [
+      "Méthodologie",
+      "métier",
+      "projet"
+    ],
+    "authors": [
+      {
+        "name": "Sylvain Zyssman",
+        "description": "Développeur Web et applicatif freelance passionné, et pâtissier à mes heures, je suis passé par plusieurs boîtes avant de me mettre à mon compte. Très attaché à la qualité Web et au partage des connaissances en général, je participe et organise plusieurs événements sur notre chère Côte Normande.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Sylvain%20Zyssman-thumb-143x143-493.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/143791977",
+      "slides": "https://speakerdeck.com/sylzys/paris-web-2015-hey-tu-peux-reprendre-ce-projet-comment-devenir-un-bon-pompier-du-web"
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
     "title": "WebGL and WebVR: 3D web today and tomorrow",
     "url": "https://www.paris-web.fr/2015/conferences/webgl-and-webvr-3d-web-today-and-tomorrow.php",
     "description": "The web has been mostly two-dimensional so far — and so we've design and conceptualised it pretty much as — literally — a page. A rectangle that we're filling with content in a visually pleasing and functional way.  We've even started to imitate three dimensions by using CSS 3D transitions and parallax scrolling — but we've not quite cut it yet.  In the meantime, mostly in the background WebGL has become fairly widely™ available and most people know that it exists but only a few people have actually used it.  While there's a flood of proof-of-concepts and toy demos, we're still mostly thinking of the web as \"pages\" in an infinite collection of books.  I'd like to change that. I'd like to take your hand and run with you into this whole universe of possibilities that WebGL gives you as of today. I'll even show some interesting use cases beyond demos and games.  Once we've taken a short breath from running through the third dimension, we'll go one step ahead: Instead of seeing the web on the screen in front of us, we'll go in. With WebVR we're having amazing ways of placing the action around the user — though, that's very bleeding edge right now and there's still some open questions… that makes it even more important to actually talk and think about this together; your ideas are wanted!  We'll then do one more thing: \"We have to go deeper!\" - Inception style! We'll do some live coding inside a virtual 3D space using WebGL and WebVR - so we'll code 3D stuff while being in a virtual 3D world.",
@@ -362,6 +453,27 @@
     ],
     "ressources": {
       "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
+    "title": "Le « RUN » (ou la Tierce Maintenance Applicative)",
+    "url": "https://www.paris-web.fr/2015/conferences/le-run-ou-la-tierce-maintenance-applicative.php",
+    "description": "Après avoir mis en ligne un nouveau site web, on entre dans une phase dite de « RUN » ou plus précisément en Tierce Maintenance Applicative (TMA). Il s’agit d’assurer une maintenance corrective, mais pas seulement… Il faut prendre en compte la maintenance préventive, la maintenance adaptative, le support fonctionnel, l’exploitation, etc.  Or il y a souvent des confusions entre toutes ces notions. Je propose de partager leur définition et quelques bonnes pratiques de mise en œuvre, tout en illustrant la spécificité de chacune de ces maintenances à partir de situations empruntées aux classiques du cinéma.",
+    "tags": [
+
+    ],
+    "authors": [
+      {
+        "name": "Leila Touati",
+        "description": "J’ai débuté ma carrière en tant que développeuse chez Capgemini Télecoms & Médias il y a 15 ans, puis j’ai évolué vers le poste de responsable de bureau d’étude pour SFR. À la Direction Technique d’Orange en 2008, j’ai travaillé sur les premiers services embarqués sur mobile de la marque. Enfin, depuis trois ans, je travaille pour l’agence web eEkino. Je suis en charge du pilotage opérationnel de projets de réalisation d’applications web pour La Poste et Renault.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Leila%20Touati-thumb-143x143-488.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/143791973",
       "slides": null
     }
   },
@@ -433,6 +545,36 @@
   {
     "year": 2015,
     "type": "conference",
+    "title": "Le styleguide, bien alimenté il tient ses promesses",
+    "url": "https://www.paris-web.fr/2015/conferences/le-styleguide-bien-alimente-il-tient-ses-promesses.php",
+    "description": "Il n'y a encore pas si longtemps, le travail de l'intégrateur était de transformer une maquette graphique en rendu HTML, et si possible, au pixel près. Avec l'arrivée de nouveaux intervenants, de nouvelles pratiques techniques et de collaboration en équipe, conserver une cohérence graphique tout au long d'un projet devient un véritable objectif de réussite. L'objectif d'un styleguide est de mettre en musique le travail d'un UX, d'un DA, d'un développeur front-end, puis d'un développeur back-end, en passant par le chef de projet et bien évidemment le client, et de pouvoir le voir se concrétiser pas à pas.  Les développeurs vont devoir alimenter ce styleguide interactif, le soigner, le bichonner et vérifier son bon développement : c'est un gage à la fois de réussite et de maintenance dans le temps.  Je vous propose de traiter ce sujet au travers d'un exemple concret : le nouveau site de Relais et Châteaux, conceptualisé par Ogilvy One et mis en oeuvre par C2iS.",
+    "tags": [
+      "Bonnes pratiques",
+      "charte graphique",
+      "codestyle",
+      "cohérence",
+      "CSS",
+      "DA",
+      "équipe",
+      "front-end",
+      "HTML",
+      "styleguide"
+    ],
+    "authors": [
+      {
+        "name": "Laurent Guitton",
+        "description": "Je suis arrivé dans ce métier au début des années 2000, après quelques années d'amateurisme essayant de faire passer mes premières lignes de CSS dans des navigateurs aujourd'hui disparus, avec pour ambition de devenir un de ces \"intégristes\" de la communauté du code propre et universel.  Aujourd'hui à la tête d'une équipe de 6 intégrateurs / développeurs Front-End chez C2iS, agence interactive lyonnaise, et toujours les mains dans le code, j'essaie toujours et encore de faire partager en interne comme en externe mes motivations premières, tout en touchant à toutes les nouveautés propres à nos métiers.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/Laurent%20Guitton%202015-thumb-143x143-516.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/145318192",
+      "slides": null
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
     "title": "Quoi de neuf sous le ciel de la sécurité du web et des internets",
     "url": "https://www.paris-web.fr/2015/conferences/quoi-de-neuf-sous-le-ciel-de-la-securite-du-web-et-des-internets.php",
     "description": "Chacun d'entre nous se sent de plus en plus concerné par les enjeux de la sécurité et de la confiance dans les outils connectés. Les applications web méritent que l'on prenne en compte ces nouvelles attentes des utilisateurs.  Afin de contrer la pratique honteuse qui consiste à ne penser à la sécurité qu'à la fin des projets, cette présentation tentera de sensibiliser les développeurs web aux risques et attaques du web (en remontant des couches hardwares aux couches softwares). Puis nous reverrons les outils mis à disposition pour blinder son développement web (bonnes pratiques de l'OWASP, normes W3C implémentées dans les navigateurs, frameworks spécialisés en sécurité incluant le chiffrement, l'authentification, la permission). Enfin, nous discuterons des fonctionnalités en discussion au W3C, relatives à la sécurité.",
@@ -478,6 +620,31 @@
   {
     "year": 2015,
     "type": "conference",
+    "title": "Bons robots, mauvais robots : un intense trafic",
+    "url": "https://www.paris-web.fr/2015/conferences/bons-robots-mauvais-robots-un-intense-trafic.php",
+    "description": "Le trafic généré par les robots est souvent ignoré par les webmasters, car il n'est communément pas reporté par les outils de statistiques (comme Google Analytics). Pourtant, cette activité représente une importante partie des requêtes sur le serveur et, si elle n'est pas correctement contrôlée, elle peut peser sur les coûts et les performances.  Pire, de mauvais ou vilains robots, aux intentions inavouables, se baladent en permanence sur le web, posant de nombreux problèmes de sécurité : brute forcing, security scanning, spamming, harvesting, scrapping.   Quelles sont les bonnes pratiques permettant de reconnaître un bon robot ? Comment opèrent les mauvais robots et à quels dangers nous exposent-ils ? Quelles stratégies mettre en place pour les contrôler ?   En tant que webmaster de multiples sites webs, je m'intéresse à ces problématiques depuis plusieurs années et je travaille sur des outils permettant de les analyser. Je partagerais ce que j'ai appris : chiffres, conseils, anecdotes.  Un sujet rarement abordé !",
+    "tags": [
+      "Hébergement",
+      "HTTP",
+      "robots",
+      "sécurité",
+      "spam"
+    ],
+    "authors": [
+      {
+        "name": "François Hodierne",
+        "description": "François fait du web depuis 15 ans. Parmi les premiers enthousiastes des standards du web en France, il commence sa carrière au sein d'Upian au début des années 2000. Vient ensuite la vague web 2.0, il crée Blogmarks et est emporté dans le monde des start-ups par Netvibes. Après avoir tout lâché et tenté une drôle d'aventure avec La Distribution, il est aujourd'hui retombé dans les start-ups et officie actuellement en tant qu'Ingénieur Backend chez EyeEm à Berlin.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/Francois%20Hodierne-thumb-143x143-514.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/143169748",
+      "slides": "http://francois.hodierne.net/2015/bons-robots-mauvais-robots/"
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
     "title": "Le défi d'une personne aveugle : conseiller sur l'accessibilité dans un web toujours plus visuel",
     "url": "https://www.paris-web.fr/2015/conferences/le-defi-dune-personne-aveugle-conseiller-sur-laccessibilite-dans-un-web-toujours-plus-visuel.php",
     "description": "Après plus de 15 ans passés au service de l'accessibilité numérique, j'expliquerai, lors de cette conférence, quels outils ont été mis en place pour me permettre, en tant que personne aveugle, d'exercer le métier que je fais aujourd'hui. En plus de l'aménagement de mon poste de travail, je parlerai des outils spécifiques mis en place, de leur accessibilité, des difficultés rencontrées durant mon parcours professionnel et de la façon dont j'ai pu les surmonter.  Une deuxième partie de cette conférence sera consacrée à l'utilisation d'outils accessibles, et de la mise en place d'une méthodologie et d'une formation pour un référent accessibilité aveugle. Cette formation peut être animée par une personne aveugle en toute autonomie.  En conclusion, les premières conséquences de cette formation seront dévoilées.",
@@ -518,6 +685,74 @@
     ],
     "ressources": {
       "video": "https://vimeo.com/146682823",
+      "slides": null
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
+    "title": "OpenID Connect, le nouveau standard d'authentification sur le web : mise en oeuvre sur FranceConnect",
+    "url": "https://www.paris-web.fr/2015/conferences/openid-connect-le-nouveau-standard-dauthentification-sur-le-web-mise-en-oeuvre-sur-franceconnect.php",
+    "description": "FranceConnect est un nouvel outil visant à améliorer l'accès aux administrations françaises en facilitant l'authentification et l'identification des usagers. Pour cela, nous avons mis en oeuvre le protocole OpenID Connect.  Ce protocole ouvert basé sur OAuth2, successeur de OpenID, et soutenu par des grands acteurs, permet à une application cliente d'utiliser n'importe quel fournisseur d'identité pourvu qu'il implémente aussi ce standard.  Nous verrons dans cette présentation quels sont les cas d'usages de ce protocole (authentification sur le web, sur des applications mobiles…), quels sont ses avantages et inconvénients, et comment le mettre en oeuvre avec Node.js.",
+    "tags": [
+      "identité",
+      "sécurité"
+    ],
+    "authors": [
+      {
+        "name": "François Petitit",
+        "description": "François est consultant depuis 10 ans. Il a commencé par du Java, avant de découvrir les joies du web et du Javascript. Il travaille chez OCTO Technology, où il fait du conseil pour ses clients grands comptes, et réalise des missions de réalisation innovantes (FranceConnect).",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Francois-Petitit-thumb-143x143-495.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/143169752",
+      "slides": null
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
+    "title": "Le designer qui chuchotait à l'oreille des ordinateurs",
+    "url": "https://www.paris-web.fr/2015/conferences/le-designer-qui-chuchotait-a-loreille-des-ordinateurs.php",
+    "description": "Le web change et se spécialise un peu plus chaque jour. Ces dernières années, de nombreux outils accessibles via la ligne de commande (Git, node.js, Sass, Gulp…) ont vu le jour.  Souvent perçue par les designers comme un truc de nerd magicien, comme étant le meilleur moyen d'inoculer Alzheimer à votre disque dur ou comme servant juste à afficher la matrice… la console permet de se libérer des interfaces graphiques.  Rapidité d'exécution, automatisation de tâches, accès distant… le Terminal est un excellent moyen de devenir le meilleur ami de vos ordinateurs en parlant le même langage !  Au programme, partage d'expérience pour les graphistes (et autres curieux) par un graphiste, devenu webdesigner, devenu front-end developer, sur le pourquoi du comment utiliser la console. Atterrissage en douceur garanti…",
+    "tags": [
+      "Outils",
+      "performance"
+    ],
+    "authors": [
+      {
+        "name": "Thierry Michel",
+        "description": "HTML/CSS ninja, Sass and jQuery lover, pixel addict.  Je forme les futurs développeurs front-end @cepegra et j'élève des champions pour @skillsbelgium…",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Thierry%20Michel-thumb-143x143-464.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/145317794",
+      "slides": "http://slides.com/thierrymichel/le-designer-qui-chuchotait-l-oreille-des-ordinateurs#/"
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
+    "title": "Êtes-vous au top ?",
+    "url": "https://www.paris-web.fr/2015/conferences/etes-vous-au-top.php",
+    "description": "Alors que nous mettons tous nos efforts pour livrer un travail de qualité dans nos projets, nous ne prenons jamais le temps nécessaire pour faire le point sur notre manière de travailler et notre niveau de performance pendant le projet. Nous avons même parfois l’impression à l’issue du projet que nous aurions pu mieux faire. Peut-être manquons-nous d’entrainement ? Comment savoir et, d’ailleurs, comment faire pour nous entrainer ? Sur qui nous baser les athlètes ? Les musiciens ? Les chirurgiens ? Ce n’est pas non plus en prenant des projets « à côté », parce que ce ne sont que des projets en plus !  Je vous propose de découvrir différentes approches d’entrainement, pour augmenter vos capacités cognitives, analytiques, créatives, empathiques. Un petit arsenal pour vous exercer régulièrement seul ou en équipe et être au top de votre forme.",
+    "tags": [
+      "design",
+      "performance",
+      "travail d'équipe",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Natacha Hennocq",
+        "description": "Natacha Hennocq est une UX designer chevronée, en charge de l'expérience utilisateur globale multi-écran sur le portail Orange depuis 7 ans.  Après des études en neurophysiologie, en écologie théorique et biologie de l'évolution, elle se tourne vers une autre forme de résolution de problème, appliquée au design interactif, à l'architecture de l'information, la recherche utilisateur. Elle dispense des formations en interne et enseigne dans différents établissements parisiens, dont l'IESA, et co-anime un meetup XX+UX à Paris.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/09/Natacha%20Hennocq-thumb-143x143-519.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/143791974",
       "slides": null
     }
   },
@@ -595,6 +830,53 @@
   {
     "year": 2015,
     "type": "conference",
+    "title": "Il est beau il est frais mon RGAA 3",
+    "url": "https://www.paris-web.fr/2015/conferences/il-est-beau-il-est-frais-mon-rgaa-3.php",
+    "description": "Pour tous ceux qui n'ont pas le temps de se plonger dans la lecture détaillée de ce nouveau référentiel d'accessibilité. Nous verrons ensemble les principales nouvelles règles de conception que vous devez adopter. Au menu, du HTML5, de l'ARIA et un peu de sauce JavaScript pour pimenter le tout.",
+    "tags": [
+      "Accessibilité",
+      "HTML",
+      "JavaScript"
+    ],
+    "authors": [
+      {
+        "name": "Aurélien Levy",
+        "description": "Après une formation initiale de graphiste, Aurélien a complété ses connaissances par une formation de concepteur réalisateur multimédia à l’Institut d’Études Supérieures des Arts. En janvier 2004, il devient l’un des premiers « experts Accessiweb en évaluation ». Il rejoint la société Temesis en 2008 avant d'en devenir le directeur général fin 2011.  Il a notamment co-rédigé le RGAA 1 et 2 et a activement participé à la relecture du RGAA 3. Il a également animé plusieurs conférences dans le domaine de l’accessibilité (INOP, RMLL, Paris-web, CSUN, Confoo, TechDays…) et contribué à la prise en compte de l’accessibilité dans des groupes comme La Poste, Science Po, Groupama ou diverses administrations comme la Présidence de la République, la DILA ou le ministère de la santé.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/aurelien_levy-thumb-143x143-354-thumb-143x143-473.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/143169746",
+      "slides": null
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
+    "title": "Itinéraire d'une licorne : de la psychologie sociale à l'UX design",
+    "url": "https://www.paris-web.fr/2015/conferences/itineraire-dune-licorne-de-la-psychologie-sociale-a-lux-design.php",
+    "description": "À travers des exemples théoriques et pratiques basés sur mon parcours professionnel, je présenterai en quoi l'étude de la psychologie est un moyen comme un autre pour faire du design d'expérience utilisateur.  J'aborderai les points de convergence entre la psychologie sociale et la conception centrée utilisateur.",
+    "tags": [
+      "ergonomie",
+      "interface",
+      "psychologie",
+      "UX"
+    ],
+    "authors": [
+      {
+        "name": "Maxime Fortelle",
+        "description": "Psychologue de formation, j'ai découvert l'ergonomie web au Luxembourg avant de découvrir les paillettes de la conférence ParisWeb en tant qu'animateur d'atelier le samedi matin.  Aujourd'hui exilé dans les Alpes, je prêche la bonne parole UX avec l'association FLUPA auprès des skieurs et des ingénieurs informaticiens qui peuplent la région grenobloise.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Maxime%20Fortelle-thumb-143x143-496.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/145318029",
+      "slides": null
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
     "title": "[Conf Sponsor] Le dev front à Mach 1 au quotidien",
     "url": "https://www.paris-web.fr/2015/conferences/le-dev-front-a-mach-1-au-quotidien.php",
     "description": "Mais pourquoi, en 2015, on persiste à gaspiller un temps fou à sauver, attendre un éventuel build bien trop lent, pour ensuite basculer sur chaque navigateur de développement, et dans chacun rafraîchir, rejouer le scénario qui amène à l'interaction / visualisation souhaitée… Encore, et encore, et encore.  Un boucle de feedback infiniment plus étroite et rapide est possible, qui nous permet d'éditer notre code source où nous voulons (éditeurs autonomes, devtools…), de passer très vite à travers une chaîne de build, même complexe, et de voir instantanément le résultat dans nos navigateurs de développement, tout en répliquant à la volée nos manip's de test à travers eux.  Gagnez du temps et du plaisir dans votre dev front. Toute la journée. Tous les jours.",
@@ -642,6 +924,49 @@
     ],
     "ressources": {
       "video": "https://vimeo.com/142169449",
+      "slides": null
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
+    "title": "DIY : une console de jeux web",
+    "url": "https://www.paris-web.fr/2015/conferences/diy-une-console-de-jeux-web.php",
+    "description": "Avec la montée en puissance des standards du Web, il est désormais possible de créer des jeux vidéo directement dans son navigateur, qui n'ont plus tant de choses à envier aux distributions classiques. Si c'est sur la bonne voie d'un point de vue software, qu'en est-il du hardware ? Cela ne semble pas aussi simple et prometteur…  Pas si sûr ! Voyons comment, avec un budget serré et un peu de débrouillardise, on peut créer soi-même une console de jeux web dans son salon ouverte à de multiples possibilités.",
+    "tags": [
+
+    ],
+    "authors": [
+      {
+        "name": "Alvin Berthelot",
+        "description": "Alvin Berthelot est un développeur depuis plus de 10 ans sur des projets et des technologies hétérogènes, qui n'ont qu'un seul point commun, l'utilisation du web.  Agiliste convaincu, toujours à la recherche d'une « autre façon de travailler ». Façon, qui saura faire preuve de pragmatisme ayant pour objectif l’efficience collective, mais aussi l’accomplissement personnel.  Sa curiosité, son envie de partager les savoirs, ses 2 casquettes développeur/agiliste et son polyglottisme technologique lui permettent de mélanger les disciplines et ainsi de parler de tout… et surtout de n'importe quoi :)  Il travaille (tout de même de manière sérieuse) en tant qu'indépendant pour sa structure webyousoon.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/2014-photo-Alvin-Berthelot-thumb-143x143-441-thumb-143x143-458.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/145317924",
+      "slides": null
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
+    "title": "« Acceptation Générale » mon prénom, mon adresse, mon domaine seront-ils acceptés par tous les formulaires ?",
+    "url": "https://www.paris-web.fr/2015/conferences/acceptation-generale-mon-prenom-mon-adresse-mon-domaine-seront-ils-acceptes-par-tous-les-formulaires.php",
+    "description": "Bien des formulaires sur le web aujourd'hui testent les données entrées et en refusent certaines. \"Unsafe character\" parce que j'ai voulu utiliser mon prénom (avec l'accent sur le e), \"Invalid domain\" (parce que c'est un nom en .alsace et que l'auteur du formulaire a copié/collé un code JavaScript qui limite arbitrairement les TLD à quatre caractères), \"Wrong email syntax\" (parce que l'auteur du formulaire n'a pas lu la norme sur les adresses de courrier et a tenté de deviner quels caractères étaient acceptables).  Pourquoi teste-t-on ?  La réponse n'est pas si évidente que cela, nombre de ces tests sont inutiles. Et, si on teste, où trouver la référence de la syntaxe, plutôt que de la réinventer en mal (un petit tour sur les forums permet de trouver plein de codes de test faux) ?  On parlera donc des contraintes sur les identificateurs, des normes qui les décrivent, des avantages et des inconvénients qu'il y a à les tester dans un formulaire web et des bonnes façons de faire.",
+    "tags": [
+      "Bonnes pratiques",
+      "formulaire"
+    ],
+    "authors": [
+      {
+        "name": "Stéphane Bortzmeyer",
+        "description": "Stéphane Bortzmeyer est ingénieur R&D à l'AFNIC (Association Française pour le Nommage Internet en Coopération, registre des noms de domaines en .FR). Il s'occupe entre autre de sécurité, notamment du DNS. Sa spécialité n'est pas le web mais il y connait quand même deux ou trois choses.  Avant l'AFNIC, il a travaillé chez des acteurs Internet très divers, de la web agency au centre de recherche.  Il tient un blog sur les réseaux, l'informatique, les normes : bortzmeyer.org.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/Stephane%20Bortzmeyer-thumb-143x143-497.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/144521296",
       "slides": null
     }
   },
@@ -767,6 +1092,51 @@
     "ressources": {
       "video": null,
       "slides": "http://www.paris-web.fr/2015/presentations/parisweb2015-nvda-a11y-testing-dboudreau-final.pptx"
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
+    "title": "CSP : Content Security Policy",
+    "url": "https://www.paris-web.fr/2015/conferences/csp-content-security-policy.php",
+    "description": "Et si je vous disais qu'il existe une technologie très simple à utiliser, facile à comprendre, qui sécurise très efficacement certains aspects du front-end, qui vous permet de maitriser globalement mieux votre front et qui peut en prime être un outil fantastique d'amélioration continue pour votre code front… vous me diriez « c'est impossible » ? Et pourtant, ça a été fait. Je l'utilise depuis plus d'un an.  Laissez-moi vous présenter « Content Security Policy » ainsi que quelques exemples, vous pourriez être très surpris…",
+    "tags": [
+      "amélioration continue",
+      "front-end",
+      "sécurité"
+    ],
+    "authors": [
+      {
+        "name": "Nicolas Hoffmann",
+        "description": "Nicolas est un soldat monté pacifiquement au front (-end) depuis plus de 10 ans en web agency en Suisse.  Il dompte avec pragmatisme la créativité de ses graphistes par le truchement des CSS avec un niveau d'exigence qualitatif proche de l'horlogerie suisse, mais sans faire coucou.  Co-directeur du collectif OpenWeb, auteur du micro-framework CSS Röcssti et de plus d'une cinquantaine d'articles sur divers sites et divers sujets, il est parfois délicatement surnommé « le Suisse-Allemand de la qualité Web » bien qu'il ne soit ni Suisse, ni Allemand et encore moins Suisse-Allemand.  Le pire, c'est qu'il prend ce surnom comme un compliment.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/2014-photo-Nicolas-Hoffmann-thumb-143x143-432-thumb-143x143-484.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/143169749",
+      "slides": null
+    }
+  },
+  {
+    "year": 2015,
+    "type": "conference",
+    "title": "Vendez votre méthodologie",
+    "url": "https://www.paris-web.fr/2015/conferences/vendez-votre-process.php",
+    "description": "Rien n’est moins évident pour un client que de savoir si le design qu’on lui vend est le bon, il n’est pas formé pour ça. Le designer en revanche, lui, l’est, il est donc indispensable qu’il démontre à son client que son travail répond à ses besoins. Car en réalité les clients n’achètent pas vos créations, ils achètent votre méthodologie. En général, ce que l’on a l’habitude de montrer, c’est un beau produit fignolé, mais votre client veut comprendre pourquoi il est aussi génial que vous le dites. Si vous voulez qu’il soit aussi enthousiaste que vous et qu’il vous fasse confiance, montrez-lui ce que vous connaissez par cœur, révélez vos secrets de fabrication et vendez votre méthodologie.",
+    "tags": [
+      "design",
+      "Méthodologie"
+    ],
+    "authors": [
+      {
+        "name": "Jean-Philippe Cabaroc",
+        "description": "Designer et directeur artistique, Jean-Philippe Cabaroc aime les designs qui racontent une histoire. Il a fondé son studio de création graphique en 2009 après avoir travaillé 5 ans en agence de communication. Intervenant sur des projets transversaux associant web et print, son travail donne une place importante à l’émotion pour véhiculer le contenu. Passionné par la création visuelle, il a co-fondé avec cinq de ses confrères le premier podcast français consacré au webdesign, The Walking Web. Il tweete sur ses trouvailles et son process créatif sous le nom de @cabaroc et écrit ses réflexions professionnelles sur son blog.",
+        "picture": "https://www.paris-web.fr/2015/assets_c/2015/05/cabaroc-portrait-thumb-143x143-475.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/145317706",
+      "slides": null
     }
   },
   {

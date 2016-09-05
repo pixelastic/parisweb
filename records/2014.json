@@ -110,6 +110,29 @@
   },
   {
     "year": 2014,
+    "type": "conference",
+    "title": "Les masques CSS : vers de nouveaux usages dans le webdesign",
+    "url": "https://www.paris-web.fr/2014/conferences/les-masques-css-vers-de-nouveaux-usages-dans-le-webdesign.php",
+    "description": "Les masques existent depuis « presque » toujours dans Photoshop, c’est même l’une des fonctionnalités primordiales. Aucun designer ne peut s’en passer. Pourtant, c'est tout frais sur le web, en tout cas depuis que la communauté délaisse Flash. En se basant sur mes expérimentations, cette conférence est un tour d’horizon de l’utilisation des masques sur le web. Elle tentera d’expliquer les différences entre clipping et masking (les deux types de masques) en CSS et en SVG en présentant de nouveaux types d’effets visuels ainsi que de nouvelles interactions rendues possibles grâce à eux.",
+    "tags": [
+      "CSS",
+      "design",
+      "SVG"
+    ],
+    "authors": [
+      {
+        "name": "Vincent De Oliveira",
+        "description": "Formateur CSS & UI. Auteur du livre CSS3 Le design web moderne.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Vincent-De-Oliveira-thumb-143x143-438.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113843838",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
     "type": "workshop",
     "title": "Les Web Components, oui, mais tout de suite !",
     "url": "https://www.paris-web.fr/2014/ateliers/les-web-components-oui-mais-tout-de-suite.php",
@@ -150,6 +173,27 @@
     "ressources": {
       "video": "https://vimeo.com/113839948",
       "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Créer des ponts entre le point de vente physique et la vente en ligne",
+    "url": "https://www.paris-web.fr/2014/conferences/creer-des-ponts-entre-le-point-de-vente-physique-et-la-vente-en-ligne.php",
+    "description": "Emmener les clients vers la vente en ligne était un premier défi. Les faire revenir au point de vente physique après avoir goûté la facilité du web, rassembler vente physique et en ligne pour former une expérience d'achat complète en sont deux autres. Tous les moyens possibles ne sont pas encore forcément maitrisés ou mis en place pour récompenser le client fidèle et le faire revenir en magasin. Avant tout il faut considérer l’utilisateur, c’est à dire le consommateur.",
+    "tags": [
+      "e-commerce"
+    ],
+    "authors": [
+      {
+        "name": "Eric Nouri",
+        "description": "Eric est UX researcher. Il a d’abord travaillé sur les objets connectés, chez Parrot en collaborant notamment avec Starck, avant de rejoindre l’équipe d’Axance, pour accompagner des entreprises comme BNP Paribas, SNCF, Louis Vuitton ou encore Philips. Vous pouvez le suivre sur @userscanhelp.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Eric%20Nouri-thumb-143x143-401.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113838904",
+      "slides": "http://www.paris-web.fr/2014/slides/Eric_Nouri-creer-des-ponts-entre-le-point-de-vente.pdf"
     }
   },
   {
@@ -203,6 +247,28 @@
     ],
     "ressources": {
       "video": "https://vimeo.com/113839944",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "100 % de revue de code",
+    "url": "https://www.paris-web.fr/2014/conferences/100-de-revue-de-code.php",
+    "description": "Chez TEA, nous faisions un peu de revue de code de temps en temps. Nous avons décidé de faire revoir TOUT notre code par nos collègues avant de le passer en production. Comment nous en sommes-nous sortis ?  Laissez-moi vous présenter nos outils, nos processus et les bénéfices que nous en avons retirés.",
+    "tags": [
+      "développement",
+      "méthodologie"
+    ],
+    "authors": [
+      {
+        "name": "Agnès Haasser",
+        "description": "Agnès est développeuse web. Elle a découvert le CSS à 15 ans, et en a fait son métier, après un détour par des études d'ingénieur et l'édition scientifique. À présent, elle travaille chez TEA, où elle touche à plein de choses (du PHP au CSS en passant par Ruby) pour faire fonctionner le livre numérique en France.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Agnes%20Haasser-thumb-143x143-396.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113941030",
       "slides": null
     }
   },
@@ -413,6 +479,27 @@
   {
     "year": 2014,
     "type": "conference",
+    "title": "Intitulés de poste : bas les masques !",
+    "url": "https://www.paris-web.fr/2014/conferences/intitules-de-poste-bas-les-masques.php",
+    "description": "La vision simpliste « Moi développeur, toi graphiste » est une illusion dangereuse. À force d'y croire, on se rouille du cerveau, alors que tout le monde a la capacité de créer, rêver, rebondir et échanger autour des besoins et contraintes de chaque projet pour les emmener encore plus loin. Redevenons curieux et flinguons les mythes de l'ingénieur qui-sait-tout, du designer artiste et du développeur binaire.",
+    "tags": [
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Goulven Champenois",
+        "description": "Depuis bientôt 10 ans qu'il est tombé dans le Web, Goulven n'a de cesse d'améliorer l'ergonomie et l'accessibilité, un site à la fois ou —plus ambitieusement— en diffusant les connaissances par les traductions de Pompage, en donnant et en organisant des conférences. À l’aise tant pour la définition des besoins que pour la conception, le développement et l’intégration responsive, sa vue d’ensemble lui permet de prendre en compte les besoins utilisateurs à toutes les étapes projet. Vous pouvez le suivre sur @goulvench",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-GoulvenChampenois-thumb-143x143-442.jpg"
+      }
+    ],
+    "ressources": {
+      "video": null,
+      "slides": "http://www.paris-web.fr/2014/slides/Goulwen_Champenois_—_Intitulés_de_poste.pdf"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
     "title": "Code de qualité : ce qu'il faut savoir",
     "url": "https://www.paris-web.fr/2014/conferences/code-de-qualite-ce-quil-faut-savoir.php",
     "description": "Dans cette session, nous regardons un éventail d'outils et de processus qui vous permettront d'augmenter la qualité du code de votre projet. Et cela sans ralentir le rythme de travail. Ces méthodes de travail sont largement utilisées par de nombreux projets à succès. Nous partagerons aussi nos expériences lors de la mise en place progressive de ces méthodes. Vous pourrez mettre en place l'une de ses pratiques la semaine suivante.  Nous parlerons, entre autres, de revue de code, tests, gestionnaire de versions, gestionnaire de tickets, linter, guide de style, intégration continue, gérer votre dette technique, documentation à la demande, automatisation des tâches récurrentes.",
@@ -481,6 +568,27 @@
   },
   {
     "year": 2014,
+    "type": "conference",
+    "title": "Le design d'interface et la théorie de la Gestalt",
+    "url": "https://www.paris-web.fr/2014/conferences/le-design-dinterface-et-la-theorie-de-la-gestalt.php",
+    "description": "Devant la complexité de notre environnement, le cerveau va chercher à mettre en forme, à donner une structure signifiante à ce qu’il perçoit suivant plusieurs lois : la loi de proximité, la loi de similarité, la loi de clôture et la loi de Fitts. Nous verrons en quoi celles-ci consistent et comment elles s'appliquent au design d'interface.   En terme de design d’interface, il est également important de s’intérréser à la loi de Hick et les nombres magiques de Miller. La loi de Hick déclare que le temps requis pour prendre une décision est une fonction du nombre d’alternatives possibles, tandis que les nombres de Miller s’attaquent aux limites de notre mémoire de travail. En d’autres termes, plus le choix est large, plus celui-ci est difficile. Nous verrons quelle influence ont ces deux paramètres sur notre façon d’interpréter les interfaces.",
+    "tags": [
+      "ergonomie"
+    ],
+    "authors": [
+      {
+        "name": "Vincent Desdoigts",
+        "description": "Vincent est un jeune développeur sensible aux problématiques techniques et d’interfaces liées à la diversité grandissante des appareils connectés. Outre l’aspect technique, il affectionne et tend à développer ses compétences en terme d’ergonomie et d’expérience utilisateur. Il travaille chez JoliCode en tant que développeur web et mobile. Vous pouvez le suivre sur @vdesdoigts.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Vincent%20Desdoigts-thumb-143x143-411.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113839416",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
     "type": "workshop",
     "title": "Node.js démystifié",
     "url": "https://www.paris-web.fr/2014/ateliers/nodejs-demystifie.php",
@@ -524,6 +632,49 @@
     ],
     "ressources": {
       "video": null,
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Le futur de l'industrialisation du web : l'ingénierie dirigée par les modèles",
+    "url": "https://www.paris-web.fr/2014/conferences/le-futur-de-lindustrialisation-du-web-lingenierie-dirigee-par-les-modeles.php",
+    "description": "La conception d'interfaces web est de plus en plus complexe : les navigateurs, terminaux et plateformes permettant d'accéder au web sont de plus en plus nombreux et divers, de même que les utilisateurs et leurs contextes d'usage. Si l'on souhaite faire une interface web de qualité, l'ensemble des facettes à couvrir et donc des compétences nécessaires ne cesse de croître (utilité, utilisabilité, accessibilité, design graphique, design émotionnel, expérience utilisateur, sécurité, robustesse, performance, etc.).  On entend souvent parler de l'industrialisation du web pour gérer toute cette complexité, mais les solutions actuelles pour cette industrialisation sont essentiellement des méthodes (non outillées) qui couvrent partiellement le processus de conception d'une interface web. L'ingénierie dirigée par les modèles (IDM, ou model-driven engineering, MDE en anglais) est une approche de développement logiciel qui devrait permettre d'apporter dans un avenir proche une solution globale au problème d'industrialisation du web. Elle est actuellement appliquée à la conception de systèmes industriels complexes et fait l'objet de travaux de recherche depuis une dizaine d'années dans le but d'appliquer ces résultats à la conception d'interfaces web.  Cette présentation permettra de découvrir ce qu'est l'IDM, comment l'appliquer concrètement au web et ses principaux bénéfices (automatisation des tâches répétitives, capitalisation des savoirs et savoir-faire, support à la collaboration dans les équipes pluridisciplinaires, vérification de la qualité). Cette présentation sera illustrée d'exemples concrets et montrera les environnements logiciels actuellement disponibles pour mettre en place une démarche IDM dans vos projets.",
+    "tags": [
+      "méthodologie"
+    ],
+    "authors": [
+      {
+        "name": "Alain Vagner",
+        "description": "Ingénieur, chercheur, chef de projet, développeur, responsable produit, hacker, architecte, consultant (rayez les mentions inutiles) dans la recherche publique Luxembourgeoise [1] depuis une dizaine d’années, Alain Vagner a une obsession : développer efficacement des interfaces utilisateurs de qualité. Dans le domaine de l’ingénierie logicielle pour l’interaction Homme-machine, il participe à la définition et à la réalisation de plusieurs projets de recherche nationaux (ex: [2]) et accompagne les entreprises luxembourgeoises dans leurs projets de R&D. Parallèlement, il fût membre de l’équipe de développement du blogware open source Dotclear [3] et membre fondateur des associations FLUPA (association “France - Luxembourg” des spécialistes de l’utilisabilité [4]) et COIN (promotion de la création vidéoludique dans l’Est de la France [5]).   Liens utiles : [1] CRP Henri Tudor: http://www.tudor.lu [2] Projet MoDEL: http://www.tudor.lu/fr/projets/model [3] Projet Dotclear: http://www.dotclear.org [4] Association FLUPA: http://www.flupa.eu [5] Association COIN: http://www.extra-coin.fr",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Alain%20Vagner-thumb-143x143-397.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113939050",
+      "slides": "http://www.paris-web.fr/2014/slides/Alain-Vagner.industrialisation_du_web.pdf"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Le Reverse Proxy, ce majordome à votre service",
+    "url": "https://www.paris-web.fr/2014/conferences/le-reverse-proxy-ce-majordome-a-votre-service.php",
+    "description": "Avec l'arrivée de PHP-FPM et la fin des mod_* d'Apache, nous glissons nécessairement vers une configuration à base de reverse proxys. Au travers de l'histoire de l'évolution d'un site, vous verrez comment un reverse proxy peut être déployer pour vous permettre d'offrir un accès SSL, faire de la sécurité, de la répartition de charge, gérer vos périodes de maintenances, faire de la webperformance, etc.",
+    "tags": [
+      "backend",
+      "performance"
+    ],
+    "authors": [
+      {
+        "name": "Nicolas Steinmetz",
+        "description": "Curieux insatiable et généraliste du web touchant à tout ce qu'il trouve. Focalisé tant sur les usages que la technique, je cherche à concilier les deux pour répondre aux besoins de mes utilisateurs et à leurs problématiques.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Nicolas%20Steinmetz-thumb-143x143-405.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113939053",
       "slides": null
     }
   },
@@ -665,6 +816,50 @@
   },
   {
     "year": 2014,
+    "type": "conference",
+    "title": "Comment optimiser le checkout sur mobile ?",
+    "url": "https://www.paris-web.fr/2014/conferences/comment-optimiser-le-checkout-sur-mobile.php",
+    "description": "De par la situation de mobilité du smartphone, la phase du checkout est délicate, car l'internaute ne risque pas de sortir sa carte bleue quand il n'est pas chez lui.  En sachant qu'en ajoutant une étape dans le process de checkout, on perd à chaque fois la moitié de ses utilisateurs, il devient essentiel de réfléchir à la gestuelle du checkout de façon plus simple, de minimiser les champs à remplir, bref de faciliter cette étape de complétion d'achat.",
+    "tags": [
+      "e-commerce",
+      "ergonomie",
+      "mobile"
+    ],
+    "authors": [
+      {
+        "name": "Nicolas El Azzi",
+        "description": "Venant du print, Nicolas évolue rapidement dans l’univers du web suite à son entrée chez AOL. D’abord graphiste, il gagne en appétit pour la conception web et les logiques de navigation et de compréhension de l’utilisateur. Tirant parti de cette double toque, il mitonne chez Axance depuis 2008 des maquettes ergonomiques et aime dispenser ses recettes en tant que conseiller et consultant sur les problématiques mobile, tablette et les applications métiers. Vous pouvez le suivre sur @nicolaselazzi.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Nicolas%20El%20Azzi-thumb-143x143-404.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113838749",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Comment tirer le meilleur parti de ses erreurs ?",
+    "url": "https://www.paris-web.fr/2014/conferences/comment-tirer-le-meilleur-parti-de-ses-erreurs.php",
+    "description": "Aucun projet ne se déroule correctement, et nous cherchons bien souvent à mieux faire. Mais comment ? J’aimerais vous raconter comment (grâce au debrief', au \"mur d’erreur\", et quelques astuces) je puise dans mes erreurs pour améliorer le projet suivant, et les futurs.",
+    "tags": [
+      "méthodologie"
+    ],
+    "authors": [
+      {
+        "name": "Vanessa Ilmany",
+        "description": "Designer graphique print & web depuis 6 ans. Vanessa a commencé par travailler auprès de collectivités territoriales dans une agence de communication parisienne. Depuis 2010 elle \"sévit\" dans une agence web toulousaine, maquettage, prototypage, iconographie, webdesign… Pour le meilleur et pour le pire ! Elle travaille également auprès d'entreprises et artisans en tant que freelance, depuis 2013.  Cette année Vanessa a eu l’honneur de participer à l’édition Sud Web 2014. Cette expérience a confirmé son envie de partager et recevoir !",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Vanessa%20Ilmany-thumb-143x143-409.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113941028",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
     "type": "workshop",
     "title": "Let's sketch together",
     "url": "https://www.paris-web.fr/2014/ateliers/lets-sketch-together.php",
@@ -708,6 +903,28 @@
   {
     "year": 2014,
     "type": "conference",
+    "title": "Petits secrets entre amis : les acteurs du web doivent ils prêter serment ?",
+    "url": "https://www.paris-web.fr/2014/conferences/petits-secrets-entre-amis-les-acteurs-du-web-doivent-ils-preter-serment.php",
+    "description": "webmaster, chef de projets, développeurs, intégrateurs, administrateur réseau… Nous avons tous entre les mains des mots de passe de nos collègues, amis, responsables, voire de nos sociétés, certains de nos clients.  Pourtant combien d'entre nous ont une clause de confidentialité dans leurs contrats ? À l'heure de la tentation sécuritaire, de l'envie de légiférer des politiciens sur les droits et les devoirs des internautes, de la peur de ne pas savoir gérer nos identités numériques, que penser de ces mots de passe qui nous sont confiés du fait de notre compétence professionnelle ? Serons-nous, un jour, comme les médecins, avocats obligés de prêter serment ? Pourrons-nous invoquer la protection de nos sources, comme les journalistes, pour les données qui nous sont confiées ?",
+    "tags": [
+      "éthique",
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Jean-Philippe Simonnet",
+        "description": "Après un parcours dans le multimédia et la télévision locale pendant plus de 10 ans, le web est devenu partie intégrante de mon quotidien. Responsable des développements internet et chef de projet accessibilité, je gère des projets web grand public pour le compte de l'Etat au sein de mon association. Je participe au sujet de l'amélioration de la qualité et de l'accessibilité des sites web. Enfin, je milite pour une neutralité du web, un respect des données personnelles et pour une conception vraiment universelle.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Jean-Philippe-Simonnet-thumb-143x143-430.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113939766",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
     "title": "Science-fiction & interaction !",
     "url": "https://www.paris-web.fr/2014/conferences/science-fiction-interaction.php",
     "description": "La science-fiction est souvent citée quand l'on veut parler d'innovation en termes d'interaction humain machine. D'un côté, nous avons des films (ou des séries) qui nous prédisent le futur et d'un autre côté les technologies qui évoluent souvent plus rapidement que les prédictions. L'un influençant l'autre.  Ces interfaces, qu'elles soient utilisables ou non, nous enseignent bien des leçons en termes de conception. Il est amusant de regarder comment elles abordent les différents problèmes courants même aujourd'hui, par exemple, pour distinguer les humains, des robots ou identifier une personne.  Au-delà de l'interface, il faut aussi s'intéresser aux usages qui découlent de ces scénarios et voir comment la communication, l'apprentissage ou la médecine évoluent en fonction de ces technologies futuristes ou extraterrestres.  Malgré les limites de l'exercice, peut-on imaginer que ce qui marche pour une certaine audience, fonctionne aussi pour certains utilisateurs ?",
@@ -725,6 +942,28 @@
     "ressources": {
       "video": "https://vimeo.com/114950686",
       "slides": "http://www.paris-web.fr/2014/slides/Science_fiction_et_interactions.pdf"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Profession : pompier",
+    "url": "https://www.paris-web.fr/2014/conferences/profession-pompier.php",
+    "description": "Il existe beaucoup trop de projets velus où la confiance en la « Technique » et les personnes a disparu et/ou qui sont considérés comme morts, victimes de dette technique, managériale ou de processus.  Certaines entreprises arrivent à prendre conscience de ce problème et font appel à une aide extérieure pour les accompagner. C'est ce qui m'occupe 99% de mon temps, j'aime les situations pourries car elles gagnent à s'améliorer et ça tient souvent à pas grand chose.  Cette conférence, nourrie de nombreux exemples concrets, donnera des astuces et redonnera confiance aux participants pour améliorer leurs projets au quotidien.",
+    "tags": [
+      "méthodologie",
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Bastien Jaillot",
+        "description": "Bastien est un passionné qui s'est investi très tôt dans la promotion des logiciels libres et des formats ouverts. Au quotidien, il met ses compétences au service de projets diverses, principalement dans des contextes à fort trafic fortement évolutifs. Il a co-fondé la société JoliCode ciblant l'expertise Web et mobile, avec pour objectif d'apporter son soutien à des projets innovants.  Il est participant assidu à Paris Web depuis la 2e édition \\o/.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Bastien-Jaillot-thumb-143x143-425.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113844534",
+      "slides": null
     }
   },
   {
@@ -781,6 +1020,28 @@
   {
     "year": 2014,
     "type": "conference",
+    "title": "Le web fait pousser mes tomates",
+    "url": "https://www.paris-web.fr/2014/conferences/le-web-fait-pousser-mes-tomates.php",
+    "description": "La permaculture est un ensemble de pratiques, de principes, et un mode de pensée visant à créer une production agricole durable (Wikipedia). Design, planif, hacktivisme sont quelques uns des nombreux points communs entre le web et la Permaculture. Comment mes connaissances web m'ont-elles permis d'appréhender les problématiques de Permaculture et comment celle-ci peut-elle nous apprendre à créer un web de meilleure qualité ?",
+    "tags": [
+      "culture",
+      "design"
+    ],
+    "authors": [
+      {
+        "name": "Olivier de Villardi",
+        "description": "Après 7 années à travailler dans le Web (2 ans entrepreneur et 5 ans salarié) je termine actuellement mon année de césure, passée au Canada où j'ai travaillé dans 6 fermes biologiques. Ce changement radical de direction m'a ouvert les yeux sur les similarités qui existent entre ces 2 domaines d'apparence bien différents !",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/09/2014-photo-Olivier-de-Villardi-thumb-143x143-435.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113843836",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
     "title": "Dark patterns, la contre-attaque du pire",
     "url": "https://www.paris-web.fr/2014/conferences/dark-patterns-la-contre-attaque-du-pire.php",
     "description": "Dans une galaxie lointaine, d’obscures forces sont à l’œuvre pour créer des stratégies perverses piégeant les internautes.  Nous explorerons en détail et à travers de nombreux exemples ces techniques qui ont pris le nom de « Dark patterns ».  Que ce soit dans l’e-commerce, dans les sites web, dans la publicité, une multitude de méthodes -toutes moins recommandables les unes que les autres- sont élaborées afin d’induire l’utilisateur final en erreur afin de maximiser les profits ou de biaiser les statistiques.  Quelles sont les motivations qui poussent les entreprises à duper leurs utilisateurs ? Quelles sont les conséquences que cela induit ? Que peut faire l’utilisateur pour éviter les pièges et se rebeller contre ces pratiques ?",
@@ -797,6 +1058,27 @@
     ],
     "ressources": {
       "video": "https://vimeo.com/113838903",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Le burnout et comment on l'évite",
+    "url": "https://www.paris-web.fr/2014/conferences/le-burnout-et-comment-on-levite.php",
+    "description": "Rentrer en surchauffe (oui, c'est la traduction de burnout, en fait), c'est finir par ne plus avoir les neurones qui réagissent, les nerfs en vrac, et la plupart du temps ne s'en rendre compte que trop tard. Par chance, cette fois-ci j'ai pu le prévenir. Quelques pistes pour éviter que ça vous arrive aussi.",
+    "tags": [
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Stéphane Deschamps",
+        "description": "Stéphane est tombé dans le web en 1996 avant de devenir intégrateur en 1999. D'agence en agence, il est ensuite allé chez France Telecom pour devenir responsable technique du pôle Accessibilité Groupe. Il est maintenant directeur de Clever Garden, l'entité front-end de Clever Age, où il fait du conseil en pilotage de la qualité web et de l'expertise front.  Membre du collectif Openweb, fondateur de Paris Web, préfacier de plusieurs livres, dont Qualité web, Les bonnes pratiques pour améliorer vos sites (formidable initiative de Temesis) et Sans beurre et sans reproches par Laurence Vagner, il écrit de temps en temps sur son site perso (comme on disait avant), mais commet aussi des photos floues, des textes de chansons approximatifs, et aime mettre plein de liens dans sa biographie pour faire croire qu'il connaît du monde.  Malgré tous ses efforts pour faire parler de lui en bons termes, sa notoriété lui vient principalement des calembours encore plus approximatifs qu'il fait subir à son entourage.",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Stephane%20Deschamps-thumb-143x143-407.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113939052",
       "slides": null
     }
   },
@@ -842,6 +1124,28 @@
     ],
     "ressources": {
       "video": "https://vimeo.com/113939048",
+      "slides": null
+    }
+  },
+  {
+    "year": 2014,
+    "type": "conference",
+    "title": "Présentation des outils de tests Cross Browser",
+    "url": "https://www.paris-web.fr/2014/conferences/presentation-des-outils-de-tests-cross-browser.php",
+    "description": "De nos jours, mettre en production une application web c’est la mettre à disposition sur un nombre vertigineux de combinaisons os/browser. Mac OS, Windows, Linux, Iphone, Android, Chrome, Firefox… et le nombre de combinaisons ne fait qu’augmenter.  Du coup il devient coûteux voire illusoire de vouloir disposer de ces environnements pour tester notre application. La bonne nouvelle c’est qu’il existe une panoplie d’outils qui vont vous faciliter la tâche à coup de tests live ou automatisés, de comparaisons de screenshots, de partage de screencasts… Je vous propose un tour d’horizon de ces nouveaux acteurs du testing, leurs fonctionnalités, leurs atouts et leurs faiblesses.",
+    "tags": [
+      "intégration",
+      "métier"
+    ],
+    "authors": [
+      {
+        "name": "Cyril Balit",
+        "description": "Cyril Balit est architecte RIA dans la société Sfeir. Après un parcours atypique de biologie, du Cobol, du VB et du Java, Cyril découvre le développement web au début des années 2000 en créant le projet open source Rialto. Il s’intéresse par la suite au développement Flex et mobile mais il se recentre finalement sur les problématiques de qualité et d’industrialisation.  Actuellement Cyril encadre une équipe de développeurs frontend spécialisée dans le développement d’applications RIA (Node, Angular, Backbone) et les problématiques d’industrialisation (usine de développement, intégration continue, cloud)",
+        "picture": "https://www.paris-web.fr/2014/assets_c/2014/07/2014-photo-Cyril%20Balit-thumb-143x143-413.jpg"
+      }
+    ],
+    "ressources": {
+      "video": "https://vimeo.com/113843837",
       "slides": null
     }
   }

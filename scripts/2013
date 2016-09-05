@@ -31,6 +31,8 @@ class Selector2013
     values = dds.map(&:text)
     return 'workshop' if values.include?('Atelier')
     return 'conference' if values.include?('Conférence')
+    return 'conference' if values.include?('Présentation')
+    return 'conference' if values.include?('Mini-conf')
     nil
   end
 
@@ -101,10 +103,13 @@ class Selector2013
     end
 
     sessions = sessions.reject do |session|
-      next true if session[:description].nil?
-      next true if session[:authors].empty?
-      next true if session[:type].nil?
-      false
+      reject = session[:description].nil? \
+               || session[:authors].empty? \
+               || session[:type].nil?
+
+      ap sessions if reject
+
+      reject
     end
 
     sessions
