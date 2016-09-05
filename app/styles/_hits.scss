@@ -1,7 +1,5 @@
 // Hits main area
 .ais-hits {
-  display: flex;
-  flex-flow: row wrap;
   padding: 5px;
 }
 
@@ -31,7 +29,6 @@
 
 // Each hit
 .ais-hits--item {
-  flex: 1 1 800px;
 }
 
 // Hit template
@@ -74,7 +71,7 @@
   margin: 0;
   font-family: 'Title';
   color: $pink;
-  margin-right: 4rem;
+  margin-right: 3rem;
   padding-bottom: .5rem;
   font-size: 1.9rem;
 }
@@ -85,9 +82,13 @@
 }
 
 .hit--ressources {
+  display: none;
   flex: 0;
   flex-basis: 150px;
   margin-right: 1rem;
+  @media (min-width: $breakpoint-hits--ressources) {
+    display: block;
+  }
 }
 
 .hit--thumbnail {
@@ -151,6 +152,7 @@ a.hit--ressource__slides {
 .hit--author {
   $author-size: 40px;
   font-size: .9rem;
+  font-weight: bold;
   height: $author-size;
   line-height: $author-size;
   padding-left: $author-size + 10px;
@@ -177,6 +179,7 @@ a.hit--ressource__slides {
 }
 .hit--tag {
   font-size: .9rem;
+  font-style: italic;
   display: inline-block;
   cursor: pointer;
   &:hover {
