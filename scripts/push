@@ -23,10 +23,10 @@ index_tmp = 'parisweb_tmp'
 
 settings = {
   attributesToIndex: [
-    'title',
-    'authors.name',
-    'tags',
-    'description'
+    'unordered(title)',
+    'unordered(authors.name)',
+    'unordered(tags)',
+    'unordered(description)'
   ],
   customRanking: [
     'desc(year)'
@@ -43,7 +43,8 @@ settings = {
   snippetEllipsisText: '…',
   highlightPreTag: '<span class="search-hit--highlight">',
   highlightPostTag: '</span>',
-  typoTolerance: 'strict'
+  typoTolerance: 'strict',
+  exactOnSingleWordQuery: 'word',
 }
 
 synonyms = [{
