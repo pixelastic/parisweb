@@ -123,10 +123,10 @@ var Search = {
     this.addTagsWidget();
     this.addAuthorsWidget();
     this.addTypeWidget();
+    this.addRessourcesWidget();
     this.addYearWidget();
     this.addHitsWidget();
     this.addPaginationWidget();
-    // this.addCurrentRefinedValues();
 
     this.search.start();
   },
@@ -317,6 +317,13 @@ var Search = {
       attributeName: 'type'
     }));
   },
+  addRessourcesWidget: function addRessourcesWidget() {
+    this.search.addWidget(instantsearch.widgets.refinementList({
+      container: '#ressources',
+      attributeName: 'availableRessources',
+      operator: 'and'
+    }));
+  },
   addYearWidget: function addYearWidget() {
     this.search.addWidget(instantsearch.widgets.rangeSlider({
       container: '#year',
@@ -361,12 +368,6 @@ var Search = {
         next: 'Suivant ›'
       },
       showFirstLast: false
-    }));
-  },
-  addCurrentRefinedValues: function addCurrentRefinedValues() {
-    this.search.addWidget(instantsearch.widgets.currentRefinedValues({
-      container: '#current-refined-values',
-      clearAll: 'before'
     }));
   }
 };

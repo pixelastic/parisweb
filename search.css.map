@@ -1,1 +1,0 @@
-{"version":3,"sources":["app/styles/main.scss"],"names":[],"mappings":"AAAA;AACA;AACA;AACA","file":"public/search.css","sourcesContent":["/* line 1, /home/tim/local/www/algolia/projects/parisweb/app/styles/main.scss */\nbody {\n  background: red; }\n"]}
