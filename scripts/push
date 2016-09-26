@@ -10,10 +10,21 @@ records = records.reject do |record|
   true if record['year'] == 2016
 end
 
-# Quick and dirty hack to use a readable facet value
+# Quick and dirty hacks to improve facets
 records = records.map do |record|
+  # Add readable facet names for the type of conferences
   record['type'] = 'Atelier' if record['type'] == 'workshop'
   record['type'] = 'Conférence' if record['type'] == 'conference'
+
+  # Add easy faceting if have slides or videos
+  record['availableRessources'] = []
+  unless record['ressources'].nil?
+    has_slides = !record['ressources']['slides'].nil?
+    has_video = !record['ressources']['video'].nil?
+    record['availableRessources'] << 'Slides' if has_slides
+    record['availableRessources'] << 'Vidéo' if has_video
+  end
+
   record
 end
 
@@ -35,7 +46,8 @@ settings = {
     'year',
     'type',
     'tags',
-    'authors.name'
+    'authors.name',
+    'availableRessources'
   ],
   attributesToSnippet: %w(
     description:50
@@ -44,7 +56,7 @@ settings = {
   highlightPreTag: '<span class="search-hit--highlight">',
   highlightPostTag: '</span>',
   typoTolerance: 'strict',
-  exactOnSingleWordQuery: 'word',
+  exactOnSingleWordQuery: 'word'
 }
 
 synonyms = [{

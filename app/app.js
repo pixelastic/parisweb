@@ -24,10 +24,10 @@ let Search = {
     this.addTagsWidget();
     this.addAuthorsWidget();
     this.addTypeWidget();
+    this.addRessourcesWidget();
     this.addYearWidget();
     this.addHitsWidget();
     this.addPaginationWidget();
-    // this.addCurrentRefinedValues();
 
     this.search.start();
   },
@@ -227,6 +227,15 @@ let Search = {
       })
     );
   },
+  addRessourcesWidget() {
+    this.search.addWidget(
+      instantsearch.widgets.refinementList({
+        container: '#ressources',
+        attributeName: 'availableRessources',
+        operator: 'and'
+      })
+    );
+  },
   addYearWidget() {
     this.search.addWidget(
       instantsearch.widgets.rangeSlider({
@@ -276,14 +285,6 @@ let Search = {
           next: 'Suivant ›'
         },
         showFirstLast: false
-      })
-    );
-  },
-  addCurrentRefinedValues() {
-    this.search.addWidget(
-      instantsearch.widgets.currentRefinedValues({
-        container: '#current-refined-values',
-        clearAll: 'before'
       })
     );
   }
