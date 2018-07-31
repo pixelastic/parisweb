@@ -31,12 +31,14 @@ html, body {
 .l-sidebar {
   display: none;
   overflow-y: auto;
+  max-height: calc(100vh - #{$header-height});
 }
 
 // Search results
 .l-results {
   flex: 1;
   overflow-y: auto;
+  max-height: calc(100vh - #{$header-height});
 }
 
 // Room enough to display the sidebar
